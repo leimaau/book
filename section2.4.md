@@ -2,16 +2,51 @@
 
 ## 一、文白异读
 
-文白异读表1
+### 文白异读表1
 
-字 文读 白读 正 zing3 zeng3 精 zing1 zeng1 净 zing6 zeng6 用于「干净」一词 井 zing2 zeng2 轻 hing1 heng1 命 ming6 meng6 名 ming4 meng4、meng2 领 ling5 leng5 平 ping4 peng4 用于表示「便宜」 声 sing1 seng1 生 sang1 saang1 争 zang1 zaang1 盖 goi3 koi3 近 gan6 kan5 淡 daam6 taam5 赤 cik3 cek3 歪 waai1 me2 注：
+字 |	文读 |	白读
+---|---|---
+正 |	zing3 |	zeng3
+精 |	zing1 |	zeng1
+净 |	zing6 |	zeng6 用于「干净」一词
+井 |	zing2 |	zeng2
+轻 |	hing1 |	heng1
+命 |	ming6 |	meng6
+名 |	ming4 |	meng4、meng2
+领 |	ling5 |	leng5
+平 |	ping4 |	peng4 用于表示「便宜」
+声 |	sing1 |	seng1
+生 |	sang1 |	saang1
+争 |	zang1 |	zaang1
+盖 |	goi3 |	koi3
+近 |	gan6 |	kan5
+淡 |	daam6 |	taam5
+赤 |	cik3 |	cek3
+歪 |	waai1 |	me2
 
 * 读音参考《粤语审音配词字库》和粤语发音字典。
 * 白读亦可以算作异读，但是这里单独罗列出来；另外，me2有“歪”的意思，但却有音无字，因此，将me2用于“歪”字上实际属于训读。
 
-文白异读表2
+### 文白异读表2
 
-字 文读 白读 包 baau beu 饱 baau beu 猫 maau meu 斩 zaam zem 减 gaam gem 夹 gaap gep 插 caap cep 间 gaan gen 闲 haan hen 八 baat bet 滑 waat wet 教 gaau geu 抄 caau ceu 捞 laau leu 咸 haam hem 喊 haam hem 
+字 |	文读 |	白读
+---|---|---
+包 |	baau |	beu
+饱 |	baau |	beu
+猫 |	maau |	meu
+斩 |	zaam |	zem
+减 |	gaam |	gem
+夹 |	gaap |	gep
+插 |	caap |	cep
+间 |	gaan |	gen
+闲 |	haan |	hen
+八 |	baat |	bet
+滑 |	waat |	wet
+教 |	gaau |	geu
+抄 |	caau |	ceu
+捞 |	laau |	leu
+咸 |	haam |	hem
+喊 |	haam |	hem
 
 * 上述对比不列出声调。
 * 南宁白话有较完整的文白异读，根据《南宁白话同音字汇》，至少在上个世纪90年代之前，就同时存在\[-ɛ-\]与\[-a-\]的读音，在南宁新派口音里\[-ɛ-\]与\[-a-\]是自由变读的，而且往往是读\[-a-\]的频率更高一些。
@@ -22,13 +57,32 @@
 
 南宁白话同其他粤语分支一样存在变调现象，在某种情景或情绪下会产生变调。
 
-字或词 原调 变调 举例 晚 maan5 maan1 今晚 现在 而\(ji4\)家 伊\(ji1\)家 而家、伊家 屐 kek6 kek1 木屐 矮 aai2 aai1 有啲矮 文 man4 man1\(作货币单位\) 一文半 米 mai5\(表示食物\) mai1\(作长度单位\) 一米七 摩 mo4 mo1 按摩 魔 mo4 mo1 魔术 抻 can2 can1 抻懒腰 毛 mu4\(mou4\) mu1\(mou1\) 发毛\(发霉\)
+字或词 |	原调 |	变调 |	举例
+---|---|---|---
+晚 |	maan5 |	maan1 |	今晚
+现在 |	而(ji4)家 |	伊(ji1)家 |	而家、伊家
+屐 |	kek6 |	kek1 |	木屐
+矮 |	aai2 |	aai1 |	有啲矮
+文 |	man4 |	man1(作货币单位) |	一文半
+米 |	mai5(表示食物) |	mai1(作长度单位) |	一米七
+摩 |	mo4 |	mo1 |	按摩
+魔 |	mo4 |	mo1 |	魔术
+抻 |	can2 |	can1 |	抻懒腰
+毛 |	mu4(mou4) |	mu1(mou1) |	发毛(发霉)
 
 ## 三、新老派读音对比
 
 新老派读音对比表
 
-字 老派 新派 姿咨次慈瓷子紫司丝师字自士事似刺 \[-ɿ\] \[-i\] 感敢 \[kam\] \[kɐm\] 暗 \[am\] \[ɐm\] 苏修仙新星傻所锁洗想碎四信宋萨息膝索塞 \[ɬ-\] \[ɬ-\]与\[s-\]自由变读 假架驾 \[kʰa\] \[ka\] 业虐验孽逆拟 \[n-\] \[j-\] 包饱猫斩减夹插滑教抄捞八间闲惯关咸喊 \[-ɛ-\] \[-ɛ-\]与\[-a-\]自由变读 注：
+字 |	老派 |	新派
+---|---|---
+姿咨次慈瓷子紫司丝师字自士事似刺 |	[-ɿ] |	[-i]
+感敢 |	[kam] |	[kɐm]
+暗 |	[am] |	[ɐm]
+苏修仙新星傻所锁洗想碎四信宋萨息膝索塞 |	[ɬ-] |	[ɬ-]与[ʃ-]自由变读
+假架驾 |	[kʰa] |	[ka]
+业虐验孽逆拟 |	[n-] |	[j-]
+包饱猫斩减夹插滑教抄捞八间闲惯关咸喊 |	[-ɛ-] |	[-ɛ-]与[-a-]自由变读
 
 * \[\]内为国际音标。
 * 新派与老派的划分不是绝对的，多数南宁人既有老派的读音特点，也有新派的读音特点。

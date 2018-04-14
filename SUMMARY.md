@@ -23,8 +23,8 @@
     * [3.3 中国语言资源保护工程](chapter3/section3.3.md)
     * [3.4 介绍几个可以查文字粤音的网站](chapter3/section3.4.md)
     * [3.5 清代粤语](chapter3/section3.5.md)
-* [附录1 南宁白话童谣](appendix1.md)
-* [附录2《广西南宁白话研究》同音字汇](appendix2.md)
-* [附录3 南宁白话常用字读音表](appendix3.md)
-* [附录4 羊城晚报《推普的“南宁”现象》](appendix4.md)
+* [附录1 南宁白话童谣](appendix/appendix1.md)
+* [附录2《广西南宁白话研究》同音字汇](appendix/appendix2.md)
+* [附录3 南宁白话常用字读音表](appendix/appendix3.md)
+* [附录4 羊城晚报《推普的“南宁”现象》](appendix/appendix4.md)
 

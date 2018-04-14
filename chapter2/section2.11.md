@@ -32,7 +32,7 @@
 
 ![](/img/section2.11/import19.png)
 
-![](/sec2.1jpg/import20.png)
+![](/img/section2.11/import19-1.png)
 
 ![](/img/section2.11/import20.png)
 

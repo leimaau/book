@@ -18,7 +18,7 @@
 
 开放有github下载[ktshek/cantonese-books-data](https://link.zhihu.com/?target=https%3A//github.com/ktshek/cantonese-books-data)
 
-《粤语词典》 [粵語詞典 - 開放詞典網](https://link.zhihu.com/?target=http%3A//kaifangcidian.com/han/yue) （词汇由网游提供，很多生僻字用同音或近音字代替）
+《粤语词典》 [粵語詞典 - 開放詞典網](https://link.zhihu.com/?target=http%3A//kaifangcidian.com/han/yue) （词汇由网友提供，很多生僻字用同音或近音字代替）
 
 《粤语发音字典》 [粤语发音字典-粤语翻译](https://link.zhihu.com/?target=http%3A//www.yueyv.cn/)
 

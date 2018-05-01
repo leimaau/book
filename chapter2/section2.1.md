@@ -54,13 +54,3 @@
 
 [rime输入法](http://rime.im/)
 
-## 附上：香港语言学学会粤语拼音方案
-
-![](/img/section2.1/import6.png)![](/img/section2.1/import7.png)
-
-![](/img/section2.1/import8.png)![](/img/section2.1/import9.png)
-
-粤语审音配词字库：[链接](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)
-
-汉语多功能字库：[链接](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
-

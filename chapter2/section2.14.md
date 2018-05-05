@@ -78,5 +78,5 @@
 
 [《五色真军器纪录片》广西非物质文化遗产-系列影片-邕剧](http://v.youku.com/v_show/id_XODEzMjY2MTE2.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
 
-
+[广西各地粤语](http://fx.weico.cc/share/22847110.html?weibo_id=4001952159805691)
 

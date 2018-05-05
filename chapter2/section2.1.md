@@ -29,6 +29,10 @@
 * 饶秉才.《广州音字典》. 广东人民出版社，2007
 * 詹伯慧.《广州话正音字典》.广东人民出版社， 2004
 
+**微信科普**
+
+* 大象工会[蓝瘦香菇真的是南宁口音吗](https://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&mid=2651007218&idx=1&sn=1886a455a5742771eea8e7b71e9d6598&chksm=bd2df99c8a5a708aad75ae360655fded0bc4975bd4f8147c3aac72e6a3e12593267d4267ad85&scene=0#rd)
+
 **网络资料**
 
 * 粤语发音字典[http://www.yueyv.cn/](http://www.yueyv.cn/)

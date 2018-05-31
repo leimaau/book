@@ -92,7 +92,7 @@ PC上可以使用GoldenDict，下载和使用方法见[这里](http://www.360doc
 
 ![](/img/appendix5.1/import9.png)
 
-其他资料下载：[相关资料](https://pan.baidu.com/s/1kWWbI8f)
+其他资料下载：[相关资料](https://pan.baidu.com/s/1rTgvt9CgafOx6qNtimMcQw)
 
-密码：ikfd
+密码：ub3z
 

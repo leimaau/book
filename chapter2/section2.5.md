@@ -55,7 +55,7 @@
 成、城 |	sing |	cing |	成功、城市
 美 |	mi |	mai |	扬美
 微 |	mi |	wai |	微信
-玉 |	juk |	jyu |	玉米(本字为「御米」)
+玉 |	juk |	jyu |	玉米(本字为「御米」，不算误读音)
 倍 |	pui |	bui |	两倍
 辈 |	bui |	pui |	辈份
 务 |	mu |	wu |	公务员

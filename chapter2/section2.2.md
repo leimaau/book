@@ -104,6 +104,8 @@
 架 |	架(kaa3)、驾(gaa3) |	架(gaa3)
 雀 |	雀(coek3) |	雀(zoek3)
 鹊 |	鹊(coek3) |	鹊(zoek3)、鹊(coek3)
+卓 |	卓(zoek3) |	卓(coek3)
+桌 |	桌(zoek3) |	桌(coek3)
 侧 |	侧(cak1) |	侧(zak1)
 品 |	品(pan2) |	品(ban2)
 出 |	出(cyut1)、出(cat1) |	出(ceot1)

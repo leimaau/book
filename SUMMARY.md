@@ -17,7 +17,7 @@
     * [2.9 粤语的多种罗马化注音方式](chapter2/section2.9.md)
     * [2.10 「纠」字怎么读](chapter2/section2.10.md)
     * [2.11 口语词不口语](chapter2/section2.11.md)
-    * [2.12 空白](chapter2/section2.12.md)
+    * [2.12 叹词与助词](chapter2/section2.12.md)
     * [2.13 新派南宁白话中的「懒音」现象](chapter2/section2.13.md)
     * [2.14 有声资料库](chapter2/section2.14.md)
 * [3.第三章 扩展知识](chapter3/README.md)

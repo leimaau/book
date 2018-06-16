@@ -11,7 +11,7 @@ ong菜 |	ung3 |	蕹菜
 guei |	gui6 |	攰
 切咧 |	ce1 le1 |	唓咧
 依妖 |	ji1 jaau1 |	咿㕭
-7黑 |	ci1 hai1 |	痴閪
+7黑 |	ci1 hai1 |	黐閪
 逼 |	bi1 |	屄
 鳖 |	be1 |	屄
 fing |	fing6 |	揈

@@ -14,7 +14,7 @@
 
 ![](/img/appendix5.1/import6.png)
 
-下载地址：[下载地址](https://coding.net/u/LeiMaau/p/NaamBaakDICT/git?public=true)
+下载地址：[下载地址](https://coding.net/u/LeiMaau/p/NaamBaakDICT/git)
 
 备用下载地址：[备用下载地址](https://github.com/leimaau/NaamBaakDict)
 

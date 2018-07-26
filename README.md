@@ -35,8 +35,10 @@ QQ邮箱： 3035956835@qq.com （信息一般都能收到）
 
 ### 主要参考网站
 
-[汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) 
+汉语多功能字库：[这里](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) 
 
-[小学堂](http://xiaoxue.iis.sinica.edu.tw/)
+小学堂网站：[这里](http://xiaoxue.iis.sinica.edu.tw/)
 
 微信的「西大语言学」公众号
+
+

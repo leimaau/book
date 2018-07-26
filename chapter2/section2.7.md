@@ -30,6 +30,20 @@ fing |	fing6 |	揈
 
 常见粤语字的打法：[这里](http://restools.hanzify.org/other/canchars.htm)
 
+中国语言资源保护工程汉语方言用字规范：[这里](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html)
+
+![](/img/section2.7/汉语方言用字规范.png)
+
+![](/img/section2.7/汉语方言用字规范2.png)
+
+![](/img/section2.7/汉语方言用字规范3.png)
+
+![](/img/section2.7/汉语方言用字规范4.png)
+
+![](/img/section2.7/汉语方言用字规范5.png)
+
+
+
 
 
 ​​​​

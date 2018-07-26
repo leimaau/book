@@ -8,7 +8,7 @@
 
 ![](/img/section3.1/import.png)
 
-下载地址：[南宁白话输入方案](https://coding.net/u/LeiMaau/p/myself_jyutping/git?public=true)
+下载地址：[南宁白话输入方案](https://coding.net/u/LeiMaau/p/myself_jyutping/git)
 
 备用下载地址：[南宁白话输入方案](https://github.com/leimaau/myself_jyutping)
 

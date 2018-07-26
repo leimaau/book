@@ -14,9 +14,13 @@
 ### 我个人的联系方式：
 
 新浪博客： [这里](http://blog.sina.com.cn/s/articlelist_1762934917_0_1.html)    （最近上的比较少了）
+
 豆瓣： [这里](https://www.douban.com/people/leimaau/)  （有时会上）
+
 知乎： [这里](https://www.zhihu.com/people/si-tuo-bu-ke-si/posts)  （空闲的时候会上）
+
 github： [这里](https://github.com/leimaau)  （许多资料都存放在这里，有需要的朋友可以去下载）
+
 QQ邮箱： 3035956835@qq.com （信息一般都能收到）
 
 ——LeiMaau 2018.04.13

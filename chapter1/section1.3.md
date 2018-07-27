@@ -4,9 +4,9 @@
 
 维基百科：[https://zh.wikipedia.org/wiki/香港语言学学会粤语拼音方案](https://zh.wikipedia.org/wiki/香港语言学学会粤语拼音方案)
 
-![](/img/section1.3/import.png)![](/img/section1.3/import2.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.3/import.png)![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.3/import2.png)
 
-![](/img/section1.3/import3.png)![](/img/section1.3/import4.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.3/import3.png)![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.3/import4.png)
 
 粤语审音配词字库：[链接](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)
 

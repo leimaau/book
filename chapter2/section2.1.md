@@ -4,13 +4,13 @@
 
 南宁白话是粤方言的一个重要分支，属于粤语的邕浔方言片，同时也是邕浔粤语的代表音。从历史来源看南宁白话是从广府片分化出来的，邕浔片与广府片的主要差别在于一个边擦音（关于广西区粤语的分区以及南宁白话为何划分为邕浔片请参考谢建猷《广西汉语研究》），而南宁白话的边擦音大多来源于中古汉语的心母，依然保持了心审分开的格局，同时u韵没有裂化，i韵没有裂化，老派口音还有舌尖音，老派口音区分两套塞擦音、塞音，广州话已经合并，这些特征都与清代粤语的韵书《江湖尺牍分韵撮要》是相符的，南宁白话保留了许多清代粤语的特点，南宁白话又有新派老派之分，新派口音更接近广州话。
 
-![](/img/section2.1/import.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/import.png)
 
-![](/img/section2.1/import2.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/import2.png)
 
-![](/img/section2.1/import3.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/import3.png)
 
-![](/img/section2.1/import4.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/import4.png)
 
 年轻人的南宁白话出现了阳去并入阳平甚至两者不分的现象：
 
@@ -20,31 +20,31 @@
 
 邕宁区原来是邕宁县，后来撤县设区，邕宁白话也有它自己的特点，与南宁白话接近，属于粤语邕浔片的一个分支。
 
-![](/img/section2.1/邕宁白话音系.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/邕宁白话音系.png)
 
 **灵山横州话音系**
 
 灵山横州话与南宁白话同属粤语的邕浔方言片，较详细的论文参见黄昭艳《灵山横州话同音字汇》。
 
-![](/img/section2.1/灵山横州话1.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/灵山横州话1.png)
 
-![](/img/section2.1/灵山横州话2.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/灵山横州话2.png)
 
 **百色白话音系**
 
 广西百色白话与南宁白话同属粤语的邕浔方言片，与南宁白话大同小异，较详细的论文参见练欣《百色白话与南宁白话同音字表比较研究》和何婉萍《百色白话词汇研究》。
 
-![](/img/section2.1/百色白话音系1.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/百色白话音系1.png)
 
-![](/img/section2.1/百色白话音系2.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/百色白话音系2.png)
 
 **龙州白话音系**
 
 龙州白话与南宁白话同属粤语的邕浔方言片，较详细的论文参见赵安杰《广西龙州白话的语音系统及语音特点分析》。
 
-![](/img/section2.1/龙州白话1.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/龙州白话1.png)
 
-![](/img/section2.1/龙州白话2.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/龙州白话2.png)
 
 以上资料均选自陈海伦、林亦．《粤语平话土话方音字汇》．上海教育出版社，2009
 

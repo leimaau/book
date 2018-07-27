@@ -40,59 +40,59 @@
 
 1.《古今文字集成》[古今文字集成 \| 集古今文字释義、字形更革、音韻演變之大全](https://link.zhihu.com/?target=http%3A//www.ccamc.co/index.php)
 
-![](/img/section3.4/import.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import.png)
 
-![](/img/section3.4/import2.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import2.png)
 
-![](/img/section3.4/import3.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import3.png)
 
 2.《香港语言学学会粤拼词表》[LSHK Jyutping Word List 香港語言學學會粵拼詞表](https://link.zhihu.com/?target=http%3A//corpus.ied.edu.hk/JPwordlist/index.php)
 
-![](/img/section3.4/import4.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import4.png)
 
 ![](/sec3.3jpg/import5.png)
 
 3.上面的网站数据来源之一就是《香港小学学习字词表》[香港小學學習字詞表](https://link.zhihu.com/?target=http%3A//www.edbchinese.hk/lexlist_ch/)
 
-![](/img/section3.4/import5.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import5.png)
 
-![](/img/section3.4/import6.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import6.png)
 
 4.它的姊妹网站《中英对照香港学校中文学习基础字词》[中英對照香港學校中文學習基礎字詞 Lexical Items with Eng. Explanations for Fundamental Chin. Learning in HK Schools](https://link.zhihu.com/?target=http%3A//www.edbchinese.hk/lexlist_en/)
 
-![](/img/section3.4/import7.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import7.png)
 
 5.《ISO的汉字查询系统》[ISO](https://link.zhihu.com/?target=http%3A//glyph.iso10646hk.net/ccs/ccs.jsp%3Flang%3Dzh_TW)
 
-![](/img/section3.4/import8.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import8.png)
 
-![](/img/section3.4/import9.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import9.png)
 
 6.与其相同的网站是《粤拼资料库》[粵拼資料庫 - 粵拼](https://link.zhihu.com/?target=http%3A//www.iso10646hk.net/jp/database/index.jsp)
 
-![](/img/section3.4/import10.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import10.png)
 
-![](/img/section3.4/import11.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import11.png)
 
 7.上面两个网站的数据来源都是香港政府制定的《电脑用汉字粤语拼音表》[政府資訊科技總監辦公室：電腦用漢字粵語拼音表](https://link.zhihu.com/?target=https%3A//www.ogcio.gov.hk/tc/business/tech_promotion/ccli/cliac/canton_pronun_list.htm)
 
-![](/img/section3.4/import12.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import12.png)
 
 收录了《香港增补字符集》的字形和读音，所以也可以下载pdf文件来查字
 
-![](/img/section3.4/import13.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import13.png)
 
 其中《香港增补字符集》还有json版本[政府資訊科技總監辦公室：共通中文界面 - 下載區](https://link.zhihu.com/?target=https%3A//www.ogcio.gov.hk/tc/business/tech_promotion/ccli/download_area/)
 
-![](/img/section3.4/import14.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import14.png)
 
 8.手机版《有道词典》，没错，就是有道词典，在里面搜索中文会有来自forvo的网民自己上传的发音，有普通话，吴语，赣语，闽南语，粤语等，有些字有发音有些没有，但没有粤拼
 
-![](/img/section3.4/import15.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import15.png)
 
-![](/img/section3.4/import16.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import16.png)
 
-![](/img/section3.4/import17.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import17.png)
 
 9.[CC-CANTO](http://cccanto.org/)
 

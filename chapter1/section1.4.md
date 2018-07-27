@@ -6,15 +6,15 @@
 
 维基百科：[https://zh.wikipedia.org/wiki/香港语言学学会粤语拼音方案](https://zh.wikipedia.org/wiki/香港语言学学会粤语拼音方案)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.4/import.png)
+![](/img/section1.4/import.png)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.4/import2.png)
+![](/img/section1.4/import2.png)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.4/import3.png)
+![](/img/section1.4/import3.png)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.4/import4.png)
+![](/img/section1.4/import4.png)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.4/import5.png)
+![](/img/section1.4/import5.png)
 
 来源：[汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 

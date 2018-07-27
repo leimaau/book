@@ -1,8 +1,8 @@
-# 2.8 国际音标
+# 1.2 国际音标
 
 国际音标，又称国际语音字母（英文International Phonetic Alphabet，简称IPA），是用于为**全世界所有语言**注音的符号系统。（注意：国际音标并不单纯只用于英语，英语的KK音标与DJ音标可以说是国际音标的变体，比如不区分送气的\[pʰ tʰ kʰ\]与不送气的\[p t k\]）。国际音标字母目前的最新版本是2005年的版本。
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section1.2/import.png)
+![](/img/section1.2/import.png)
 
 在线发音：[IPA国际音标表](http://en-yinbiao.xiao84.com/ipacharts/)
 

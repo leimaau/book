@@ -27,11 +27,11 @@ QQ邮箱： 3035956835@qq.com （信息一般都能收到）
 
 ### 主要参考资料
 
-![林亦、覃凤余《广西南宁白话研究》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import.jpg) ![谢建猷《南宁白话同音字汇》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import2.jpg)
+![林亦、覃凤余《广西南宁白话研究》](/img/readme/import.jpg) ![谢建猷《南宁白话同音字汇》](/img/readme/import2.jpg)
 
-![陈海伦、林亦《粤语平话土话方音字汇》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import4.jpg) ![谢建猷《广西汉语方言研究》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import3.jpg)
+![陈海伦、林亦《粤语平话土话方音字汇》](/img/readme/import4.jpg) ![谢建猷《广西汉语方言研究》](/img/readme/import3.jpg)
 
-![覃远雄、韦树关、卞成林《南宁平话词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import5.jpg) ![白宛如《广州方言词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import6.jpg)
+![覃远雄、韦树关、卞成林《南宁平话词典》](/img/readme/import5.jpg) ![白宛如《广州方言词典》](/img/readme/import6.jpg)
 
 ### 主要参考网站
 

@@ -4,29 +4,29 @@
 
 在林亦、覃凤余的《广西南宁白话研究》和《南宁市志.文化志》都提到一句
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.13/import.png)
+![](/img/section2.13/import.png)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.13/import2.png)
+![](/img/section2.13/import2.png)
 
 而在2015年罗婷《南宁白话单字调实验语音研究》的硕士论文中更是通过实验语音学的方法证明了这一点，论文还把南白的正确调值测了出来，是非常有意义的一篇论文。
 
 下面是实验测出的结果
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.13/import3.png)
+![](/img/section2.13/import3.png)
 
 而在阳平与阳去是否相混这点上，这篇论文做出了自己的研究，T2调指阳平，T6调指阳去
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.13/import4.png)
+![](/img/section2.13/import4.png)
 
 下面是实验结果
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.13/import5.png)
+![](/img/section2.13/import5.png)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.13/import6.png)
+![](/img/section2.13/import6.png)
 
 说明阳平阳去在青年人口中已经开始混淆，是什么原因导致的我就不贴那么多图了，有兴趣的可以找原论文来看，放上最后的结论
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.13/import7.png)
+![](/img/section2.13/import7.png)
 
 至于阳平与阳去混淆，举个典型的例子，南白中经常会说「阿场球打得好劲ging6啊」，「阿部电影真係劲ging6啊」，都会不自觉的把「劲ging6」读成「劲ging4」，以至于许多人不知是「劲」字。
 

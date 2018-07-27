@@ -60,3 +60,37 @@
 第三十三吾五悟 | 吾 | 
 
 ![《江湖尺牘分韻撮要合集》第一卷第五十七䈎](http://ytenx.org/static/img/KrungGhoTchiekDukPyonYonhTsuatQjeuhGhopDzip/volume1/57.jpg)
+
+
+### 清代粤语至现代粤语的变化
+
+关于清代粤语至现代粤语的变化具体请参看2013年罗言发《澳门粤语音系的历史变迁及其成因》
+
+![](/img/section3.5/清代粤语.png)
+
+![](/img/section3.5/清代粤语2.png)
+
+![](/img/section3.5/清代粤语3.png)
+
+![](/img/section3.5/清代粤语4.png)
+
+![](/img/section3.5/清代粤语5.png)
+
+![](/img/section3.5/清代粤语6.png)
+
+![](/img/section3.5/清代粤语7.png)
+
+![](/img/section3.5/清代粤语8.png)
+
+![](/img/section3.5/清代粤语9.png)
+
+![](/img/section3.5/清代粤语10.png)
+
+
+
+
+
+
+
+
+

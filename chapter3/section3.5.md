@@ -76,21 +76,6 @@
 
 ![](/img/section3.5/清代粤语5.png)
 
-![](/img/section3.5/清代粤语6.png)
-
-![](/img/section3.5/清代粤语7.png)
-
-![](/img/section3.5/清代粤语8.png)
-
-![](/img/section3.5/清代粤语9.png)
-
-![](/img/section3.5/清代粤语10.png)
-
-
-
-
-
-
 
 
 

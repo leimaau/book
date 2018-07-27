@@ -6,7 +6,7 @@
 
 另外我自己也制作过一个自己用的粤拼输入法方案，有兴趣的可以下载来试试（以广州音为准），称为「狸猫粤拼」。使用之前需要先会配置rime输入法，在官网看懂基础配置后即可下载来使用。我的所有文章就是用自己编写的输入方案来打的。
 
-![](/img/section3.1/import.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.1/import.png)
 
 下载地址：[狸猫粤拼](https://coding.net/u/LeiMaau/p/myself_jyutping/git?public=true)
 

@@ -32,15 +32,15 @@ fing |	fing6 |	揈
 
 中国语言资源保护工程汉语方言用字规范：[这里](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html)
 
-![](/img/section2.7/汉语方言用字规范.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.7/汉语方言用字规范.png)
 
-![](/img/section2.7/汉语方言用字规范2.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.7/汉语方言用字规范2.png)
 
-![](/img/section2.7/汉语方言用字规范3.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.7/汉语方言用字规范3.png)
 
-![](/img/section2.7/汉语方言用字规范4.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.7/汉语方言用字规范4.png)
 
-![](/img/section2.7/汉语方言用字规范5.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.7/汉语方言用字规范5.png)
 
 
 

@@ -4,15 +4,15 @@
 
 ## 一、移动端
 
-![](/img/appendix5.1/import.png)![](/img/appendix5.1/import2.png)![](/img/appendix5.1/import3.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import.png)![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import2.png)![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import3.png)
 
-![](/img/appendix5.1/import4.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import4.png)
 
-## ![](/img/appendix5.1/import5.png)
+## ![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import5.png)
 
 ## 二、PC端
 
-![](/img/appendix5.1/import6.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import6.png)
 
 下载地址：[下载地址](https://coding.net/u/LeiMaau/p/NaamBaakDICT/git)
 
@@ -86,11 +86,11 @@ PC上可以使用GoldenDict，下载和使用方法见[这里](https://github.co
 
 ## 其他的参考资料
 
-![](/img/appendix5.1/import7.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import7.png)
 
-![](/img/appendix5.1/import8.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import8.png)
 
-![](/img/appendix5.1/import9.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import9.png)
 
 其他资料下载：[相关资料](https://pan.baidu.com/s/1rTgvt9CgafOx6qNtimMcQw)
 

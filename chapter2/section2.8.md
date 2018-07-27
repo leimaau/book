@@ -4,16 +4,16 @@
 
 可以查广州话发音
 
-![](/img/section2.8/汉库.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.8/汉库.png)
 
-![](/img/section2.8/汉库2.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.8/汉库2.png)
 
 也可以查南宁白话发音，不过音频资料有些不够清楚
 
-![](/img/section2.8/汉库3.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.8/汉库3.png)
 
 它的前身是[《粤语审音配词字库》](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)
 
-![](/img/section2.8/汉库4.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.8/汉库4.png)
 
 

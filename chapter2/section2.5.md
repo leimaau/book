@@ -47,9 +47,9 @@
 去 |	[hy] |	[hi]（壮语的影响）
 凹 |	[nɐp55] |	[mɐp7]
 
-![](/img/section2.5/import.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.5/import.png)
 
-![](/img/section2.5/import2.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.5/import2.png)
 
 注： 更多资料参考林亦《广西南宁白话研究》以及欧阳觉亚《两广粤方言与壮语的种种关系》。
 

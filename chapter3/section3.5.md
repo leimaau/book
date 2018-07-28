@@ -59,7 +59,7 @@
 第三十二彭棒硬額 | 彭 | 額
 第三十三吾五悟 | 吾 | 
 
-![《江湖尺牘分韻撮要合集》第一卷第五十七䈎](http://ytenx.org/statichttp://pcj4g4ziw.bkt.clouddn.com/image/KrungGhoTchiekDukPyonYonhTsuatQjeuhGhopDzip/volume1/57.jpg)
+![《江湖尺牘分韻撮要合集》第一卷第五十七䈎](http://ytenx.org/static/img/KrungGhoTchiekDukPyonYonhTsuatQjeuhGhopDzip/volume1/57.jpg)
 
 
 ### 清代粤语至现代粤语的变化

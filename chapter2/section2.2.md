@@ -2,47 +2,47 @@
 
 ### 字音对比表格
 
-以下拼音规则使用香港语言学会的粤语拼音（jyutping），对于国际音标的[ɛu]、[ɛm]、[ɛn]、[ɛp]、[ɛt]，用eu、em、en、ep、et来表示，边擦音[ɬ]用sl表示。
+以下拼音规则使用香港语言学会的粤语拼音（jyutping），对于国际音标的/ɛu/、/ɛm/、/ɛn/、/ɛp/、/ɛt/，用eu、em、en、ep、et来表示，边擦音/ɬ/用sl表示。
 
 #### 南宁白话与广州话字音对比举例
 
 字的用法 |	南宁白话 |	广州话
 ---|---|---
-**1** |	**零声母** |	**ng声母**
-矮 |	矮(ai2) |	矮(ngai2)、矮(ai2)
-屋 |	屋(uk1) |	屋(nguk1)、屋(uk1)
-安 |	安(on1) |	安(ngon1)、安(on1)
-恶 |	恶(ok3) |	恶(ngok3)、恶(ok3)
-爱 |	爱(oi3) |	爱(ngoi3)、爱(oi3)
-屙 |	屙(o1) |	屙(ngo1)、屙(o1)
-压 |	压(aat3) |	压(ngaat3)、压(aat3)
-鸭 |	鸭(aap3) |	鸭(ngaap3)、鸭(aap3)
-**2** |	**yu，ui** |	**eoi**
-佢 |	佢(kyu5) |	佢(keoi5)
-去 |	去(hyu3) |	去(heoi3)
-举 |	举(gyu2) |	举(geoi2)
-女 |	女(nyu5) |	女(neoi5)
-随 |	随(cui4) |	随(ceoi4)
-对 |	对(dui3) |	对(deoi3)
-**3** |	**gong，gok** |	**gwong，gwok**
-广 |	广(gong2) |	广(gwong2)
-光 |	光(gong1) |	光(gwong1)
-国 |	国(gok3) |	国(gwok3)
-**4** |	**i** |	**ei**
-离 |	离(li4) |	离(lei4)
-未 |	未(mi6) |	未(mei6)
-美 |	美(mi5) |	美(mei5)
-机 |	机(gi1) |	机(gei1)
-飞 |	飞(fi1) |	飞(fei1)
-**5** |	**eu，em，en，ep，et** |	**aau，aam，aan，aap，aat**
-咸 |	咸(hem4) |	咸(ham4)
-包 |	包(beu1) |	包(baau1)
-间 |	间(gen1) |	间(gaan1)
-惯 |	惯(gwen3) |	惯(gwaan3)
-夹 |	夹(gep3) |	夹(gaap3)、夹(gep3)
-八 |	八(bet3) |	八(baat3)
-眼 |	眼(ngen5) |	眼(ngaan5)
-姣 |	姣(heu4) |	姣(haau4)
+**1** |	**零声母** |	**ng/ŋ/声母**
+矮 |	矮(ai2/ɐi˧˥/) |	矮(ngai2/ŋɐi˧˥/)、矮(ai2/ɐi˧˥/)
+屋 |	屋(uk1/ʊk̚˥/) |	屋(nguk1/ŋʊk̚˥/)、屋(uk1/ʊk̚˥/)
+安 |	安(on1/ɔːn˥˥/) |	安(ngon1/ŋɔːn˥˥/)、安(on1/ɔːn˥˥/)
+恶 |	恶(ok3/ɔːk̚˧/) |	恶(ngok3/ŋɔːk̚˧/)、恶(ok3/ɔːk̚˧/)
+爱 |	爱(oi3/ɔːi˧˧/) |	爱(ngoi3/ŋɔːi˧˧/)、爱(oi3/ɔːi˧˧/)
+屙 |	屙(o1/ɔː˥˥/) |	屙(ngo1)、屙(o1/ɔː˥˥/)
+压 |	压(aat3/aːt̚˧/) |	压(ngaat3)、压(aat3/aːt̚˧/)
+鸭 |	鸭(aap3/aːp̚˧/) |	鸭(ngaap3)、鸭(aap3/aːp̚˧/)
+**2** |	**yu/yː/，ui/uːi/** |	**eoi**
+佢 |	佢(kyu5/kʰyː˨˦/) |	佢(keoi5/kʰɵy˩˧/)
+去 |	去(hyu3/hyː˧˧/) |	去(heoi3/hɵy˧˧/)
+举 |	举(gyu2/kyː˧˥/) |	举(geoi2/kɵy˧˥/)
+女 |	女(nyu5/nyː˨˦/) |	女(neoi5/nɵy˩˧/)
+随 |	随(cui4/t͡ʃʰuːi˨˩/) |	随(ceoi4/t͡sʰɵy˨˩/)
+对 |	对(dui3/tuːi˧˧/) |	对(deoi3/tɵy˧˧/)
+**3** |	**gong/kɔːŋ/，gok/kɔːk̚/** |	**gwong/kʷɔːŋ/，gwok/kʷɔːk̚/**
+广 |	广(gong2/kɔːŋ˧˥/) |	广(gwong2/kʷɔːŋ˧˥/)
+光 |	光(gong1/kɔːŋ˥˥/) |	光(gwong1/kʷɔːŋ˥˥/)
+国 |	国(gok3/kɔːk̚˧/) |	国(gwok3/kʷɔːk̚˧/)
+**4** |	**i/iː/** |	**ei/ei/**
+离 |	离(li4/liː˨˩/) |	离(lei4/lei˨˩/)
+未 |	未(mi6/miː˨˨/) |	未(mei6/mei˨˨/)
+美 |	美(mi5/miː˨˦/) |	美(mei5/mei˩˧/)
+机 |	机(gi1/kiː˥˥/) |	机(gei1/kei˥˥/)
+飞 |	飞(fi1/fiː˥˥/) |	飞(fei1/fei˥˥/)
+**5** |	**eu/ɛːu/，em/ɛːm/，en/ɛːn/，ep/ɛːp̚/，et/ɛːt̚/** |	**aau/aːu/，aam/aːm/，aan/aːn/，aap/aːp̚/，aat/aːt̚/**
+咸 |	咸(hem4/hɛːm˨˩/) |	咸(ham4/haːm˨˩/)
+包 |	包(beu1/pɛːu˥˥/) |	包(baau1/paːu˥˥/)
+间 |	间(gen1/kɛːn˥˥/) |	间(gaan1/kaːn˥˥/)
+惯 |	惯(gwen3/kʷɛːn˧˧/) |	惯(gwaan3/kʷaːn˧˧/)
+夹 |	夹(gep3/kɛːp̚˧/) |	夹(gaap3/kaːp̚˧/)、夹(gep3/kɛːp̚˧/)
+八 |	八(bet3/pɛːt̚˧/) |	八(baat3/paːt̚˧/)
+眼 |	眼(ngen5/ŋɛːn˨˦/) |	眼(ngaan5/ŋaːn˩˧/)
+姣 |	姣(heu4/hɛːu˨˩/) |	姣(haau4/haːu˨˩/)
 **6** |	**ap，ak** |	**aap，aak**
 习 |	习(zap6) |	习(zaap6)、习(zap6)
 集 |	集(zap6) |	集(zaap6)、集(zap6)
@@ -67,8 +67,8 @@
 纯 |	纯(san4) |	纯(seon4)
 进 |	进(zan3) |	进(zeon3)
 律 |	律(lat6) |	律(leot6)
-**10** |	**边擦音[ɬ]，简写为sl** |	**s**
-表示完成或者语气 |	slaai3/ɬai33/，也写作「嗮」 |	嗮(saai3)
+**10** |	**边擦音sl/ɬ/** |	**s**
+表示完成或者语气 |	slaai3/ɬaːi˧˧/，也写作「嗮」 |	嗮(saai3)
 三 |	三(slaam1) |	三(saam1)
 四 |	四(sli3) |	四(sei3)
 死 |	死(sli2) |	死(sei2)

@@ -1,14 +1,8 @@
 # 5.1 南宁白话常用字读音表
 
-[https://www.douban.com/note/654738307/](https://www.douban.com/note/654738307/)
-
 ## 一、移动端
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import.png)![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import2.png)![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import3.png)
-
-![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import4.png)
-
-## ![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import5.png)
+{% youku %} XMzM0OTIyMzUzNg@@ {% endyouku %}
 
 ## 二、PC端
 

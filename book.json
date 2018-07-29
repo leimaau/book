@@ -1,0 +1,53 @@
+{
+    "title": "南宁白话小册子",
+    "description": "介绍南宁白话的基础知识",
+    "author": "leimaau",
+    "plugins": [
+	    "-lunr",
+		"-search",
+		"search-plus",
+        "anchor-navigation-ex",
+		"-sharing",
+		"sharing-plus",
+		"alerts",
+		"splitter",
+		"expandable-chapters-small",
+		"local-video",
+		"chinese-video"
+    ],
+
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": false,
+            "isShowTocTitleIcon": true,
+			"multipleH1": false,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "sharing": {
+           "douban": true,
+           "facebook": false,
+           "google": false,
+           "hatenaBookmark": false,
+           "instapaper": false,
+           "line": false,
+           "linkedin": false,
+           "messenger": false,
+           "pocket": false,
+           "qq": true,
+           "qzone": true,
+           "stumbleupon": false,
+           "twitter": false,
+           "viber": false,
+           "vk": false,
+           "weibo": true,
+           "whatsapp": false,
+           "all": [
+               "facebook", "google", "twitter",
+               "weibo", "instapaper", "linkedin",
+               "pocket", "stumbleupon", "qq", "qzone"
+           ]
+        }
+	}
+}

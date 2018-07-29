@@ -70,7 +70,7 @@
 曱甴 |	gaat6 zaat6/kaːt̚˨ t͡ʃaːt̚˨/ |	蟑螂
 蠄蟧 |	kam4 lu4/kʰɐm˨˩ luː˨˩/ |	蜘蛛
 唓咧 |	ce1 le1/t͡ʃʰɛː˥˥ lɛː˥˥/ |	形容人嘴巴多，说得不停
-冷衫 |	laang1 sam1/laːŋ˥˥ ʃaːm˥˥/ |	毛线衫，“冷”借自法语laine，毛线的意思
+冷衫 |	laang1 sam1/laːŋ˥˥ ʃaːm˥˥/ |	毛线衫，借自法语laine，毛线之意
 巴闭 |	baa1 bai3/paː˥˥ pɐi˧˧/ |	形容人大惊小怪或形容事情严重、了不起
 妹丁 |	mui1 ding1/muːi˥˥ tɪŋ˥˥/ |	小妹妹
 戆居 |	ngong6 gyu1/ŋɔːŋ˨˨ kyː˥˥/ |	傻瓜，笨蛋

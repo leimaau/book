@@ -1,4 +1,4 @@
-# 2.12 叹词与助词
+# 叹词与助词
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.12/叹词与助词1.png)
 

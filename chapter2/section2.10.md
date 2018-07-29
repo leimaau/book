@@ -1,4 +1,4 @@
-# 2.10 「纠」字怎么读
+# 「纠」字怎么读
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.10/import.png)
 

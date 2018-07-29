@@ -1,4 +1,4 @@
-# 2.11 口语词不口语
+# 口语词不口语
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import.png)
 

@@ -1,4 +1,4 @@
-# 3.2 粤语正音运动
+# 粤语正音运动
 
 出处：[维基百科](https://zh.wikipedia.org/wiki/%E7%B2%B5%E8%AA%9E%E6%AD%A3%E9%9F%B3%E9%81%8B%E5%8B%95)
 

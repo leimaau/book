@@ -1,10 +1,10 @@
-# 5.1 南宁白话常用字读音表
+# 南宁白话常用字读音表
 
-## 一、移动端
+## 移动端
 
 {% youku %} XMzM0OTIyMzUzNg@@ {% endyouku %}
 
-## 二、PC端
+## PC端
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/import6.png)
 

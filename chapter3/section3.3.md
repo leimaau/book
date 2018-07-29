@@ -1,4 +1,4 @@
-# 3.3 中国语言资源保护工程
+# 中国语言资源保护工程
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.3/import.png)
 

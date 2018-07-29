@@ -4,7 +4,7 @@
 
 这本小册子还有很多不足，有些内容也不一定是对的，排版也不太好，我会不断地修订这本小册子。
 
-### 主要参考资料
+## 主要参考资料
 
 ![林亦、覃凤余《广西南宁白话研究》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import.jpg) ![谢建猷《南宁白话同音字汇》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import2.jpg)
 
@@ -12,7 +12,7 @@
 
 ![覃远雄、韦树关、卞成林《南宁平话词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import5.jpg) ![白宛如《广州方言词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import6.jpg)
 
-### 主要参考网站
+## 主要参考网站
 
 汉语多功能字库：[这里](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) 
 

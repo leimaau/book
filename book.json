@@ -6,25 +6,16 @@
 	    "-lunr",
 		"-search",
 		"search-plus",
-        "anchor-navigation-ex",
+        "navigator",
 		"-sharing",
 		"sharing-plus",
 		"alerts",
 		"splitter",
-		"expandable-chapters-small",
 		"local-video",
 		"chinese-video"
     ],
-
+	
     "pluginsConfig": {
-        "anchor-navigation-ex": {
-            "isRewritePageTitle": false,
-            "isShowTocTitleIcon": true,
-			"multipleH1": false,
-            "tocLevel1Icon": "fa fa-hand-o-right",
-            "tocLevel2Icon": "fa fa-hand-o-right",
-            "tocLevel3Icon": "fa fa-hand-o-right"
-        },
         "sharing": {
            "douban": true,
            "facebook": false,

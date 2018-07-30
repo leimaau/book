@@ -40,8 +40,4 @@ Your browser does not support the audio element.
 {% endraw %}
 
 
-youku
-
-{% youku %} XNjM0MzY5MTYw@@ {% endyouku %}
-
 

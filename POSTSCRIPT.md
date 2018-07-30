@@ -9,7 +9,7 @@
 
 新浪博客： [这里](http://blog.sina.com.cn/s/articlelist_1762934917_0_1.html)    （最近上的比较少了）
 
-豆瓣： [这里](https://www.douban.com/people/leimaau/)  （有时会上）
+豆瓣： [这里](https://www.douban.com/note/654738307/)  （有时会上）
 
 知乎： [这里](https://www.zhihu.com/people/si-tuo-bu-ke-si/posts)  （空闲的时候会上）
 

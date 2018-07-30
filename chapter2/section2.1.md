@@ -12,6 +12,8 @@
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/import4.png)
 
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.1/与广州话对比.png)
+
 1.年轻人的南宁白话出现了阳去并入阳平的现象：
 
 例如表示强烈的赞叹的「劲」字本读ging6/kɪŋ˨˨/，但是大多数年轻人读成ging4，例如「阿场球打得好劲ging6/kɪŋ˨˨/啊」，「阿部电影真係劲ging6/kɪŋ˨˨/啊」，年轻人都会不自觉的把「劲ging6/kɪŋ˨˨/」读成「劲ging4/kɪŋ˨˩/」，以至于许多人不知是「劲」字。

@@ -4,6 +4,8 @@
 
 这本小册子还有很多不足，有些内容也不一定是对的，排版也不太好，我会不断地修订这本小册子。
 
+--LeiMaau 2018.04.13
+
 ## 主要参考资料
 
 ![林亦、覃凤余《广西南宁白话研究》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import.jpg) ![谢建猷《南宁白话同音字汇》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import2.jpg)
@@ -12,12 +14,26 @@
 
 ![覃远雄、韦树关、卞成林《南宁平话词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import5.jpg) ![白宛如《广州方言词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import6.jpg)
 
+![南宁话音档](http://pcj4g4ziw.bkt.clouddn.com/image/readme/南宁话音档.jpg)
+
 ## 主要参考网站
 
-汉语多功能字库：[这里](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) 
+[汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) 
 
-小学堂网站：[这里](http://xiaoxue.iis.sinica.edu.tw/)
+[小学堂网站](http://xiaoxue.iis.sinica.edu.tw/)
 
 微信的「西大语言学」公众号
+
+## 本站主要链接
+
+[南宁白话小册子](https://leimaau.github.io/book/) 
+
+[南宁白话小册子（备用地址）](https://leimaau.gitbooks.io/nnbh/content/) 
+
+[南宁白话输入方案](https://github.com/leimaau/myself_jyutping) 
+
+[南宁白话字词典](https://github.com/leimaau/NaamBaakDict) 
+
+[南宁白话读音资料文本档](https://github.com/leimaau/bookCollection) 
 
 

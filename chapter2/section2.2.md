@@ -87,7 +87,7 @@
 触 |	触cuk1/t͡ʃʰʊk̚˥/ |	触zuk1/t͡sʊk̚˥/
 锅 |	锅go1/kɔː˥˥/ |	锅wo1/wɔː˥˥/
 沟 |	沟gau1/kɐu˥˥/ |	沟kau1/kʰɐu˥˥/
-购 |	购gau3/kɐu˧˧/ |	购kau3/kʰɐu˧˧/
+购 |	购kau3/kʰɐu˧˧/，购gau3/kɐu˧˧/ |	购kau3/kʰɐu˧˧/
 况 |	况kong3/kʰɔːŋ˧˧/ |	况fong3/fɔːŋ˧˧/
 竟 |	竟ging3/kɪŋ˧˧/ |	竟ging2/kɪŋ˧˥/
 使 |	使sai2/ʃɐi˧˥/ |	使sai2/sɐi˧˥/、使si2/siː˧˥/

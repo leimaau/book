@@ -28,25 +28,25 @@
 
 广州话：ham1 ho1/hɐm˥˥ hɔː˥˥/
 
-南宁白话：ham2 ho1/hɐm˧˥ hɔː˥˥/，ham2 ko1/hɐm˧˥ kʰɔː˥˥/皆可；
+南宁白话：ham2 ho1/hɐm˧˥ hɔː˥˥/，ham2 ko1/hɐm˧˥ kʰɔː˥˥/皆可
 
 「寻秦记」
 
 广州话：cam4 ceon4 gei3/t͡sʰɐm˨˩ t͡sʰɵn˨˩ kei˧˧/
 
-南宁白话：cam4 can4 gi3/t͡ʃʰɐm˨˩ t͡ʃʰɐn˨˩ kiː˧˧/；
+南宁白话：cam4 can4 gi3/t͡ʃʰɐm˨˩ t͡ʃʰɐn˨˩ kiː˧˧/
 
 「血液循环」
 
 广州话：hyut3 jik6 ceon4 waan4/hyːt̚˧ jɪk̚˨ t͡sʰɵn˨˩ waːn˨˩/
 
-南宁白话：hyut3 jik6 can4 waan4/hyːt̚˧ jɪk̚˨ t͡ʃʰɐn˨˩ waːn˨˩/，「循」读slan4/ɬɐn˨˩/亦可；
+南宁白话：hyut3 jik6 can4 waan4/hyːt̚˧ jɪk̚˨ t͡ʃʰɐn˨˩ waːn˨˩/，「循」读slan4/ɬɐn˨˩/亦可
 
 「阿尔茨海默症」
 
 广州话：aa3 ji5 ci4 hoi2 mak6 zing3/aː˧˧ jiː˩˧ t͡sʰiː˨˩ hɔːi˧˥ mɐk̚˨ t͡sɪŋ˧˧/
 
-南宁白话：aa3 ji5 ci4 hoi2 mak6 zing3/aː˧˧ jiː˩˧ t͡ʃʰiː˨˩ hɔːi˧˥ mɐk̚˨ t͡ʃɪŋ˧˧/；
+南宁白话：aa3 ji5 ci4 hoi2 mak6 zing3/aː˧˧ jiː˩˧ t͡ʃʰiː˨˩ hɔːi˧˥ mɐk̚˨ t͡ʃɪŋ˧˧/
 
 「三氯甲烷」
 
@@ -58,7 +58,7 @@
 
 广州话：zi1 fong1 seon4 zeoi6 joeng5 jyut3 hei1 mai4/t͡siː˥˥ fɔːŋ˥˥ sɵn˨˩ t͡sɵy˨˨ jœːŋ˩˧ jyːt̚˧ hei˥˥ mɐi˨˩/
 
-南宁白话：zi1 fong1 san4 zyu6 joeng5 jyut3 hi1 mai4/t͡ʃiː˥˥ fɔːŋ˥˥ ʃɐn˨˩ t͡ʃyː˨˨ jœːŋ˨˦ jyːt̚˧ hiː˥˥ mɐi˨˩/，「肪」读fong4/fɔːŋ˨˩/亦可。
+南宁白话：zi1 fong1 san4 zyu6 joeng5 jyut3 hi1 mai4/t͡ʃiː˥˥ fɔːŋ˥˥ ʃɐn˨˩ t͡ʃyː˨˨ jœːŋ˨˦ jyːt̚˧ hiː˥˥ mɐi˨˩/，「肪」读fong4/fɔːŋ˨˩/亦可
 
 上面这些词通过查字典、查韵书基本可以确定读音，细致的审音需要交给专家，大众了解即可，例如「循」中古邪母带边擦音也是有的，「肪」广韵有全浊平声全清平声两读。
 

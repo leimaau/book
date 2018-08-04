@@ -12,7 +12,7 @@
 
 ![南宁白话读音资料文本档](http://pcj4g4ziw.bkt.clouddn.com/image/appendix4.2/南宁白话读音资料文本档.jpg)
 
-音節|IPA|同音字
+粵拼|IPA|同音字
 ---|---|---
 aa1|[Øaː55]|丫([A]),鴉([A][B][D]),啊([A][B])
 aa2|[Øaː35]|啞([A][B][C][D]),𤺘([C]),瘂([C])

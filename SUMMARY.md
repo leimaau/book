@@ -15,7 +15,7 @@
     * [2.6 粤语的直读与训读](chapter2/section2.6.md)
     * [2.7 正字问题](chapter2/section2.7.md)
     * [2.8 汉语多功能字库](chapter2/section2.8.md)
-    * [2.9 空白](chapter2/section2.9.md)
+    * [2.9 粤语的现代化](chapter2/section2.9.md)
     * [2.10 「纠」字怎么读](chapter2/section2.10.md)
     * [2.11 口语词不口语](chapter2/section2.11.md)
     * [2.12 叹词与助词](chapter2/section2.12.md)

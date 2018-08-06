@@ -10,8 +10,7 @@
 		"-sharing",
 		"sharing-plus",
 		"alerts",
-		"splitter",
-		"local-video"
+		"splitter"
     ],
 	
     "pluginsConfig": {

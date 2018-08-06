@@ -50,7 +50,7 @@
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.4/import4.png)
 
-![](/sec3.3jpg/import5.png)
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.3/import5.png)
 
 3.上面的网站数据来源之一就是《香港小学学习字词表》[香港小學學習字詞表](https://link.zhihu.com/?target=http%3A//www.edbchinese.hk/lexlist_ch/)
 

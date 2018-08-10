@@ -10,7 +10,7 @@
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.1/import.png)
 
-下载地址：[狸猫粤拼](https://coding.net/u/LeiMaau/p/myself_jyutping/git?public=true)
+下载地址：[狸猫粤拼](https://github.com/leimaau/myself_jyutping)
 
-备用下载地址：[狸猫粤拼](https://github.com/leimaau/myself_jyutping)
+备用下载地址：[狸猫粤拼](https://coding.net/u/LeiMaau/p/myself_jyutping/git)
 

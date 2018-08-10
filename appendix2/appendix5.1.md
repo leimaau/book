@@ -16,11 +16,11 @@
 
 **欧路词典**
 
-![欧路词典](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/欧路词典.jpg)
+![欧路词典](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/欧路词典.jpg?imageView2/2/w/400)
 
 **深蓝词典**
 
-![深蓝词典](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/深蓝词典.jpg)
+![深蓝词典](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/深蓝词典.jpg?imageView2/2/w/400)
 
 ## PC端
 

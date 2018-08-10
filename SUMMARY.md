@@ -38,6 +38,6 @@
 * [6.附录三 新闻报道](appendix3/README.md)
     * [6.1 羊城晚报《推普的“南宁”现象》](appendix3/appendix6.1.md)
     * [6.2 南宁传统文化沉沦之最大殇痛](appendix3/appendix6.2.md)
-* [后记](POSTSCRIPT.md)
 * [参考资料](REFERENCES.md)
+* [后记](POSTSCRIPT.md)
 

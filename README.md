@@ -1,8 +1,6 @@
 # 前言
 
-原本这是我在博客中写的文章，现在集结起来做成书，介绍南宁白话的基础知识，所以叫做「南宁白话小册子」，新浪博客、豆瓣、知乎的文章几乎都收录于此，最新的更新也只于此处。
-
-这本小册子还有很多不足，有些内容也不一定是对的，排版也不太好，我会不断地修订这本小册子。
+原本这是我在博客中写的文章，现在集结起来做成书，介绍南宁白话的基础知识，所以叫做「南宁白话小册子」，新浪博客、豆瓣、知乎的文章几乎都收录于此，最新的更新也只于此处。这本小册子还有很多不足，有些内容也不一定是对的，排版也不太好，我会不断地修订这本小册子。
 
 --LeiMaau 2018.04.13
 
@@ -14,7 +12,7 @@
 
 ![覃远雄、韦树关、卞成林《南宁平话词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import5.jpg) ![白宛如《广州方言词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import6.jpg)
 
-![南宁话音档](http://pcj4g4ziw.bkt.clouddn.com/image/readme/南宁话音档.jpg)
+![南宁话音档](http://pcj4g4ziw.bkt.clouddn.com/image/readme/南宁话音档.jpg?imageView2/2/h/410) ![广西通志-汉语方言志](http://pcj4g4ziw.bkt.clouddn.com/image/readme/广西通志-汉语方言志.jpg?imageView2/2/h/410)
 
 ## 主要参考网站
 

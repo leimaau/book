@@ -8,7 +8,7 @@
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.1/import.png)
 
-下载地址：[南宁白话输入方案](https://coding.net/u/LeiMaau/p/myself_jyutping/git)
+下载地址：[南宁白话输入方案](https://github.com/leimaau/myself_jyutping)
 
-备用下载地址：[南宁白话输入方案](https://github.com/leimaau/myself_jyutping)
+备用下载地址：[南宁白话输入方案](https://coding.net/u/LeiMaau/p/myself_jyutping/git)
 

@@ -236,5 +236,32 @@
 
 [翡翠粤语歌词](https://www.feitsui.com/)
 
+## 关于粤语填词
 
+我们会发现，一首国语歌如果按照粤音一字一句地唱出来会不符合音律，这是因为国语歌是用国语的声调作词，押韵也是压国语的韵，曲子在创作完成时就是配合好国语的声调的，粤语与国语的音系差别太大，如果简单的转为普通话吟唱那么在押韵与声调上就无法配合乐曲的音高，我们把唱起来不符合乐曲音调的音叫做「拗音」，而把唱起来能够配合乐曲音调的音叫做「协音」。
 
+国语歌词直接用粤音唱大多就会遇到大量的「拗音」，这就要重新填词，或者叫「粤语填词」，这也就是为什么许多国语歌翻唱为粤语版的时候不会沿用原来的歌词而是新创作歌词的原因，即使是新创作的粤语歌，也是要经过「粤语填词」的过程的，要避免「拗音」。粤语填词要处理好粤音与曲音的和谐，根据旋律搭配合适的词，所以我们在创作粤语歌的时候既要对基本乐理知识熟悉也要对粤语的押韵系统熟悉，否则是无法创作出好的歌曲的。
+
+[粵語歌曲填詞法](http://lyrics.mrpinyin.net/)
+
+[粵語流行曲拗音問題初探](http://www.doc88.com/p-9572334074600.html)
+
+[粤语流行歌词研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD2007&filename=2007042070.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MzE4NDdmYitkdkZpdmtWYnZCVjEyN0diTzhITkhMcjVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEs=)
+
+[试论中国流行歌曲演唱风格特征的阶段性演变](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD2011&filename=1011167810.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDAwNDFyQ1VSTEtmYitkdkZpdmtVcnJCVkYyNkg3SytHZG5OcjVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=)
+
+[粤语声调与降势音高](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=YYKE201702007&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDAyMDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZiK2R2Rml2a1ZyM0JQRFRBYTdHNEg5Yk1yWTlGWTRSOGVYMUw=)
+
+[古诗词谱曲的字调与歌腔关系探析——以黄沾粤语歌曲《有谁知我此时情》为例](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2014&filename=GDMZ201401010&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTM4MzRxVHJXTTFGckNVUkxLZmIrZHZGaXZrVTcvTElpbkdkTEc0SDlYTXJvOUVaSVI4ZVgxTHV4WVM3RGgxVDM=)
+
+[试论粤语美声唱法的实践教学——以歌曲《生死相依我苦恋着你》为例](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2009&filename=YYTD200909049&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=Mjc5MDc0SHRqTXBvOUJiWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZmIrZHZGaWpoVzdyTVBEVGZhckc=)
+
+[粤语歌曲·语言·电脑漫笔](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=XHYY198602003&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTQ1MjRkN0t4RnRmTXJZOUZaNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZmIrZHZGaWpoVzd6SlBTWFM=)
+
+[粤语吟诵的自然发声方法探索研究--以珠三角地区的粤语吟诵为例](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201501&filename=1014052745.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTg0NjdmYitkdkZpdmtXcnZMVkYyNkdyTzlITmJJcXBFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEs=)
+
+[浅析粤语吟诵发展历史及粤语吟诵方法](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2014&filename=PPLL201408072&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDExOTVsVXIvQU5UM0hZckc0SDlYTXA0OUNab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZmIrZHZGaXY=)
+
+[粤语流行歌词研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD2007&filename=2007042070.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MzE4NDdmYitkdkZpdmtWYnZCVjEyN0diTzhITkhMcjVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEs=)
+
+[广府南音的曲体分析与即唱教学设计](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201801&filename=1017082764.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjI1MTViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZiK2R2Rml2blVyM09WRjI2R2JPd0hOYktxNUU=)

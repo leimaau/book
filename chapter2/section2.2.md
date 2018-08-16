@@ -30,6 +30,7 @@
 光 |	光gong1/kɔːŋ˥˥/ | 光gwong1/kʷɔːŋ˥˥/
 国 |	国gok3/kɔːk̚˧/ |	国gwok3/kʷɔːk̚˧/
 过 |	过go3/kɔː˧/ |	过gwo3/kʷɔː˧/
+扩 |	扩kong3/kʰɔːŋ˧˧/、扩kok3/kʰɔːk̚˧/ |	扩kwong3/kʷʰɔːŋ˧˧/、扩kwok3/kʷʰɔːk̚˧/
 **4** |	**i/iː/** |	**ei/ei/**
 离 |	离li4/liː˨˩/ |	离lei4/lei˨˩/
 未 |	未mi6/miː˨˨/ |	未mei6/mei˨˨/
@@ -48,7 +49,7 @@
 **6** |	**ap/ɐp̚/，ak/ɐk̚/** |	**aap/aːp̚/，aak/aːk̚/**
 习 |	习zap6/t͡ʃɐp̚˨/ |	习zaap6/t͡saːp̚˨/、习zap6/t͡sɐp̚˨/
 集 |	集zap6/t͡ʃaːp̚˨/ |	集zaap6/t͡saːp̚˨/、集zap6/t͡sɐp̚˨/
-呃骗的意思 |	呃ngak1/ŋɐk̚˥/ |	呃ngaak1/ŋaːk̚˥/、呃ngak1/ŋɐk̚˥/
+呃（骗的意思） |	呃ngak1/ŋɐk̚˥/ |	呃ngaak1/ŋaːk̚˥/、呃ngak1/ŋɐk̚˥/
 立 |	立lap6/lɐp̚˨/ |	立laap6/laːp̚˨/、立lap6/lɐp̚˨/
 贼 |	贼cak6/t͡ʃʰɐk̚˨/ |	贼caak6/t͡sʰaːk̚˨/
 **7** |	**u/uː/** |	**ou/ou/**
@@ -113,7 +114,11 @@
 品 |	品pan2/pʰɐn˧˥/ |	品ban2/pɐn˧˥/
 出 |	出cyut1/t͡ʃʰyːt̚˥/、出cat1/t͡ʃʰɐt̚˥/ |	出ceot1/t͡sʰɵt̚˥/
 瓣 |	瓣baan6/paːn˨˨/ |	瓣faan6/faːn˨˨/
+檐 |	檐jim4/jiːm˨˩/、檐jam4/jɐm˨˩/（白读） |	檐sim4/siːm˨˩/、檐jam4/jɐm˨˩/（白读）
 悄 |	悄ciu1/t͡ʃʰiːu˥˥/ |	悄ciu2/t͡sʰiːu˧˥/
+慷 |	慷hong1/hɔːŋ˥˥/、慷kong1/kʰɔːŋ˥˥/ |	慷hong2/hɔːŋ˧˥/、慷kong2/kʰɔːŋ˧˥/
+窍 |	窍kiu3/kʰiːu˧˧/ |	窍hiu3/hiːu˧˧/、窍kiu3/kʰiːu˧˧/
+恩 |	恩an1/ɐn˥˥/、恩ngan1/ŋɐn˥˥/ |	恩jan1/jɐn˥˥/
 **12** |	**不变调** |	**变调**
 江 |	江gong1/kɔːŋ˥˥/ |	江/kɔːŋ˥˧/
 心 |	心slam1/ɬɐm˥˥/ |	心/sɐm˥˧/

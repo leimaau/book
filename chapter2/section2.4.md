@@ -36,7 +36,7 @@
 猫 |	maau1/maːu˥˥/ |	meu1/mɛːu˥˥/
 斩 |	zaam2/t͡ʃaːm˧˥/ |	zem2/t͡ʃɛːm˧˥/
 减 |	gaam2/kaːm˧˥/ |	gem2/kɛːm˧˥/
-夹 |	gaap3/kaːp̚˧/ |	gep3/kɛːp̚˧/
+夹 |	gaap3/kaːp̚˧/ |	gep6/kɛːp̚˨/
 插 |	caap3/t͡ʃʰaːp̚˧/ |	cep3/t͡ʃʰɛːp̚˧/
 间 |	gaan1/kaːn˥˥/ |	gen1/kɛːn˥˥/
 闲 |	haan4/haːn˨˩/ |	hen4/hɛːn˨˩/

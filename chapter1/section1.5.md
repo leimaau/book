@@ -420,7 +420,7 @@
 [fei2](https://www.edbchinese.hk/EmbziciwebRes/jyutping/fei2.mp3)|翡,非,膹,榧,奜,疿,蜚,痱,棐,屝,菲,蜰,篚,悱,誹,陫,匪,朏,斐
 [fei4](https://www.edbchinese.hk/EmbziciwebRes/jyutping/fei4.mp3)|腓,蟦,肥,痱,婓,萉,蜰,淝
 [fei6](https://www.edbchinese.hk/EmbziciwebRes/jyutping/fei6.mp3)|厞,狒,剕,翡
-[fiu3]|覅
+fiu3|覅
 [fo1](https://www.edbchinese.hk/EmbziciwebRes/jyutping/fo1.mp3)|蝌,窠,髁,犐,稞,科,棵,薖,匚
 [fo2](https://www.edbchinese.hk/EmbziciwebRes/jyutping/fo2.mp3)|火,棵,敤,顆,伙,吙,夥,鈥
 [fo3](https://www.edbchinese.hk/EmbziciwebRes/jyutping/fo3.mp3)|嗀,沎,堁,敤,顆,稞,貨,嗀,錁,騍,課

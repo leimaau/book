@@ -60,7 +60,7 @@
 ---|---|---
 古仔 |	gu2 zai2/kuː˧˥ t͡ʃɐi˧˥/ |	故事
 吟噆 |	ngam4 cam4/ŋɐm˨˩ t͡ʃʰɐm˨˩/ |	爱唠叨
-遴迍、论尽、轮尽 |	lan4 zan6/lɐn˨˩ t͡ʃɐn˨˨/ |	处境艰难，动弹不得
+遴迍、论尽 |	lan4 zan6/lɐn˨˩ t͡ʃɐn˨˨/ |	处境艰难，动弹不得
 大褛 |	daai6 lau1/taːi˨˨ lɐu˥˥/ |	大衣
 蕹菜 |	ung3 coi3/ʊŋ˧˧ t͡ʃʰɔːi˧˧/ |	空心菜
 心抱（新妇） |	sam1 pu2/ʃɐm˥˥ pʰuː˨˦/ |	媳妇
@@ -70,7 +70,7 @@
 咿㕭 |	ji1 jaau1/jiː˥˥ jaːu˥˥/ |	形容做事不认真、随心
 冧巴 |	lam3 baa2/lɐm˧˧ paː˧˥/ |	号码、编号、门牌，英语number的音译词
 布冧 |	bu3 lam4/puː˧˧ lɐm˨˩/ |	李子、李果，英语plum的音译词
-倾偈、倾计 |	king1 gai2/kʰɪŋ˥˥ kɐi˧˥/ |	聊天
+倾偈 |	king1 gai2/kʰɪŋ˥˥ kɐi˧˥/ |	聊天
 咸湿 |	hem4 slap1/hɛːm˨˩ ɬɐp̚˥/ |	好色，英语hamshop的音译词
 乌蝇 |	wu1 jing1/wuː˥˥ jɪŋ˥˥/ |	苍蝇
 百足 |	baak3 zuk1/paːk̚˧ t͡ʃʊk̚˥/ |	蜈蚣

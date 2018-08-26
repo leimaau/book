@@ -32,7 +32,7 @@
     * [4.1 南宁白话童谣](appendix1/appendix4.1.md)
     * [4.2 南宁白话字音数据](appendix1/appendix4.2.md)
     * [4.3 南宁白话异读音表](appendix1/appendix4.3.md)
-    * [4.4 南宁白话正音表](appendix1/appendix4.4.md)
+    * [4.4 南宁白话建议读音表](appendix1/appendix4.4.md)
 * [5.附录二 常用工具](appendix2/README.md)
     * [5.1 南宁白话字词典](appendix2/appendix5.1.md)
     * [5.2 南宁白话输入方案](appendix2/appendix5.2.md)

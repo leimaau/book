@@ -26,9 +26,9 @@
 
 ![goldendict](http://pcj4g4ziw.bkt.clouddn.com/image/appendix5.1/goldendict.jpg)
 
-南宁白话字词典mdx与mdd文件下载地址：[下载地址](https://coding.net/u/LeiMaau/p/NaamBaakDICT/git)
+南宁白话字词典mdx与mdd文件下载地址：[下载地址](https://github.com/leimaau/NaamBaakDict)
 
-备用下载地址：[备用下载地址](https://github.com/leimaau/NaamBaakDict)
+备用下载地址：[备用下载地址](https://coding.net/u/LeiMaau/p/NaamBaakDICT/git)
 
 
 ## 参考资料

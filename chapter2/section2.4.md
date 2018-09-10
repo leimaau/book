@@ -18,7 +18,6 @@
 声 |	sing1/ʃɪŋ˥˥/ |	seng1/ʃɛːŋ˥˥/
 生 |	sang1/ʃɐŋ˥˥/（形容词） |	saang1/ʃaːŋ˥˥/（动词）
 争 |	zang1/t͡ʃɐŋ˥˥/ |	zaang1/t͡ʃaːŋ˥˥/
-盖 |	goi3/kɔːi˧˧/ |	koi3/kʰɔːi˧˧/
 近 |	gan6/kɐn˨˨/（全浊上作去） |	kan5/kʰɐn˨˦/
 淡 |	daam6/taːm˨˨/（全浊上作去） |	taam5/tʰaːm˨˦/
 赤 |	cik3/t͡ʃʰɪk̚˧/ |	cek3/t͡ʃʰɛːk̚˧/

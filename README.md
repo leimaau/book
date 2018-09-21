@@ -20,6 +20,10 @@
 
 [小学堂网站](http://xiaoxue.iis.sinica.edu.tw/)
 
+[广西地情资料库](http://www.gxdfz.org.cn/gdtz/#floor_gxtz)
+
+[广西通志-汉语方言志](http://lib.gxdqw.com/file-a88-1.html)
+
 微信的「西大语言学」公众号
 
 ## 本站主要链接

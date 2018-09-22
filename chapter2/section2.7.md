@@ -1,4 +1,6 @@
-# 正字问题
+# 正字问题、口语词不口语、叹词与助词
+
+## 正字问题
 
 网络上有些自媒体或者一些个人信息发布平台，对于粤语的了解不深，甚至没有任何基础知识，经常使用汉语拼音或者普通话读音的汉字来拼写一个粤语读音，严重地误导了大众，使得大众以为粤语不能标音，甚至使用错误的文字来标另一个字的粤音，其实这些文字都可以用正规的粤语拼音或者国际音标来标音的。
 
@@ -43,8 +45,73 @@ feng |	fang4|	/fɐŋ˨˩/ |	  揈
 
 ![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.7/汉语方言用字规范5.png)
 
+## 口语词不口语
 
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import.png)
 
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import2.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import3.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import4.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import5.png)
+
+「臭青」后来在南宁白话中引申用于描述口音不正，例如母语为普通话者学广州话，或者非广州话母语者学广州话所表现的邯郸学步的口音即为「臭青」。
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import6.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import7.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import8.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import9.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import10.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import11.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import17.png)
+
+南宁白话发音「嗌aai3」.
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import18.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import19.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import19-1.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import20.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import21.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import22.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import23.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import24.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import25.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import26.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import27.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import28.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import29.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.11/import30.png)
+
+## 叹词与助词
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.12/叹词与助词1.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.12/叹词与助词2.png)
+
+![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.12/叹词与助词3.png)
+
+以上资料均选自杨焕典，梁振仕，李谱英，谢间猷，林亦，余晖．广西通志·方言志：广西人民出版社，1998年12月第1版：南宁部分
 
 
 ​​​​

@@ -66,15 +66,15 @@
 
 关于清代粤语至现代粤语的变化具体请参看2013年罗言发《澳门粤语音系的历史变迁及其成因》
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.5/cing.png)
+![](http://wx1.sinaimg.cn/large/69144085gy1fxg0csvgpdj219e0lp40i.jpg)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.5/cing2.png)
+![](http://wx2.sinaimg.cn/large/69144085gy1fxg0ctbuwcj210n0npdi1.jpg)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.5/cing3.png)
+![](http://wx4.sinaimg.cn/large/69144085gy1fxg0ctyrxej210o0mpgnj.jpg)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.5/cing4.png)
+![](http://wx3.sinaimg.cn/large/69144085gy1fxg0cuhnwqj210n0nhtb7.jpg)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section3.5/cing5.png)
+![](http://wx1.sinaimg.cn/large/69144085gy1fxg0cvmr3oj210o0nfq3g.jpg)
 
 
 

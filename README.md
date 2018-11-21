@@ -6,13 +6,13 @@
 
 ## 主要参考资料
 
-![林亦、覃凤余《广西南宁白话研究》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import.jpg) ![谢建猷《南宁白话同音字汇》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import2.jpg)
+![林亦、覃凤余《广西南宁白话研究》](http://wx4.sinaimg.cn/mw690/69144085gy1fxelmxn06zj209t0dw3yz.jpg) ![谢建猷《南宁白话同音字汇》](http://wx4.sinaimg.cn/mw690/69144085gy1fxelmxysbij209z0dcjrn.jpg)
 
-![陈海伦、林亦《粤语平话土话方音字汇》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import4.jpg) ![谢建猷《广西汉语方言研究》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import3.jpg)
+![陈海伦、林亦《粤语平话土话方音字汇》](http://wx2.sinaimg.cn/mw690/69144085gy1fxelmykszpj20a50dwjrw.jpg) ![谢建猷《广西汉语方言研究》](http://wx4.sinaimg.cn/mw690/69144085gy1fxelmy8fqgj20ac0dwjs5.jpg)
 
-![覃远雄、韦树关、卞成林《南宁平话词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import5.jpg) ![白宛如《广州方言词典》](http://pcj4g4ziw.bkt.clouddn.com/image/readme/import6.jpg)
+![覃远雄、韦树关、卞成林《南宁平话词典》](http://wx4.sinaimg.cn/mw690/69144085gy1fxelmyzmelj20940dcaak.jpg) ![白宛如《广州方言词典》](http://wx1.sinaimg.cn/mw690/69144085gy1fxelmzcb32j20920dc74r.jpg)
 
-![南宁话音档](http://pcj4g4ziw.bkt.clouddn.com/image/readme/南宁话音档.jpg?imageView2/2/h/410) ![广西通志-汉语方言志](http://pcj4g4ziw.bkt.clouddn.com/image/readme/广西通志-汉语方言志.jpg?imageView2/2/h/410)
+![南宁话音档](http://wx3.sinaimg.cn/mw690/69144085gy1fxelvzvf9qj20a90be0sz.jpg) ![广西通志-汉语方言志](http://wx3.sinaimg.cn/mw690/69144085gy1fxelmzqk5qj209k0be74f.jpg)
 
 ## 主要参考网站
 

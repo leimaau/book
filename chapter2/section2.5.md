@@ -75,11 +75,11 @@ PS：若是单独研究邕剧又是非常大的一个工程，值得另外开很
 去 |	hyu3/hyː˧˧/ |	hi3/hyː˧˧/（壮语的影响）
 凹 |	nap1/nɐp̚˥/ |	map1/mɐp̚˥/
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.5/import.png)
+![](http://wx1.sinaimg.cn/mw690/69144085gy1fxemp2di71j20j60bf44e.jpg)
 
-![](http://pcj4g4ziw.bkt.clouddn.com/image/section2.5/import2.png)
+![](http://wx1.sinaimg.cn/mw690/69144085gy1fxemp33fpaj20j60efjzc.jpg)
 
-* 更多资料参考林亦《广西南宁白话研究》以及欧阳觉亚《两广粤方言与壮语的种种关系》。
+* 更多资料参考欧阳觉亚《两广粤方言与壮语的种种关系》。
 
 ## 误读音
 

@@ -4,7 +4,7 @@
 * [1.第一章 预备知识](chapter1/README.md)
     * [1.1 南宁白话的历史](chapter1/section1.1.md)
     * [1.2 国际音标与粤语拼音](chapter1/section1.2.md)
-* [2.第二章 南宁白话基础知识](chapter2/README.md)
+* [2.第二章 基础知识](chapter2/README.md)
     * [2.1 南宁白话拼音方案](chapter2/section2.1.md)
     * [2.2 与广州话的区别](chapter2/section2.2.md)
     * [2.3 常用字与词汇表](chapter2/section2.3.md)
@@ -25,6 +25,7 @@
 * [6.附录三 新闻报道](appendix3/README.md)
     * [6.1 羊城晚报《推普的“南宁”现象》](appendix3/appendix6.1.md)
     * [6.2 刘丹青：差别化政策是语言保护工作的迫切要务](appendix3/appendix6.2.md)
+* [南宁白话拼音方案〔简化版〕](PHONETICIZE.md)
 * [参考资料](REFERENCES.md)
 * [后记](POSTSCRIPT.md)
 

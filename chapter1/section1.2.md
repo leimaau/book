@@ -72,9 +72,7 @@ rime输入法：[云龙国际音标](https://github.com/lotem/rime-ipa)
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fxem93er79j20j60b4n31.jpg)
 
-粤语审音配词字库：[链接](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)
-
-汉语多功能字库：[链接](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+[粤语审音配词字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)  |  [粤拼](https://www.lshk.org/jyutping)
 
 
 

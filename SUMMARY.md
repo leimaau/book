@@ -7,7 +7,7 @@
 * [2.第二章 基础知识](chapter2/README.md)
     * [2.1 南宁白话拼音方案](chapter2/section2.1.md)
     * [2.2 与广州话的区别](chapter2/section2.2.md)
-    * [2.3 常用字与词汇表](chapter2/section2.3.md)
+    * [2.3 字音与词汇查询](chapter2/section2.3.md)
     * [2.4 文白异读、变调及新老派读音对比](chapter2/section2.4.md)
     * [2.5 语言接触、误读音、老南宁词汇及童谣](chapter2/section2.5.md)
     * [2.6 粤语的直读与训读、粤语的现代化](chapter2/section2.6.md)

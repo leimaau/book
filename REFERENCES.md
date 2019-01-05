@@ -43,6 +43,7 @@
 * [乡音苑](http://www.phonemica.net/)
 * [翡翠粤语歌词](https://www.feitsui.com/)
 * [语汇网](http://www.clr.org.cn/)
+* [古音手镜](http://www.guguolin.com/)
 * [复旦大学东亚语言数据中心](http://ccdc.fudan.edu.cn/bases/index.jsp)
 
 ## 其他参考资料
@@ -185,7 +186,7 @@
 
 ## 有声资料
 
-以下是我选取的有声资料，对于南宁白话的研究梳理以及保护有一定的帮助，至于网络一些恶搞视频完全不予收录。
+以下是我选取的有声资料，至于网络一些恶搞视频完全不予收录。
 
 那些恶搞视频的作者既没有正确的语言观也没有方言保护意识，同时也拉低了公众的品味，南宁白话的恶俗化它们是要负相当大的责任的，那些恶搞视频通过夹杂其他口音来丑化了南宁白话，使得年轻一代人以为南宁白话就是那样，导致不愿意学习方言，方言的保护便更加困难，外地人更是通过这些完全不地道的恶搞视频了解南宁白话，更是使得南宁白话不断污名化。
 
@@ -203,7 +204,7 @@
 * [吴建新作品 《九叔》【粤语/繁字】 第四届中国纪录片学院奖入围片](https://www.bilibili.com/video/av6124028/)
 * [中国传统水墨动画《邕城记》](http://www.iqiyi.com/w_19rtgjieq5.html)
 * [南宁【原创贺岁档】《妈妈的菜谱》白话版预告片](http://new-play.tudou.com/v/123405664.html?spm=a2h28.8313471.fl.dlink_1_3&f=50313177)
-* [南宁方言之一下廓街官话](http://new-play.tudou.com/v/548855485.html)（视频中一分十秒处开始，此为网络已知的资料）
+* [南宁方言之一下廓街官话](http://new-play.tudou.com/v/548855485.html)（视频中一分十秒处开始）
 * [南宁粤曲「粤来粤味」](http://www.iqiyi.com/w_19rwdn8hg5.html)
 * [南宁白话童谣《水街美味》](https://v.qq.com/x/page/y0502lwb8d3.html)
 * [带你领略老水街的白话童谣！是否还能唤起南宁人成长的记忆呢？](https://v.qq.com/x/page/e05674yi7rz.html)
@@ -213,9 +214,7 @@
 * [南宁11位普通市民入围白话平话声音数据库](http://video.tudou.com/v/XMjIwMzQ0MTA5Ng%3D%3D.html?spm=a2h0k.8191414.Vpcyr1zfHIA.A)
 * [谁的方言说得标准 南宁语言建档确定11 人](http://new-play.tudou.com/v/550927975.html)
 * [南宁白话平话声音数据库开始录音 壮语新闻 130204](http://new-play.tudou.com/v/127695471.html)
-* [被人遗忘的南宁白话，你仲识唔识讲啊？](https://m.weibo.cn/status/4078626632489522?sourceType=qq&from=1073195010&wm=9006_2001&featurecode=newtitle&sudaref=baike.baidu.com&retcode=6102)
 * [南宁白话为什么这样难说出口](http://new-play.tudou.com/v/701584805.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2)（指出了「栏」意义的由来）
-* [邕宁白话音拼音](http://www.bilibili.com/video/av2064344/?from=search&seid=3586123612165067854)
 * [南宁地铁粤语报站](http://tv.gxnews.com.cn/staticpages/20170412/newgx58ed7ee9-16094358.shtml)
 * [《街知巷闻》-电视节目关于南宁白话的讨论](http://v.youku.com/v_show/id_XOTgzNjQyNjQ%3D.html)
 * [《街知巷闻》讲古仔](https://v.qq.com/x/page/m0369cvyamg.html?new=1)

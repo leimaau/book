@@ -8,7 +8,7 @@
 
 ** 联系方式：**
 
-QQ邮箱： 3035956835@qq.com
+QQ邮箱： leimaau@qq.com
 
 ——LeiMaau 2018.07.27
 

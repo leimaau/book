@@ -18,7 +18,7 @@
 
 ![](http://wx4.sinaimg.cn/large/69144085gy1fytrsm8v1zj20w20f9wh6.jpg)
 
-![](http://wx4.sinaimg.cn/large/69144085gy1fytrsmn16lj20w00i8mzb.jpg)
+![](http://wx1.sinaimg.cn/large/69144085ly1fzjcsx0r97j20vz0i6dhz.jpg)
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fytrsn3xfhj20w004oaav.jpg)
 

@@ -13,7 +13,7 @@ ong菜 |	ung3|	/ʊŋ˧˧/ |	蕹菜
 guei |	gui6|	/kuːi˨˨/ |	䠩、攰
 切咧 |	ce1 le1|	/t͡ʃʰɛː˥˥ lɛː˥˥/ |	唓咧
 依妖 |	ji1 jaau1|	/jiː˥˥ jaːu˥˥/ |	咿㕭
-7黑 |	ci1 hai1|	/t͡ʃʰiː˥˥ hɐi˥˥/ |	痴㞓
+7黑 |	ci1 hai1|	/t͡ʃʰiː˥˥ hɐi˥˥/ |	黐㞓
 逼 |	bi1|	/piː˥˥/ |	屄
 鳖 |	be1|	/pɛː˥˥/|	屄
 fing |	fing3|	/fɪŋ˧˧/ |	揈

@@ -24,17 +24,9 @@ rime输入法：[云龙国际音标](https://github.com/lotem/rime-ipa)
 
 国际音标符号：[国际音标符号](https://zh.wiktionary.org/wiki/附录:国际音标符号)
 
-[粤语与国际音标对照表](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/initials.php)
+**各语言与国际音标对照举例**
 
-[汉语拼音和国际音标对照表](http://www.zdic.net/appendix/f10.htm)
-
-[日语五十音图与国际音标对照表](https://wenku.baidu.com/view/ca9f43d19e31433238689310.html)
-
-[通用吴语拼音](http://wu-chinese.com/romanization/suzhou.html)
-
-[吴语学堂](https://www.wugniu.com/)
-
-[潮语拼音方案](https://kahaani.github.io/gatian/appendix1/dieziu.html)
+[汉语拼音和国际音标对照表](http://www.zdic.net/appendix/f10.htm) | [粤语与国际音标对照表](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/initials.php) | [潮语拼音方案](https://kahaani.github.io/gatian/appendix1/dieziu.html) | [通用吴语拼音](http://wu-chinese.com/romanization/suzhou.html) | [吴语学堂](https://www.wugniu.com/) | [日语五十音图与国际音标对照表](https://wenku.baidu.com/view/ca9f43d19e31433238689310.html)
 
 ## 粤语拼音
 

@@ -8,7 +8,7 @@
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fyw7lbnygdj20o215b7aa.jpg)
 
-关于各个字所对应的页码数据可以在[附录一的4.1节页码数据](https://leimaau.github.io/book/appendix1/appendix4.1.html)中查询。根据我的校对，需要注意的是以下这几个字：
+关于各个字所对应的页码数据可以在[附录一的4.1节页码数据](https://leimaau.github.io/book/appendix1/appendix4.1.html)中查询。根据我的校对，需要注意的是以下这些字：
 
 字 | 勘误
 ---|---
@@ -35,7 +35,6 @@
 往 | 原文标调误为wong2[wɔŋ35]，应为wong5[wɔŋ24]。
 剔 | 原文误为ting1[tʰeŋ55]，应为tik1[tʰek5]。
 恒 | 原文误为hing4[heŋ21]，应为hang4[hɐŋ21]。
-恒 | 原文作「恒」字，标音误为hing4[heŋ21]，应为hang4[hɐŋ21]。
 哄 | 原文误为gung6[koŋ22]，应为hung6[hoŋ22]。
 笃 | 原文标调误为duk6[tok2]，应为duk1[tok5]。
 锃 | 原文误为cing6[tsʰeŋ22]，应为caang6[tsʰaŋ22]或caang3[tsʰaŋ33]或saang3 [ʃaŋ33]。

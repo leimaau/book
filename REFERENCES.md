@@ -21,6 +21,13 @@
 * [粤音资料集丛](http://www.jyut.net/)
 * [韵典网](http://ytenx.org/)
 * [汉典网](http://www.zdic.net/)
+* [潮语拼音方案](https://kahaani.github.io/gatian/appendix1/dieziu.html)
+* [潮州音字典](http://www.czyzd.com/)
+* [吴语学堂](https://www.wugniu.com/)
+* [吴音小字典](http://www.wu-chinese.com/minidict/)
+* [萌典](https://www.moedict.tw/%E8%90%8C)
+* [薪典](http://syndict.com/)
+* [国学大师网](http://www.guoxuedashi.com/)
 * [香港语言学学会粤拼词表](http://corpus.ied.edu.hk/JPwordlist/index.php)
 * [香港小学学习字词表](https://www.edbchinese.hk/lexlist_ch/)
 * [中英对照香港学校中文学习基础字词](https://www.edbchinese.hk/lexlist_en/)
@@ -35,8 +42,6 @@
 * [汉语发音字典](http://cn.voicedic.com/)
 * [中国语言资源保护工程汉语方言用字规范](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html)
 * [粤语字打法大全](http://restools.hanzify.org/other/canchars.htm)
-* [大象工会-蓝瘦香菇真的是南宁口音吗](https://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&mid=2651007218&idx=1&sn=1886a455a5742771eea8e7b71e9d6598&chksm=bd2df99c8a5a708aad75ae360655fded0bc4975bd4f8147c3aac72e6a3e12593267d4267ad85&scene=0#rd)
-* [国学大师网](http://www.guoxuedashi.com/)
 * [语言文字信息管理司](http://www.moe.edu.cn/s78/A19/)
 * [语保工程采录展示平台](http://expert.jiaxianghua.org/)  |  [中国语言资源保护工程宣传片](http://www.moe.edu.cn/s78/A19/moe_814/201607/t20160721_272527.html)
 * [语保网](http://www.chinalanguages.org/)
@@ -45,6 +50,8 @@
 * [语汇网](http://www.clr.org.cn/)
 * [古音手镜](http://www.guguolin.com/)
 * [复旦大学东亚语言数据中心](http://ccdc.fudan.edu.cn/bases/index.jsp)
+* [大象工会-蓝瘦香菇真的是南宁口音吗](https://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&mid=2651007218&idx=1&sn=1886a455a5742771eea8e7b71e9d6598&chksm=bd2df99c8a5a708aad75ae360655fded0bc4975bd4f8147c3aac72e6a3e12593267d4267ad85&scene=0#rd)
+
 
 ## 其他参考资料
 
@@ -53,10 +60,10 @@
 * 1980年高华年《广州方言研究》
 * 1990年广州市地方志编纂委员会《广州市志 方言志》
 * 1995年邕宁县地方志编纂委员会《邕宁县志》
-* 1998年南宁市地方志编纂委员会《南宁市志 文化卷》
 * 1997年覃远雄、韦树关、卞成林《南宁平话词典》
 * 1997年麦耘、谭步云《实用广州话分类词典》
 * 1997年饶秉才《广州话词典》
+* 1998年南宁市地方志编纂委员会《南宁市志 文化卷》
 * 1998年白宛如《广州方言词典》
 * 1998年陈伯𪸩《论粤方言词本字考释》
 * 2002年詹伯慧《广东粤方言概要》
@@ -201,13 +208,13 @@
 
 * [广西壮族自治区语言资源保护工作纪实](https://v.qq.com/x/page/x0628ej02ra.html)
 * [南宁金狮巷纪录片](https://www.bilibili.com/video/av12069625/?from=search&seid=9700533023424659169)
-* [照相馆 关平222](http://t.cn/E7aLDzp?m=4294382531985543&u=2154274767) （老派口音）
-* [2018年南宁白话发音人陈万春拜年](http://v.youku.com/v_show/id_XMzQwMjQ0MjQ3Mg%3D%3D.html?sharefrom=iphone&sharekey=acab580f469d8e12678177536bef6d990)（老派口音）
-* [2018年南宁白话发音人李晓东拜年](http://v.youku.com/v_show/id_XMzQwMjQzODU2MA%3D%3D.html?sharefrom=iphone&sharekey=76d74b69a1e09807c38b0cd5eb28b44e8)（老派口音）
-* [吴建新作品 《九叔》【粤语/繁字】 第四届中国纪录片学院奖入围片](https://www.bilibili.com/video/av6124028/)
 * [中国传统水墨动画《邕城记》](http://www.iqiyi.com/w_19rtgjieq5.html)
+* [照相馆 关平222](http://t.cn/E7aLDzp?m=4294382531985543&u=2154274767) 
+* [2018年南宁白话发音人陈万春拜年](http://v.youku.com/v_show/id_XMzQwMjQ0MjQ3Mg%3D%3D.html?sharefrom=iphone&sharekey=acab580f469d8e12678177536bef6d990)
+* [2018年南宁白话发音人李晓东拜年](http://v.youku.com/v_show/id_XMzQwMjQzODU2MA%3D%3D.html?sharefrom=iphone&sharekey=76d74b69a1e09807c38b0cd5eb28b44e8)
+* [吴建新作品 《九叔》【粤语/繁字】 第四届中国纪录片学院奖入围片](https://www.bilibili.com/video/av6124028/)
 * [南宁【原创贺岁档】《妈妈的菜谱》白话版预告片](http://new-play.tudou.com/v/123405664.html?spm=a2h28.8313471.fl.dlink_1_3&f=50313177)
-* [南宁方言之一下廓街官话](http://new-play.tudou.com/v/548855485.html)（视频中一分十秒处开始）
+* [南宁方言之一下廓街官话](http://new-play.tudou.com/v/548855485.html)
 * [南宁粤曲「粤来粤味」](http://www.iqiyi.com/w_19rwdn8hg5.html)
 * [南宁白话童谣《水街美味》](https://v.qq.com/x/page/y0502lwb8d3.html)
 * [带你领略老水街的白话童谣！是否还能唤起南宁人成长的记忆呢？](https://v.qq.com/x/page/e05674yi7rz.html)

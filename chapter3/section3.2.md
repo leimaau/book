@@ -64,7 +64,7 @@
 
 ## 清代粤语至现代粤语的变化
 
-关于清代粤语至现代粤语的变化具体请参看2013年罗言发《澳门粤语音系的历史变迁及其成因》
+关于清代粤语至现代粤语的变化具体请参看2013年[罗言发《澳门粤语音系的历史变迁及其成因》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFD1214&filename=1013208914.nh&v=MDcyMjV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlpPZHBGeUhoVUwzQlZGMjZIYkc0RnRqTnE1RWJQSVI4ZVgxTHU=)
 
 ![](http://wx1.sinaimg.cn/large/69144085gy1fxg0csvgpdj219e0lp40i.jpg)
 

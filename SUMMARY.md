@@ -15,6 +15,7 @@
 * [3.第三章 扩展知识](chapter3/README.md)
     * [3.1 粤语正音运动](chapter3/section3.1.md)
     * [3.2 清代粤语](chapter3/section3.2.md)
+    * [3.3 原始粤语](chapter3/section3.3.md)
 * [4.附录一 文档资料](appendix1/README.md)
     * [4.1 页码数据](appendix1/appendix4.1.md)
     * [4.2 童谣](appendix1/appendix4.2.md)

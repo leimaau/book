@@ -6,15 +6,15 @@
 
 **欧路词典**
 
-![欧路词典](http://wx4.sinaimg.cn/bmiddle/69144085gy1fxg0q6vuz4j20u01hcn1k.jpg)
+![欧路词典](http://wx2.sinaimg.cn/large/69144085ly1g1hok9fkoyj20ag0ikta2.jpg)
 
 **深蓝词典**
 
-![深蓝词典](http://wx4.sinaimg.cn/bmiddle/69144085gy1fxg0q7hcysj20u01hc45h.jpg)
+![深蓝词典](http://wx1.sinaimg.cn/large/69144085ly1g1hoka0yh3j20ag0ik0uu.jpg)
 
 ## PC端
 
-![goldendict](http://wx1.sinaimg.cn/large/69144085gy1fxg0q5o8l0j20w80i7acq.jpg)
+![goldendict](http://wx4.sinaimg.cn/large/69144085ly1g1hmu1xe2jj210e0je784.jpg)
 
 南宁白话字词典mdx与mdd文件下载地址：[下载地址](https://github.com/leimaau/NaamBaakDict)  |  [备用下载地址](https://coding.net/u/LeiMaau/p/NaamBaakDICT/git)
 

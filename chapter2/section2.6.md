@@ -251,4 +251,5 @@ lei5 leon6 wo4 sat6 cin5 zing3 ming4 ng5 jyun4 zi2 waan4 wo4 luk6 jyun4 zi2 waan
 
 [广府南音的曲体分析与即唱教学设计](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201801&filename=1017082764.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hFMG5qb0R3MzRwTnV4NDJRNHdqbHZYZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjI1MTViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZiK2R2Rml2blVyM09WRjI2R2JPd0hOYktxNUU=)
 
+[粤语音韵研究](http://www.doc88.com/p-579467732276.html)
 

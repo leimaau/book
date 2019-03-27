@@ -5,6 +5,7 @@
 * 1994年谢建猷《南宁白话同音字汇》，数据来源：[中国知网](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD9495&filename=FYZA199404006&uid=WEEvREcwSlJHSldRa1FhdXNXa0d1RENHbHhkNnJGRUE3Skg4TzI2TXJDaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSTEtlWitabkZpdmhWcnZOSXpUUmI3S3hGOVhNcTQ5RllvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=) | 记音质量： ★★☆☆☆ 两颗星
 * 1997年杨焕典《南宁话音档》，数据来源：[汉语多功能字库网站](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | 记音质量： ★★★☆☆ 三颗星
 * 1998年广西地方志编纂委员会《广西通志（汉语方言志）》，数据来源：[广西地情资料库](http://lib.gxdqw.com/file-a88-1.html) | 记音质量： ★★★★☆ 四颗星
+* 2002年楊煥典《現代漢語方言音庫字庫》，数据来源：[字音庫](http://vdisk.weibo.com/s/dE0JCW7hYq9zH)  | 記音質量： ★★★☆☆  三颗星
 * 2007年谢建猷《广西汉语方言研究》，数据来源：[小学堂网站](http://xiaoxue.iis.sinica.edu.tw/) | 记音质量： ★★☆☆☆ 两颗星
 * 2008年林亦、覃凤余《广西南宁白话研究》 | 记音质量： ★★★★☆ 四颗星
 * 2009年陈海伦、林亦《粤语平话土话方音字汇》 | 记音质量： ★★★☆☆ 三颗星
@@ -88,6 +89,7 @@
 * 林亦.古壮字与广西粤语方音史研究.
 * 林亦.广西的粤方言.
 * 林亦,余瑾.广西平话的地位.
+* 林亦.从方言词看广西粤语平话与江西客赣方言的关系.《江西社会科学》,2001.
 * 曾春花,覃凤余.广西汉语方言语法研究的现状.
 * 李彩红.类型学视野下广西壮语方言和汉语方言分类词接触研究.
 * 黄薇.南宁市汉语方言和壮语接触研究.
@@ -114,7 +116,8 @@
 * 封家骞.南宁白话中的古词语初探.
 * 封家骞.南宁平话、白话词汇成分之比较.
 * 利明慧.南宁文化的“粤化”及其移民背景.
-* 郭必知.从南宁粤语的状貌词看汉语方言与民族语言的接触.
+* 郭必知.从南宁粤语的状貌词看汉语方言与民族语言的接触.《民族语文》,2012.
+* 郭必知.南宁地区语言「去」义语素的语法化与接触引发的「复制」.《语言暨语言学》,2014.
 * 吴福祥,覃凤余.南宁粤语短差比式“X +A +过”的来源.
 * 罗婷.广西汉语方言词汇研究综述.
 * 罗婷.南宁白话单字调实验语音研究.
@@ -149,6 +152,8 @@
 * 洪珏.“戏棚官话”的语言分析和文化解读
 * 李新扬.邕宁白话单字调和双字调声学实验研究.
 * 黄昭艳.灵山横州话同音字汇.
+* 严春艳.百色市右江区粤语语音特点.《百色学院学报》,2012.
+* 严春艳.百色市右江区粤语同音字汇.《百色学院学报》,2013.
 * 练欣.百色白话与南宁白话同音字表比较研究.
 * 何婉萍.百色白话词汇研究.
 * 赵安杰.广西龙州白话的语音系统及语音特点分析.
@@ -232,12 +237,9 @@
 * [讲地道南宁话 老南宁有感情](http://new-play.tudou.com/v/546826692.html)
 * [南宁11位普通市民入围白话平话声音数据库](http://video.tudou.com/v/XMjIwMzQ0MTA5Ng%3D%3D.html?spm=a2h0k.8191414.Vpcyr1zfHIA.A)
 * [谁的方言说得标准 南宁语言建档确定11 人](http://new-play.tudou.com/v/550927975.html)
-* [南宁白话平话声音数据库开始录音 壮语新闻 130204](http://new-play.tudou.com/v/127695471.html)
-* [南宁白话为什么这样难说出口](http://new-play.tudou.com/v/701584805.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2)（指出了「栏」意义的由来）
-* [南宁地铁粤语报站](http://tv.gxnews.com.cn/staticpages/20170412/newgx58ed7ee9-16094358.shtml)
+* [南宁白话为什么这样难说出口](http://new-play.tudou.com/v/701584805.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2)
 * [《街知巷闻》-电视节目关于南宁白话的讨论](http://v.youku.com/v_show/id_XOTgzNjQyNjQ%3D.html)
 * [《街知巷闻》讲古仔](https://v.qq.com/x/page/m0369cvyamg.html?new=1)
-* [小南宁报站](https://v.qq.com/x/page/r1419q3b4x0.html)
 * [当方言遇上Hip Hop，瞬间觉得南宁潮爆了 \| 喜号](http://www.iqiyi.com/w_19rsycmvvl.html)
 * [《水街》PNC](http://v.youku.com/v_show/id_XMTI3NTkxMDg3Mg%3D%3D.html)
 * [MV新锐榜 PNC现场演唱《南城老友》](https://v.qq.com/x/page/s03178x51xd.html?new=1)

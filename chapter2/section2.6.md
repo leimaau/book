@@ -18,13 +18,13 @@
 
 **直读：**
 
-> “你可不可以借我一枝笔”
+> “你可不可以借我一支笔”
 >
 > ni5（nei5） ho2 bat1 ho2 ji5 ze6 ngo5 jat1 zi1 bat1
 
 **训读：**
 
-> “你可唔可以借我枝笔”
+> “你可唔可以借我支笔”
 >
 > ni5（nei5） ho2 m4 ho2 ji5 ze6 ngo5 zi1 bat1
 

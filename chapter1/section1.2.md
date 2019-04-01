@@ -6,27 +6,15 @@
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fxem4c7obvj20j60os46d.jpg)
 
-在线发音：[IPA国际音标表](http://en-yinbiao.xiao84.com/ipacharts/)
+[IPA国际音标表](http://en-yinbiao.xiao84.com/ipacharts/) | [《国际语音学会手册》](http://vdisk.weibo.com/s/DwYdCnPOcT3PM)
 
-在线视频学习：[国际音标IPA（李小凡教授）](https://www.bilibili.com/video/av9948802/?from=search&seid=5044675538230025381)
+[Type IPA phonetic symbols](http://ipa.typeit.org/full/) | [国际音标输入法（网页版）](http://ytenx.org/byohlyuk/IPA_IME)
 
-[汉语方言学 北京大学 李小凡](https://www.bilibili.com/video/av15018636/?from=search&seid=5044675538230025381)
+[IPA国际音标输入法](https://www.cr173.com/soft/384770.html) | [云龙国际音标](https://github.com/lotem/rime-ipa)
 
-在线输入：[Type IPA phonetic symbols](http://ipa.typeit.org/full/)
+[国际音标扩展](https://unicode-table.com/cn/blocks/ipa-extensions/) | [国际音标符号](https://zh.wiktionary.org/wiki/附录:国际音标符号)
 
-[国际音标输入法（网页版）](http://ytenx.org/byohlyuk/IPA_IME)
-
-IPA安卓输入法：[IPA国际音标输入法](https://www.cr173.com/soft/384770.html)
-
-rime输入法：[云龙国际音标](https://github.com/lotem/rime-ipa)
-
-国际音标扩展：[国际音标扩展](https://unicode-table.com/cn/blocks/ipa-extensions/)
-
-国际音标符号：[国际音标符号](https://zh.wiktionary.org/wiki/附录:国际音标符号)
-
-**各语言与国际音标对照举例**
-
-[汉语拼音和国际音标对照表](http://www.zdic.net/appendix/f10.htm) | [粤语与国际音标对照表](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/initials.php) | [潮语拼音方案](https://kahaani.github.io/gatian/appendix1/dieziu.html) | [通用吴语拼音](http://wu-chinese.com/romanization/suzhou.html) | [吴语学堂](https://www.wugniu.com/) | [日语五十音图与国际音标对照表](https://wenku.baidu.com/view/ca9f43d19e31433238689310.html)
+[汉语拼音和国际音标对照表](http://www.zdic.net/appendix/f10.htm)
 
 ## 粤语拼音
 
@@ -65,24 +53,4 @@ rime输入法：[云龙国际音标](https://github.com/lotem/rime-ipa)
 ![](http://wx3.sinaimg.cn/large/69144085gy1fxem93er79j20j60b4n31.jpg)
 
 [粤语审音配词字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)  |  [粤拼](https://www.lshk.org/jyutping)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

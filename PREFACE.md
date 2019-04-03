@@ -16,19 +16,9 @@
 
 ## 主要参考网站
 
-[汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) 
-
-[小学堂网站](http://xiaoxue.iis.sinica.edu.tw/)
-
-[广西地情资料库](http://www.gxdfz.org.cn/gdtz/#floor_gxtz)
-
-[广西通志-汉语方言志](http://lib.gxdqw.com/file-a88-1.html)
+[汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [小学堂网站](http://xiaoxue.iis.sinica.edu.tw/) | [广西地情资料库](http://www.gxdfz.org.cn/gdtz/#floor_gxtz) | [广西通志-汉语方言志](http://lib.gxdqw.com/file-a88-1.html)
 
 ## 本站主要链接
 
-[南宁白话小册子](https://leimaau.github.io/book/) 
-
-[南宁白话输入方案](https://github.com/leimaau/naamning_jyutping) 
-
-[南宁白话字词典](https://github.com/leimaau/NaamBaakDict) 
+[南宁白话小册子](https://leimaau.github.io/book/) | [南宁白话输入方案](https://github.com/leimaau/naamning_jyutping) | [南宁白话字词典](https://github.com/leimaau/NaamBaakDict) 
 

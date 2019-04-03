@@ -6,6 +6,6 @@
 
 3.3 原始粤语
 
-![](https://img3.doubanio.com/view/group_topic/l/public/p139744793.jpg)
+![](http://wx2.sinaimg.cn/large/69144085ly1g1ocak120qj20u01hcta8.jpg)
 
 【青山塔上的月亮】

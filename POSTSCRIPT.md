@@ -14,6 +14,7 @@ QQ邮箱：leimaau@qq.com
 
 ** 致谢 **
 
+* [MDict](https://www.mdict.cn/wp/?lang=zh)
 * [中州韵輸入法引擎](https://rime.im/)
 * [潮语输入法](https://kahaani.github.io/gatian/index.html)
 

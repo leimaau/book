@@ -8,7 +8,7 @@
 
 2.4 语言接触、普化音
 
-2.5 粤语的现代化、正字问题
+2.5 本字与正字、粤语的现代化
 
 ![](http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1410/05/c0/39271650_1412463918961.jpg)
 

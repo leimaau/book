@@ -11,7 +11,7 @@
     * [2.2 与广州话的区别](chapter2/section2.2.md)
     * [2.3 字音与词汇查询、异读现象](chapter2/section2.3.md)
     * [2.4 语言接触、普化音](chapter2/section2.4.md)
-    * [2.5 粤语的现代化、正字问题](chapter2/section2.5.md)
+    * [2.5 本字与正字、粤语的现代化](chapter2/section2.5.md)
 * [3.第三章 扩展知识](chapter3/README.md)
     * [3.1 粤语正音运动](chapter3/section3.1.md)
     * [3.2 清代粤语](chapter3/section3.2.md)

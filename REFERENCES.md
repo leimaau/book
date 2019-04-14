@@ -12,7 +12,7 @@
 
 ## 网络资料
 
-[粤语审音配词字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [黄锡凌《粤音韵汇》电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton/) | [粤语音韵集成电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton2/) | [小学堂粤语](http://xiaoxue.iis.sinica.edu.tw/yueyu) | [粤音资料集丛](http://www.jyut.net/) | [中国哲学书电子化计划](https://ctext.org/zhs) | [古今文字集成](http://www.ccamc.co/index.php) | [韵典网](http://ytenx.org/) | [汉典网](http://www.zdic.net/) | [国学大师网](http://www.guoxuedashi.com/) | [汉字资源全息应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index) | [香港语言学学会粤拼词表](http://corpus.ied.edu.hk/JPwordlist/index.php) | [香港小学学习字词表](https://www.edbchinese.hk/lexlist_ch/) | [中英对照香港学校中文学习基础字词](https://www.edbchinese.hk/lexlist_en/) | [电脑用汉字粤语拼音表](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/cliac/canton_pronun_list.htm) | [香港增补字符集](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/download_area/) | [粤拼资料库](http://www.iso10646hk.net/jp/database/index.jsp) | [ISO汉字查询系统](http://glyph.iso10646hk.net/ccs/ccs.jsp?lang=zh_TW) | [开放粤语词典](http://www.kaifangcidian.com/han/yue) | [CC-CANTO](http://cccanto.org/) | [中国语言资源保护工程汉语方言用字规范](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html) | [粤语字打法大全](http://restools.hanzify.org/other/canchars.htm) | [翡翠粤语歌词](https://www.feitsui.com/) | [语言文字信息管理司](http://www.moe.edu.cn/s78/A19/) | [语保工程采录展示平台](http://expert.jiaxianghua.org/)  |  [中国语言资源保护工程宣传片](http://www.moe.edu.cn/s78/A19/moe_814/201607/t20160721_272527.html) | [语保网](http://www.chinalanguages.org/) | [乡音苑](http://www.phonemica.net/) | [语汇网](http://www.clr.org.cn/) | [复旦大学东亚语言数据中心](http://ccdc.fudan.edu.cn/bases/index.jsp)
+[粤语审音配词字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [黄锡凌《粤音韵汇》电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton/) | [粤语音韵集成电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton2/) | [小学堂粤语](http://xiaoxue.iis.sinica.edu.tw/yueyu) | [粤音资料集丛](http://www.jyut.net/) | [中国哲学书电子化计划](https://ctext.org/zhs) | [古今文字集成](http://www.ccamc.co/index.php) | [韵典网](http://ytenx.org/) | [汉典网](http://www.zdic.net/) | [国学大师网](http://www.guoxuedashi.com/) | [汉字资源全息应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index) | [香港语言学学会粤拼词表](http://corpus.ied.edu.hk/JPwordlist/index.php) | [香港小学学习字词表](https://www.edbchinese.hk/lexlist_ch/) | [中英对照香港学校中文学习基础字词](https://www.edbchinese.hk/lexlist_en/) | [电脑用汉字粤语拼音表](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/cliac/canton_pronun_list.htm) | [香港增补字符集](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/download_area/) | [粤拼资料库](http://www.iso10646hk.net/jp/database/index.jsp) | [ISO汉字查询系统](http://glyph.iso10646hk.net/ccs/ccs.jsp?lang=zh_TW) | [开放粤语词典](http://www.kaifangcidian.com/han/yue) | [CC-CANTO](http://cccanto.org/) | [中国语言资源保护工程汉语方言用字规范](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html) | [粤语字打法大全](http://restools.hanzify.org/other/canchars.htm) | [翡翠粤语歌词](https://www.feitsui.com/) | [语言文字信息管理司](http://www.moe.edu.cn/s78/A19/) | [语保工程采录展示平台](http://expert.jiaxianghua.org/)  |  [中国语言资源保护工程宣传片](http://www.moe.edu.cn/s78/A19/moe_814/201607/t20160721_272527.html) | [语保网](http://www.chinalanguages.org/) | [乡音苑](http://www.phonemica.net/) | [语汇网](http://www.clr.org.cn/) | [复旦大学东亚语言数据中心](http://ccdc.fudan.edu.cn/bases/index.jsp) | [语言文字网](http://www.yywzw.com/jt/feng/index.html) | [语料库在线](http://corpus.zhonghuayuwen.org/index.aspx)
 
 ## 重点参考文献
 
@@ -147,11 +147,18 @@
 * 沈祥和.普通话“子”缀词在南宁白话中的存在方式.《广西社会科学》.2001-05-25.
 * 袁善来; 黄南津.广西强势语言（包括汉语方言、普通话）更替及其外部原因.《柳州师专学报》.2005-09-30.
 * 张秀珍.广西汉语方言研究篇目(1925-2011).《桂林师范高等专科学校学报》.2012-04-15.
+* 零奇燕.南宁市区街巷名称的社会语言学研究.广西师范学院硕士论文.2017-05-01.
+* 周静; 黄春平.浅析“埌东”“埌西”的读音.《视听》.2013-09-15.
+* 谢小兰.粤商移民与社会变迁——以清代至民国时期南宁市邕宁区那莲圩为视野.《黑龙江史志》.2013-10-08.
+* 谢小兰.清至民国时期桂南八尺江流域社会史考察.广西民族大学硕士论文.2014-04-01.
+* 梁月凤.广西邕宁区那莲圩的经济文化变迁.广西民族大学硕士论文.2014-05-01.
+* 韦柳芝.广西邕宁那莲古圩北帝庙会民俗文化研究.广西师范学院硕士论文.2015-04-10.
+* 林黛云.邕剧与粤剧唱腔对比研究.中国艺术研究院硕士论文.2016-04-01.
+* 符桑尼.从广东到广西:抗战前粤剧的变迁.《星海音乐学院学报》.2017-07-10.
+* 林信炜.南宁邕剧传承人的身份认同研究.广西民族大学硕士论文.2017-04-01.
 * 赵汝庆.香港报纸三及第文体.《中央民族大学学报》.2006-01-15.
 * 赵汝庆.二十世纪以来香港中文报纸语言的变异.中央民族大学博士论文.2005-05-01.
 * 邓小琴.粤方言书面化及其历史演变研究.南京大学博士论文.2011-05-01.
-* 零奇燕.南宁市区街巷名称的社会语言学研究.广西师范学院硕士论文.2017-05-01.
-* 周静; 黄春平.浅析“埌东”“埌西”的读音.《视听》.2013-09-15.
 * 谢静华.粤方言书面化中的文字借用现象.《闽西职业技术学院学报》.2017-07-20.
 
 ## 手机APP与输入法

@@ -251,5 +251,5 @@
 
 2.有时双字母aa输入比较繁琐，模糊音设置中配置了r可替代aa输入，例如gaa1，可以输入gr1。其他模糊音与容错设置这里不作过多介绍，具体内容可以参看schema文件。
 
-3.输入方案中还提供一个IPA版的方案，提示音转换为IPA，PC上按Ctrl+Enter可以将IPA上屏，按Ctrl+Shift+Enter可以将候选第一项的提示音上屏。
+3.输入方案中调整preedit_format可以将提示音转换为IPA，PC上按Ctrl+Enter可以将IPA上屏，按Ctrl+Shift+Enter可以将候选第一项的提示音上屏。
 

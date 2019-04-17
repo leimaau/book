@@ -1,7 +1,6 @@
 # 南宁白话小册子
 
-![](https://n.sinaimg.cn/translate/616/w850h566/20181211/yX6Y-hprknvu2345457.jpg)
+[![Build Status](https://travis-ci.org/leimaau/book.svg?branch=master)](https://travis-ci.org/leimaau/book)
 
-![](https://n.sinaimg.cn/translate/616/w850h566/20181211/862i-hprknvu2345527.jpg)
+![](http://www.005.tv/uploads/allimg/160921/1A63263J-26.jpg)
 
-> 落雨大，水浸街 —— 岭南民谣

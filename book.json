@@ -11,29 +11,33 @@
 		"sharing-plus",
 		"flexible-alerts",
 		"splitter",
-		"chapter-fold",
-		"github",
+		"expandable-chapters",
+		"github-buttons",
 		"lightbox",
-		"tbfed-pagefooter",
-		"pageview-count",
+		"page-footer-ex",
 		"theme-comscore",
 		"anchors",
 		"accordion"
     ],
 	
     "pluginsConfig": {
-        "github": {
-            "url": "https://github.com/leimaau"
-        },
-		"pluginsConfig": {
-			"tbfed-pagefooter": {
-				"copyright":"Copyright &copy leimaau 2018",
-				"modify_label": "该文件修订时间：",
-				"modify_format": "YYYY-MM-DD HH:mm:ss"
-			}
+		"github-buttons": {
+		  "buttons": [{
+			"user": "leimaau",
+			"repo": "book",
+			"type": "star",
+			"size": "small",
+			"count": true
+		  }]
+		},
+		"page-footer-ex": {
+		  "copyright": "By [leimaau](https://github.com/leimaau)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+		  "markdown": true,
+		  "update_label": "此页面修订于：",
+		  "update_format": "YYYY-MM-DD HH:mm:ss"
 		},
         "sharing": {
-           "douban": false,
+           "douban": true,
            "facebook": false,
            "google": false,
            "hatenaBookmark": false,
@@ -42,15 +46,15 @@
            "linkedin": false,
            "messenger": false,
            "pocket": false,
-           "qq": false,
-           "qzone": false,
+           "qq": true,
+           "qzone": true,
            "stumbleupon": false,
            "twitter": false,
            "viber": false,
            "vk": false,
-           "weibo": false,
+           "weibo": true,
            "whatsapp": false,
-           "all": ["douban","qq", "qzone","weibo"]
+           "all": ["facebook","twitter", "google","hatenaBookmark"]
         }
 	}
 }

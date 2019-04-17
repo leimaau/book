@@ -10,7 +10,7 @@
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fyw7lbnygdj20o215b7aa.jpg)
 
-关于各个字所对应的页码数据可以在[此处](https://shimo.im/sheets/gdgWIpfwBVcSBq5v/)查询，该在线文档提供了我的审音数据供参考。根据我的校对，需要注意的是以下这些字：
+关于各个字所对应的页码数据可以在[此处](https://shimo.im/sheets/gdgWIpfwBVcSBq5v/)查询。根据我的校对，需要注意的是以下这些字：
 
 字 | 勘误
 ---|---

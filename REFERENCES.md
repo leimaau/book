@@ -12,11 +12,17 @@
 
 ## 网络资料
 
+%accordion%列表%accordion%
+
 [粤语审音配词字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [黄锡凌《粤音韵汇》电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton/) | [粤语音韵集成电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton2/) | [小学堂粤语](http://xiaoxue.iis.sinica.edu.tw/yueyu) | [粤音资料集丛](http://www.jyut.net/) | [中国哲学书电子化计划](https://ctext.org/zhs) | [古今文字集成](http://www.ccamc.co/index.php) | [韵典网](http://ytenx.org/) | [汉典网](http://www.zdic.net/) | [国学大师网](http://www.guoxuedashi.com/) | [汉字资源全息应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index) | [香港语言学学会粤拼词表](http://corpus.ied.edu.hk/JPwordlist/index.php) | [香港小学学习字词表](https://www.edbchinese.hk/lexlist_ch/) | [中英对照香港学校中文学习基础字词](https://www.edbchinese.hk/lexlist_en/) | [电脑用汉字粤语拼音表](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/cliac/canton_pronun_list.htm) | [香港增补字符集](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/download_area/) | [粤拼资料库](http://www.iso10646hk.net/jp/database/index.jsp) | [ISO汉字查询系统](http://glyph.iso10646hk.net/ccs/ccs.jsp?lang=zh_TW) | [开放粤语词典](http://www.kaifangcidian.com/han/yue) | [CC-CANTO](http://cccanto.org/) | [中国语言资源保护工程汉语方言用字规范](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html) | [粤语字打法大全](http://restools.hanzify.org/other/canchars.htm) | [翡翠粤语歌词](https://www.feitsui.com/) | [语言文字信息管理司](http://www.moe.edu.cn/s78/A19/) | [语保工程采录展示平台](http://expert.jiaxianghua.org/)  |  [中国语言资源保护工程宣传片](http://www.moe.edu.cn/s78/A19/moe_814/201607/t20160721_272527.html) | [语保网](http://www.chinalanguages.org/) | [乡音苑](http://www.phonemica.net/) | [语汇网](http://www.clr.org.cn/) | [复旦大学东亚语言数据中心](http://ccdc.fudan.edu.cn/bases/index.jsp) | [语言文字网](http://www.yywzw.com/jt/feng/index.html) | [语料库在线](http://corpus.zhonghuayuwen.org/index.aspx)
+
+%/accordion%
 
 ## 重点参考文献
 
 ### 出版书籍
+
+%accordion%列表%accordion%
 
 * 1980年高华年《广州方言研究》
 * 1981年梁振仕《广西粤语的音韵系统》
@@ -43,7 +49,11 @@
 * 2011年刘玉萍《实用粤语播音主持语言基础教程》
 * 2016年余瑾《广西平话研究》
 
+%/accordion%
+
 ### 知网论文
+
+%accordion%列表%accordion%
 
 * 王力.两粤音说.《清华大学学报(自然科学版)》.1928-06-15.
 * 白宛如.广州话本字考.《方言》.1980-09-30.
@@ -161,6 +171,8 @@
 * 邓小琴.粤方言书面化及其历史演变研究.南京大学博士论文.2011-05-01.
 * 谢静华.粤方言书面化中的文字借用现象.《闽西职业技术学院学报》.2017-07-20.
 
+%/accordion%
+
 ## 手机APP与输入法
 
 [牛牛粤语](http://os-android.liqucn.com/rj/43379.shtml) | [汉字古今中外读音查询](https://zhuanlan.zhihu.com/p/20839947) | [粤音字库](http://dl.pconline.com.cn/download/784980.html) | [RIME输入法](http://rime.im/) | [google粤语拼音输入法](https://www.25pp.com/android/detail_2123217/)
@@ -177,4 +189,9 @@
 
 而南宁地区的许多媒体连粤拼是什么都不知道，科普就更不用说，地方自媒体更是俗之又俗，文化水平低下，可以说这些自媒体或公众号名义上好像是传播南宁文化，其实从一开始这些人就是南宁文化的破坏者。
 
+%accordion%列表%accordion%
+
 [广西壮族自治区语言资源保护工作纪实](https://v.qq.com/x/page/x0628ej02ra.html) | [北风同热头](https://www.bilibili.com/audio/au749077) | [2018年南宁白话发音人陈万春拜年](http://v.youku.com/v_show/id_XMzQwMjQ0MjQ3Mg%3D%3D.html?sharefrom=iphone&sharekey=acab580f469d8e12678177536bef6d990) | [2018年南宁白话发音人李晓东拜年](http://v.youku.com/v_show/id_XMzQwMjQzODU2MA%3D%3D.html?sharefrom=iphone&sharekey=76d74b69a1e09807c38b0cd5eb28b44e8) | [吴建新作品 《九叔》【粤语/繁字】 第四届中国纪录片学院奖入围片](https://www.bilibili.com/video/av6124028/) | [南宁金狮巷纪录片](https://www.bilibili.com/video/av12069625/?from=search&seid=9700533023424659169) | [中国传统水墨动画《邕城记》](http://www.iqiyi.com/w_19rtgjieq5.html) | [照相馆 关平222](http://t.cn/E7aLDzp?m=4294382531985543&u=2154274767)  | [南宁【原创贺岁档】《妈妈的菜谱》白话版预告片](http://new-play.tudou.com/v/123405664.html?spm=a2h28.8313471.fl.dlink_1_3&f=50313177) | [南宁方言之一下廓街官话](http://new-play.tudou.com/v/548855485.html) | [南宁粤曲「粤来粤味」](http://www.iqiyi.com/w_19rwdn8hg5.html) | [南宁白话童谣《水街美味》](https://v.qq.com/x/page/y0502lwb8d3.html) | [带你领略老水街的白话童谣！是否还能唤起南宁人成长的记忆呢？](https://v.qq.com/x/page/e05674yi7rz.html) | [收集南宁白话童谣传唱浓浓“南宁滋味”](http://video.tudou.com/v/XMjIwMzQ0MTMyOA%3D%3D.html) | [讲得少感觉“土”南宁白话面临困境](http://video.tudou.com/v/XMjE5NjM1MTA4NA%3D%3D.html?spm=a2h0k.8191414.5FPAwDXPP8U.A) | [讲地道南宁话 老南宁有感情](http://new-play.tudou.com/v/546826692.html) | [南宁11位普通市民入围白话平话声音数据库](http://video.tudou.com/v/XMjIwMzQ0MTA5Ng%3D%3D.html?spm=a2h0k.8191414.Vpcyr1zfHIA.A) | [谁的方言说得标准 南宁语言建档确定11 人](http://new-play.tudou.com/v/550927975.html) | [南宁白话为什么这样难说出口](http://new-play.tudou.com/v/701584805.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2) | [《街知巷闻》-电视节目关于南宁白话的讨论](http://v.youku.com/v_show/id_XOTgzNjQyNjQ%3D.html) | [《街知巷闻》讲古仔](https://v.qq.com/x/page/m0369cvyamg.html?new=1) | [当方言遇上Hip Hop，瞬间觉得南宁潮爆了 \| 喜号](http://www.iqiyi.com/w_19rsycmvvl.html) | [《水街》PNC](http://v.youku.com/v_show/id_XMTI3NTkxMDg3Mg%3D%3D.html) | [MV新锐榜 PNC现场演唱《南城老友》](https://v.qq.com/x/page/s03178x51xd.html?new=1) | [《南宁歌谣》房少强 黄蔚靖（MV）](http://v.youku.com/v_show/id_XMTcyNTM4NTIwMA%3D%3D.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2) | [寻味南宁 手搓粉虫 清香韧软](https://weibo.com/tv/v/FBhNbmQsB?fid=1034:9360c85c55891434d7500d73911100b3) | [邕剧（上集）](http://www.nntv.cn/v/zlsnn/2017-2-17/1487300061970.shtml) | [《唱响邕剧》](http://my.tv.sohu.com/pl/9028935/80845296.shtml) | [走近邕剧 了解邕剧（上）](http://new-play.tudou.com/v/548110243.html) | [《邕州古韵 》广西非物质文化遗产](http://my.tv.sohu.com/us/240471285/77592187.shtml) | [《邕城桂戏》广西非物质文化遗产](http://my.tv.sohu.com/pl/9028935/77043395.shtml) | [《五色真军器纪录片》广西非物质文化遗产-系列影片-邕剧](http://v.youku.com/v_show/id_XODEzMjY2MTE2.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+
+%/accordion%
+

@@ -34,6 +34,8 @@
 
 5.「香港教育学院拼音方案」是余秉昭于1971年开发的粤语拼音方案。此方案是香港教育局和香港考试及评核局等香港教育部门，唯一承认的标准粤语拼音方案。《广州话正音字典》即是采用这种方案，粤拼诞生之后，因这种方案与粤拼差别不大，因此正音字典为了省事并未作修改。
 
+%accordion%列表%accordion%
+
 ![](http://wx3.sinaimg.cn/large/69144085gy1fxem912ylcj20j60h9n6q.jpg)
 
 ![](http://wx2.sinaimg.cn/large/69144085gy1fxem91na1aj20j60dsqbi.jpg)
@@ -43,6 +45,8 @@
 ![](http://wx4.sinaimg.cn/large/69144085gy1fxem92n445j20j60etk1r.jpg)
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fxem93er79j20j60b4n31.jpg)
+
+%/accordion%
 
 [粤语审音配词字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)  |  [粤拼](https://www.lshk.org/jyutping)
 

@@ -2,9 +2,13 @@
 
 ## 南宁白话语音
 
+%accordion%列表%accordion%
+
 ![](http://wx3.sinaimg.cn/large/69144085gy1fyw8zci0edj20o30w3wli.jpg)
 
 ![](http://wx1.sinaimg.cn/large/69144085gy1fyw8zd5xtkj20np0e2gne.jpg)
+
+%/accordion%
 
 **参考资料：**
 

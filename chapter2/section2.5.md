@@ -40,6 +40,8 @@
 
 下面这篇语料出自1997年杨焕典《南宁话音档》的「北风跟太阳」，分别用官话白话文与粤语白话文来书写，[此处](https://www.bilibili.com/audio/au749077)给出用南宁白话来直读粤语白话文的例子。
 
+%accordion%列表%accordion%
+
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1pehmo29bj20gw08h3yt.jpg)
 
 ![](http://wx3.sinaimg.cn/mw690/69144085ly1g1pehn5cxyj20h607aq3a.jpg)
@@ -49,6 +51,8 @@
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1pehlswmtj20hr0tojt9.jpg)
 
 ![](http://wx2.sinaimg.cn/mw690/69144085ly1g1pehma3dlj20gn0kzjsh.jpg)
+
+%/accordion%
 
 ## 本字与正字
 
@@ -77,6 +81,8 @@ feng |	fang4|	[fɐŋ˨˩] |	  揈
 
 在[2011年邓小琴《粤方言书面化及其历史演变研究》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2016&filename=1016004514.nh&v=MjM5MzJGQ3JsVXJyS1ZGMjZHTE80R3RUTnE1RWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlkrWnU=)的论文中归纳了一份很完整的字表可以作为参考。
 
+%accordion%列表%accordion%
+
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocaaybt7j20sr18tjxs.jpg)
 
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocabwgyoj20so19dtfb.jpg)
@@ -98,6 +104,8 @@ feng |	fang4|	[fɐŋ˨˩] |	  揈
 ![](http://wx3.sinaimg.cn/mw690/69144085ly1g1ocajb6acj20s3195tey.jpg)
 
 ![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocajo1mqj20s60ohn0p.jpg)
+
+%/accordion%
 
 ## 粤语的现代化
 
@@ -125,26 +133,40 @@ feng |	fang4|	[fɐŋ˨˩] |	  揈
 
 例如上述举出的例子：
 
-```
-「坎坷」
-广州话：ham1 ho1 | 南宁白话：ham1 ho1 或 ham2 ho2
-「寻秦记」
-广州话：cam4 ceon4 gei3 | 南宁白话：cam4 can4 gi3
-「血液循环」
-广州话：hyut3 jik6 ceon4 waan4 | 南宁白话：hyut3 jik6 can4 waan4，「循」读slan4亦可
-「阿尔茨海默症」
-广州话：aa3 ji5 ci4 hoi2 mak6 zing3 | 南宁白话：aa3 ji5 ci4 hoi2 mak6 zing3
-「三氯甲烷」
-广州话：saam1 luk6 gaap3 jyun4 | 南宁白话：slaam1 luk6 gaap3 jyun4
-「脂肪醇聚氧乙烯醚」
-广州话：zi1 fong1 seon4 zeoi6 joeng5 jyut3 hei1 mai4 | 南宁白话：zi1 fong1 san4 zyu6 joeng5 jyut3 hi1 mai4
-```
+> [!TIP|style:flat]
+> 
+> 「坎坷」
+> 
+> 广州话：ham1 ho1 | 南宁白话：ham1 ho1 或 ham2 ho2
+> 
+> 「寻秦记」
+> 
+> 广州话：cam4 ceon4 gei3 | 南宁白话：cam4 can4 gi3
+> 
+> 「血液循环」
+> 
+> 广州话：hyut3 jik6 ceon4 waan4 | 南宁白话：hyut3 jik6 can4 waan4，「循」读slan4亦可
+> 
+> 「阿尔茨海默症」
+> 
+> 广州话：aa3 ji5 ci4 hoi2 mak6 zing3 | 南宁白话：aa3 ji5 ci4 hoi2 mak6 zing3
+> 
+> 「三氯甲烷」
+> 
+> 广州话：saam1 luk6 gaap3 jyun4 | 南宁白话：slaam1 luk6 gaap3 jyun4
+> 
+> 「脂肪醇聚氧乙烯醚」
+> 
+> 广州话：zi1 fong1 seon4 zeoi6 joeng5 jyut3 hei1 mai4 | 南宁白话：zi1 fong1 san4 zyu6 joeng5 jyut3 hi1 mai4
+
 
 上面这些词通过查字典、查韵书基本可以确定读法，细致的审音交给专家。
 
 ### 举例
 
 再举一些其他的例子，如何使用读书音完整读一段文本，以此展现读书音的强大威力，为了不让文章过长，以下只用粤拼广州音标注。
+
+%accordion%列表%accordion%
 
 ** 新闻报道：**
 ```
@@ -211,6 +233,8 @@ do1 ci2 pui3 wai6 tai2 cing1 wai4 ngou4 hap6 zai1，taa1 wo4 zung1 sam1 lei4 zi2
 理论和实践证明五原子环和六原子环最稳定，故螯合剂中2个配位原子之间一般要相隔2~3个原子。
 lei5 leon6 wo4 sat6 cin5 zing3 ming4 ng5 jyun4 zi2 waan4 wo4 luk6 jyun4 zi2 waan4 zeoi3 wan2 ding6，gu3 ngou4 hap6 zai1 zung1 loeng2 go3 pui3 wai6 jyun4 zi2 zi1 gaan1 jat1 bun1 jiu3 soeng1 gaak3 2~3 go3 jyun4 zi2。
 ```
+
+%/accordion%
 
 [转换工具](https://www.chineseconverter.com/cantonesetools/en/cantonese-to-jyutping) | [翡翠粤语歌词](https://www.feitsui.com/)
 

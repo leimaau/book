@@ -4,7 +4,7 @@
 
 《汉语音韵讲义》一书原是普通话语音研究班（教育部和语言研究所合办）第一期到第三期（一九五六年初到一九五七年中）汉语音韵课的讲义，由中国著名语言学家丁声树和李荣两位先生合力所作，是学习汉语音韵学和研究汉语方言学的必读经典著作之一，最近由上海教育出版社重印。
 
-[《汉语音韵讲义》](http://vdisk.weibo.com/s/uo_oPCjW6D8Ug) | [武汉大学音韵学教程（万献初）](https://www.bilibili.com/video/av11834886?from=search&seid=7959427735466072071) | [中古汉语语音教程](https://www.bilibili.com/video/av187189?from=search&seid=1354186176496294159) | [《音韵学通论》](https://book.douban.com/subject/1121971/)
+[《汉语音韵讲义》](http://vdisk.weibo.com/s/uo_oPCjW6D8Ug) | [武汉大学音韵学教程（万献初）](https://www.bilibili.com/video/av11834886?from=search&seid=7959427735466072071) | [中古汉语语音教程](https://www.bilibili.com/video/av187189?from=search&seid=1354186176496294159) | [胡安顺《音韵学通论》](https://book.douban.com/subject/1121971/)
 
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1554926703457&di=8a5b2050f9e8e1c49804bb4f5d918323&imgtype=0&src=http%3A%2F%2Fimg3.doubanio.com%2Flpic%2Fs1678052.jpg)
 

@@ -9,7 +9,7 @@
 * [2.第二章 基础知识](chapter2/README.md)
     * [2.1 南宁白话拼音方案](chapter2/section2.1.md)
     * [2.2 与广州话的区别](chapter2/section2.2.md)
-    * [2.3 字音与词汇查询、异读现象](chapter2/section2.3.md)
+    * [2.3 字词查询、异读现象](chapter2/section2.3.md)
     * [2.4 语言接触、普化音](chapter2/section2.4.md)
     * [2.5 本字与正字、粤语的现代化](chapter2/section2.5.md)
 * [3.第三章 扩展知识](chapter3/README.md)
@@ -23,7 +23,7 @@
     * [5.1 羊城晚报《推普的“南宁”现象》](appendix2/appendix5.1.md)
     * [5.2 刘丹青：差别化政策是语言保护工作的迫切要务](appendix2/appendix5.2.md)
 * [南宁白话拼音方案〔简化版〕](PHONETICIZE.md)
+* [南宁白话小测试](QUIZ.md)
 * [参考资料](REFERENCES.md)
 * [后记](POSTSCRIPT.md)
-
 

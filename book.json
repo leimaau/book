@@ -17,7 +17,8 @@
 		"page-footer-ex",
 		"theme-comscore",
 		"anchors",
-		"accordion"
+		"accordion",
+		"quiz"
     ],
 	
     "pluginsConfig": {
@@ -36,6 +37,22 @@
 		  "update_label": "此页面修订于：",
 		  "update_format": "YYYY-MM-DD HH:mm:ss"
 		},
+        "quiz": {
+            "labels": {
+                "check": "提交答案",
+                "showExplanation": "显示解释",
+                "showCorrect": "显示正确答案",
+                "explanationHeader": "释义"
+            },
+            "text": {
+                "noChosen": "请选择至少一个答案",
+                "incomplete": "Some correct answers are missing"
+            },
+            "buttons": {
+                "showCorrect": true,
+                "showExplanation": true
+            }
+        },
         "sharing": {
            "douban": true,
            "facebook": false,

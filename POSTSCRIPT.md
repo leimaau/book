@@ -19,6 +19,6 @@ QQ邮箱：leimaau@qq.com
 * [潮语输入法](https://kahaani.github.io/gatian/index.html)
 
 
-![](https://wx4.sinaimg.cn/mw690/007k96OPly4fy9jedl7l4j30u00u0tf9.jpg) 
+![](http://wx4.sinaimg.cn/mw690/007k96OPly4fy9jedl7l4j30u00u0tf9.jpg) 
 
 【唐山路鸳鸯楼】

@@ -18,7 +18,8 @@
 		"theme-comscore",
 		"anchors",
 		"accordion",
-		"quiz"
+		"quiz",
+		"mermaid-full@>=0.5.1"
     ],
 	
     "pluginsConfig": {

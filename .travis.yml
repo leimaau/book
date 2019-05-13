@@ -22,8 +22,6 @@ script:
   # 自定义输出目录 gitbook build src dest
   - gitbook build . ./build
   # - gitbook build . ./build/$CUSTOM_PATH
-
-after_script:
   - touch ./build/README.md
 
 # 分支白名单

@@ -33,10 +33,10 @@
 		  }]
 		},
 		"page-footer-ex": {
-		  "copyright": "By [leimaau](https://github.com/leimaau)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+		  "copyright": "[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) By [leimaau](https://github.com/leimaau)，使用[知识共享 署名-非商业性使用-禁止演绎 4.0协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)发布",
 		  "markdown": true,
 		  "update_label": "此页面修订于：",
-		  "update_format": "YYYY-MM-DD HH:mm:ss"
+		  "update_format": "YYYY-MM-DD"
 		},
         "quiz": {
             "labels": {
@@ -47,7 +47,7 @@
             },
             "text": {
                 "noChosen": "请选择至少一个答案",
-                "incomplete": "Some correct answers are missing"
+                "incomplete": "未选对所有正确答案，3分"
             },
             "buttons": {
                 "showCorrect": true,

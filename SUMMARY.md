@@ -23,7 +23,7 @@
     * [5.1 羊城晚报《推普的“南宁”现象》](appendix2/appendix5.1.md)
     * [5.2 刘丹青：差别化政策是语言保护工作的迫切要务](appendix2/appendix5.2.md)
 * [南宁白话拼音方案〔简化版〕](PHONETICIZE.md)
-* [南宁白话小测试](QUIZ.md)
+* [南宁白话小测验](QUIZ.md)
 * [参考资料](REFERENCES.md)
 * [后记](POSTSCRIPT.md)
 

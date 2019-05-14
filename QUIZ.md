@@ -49,7 +49,7 @@
         <explanation>生、争、冷 白读-aang[-aːŋ]，文读少用<br/>更、梗、庚 白读-aang[-aːŋ]，文读-ang[-ɐŋ]<br/>棚、彭、横 白读-aang[-aːŋ]，无文读<br/>硬、橙、猛 白读-aang[-aːŋ]，无文读<br/>萌、哽、杏 只有文读-ang[-ɐŋ]，无白读</explanation>
     </question>
     <question multiple>
-        <p>6.（多选）下列选项哪些字的读法反映了新老派在中古臻摄三等合口舌齿音（包括半舌半齿）字上有别（10分）</p>
+        <p>6.（多选）下列选项哪些字的读法反映了新老派在中古臻摄三等合口舌齿音（包括半舌半齿）字上有别？（10分）</p>
         <answer>荀、津、舜</answer>
         <answer>殒、笋、率（效率）</answer>
         <answer correct>春、伦、律</answer>

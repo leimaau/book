@@ -2,13 +2,47 @@
 
 ## RIME输入法引擎
 
-推荐**RIME输入法引擎**，pc上的名称叫「小狼毫输入法」，安卓上的名称叫「同文输入法」，IOS系统上的名称叫「iRime输入法」，官方地址：[RIME输入法](https://rime.im/)。[视频演示](https://v.youku.com/v_show/id_XNjM0MzY5MTYw.html?spm=a2h0k.11417342.soresults.dtitle)用粤拼输入马德钟《江山》。
+推荐**RIME输入法引擎**，pc上的名称叫「小狼毫输入法」，安卓上的名称叫「同文输入法」，IOS系统上的名称叫「iRime输入法」，官方地址：[RIME输入法](https://rime.im/)（[视频演示粤拼输入](https://v.youku.com/v_show/id_XNjM0MzY5MTYw.html?spm=a2h0k.11417342.soresults.dtitle)）。下面演示用南宁白话输入方案来打孟浩然《春晓》。
 
-![](http://wx1.sinaimg.cn/large/69144085gy1fxfy2tgoipj20kt0ebdgh.jpg)
+![演示gif](https://s2.ax1x.com/2019/05/14/Eo2Ll9.gif)
 
 南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping) | 安装及使用方法：[**用汉语方言拼音打字**](https://laubonghaudoi.github.io/dialects/)
 
+## 打字技巧
+
+### 声调输入
+
+q 阴平 v 阴上 x 阴去 qq 阳平 vv 阳上 xx 阳去
+
+### 拼音反查
+
+按下`` ` ``键，以普通话拼音反查南宁粤拼
+
+### 五笔画反查
+
+按下`` x ``键，以五笔画反查南宁粤拼，h,s,p,n,z 分别代表横、竖、撇、捺、折
+
 ## 本码表使用技巧
+
+### 本文演示的小狼毫配色
+
+```yaml
+# weasel.custom.yaml
+
+patch:
+  "style/color_scheme": leimaau
+  "style/horizontal": false
+  "preset_color_schemes/leimaau":
+    name: 貍貓配色／LeiMaau
+    author: LeiMaau <leimaau@qq.com>, original artwork by LeiMaau
+    text_color: 0xe8f3f6
+    back_color: 0xbc941a  # 鈷藍
+    border_color: 0x222548  # 大山棕
+    hilited_text_color: 0xf2f7ee  # 月白
+    hilited_back_color: 0x323348  # 海報灰
+    hilited_candidate_text_color: 0x000000
+    hilited_candidate_back_color: 0xd5ecdf  # 艾背綠
+```
 
 ### 开启多字形和emoji表情
 
@@ -222,6 +256,7 @@ emoji_cn:  # emoji根據需要自行開啓
 
 效果
 
+![多字形和emoji](https://s2.ax1x.com/2019/05/14/Eo2XO1.gif)
 
 ### 提示音显示为IPA
 
@@ -422,20 +457,13 @@ translator:
 
 效果
 
+![显示IPA](https://s2.ax1x.com/2019/05/14/EoYtns.gif)
 
 ### 竖排打字时显示释义
 
 ```yaml
 reverse_lookup:
   tags:  [luna_pinyin, stroke]  # 需要打字時顯示釋義則註釋這行，建議豎排顯示時使用【很有用的功能，建議PC上使用！】
-  overwrite_comment: true
-  dictionary: naamning_jyutping
-  comment_format:
-    - xform/ /\｜/
-    - xform/^/〔/
-    - xform/$/〕/
-    - xform/「/ /
-    - xform/」//
 ```
 
 改为
@@ -443,18 +471,11 @@ reverse_lookup:
 ```yaml
 reverse_lookup:
 #  tags:  [luna_pinyin, stroke]  # 需要打字時顯示釋義則註釋這行，建議豎排顯示時使用【很有用的功能，建議PC上使用！】
-  overwrite_comment: true
-  dictionary: naamning_jyutping
-  comment_format:
-    - xform/ /\｜/
-    - xform/^/〔/
-    - xform/$/〕/
-    - xform/「/ /
-    - xform/」//
 ```
 
 效果
 
+![显示释义](https://s2.ax1x.com/2019/05/14/Eoa3an.gif)
 
 ### 横排打字时只标注单字音
 
@@ -474,9 +495,25 @@ translator:
   spelling_hints: 1  # 標註拼音的字數，建議橫排顯示時設置爲1
 ```
 
+不需要显示释义时
+
+```yaml
+reverse_lookup:
+#  tags:  [luna_pinyin, stroke]  # 需要打字時顯示釋義則註釋這行，建議豎排顯示時使用【很有用的功能，建議PC上使用！】
+```
+
+改回
+
+```yaml
+reverse_lookup:
+  tags:  [luna_pinyin, stroke]  # 需要打字時顯示釋義則註釋這行，建議豎排顯示時使用【很有用的功能，建議PC上使用！】
+```
+
 weasel.custom.yaml文件
 
 ```yaml
+# weasel.custom.yaml
+
 patch:
   "style/color_scheme": lost_temple
   "style/horizontal": false
@@ -485,6 +522,8 @@ patch:
 改为
 
 ```yaml
+# weasel.custom.yaml
+
 patch:
   "style/color_scheme": lost_temple
   "style/horizontal": true
@@ -492,6 +531,7 @@ patch:
 
 效果
 
+![横排打字](https://s2.ax1x.com/2019/05/14/EoNfSO.gif)
 
 ### 小鹤同文主题[安卓端用]
 
@@ -525,19 +565,4 @@ key_binder:
 
 效果
 
-
-## 打字技巧
-
-### 拼音反查
-
-按下`` ` ``键，以普通话拼音反查南宁粤拼
-
-
-
-### 五笔画反查
-
-按下`` x ``键，以五笔画反查南宁粤拼，h,s,p,n,z 分别代表横、竖、撇、捺、折
-
-
-
-
+![小鹤同文主题](https://s2.ax1x.com/2019/05/14/EoyHK0.png)

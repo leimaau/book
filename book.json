@@ -22,20 +22,10 @@
 		"accordion",
 		"quiz",
 		"mermaid-full@>=0.5.1",
-		"donate",
-		"favicon"
+		"donate"
     ],
 	
     "pluginsConfig": {
-        "favicon":{
-            "shortcut": "assets/images/favicon.ico",
-            "bookmark": "assets/images/favicon.ico",
-            "appleTouch": "assets/images/apple-touch-icon.png",
-            "appleTouchMore": {
-                "120x120": "assets/images/apple-touch-icon-120x120.png",
-                "180x180": "assets/images/apple-touch-icon-180x180.png"
-            }
-		},
 		"page-toc-button": {
 			"maxTocDepth": 4,
 			"minTocSize": 2

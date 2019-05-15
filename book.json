@@ -2,27 +2,44 @@
     "title": "南宁白话小册子",
     "description": "介绍南宁白话的基础知识",
     "author": "leimaau",
+    "language": "zh-hans",
     "plugins": [
 	    "-lunr",
 		"-search",
 		"search-plus",
-        "navigator",
+        "page-toc-button",
+		"back-to-top-button",
 		"-sharing",
 		"sharing-plus",
 		"flexible-alerts",
 		"splitter",
 		"expandable-chapters",
 		"github-buttons",
-		"popup",
+		"lightbox",
 		"page-footer-ex",
 		"theme-comscore",
 		"anchors",
 		"accordion",
 		"quiz",
-		"mermaid-full@>=0.5.1"
+		"mermaid-full@>=0.5.1",
+		"donate",
+		"favicon"
     ],
 	
     "pluginsConfig": {
+        "favicon":{
+            "shortcut": "assets/images/favicon.ico",
+            "bookmark": "assets/images/favicon.ico",
+            "appleTouch": "assets/images/apple-touch-icon.png",
+            "appleTouchMore": {
+                "120x120": "assets/images/apple-touch-icon-120x120.png",
+                "180x180": "assets/images/apple-touch-icon-180x180.png"
+            }
+		},
+		"page-toc-button": {
+			"maxTocDepth": 4,
+			"minTocSize": 2
+		},
 		"github-buttons": {
 		  "buttons": [{
 			"user": "leimaau",
@@ -32,6 +49,14 @@
 			"count": true
 		  }]
 		},
+        "donate": {
+            "wechat": "https://s2.ax1x.com/2019/05/15/ET7Hoj.jpg",
+            "alipay": "https://s2.ax1x.com/2019/05/15/ET77wQ.jpg",
+            "title": "拿钱去买猫粮，楼下的流浪猫在等我('')ノ",
+            "button": "赞赏",
+            "alipayText": "支付宝",
+            "wechatText": "微信"
+        },
 		"page-footer-ex": {
 		  "copyright": "[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) By [leimaau](https://github.com/leimaau)，使用[知识共享 署名-非商业性使用-禁止演绎 4.0协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)发布",
 		  "markdown": true,

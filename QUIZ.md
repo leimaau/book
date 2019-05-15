@@ -58,7 +58,7 @@
         <explanation>新老派在臻合三舌齿音字上分别读-an[-ɐn]和-yun[-yːn]，「津、信、嶙」虽然有新老派之别，但是中古为臻开三，「殒」云母字，无新老派之别<br/></explanation>
     </question>
     <question multiple>
-        <p>7.（多选）zaak3[t͡ʃaːk̚˧]一词表示「压，砸」之意，例如「大石～死蟹」，考本字时下列哪些说法比较有可能？（10分）</p>
+        <p>7.（多选）zaak3[t͡ʃaːk̚˧]一词表示「压，砸」之意，例如「大石～死蟹」，考本字时下列哪些说法是有可能的？（10分）</p>
         <answer correct>本字「笮」</answer>
         <answer correct>本字「迮」</answer>
         <answer correct>本字「矺」</answer>
@@ -73,7 +73,7 @@
         <answer correct>完成体标记</answer>
         <answer correct>顺序义标记</answer>
         <answer correct>反复体标记</answer>
-        <explanation>完毕义副词，动词或形容词之后作后置状语，例如：一框果总烂嗮<br/>已然体标记，例如：只猫开始捉老鼠嗮<br/>完成体标记，出现于动词、形容词之后，例如：做嗮任务问至得奖金<br/>顺序义标记，例如：佢先来，跟尾嗮我至来<br/>反复体标记，例如：佢只人就系噉嘅啦，一样嘢做做嗮又冇做得落去，讲辛苦多</explanation>
+        <explanation>完毕义副词，动词或形容词之后作后置状语，例如：一框果总烂嗮<br/>已然体标记，例如：只猫开始捉老鼠嗮<br/>完成体标记，出现于动词、形容词之后，例如：做嗮任务问至得奖金<br/>顺序义标记，例如：佢先来，跟尾嗮我至来<br/>反复体标记，例如：佢只人就系噉嘅啦，一样嘢做做嗮又冇做得落去，讲辛苦多<br/>更多研究见：黄阳.南宁粤语的助词“晒”.《方言》.2016-11-24.</explanation>
     </question>
     <question>
         <p>9.按顺序分别选出「揼、抌、髧、沊、扽、趸、撉、墩、撴、蹾」这十字的义项（10分）</p>
@@ -199,30 +199,70 @@
         </answer>
     </question>
     <question>
-        <p>10.（阅读理解）This is multiple dropdown quiz, in each dropdown select a correct number corresponding to the dropdown's order</p>
+        <p>10.按顺序分别选出下列七段语料「去」义的语素功能：<br/>1）你敢独一个人去北京？<br/>2）熬一斤酒着去几多米？<br/>3）佢送两瓶酒去。<br/>4）屋捱火烧去嗮哦。<br/>5）佢边时又趯去北京嗮？<br/>6）落雨落到心烦去。<br/>7）拧铰剪剪蔸绳断去！</p>
         <answer>
-            <option correct>First</option>
-            <option>Second</option>
-            <option>Third</option>
-            <option>Fourth</option>
+            <option>程度事态助词</option>
+            <option>使令事态助词</option>
+            <option>目标格介词</option>
+            <option>动向补语</option>		
+            <option>趋向补语</option>
+            <option correct>趋向动词</option>
+            <option>「花费」义动词</option>
         </answer>
         <answer>
-            <option>First</option>
-            <option correct>Second</option>
-            <option>Third</option>
-            <option>Fourth</option>
+            <option>程度事态助词</option>
+            <option>使令事态助词</option>
+            <option>目标格介词</option>
+            <option>动向补语</option>		
+            <option>趋向补语</option>
+            <option>趋向动词</option>
+            <option correct>「花费」义动词</option>
         </answer>
         <answer>
-            <option>First</option>
-            <option>Second</option>
-            <option correct>Third</option>
-            <option>Fourth</option>
+            <option>程度事态助词</option>
+            <option>使令事态助词</option>
+            <option>目标格介词</option>
+            <option>动向补语</option>		
+            <option correct>趋向补语</option>
+            <option>趋向动词</option>
+            <option>「花费」义动词</option>
         </answer>
         <answer>
-            <option>First</option>
-            <option>Second</option>
-            <option>Third</option>
-            <option correct>Fourth</option>
+            <option>程度事态助词</option>
+            <option>使令事态助词</option>
+            <option>目标格介词</option>
+            <option correct>动向补语</option>		
+            <option>趋向补语</option>
+            <option>趋向动词</option>
+            <option>「花费」义动词</option>
         </answer>
+        <answer>
+            <option>程度事态助词</option>
+            <option>使令事态助词</option>
+            <option correct>目标格介词</option>
+            <option>动向补语</option>		
+            <option>趋向补语</option>
+            <option>趋向动词</option>
+            <option>「花费」义动词</option>
+        </answer>
+        <answer>
+            <option correct>程度事态助词</option>
+            <option>使令事态助词</option>
+            <option>目标格介词</option>
+            <option>动向补语</option>		
+            <option>趋向补语</option>
+            <option>趋向动词</option>
+            <option>「花费」义动词</option>
+        </answer>
+        <answer>
+            <option>程度事态助词</option>
+            <option correct>使令事态助词</option>
+            <option>目标格介词</option>
+            <option>动向补语</option>		
+            <option>趋向补语</option>
+            <option>趋向动词</option>
+            <option>「花费」义动词</option>
+        </answer>
+		<explanation>郭必知.南宁地区语言“去”义语素的语法化与接触引发的“复制”.《语言暨语言学》.2014.</explanation>
     </question>
 </quiz>

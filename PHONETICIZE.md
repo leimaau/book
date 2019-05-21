@@ -76,11 +76,13 @@
 	<td><span style="font-size:2em;">ng</span> [-ŋ] 生</td>
   </tr>
   <tr>
-	<td></td>
+	<td><span style="font-size:2em;">y</span> [ɿ] 师*</td>
 	<td><span style="font-size:2em;">i</span> [i] 西</td>
 	<td><span style="font-size:2em;">u</span> [u] 收</td>
   </tr>
 </table>
+
+- y[ɿ]为老派口音中的舌尖元音，只与齿龈辅音z[ts]、c[tsʰ]、s[s]相拼，新派不存。
 
 ## 鼻音单独成韵
 
@@ -221,21 +223,9 @@
 	<td><span style="font-size:2em;">yut</span><br/>[yːt̚]<br/>说</td>
 	<td></td>
   </tr>
-  <tr>
-	<td><span style="font-size:2em;">y</span><br/>[ɿ]<br/>师*</td>
-	<td></td>
-	<td></td>
-	<td><span style="font-size:2em;">m</span><br/>[m̩]<br/>唔</td>
-	<td></td>
-	<td><span style="font-size:2em;">ng</span><br/>[ŋ̩]<br/>吴</td>
-	<td></td>
-	<td></td>
-	<td></td>
-  </tr>
 </table>
 
 - 「哕oet6」为模仿呕吐声的拟声词，类似地还有表示亲吻的「咄doet1、嘬zoet1」，若不包括这类拟声词，则韵母共有54个。
-- y[ɿ]为老派口音中的舌尖元音，新派不存，只与齿龈辅音z[ts]、c[tsʰ]、s[s]相拼。
 - oe[œː]韵除了「靴」字，还在一些口语字「朵doe2」、「噘goe1、噘doe1」、「撅goe1」、「㗾hoe4」、「吙hoe1」中存在。
 
 

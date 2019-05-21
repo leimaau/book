@@ -263,6 +263,6 @@
             <option>趋向动词</option>
             <option>「花费」义动词</option>
         </answer>
-		<explanation>郭必知.南宁地区语言“去”义语素的语法化与接触引发的“复制”.《语言暨语言学》.2014.</explanation>
+		<explanation>郭必知.南宁地区语言「去」义语素的语法化与接触引发的「复制」.《语言暨语言学》.2014.</explanation>
     </question>
 </quiz>

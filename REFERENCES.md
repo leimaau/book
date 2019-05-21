@@ -5,7 +5,7 @@
 * 1994年谢建猷《南宁白话同音字汇》，数据来源：[中国知网](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD9495&filename=FYZA199404006&uid=WEEvREcwSlJHSldRa1FhdXNXa0d1RENHbHhkNnJGRUE3Skg4TzI2TXJDaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSTEtlWitabkZpdmhWcnZOSXpUUmI3S3hGOVhNcTQ5RllvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=) | 记音质量： ★★☆☆☆ 两颗星
 * 1997年杨焕典《南宁话音档》，数据来源：[汉语多功能字库网站](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | 记音质量： ★★★☆☆ 三颗星
 * 1998年广西地方志编纂委员会《广西通志（汉语方言志）》，数据来源：[广西地情资料库](http://lib.gxdqw.com/file-a88-1.html) | 记音质量： ★★★★☆ 四颗星
-* 2002年杨焕典《现代汉语方言音库字库》，数据来源：[字音库](http://vdisk.weibo.com/s/dE0JCW7hYq9zH)  | 记音质量： ★★★☆☆  三颗星
+* 2002年杨焕典《现代汉语方言音库字库》，数据来源：[现代汉语方言音库](http://ling.cass.cn/xszx/xszx_xscg/xszx_xscg_zzysp/201705/t20170515_3518607.html)  | 记音质量： ★★★☆☆  三颗星
 * 2007年谢建猷《广西汉语方言研究》，数据来源：[小学堂网站](http://xiaoxue.iis.sinica.edu.tw/) | 记音质量： ★★☆☆☆ 两颗星
 * 2008年林亦、覃凤余《广西南宁白话研究》 | 记音质量： ★★★★☆ 四颗星
 * 2009年陈海伦、林亦《粤语平话土话方音字汇》 | 记音质量： ★★★☆☆ 三颗星

@@ -6,6 +6,8 @@
 
 ![演示gif](https://s2.ax1x.com/2019/05/14/Eo2Ll9.gif)
 
+![演示gif](https://s2.ax1x.com/2019/05/14/Eo2OyR.gif)
+
 南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping) | 安装及使用方法：[**用汉语方言拼音打字**](https://laubonghaudoi.github.io/dialects/)
 
 ## 打字技巧

@@ -16,7 +16,13 @@
 
 ![覃远雄、韦树关、卞成林《南宁平话词典》](http://wx4.sinaimg.cn/mw690/69144085gy1fxelmyzmelj20940dcaak.jpg) ![白宛如《广州方言词典》](http://wx1.sinaimg.cn/mw690/69144085gy1fxelmzcb32j20920dc74r.jpg)
 
-![南宁话音档](http://wx3.sinaimg.cn/mw690/69144085gy1fxelvzvf9qj20a90be0sz.jpg) ![广西通志-汉语方言志](http://wx3.sinaimg.cn/mw690/69144085gy1fxelmzqk5qj209k0be74f.jpg)
+![杨焕典《南宁话音档》](http://wx3.sinaimg.cn/mw690/69144085gy1fxelvzvf9qj20a90be0sz.jpg) ![广西地方志编纂委员会《广西通志（汉语方言志）》](http://wx3.sinaimg.cn/mw690/69144085gy1fxelmzqk5qj209k0be74f.jpg)
+
+![杨焕典《现代汉语方言音库》](https://i.loli.net/2019/05/25/5ce8eeda66a8539721.jpg)
+
+![梁振仕《切韵系统与南宁音系》](https://i.loli.net/2019/05/25/5ce911580079879408.png) ![梁振仕《广西粤语的音韵系统》](https://i.loli.net/2019/05/25/5ce90f776ebe914055.png)
+
+![贺州语言博物馆-亭子平话同音字表](https://i.loli.net/2019/05/25/5ce90c827199711900.jpg) ![贺州语言博物馆-南宁白话同音字表](https://i.loli.net/2019/05/25/5ce90c81c4a1a57415.jpg)
 
 ## 主要参考网站
 

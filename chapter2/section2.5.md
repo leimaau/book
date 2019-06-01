@@ -79,7 +79,7 @@ feng |	fang4|	[fɐŋ˨˩] |	  揈
 
 在正字方面有许多权威的资料可以查询，例如《广州话正音字典》、《实用广州话分类词典》等。而媒体的用字准确性关系到群众用字的准确性，所以权威媒体用字上更是需要考究，目前，大多正规的粤语电视节目依然使用国家规定的现代白话文来对译粤语口语，在粤语书面语没有规范的情况下，这是一种不错的选择。
 
-[常见粤语字的打法](http://restools.hanzify.org/other/canchars.htm) | [中国语言资源保护工程汉语方言用字规范](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html)
+[港台书面语中的方言字问题](http://www.yywzw.com/stw/stw6-009.htm) | [常见粤语字的打法](http://restools.hanzify.org/other/canchars.htm) | [中国语言资源保护工程汉语方言用字规范](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html)
 
 在[2011年邓小琴《粤方言书面化及其历史演变研究》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2016&filename=1016004514.nh&v=MjM5MzJGQ3JsVXJyS1ZGMjZHTE80R3RUTnE1RWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlkrWnU=)的论文中归纳了一份很完整的字表可以作为参考。
 

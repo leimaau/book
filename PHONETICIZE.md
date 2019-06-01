@@ -14,7 +14,7 @@
 	<td><span style="font-size:2em;">d</span> [t] 多</td>
 	<td><span style="font-size:2em;">t</span> [tʰ] 拖</td>
 	<td><span style="font-size:2em;">n</span> [n] 挪</td>
-	<td><span style="font-size:2em;">sl</span> [ɬ] 锁</td>
+	<td><span style="font-size:2em;">sl</span> [ɬ/θ] 锁</td>
 	<td><span style="font-size:2em;">l</span> [l] 罗</td>
   </tr>
   <tr>
@@ -41,6 +41,7 @@
 </table>
 
 - 零声母不用字母作标记，如「亚」只拼作aa3。
+- sl[ɬ]为清齿龈边擦音，也有人读清齿擦音sl[θ]，拼音皆为sl。
 - 包括零声母在内声母共有21个。
 
 ## 韵腹
@@ -82,7 +83,7 @@
   </tr>
 </table>
 
-- y[ɿ]为老派口音中的舌尖元音，只与齿龈辅音z[ts]、c[tsʰ]、s[s]相拼，新派不存。
+- y[ɿ]为老派口音中的舌尖前元音，只与齿龈辅音z[ts]、c[tsʰ]、s[s]相拼，新派不存。
 
 ## 鼻音单独成韵
 

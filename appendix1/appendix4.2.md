@@ -555,14 +555,14 @@ key_binder:
 ```yaml
 key_binder:
   import_preset: default
-#  bindings:   # 使用小鶴同文主題時開啓
-#    - {accept: semicolon, send: 2, when: has_menu} # 分號次選
-#    - {accept: dollar, send: 2, when: composing}
-#    - {accept: Release+dollar, send: period, when: composing}
-#    - {accept: Release+period, send: period, when: composing}
-#    - {accept: bar, send: 2, when: composing}
-#    - {accept: Release+bar, send: comma, when: composing}
-#    - {accept: Release+comma, send: comma, when: composing}
+  bindings:   # 使用小鶴同文主題時開啓
+    - {accept: semicolon, send: 2, when: has_menu} # 分號次選
+    - {accept: dollar, send: 2, when: composing}
+    - {accept: Release+dollar, send: period, when: composing}
+    - {accept: Release+period, send: period, when: composing}
+    - {accept: bar, send: 2, when: composing}
+    - {accept: Release+bar, send: comma, when: composing}
+    - {accept: Release+comma, send: comma, when: composing}
 ```
 
 效果

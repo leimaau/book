@@ -6,7 +6,7 @@
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fxem4c7obvj20j60os46d.jpg)
 
-[IPA国际音标表](http://en-yinbiao.xiao84.com/ipacharts/) | [《国际语音学会手册》](http://vdisk.weibo.com/s/DwYdCnPOcT3PM) | [Type IPA phonetic symbols](http://ipa.typeit.org/full/) | [国际音标输入法（网页版）](http://ytenx.org/byohlyuk/IPA_IME) | [IPA国际音标输入法](https://www.cr173.com/soft/384770.html) | [云龙国际音标](https://github.com/lotem/rime-ipa) | [国际音标扩展](https://unicode-table.com/cn/blocks/ipa-extensions/) | [国际音标符号](https://zh.wiktionary.org/wiki/附录:国际音标符号) | [汉语拼音和国际音标对照表](http://www.zdic.net/appendix/f10.htm)
+[IPA国际音标表](http://en-yinbiao.xiao84.com/ipacharts/) | [《国际语音学会手册》](https://book.douban.com/subject/3204889/) | [Type IPA phonetic symbols](http://ipa.typeit.org/full/) | [国际音标输入法（网页版）](http://ytenx.org/byohlyuk/IPA_IME) | [IPA国际音标输入法](https://www.cr173.com/soft/384770.html) | [云龙国际音标](https://github.com/lotem/rime-ipa) | [国际音标扩展](https://unicode-table.com/cn/blocks/ipa-extensions/) | [国际音标符号](https://zh.wiktionary.org/wiki/附录:国际音标符号) | [汉语拼音和国际音标对照表](http://www.zdic.net/appendix/f10.htm)
 
 ## 粤语拼音
 
@@ -36,11 +36,7 @@
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fxem912ylcj20j60h9n6q.jpg)
 
-![](http://wx2.sinaimg.cn/large/69144085gy1fxem91na1aj20j60dsqbi.jpg)
-
-![](http://wx2.sinaimg.cn/large/69144085gy1fxem9214h2j20j60eiaju.jpg)
-
-![](http://wx4.sinaimg.cn/large/69144085gy1fxem92n445j20j60etk1r.jpg)
+![](http://wx2.sinaimg.cn/large/69144085ly1g46ylgm6eyj20jz1c840d.jpg)
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fxem93er79j20j60b4n31.jpg)
 

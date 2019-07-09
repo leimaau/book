@@ -39,6 +39,14 @@
 			"count": true
 		  }]
 		},
+		"flexible-alerts": {
+		  "style": "flat",
+		  "example": {
+			"label": "Example",
+			"icon": "fa fa-file-text",
+			"className": "info"
+		  }
+		},
         "donate": {
             "wechat": "https://s2.ax1x.com/2019/05/15/ET7Hoj.jpg",
             "alipay": "https://s2.ax1x.com/2019/05/15/ET77wQ.jpg",

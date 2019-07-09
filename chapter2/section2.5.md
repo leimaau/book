@@ -21,13 +21,13 @@
 **直读：**
 
 > “你可不可以借我一支笔”
->
+
 > nei5 ho2 bat1 ho2 ji5 ze3 ngo5 jat1 zi1 bat1
 
 **训读：**
 
 > “你可唔可以借支笔我”
->
+
 > nei5 ho2 m4 ho2 ji5 ze3 zi1 bat1 ngo5
 
 反之，用官话来读粤语白话文也会有此两种方式，此处不再举例，读者可以试着用官话的这两种方式来读粤语白话文「你可唔可以借支笔我」。
@@ -136,29 +136,29 @@ feng |	fang4|	[fɐŋ˨˩] |	  揈
 例如上述举出的例子：
 
 > [!TIP|style:flat]
-> 
+
 > 「坎坷」
-> 
+
 > 广州话：ham1 ho1 | 南宁白话：ham1 ho1 或 ham2 ho2
-> 
+
 > 「寻秦记」
-> 
+
 > 广州话：cam4 ceon4 gei3 | 南宁白话：cam4 can4 gi3
-> 
+
 > 「血液循环」
-> 
+
 > 广州话：hyut3 jik6 ceon4 waan4 | 南宁白话：hyut3 jik6 can4 waan4，「循」读slan4亦可
-> 
+
 > 「阿尔茨海默症」
-> 
+
 > 广州话：aa3 ji5 ci4 hoi2 mak6 zing3 | 南宁白话：aa3 ji5 ci4 hoi2 mak6 zing3
-> 
+
 > 「三氯甲烷」
-> 
+
 > 广州话：saam1 luk6 gaap3 jyun4 | 南宁白话：slaam1 luk6 gaap3 jyun4
-> 
+
 > 「脂肪醇聚氧乙烯醚」
-> 
+
 > 广州话：zi1 fong1 seon4 zeoi6 joeng5 jyut3 hei1 mai4 | 南宁白话：zi1 fong1 san4 zyu6 joeng5 jyut3 hi1 mai4
 
 
@@ -169,70 +169,127 @@ feng |	fang4|	[fɐŋ˨˩] |	  揈
 再举一些其他的例子，如何使用读书音完整读一段文本，以此展现读书音的强大威力，为了不让文章过长，以下只用粤拼广州音标注。
 
 ** 新闻报道：**
-```
-据中国科技网8月3日报道，3日06点41分，随着一声巨响，
-geoi3 zung1 gwok3 fo1 gei6 mong5 baat3 jyut6 saam1 jat6 bou3 dou6，saam1 jat6 ling4 luk6 dim2 sei3 sap6 jat1 fan1，ceoi4 zoek6 jat1 sing1 geoi6 hoeng2，
-由中国航天科技集团有限公司第十一研究院（简称十一院）研制的星空-2火箭在西北某靶场缓缓升空，
-jau4 zung1 gwok3 hong4 tin1 fo1 gei6 zaap6 tyun4 jau5 haan6 gung1 si1 dai6 sap6 jat1 jin4 gau3 jyun2 （gaan2 cing1 sap6 jat1 jyun2）jin4 zai3 dik1 sing1 hung1 - ji6 fo2 zin3 zoi6 sai1 bak1 mau5 baa2 coeng4 wun6 wun6 sing1 hung1，
-经过近10分钟飞行后，该火箭完成主动段转弯、抛罩/级间分离、试飞器释放自主飞行、弹道大机动转弯等动作，按预定弹道进入落区。
-ging1 gwo3 gan6 sap6 fan1 zung1 fei1 hang4 hau6，goi1 fo2 zin3 jyun4 sing4 zyu2 dung6 dyun6 zyun3 waan1、paau1 zaau3/kap1 gaan1 fan1 lei4、si3 fei1 hei3 sik1 fong3 zi6 zyu2 fei1 hang4、daan6 dou6 daai6 gei1 dung6 zyun3 waan1 dang2 dung6 zok3，on3 jyu6 ding6 daan6 dou6 zeon3 jap6 lok6 keoi1。
-此举标志着星空-2火箭飞行试验圆满成功，实现了“国内第一乘波体”的飞行壮举。
-ci2 geoi2 biu1 zi3 zoek6 sing1 hung1 - ji6 fo2 zin3 fei1 hang4 si3 jim6 jyun4 mun5 sing4 gung1，sat6 jin6 liu5 “gwok3 noi6 dai6 jat1 sing4 bo1 tai2” dik1 fei1 hang4 zong3 geoi2。
-```
+
+> [!EXAMPLE]
+
+> 据中国科技网8月3日报道，3日06点41分，随着一声巨响，
+
+> geoi3 zung1 gwok3 fo1 gei6 mong5 baat3 jyut6 saam1 jat6 bou3 dou6，saam1 jat6 ling4 luk6 dim2 sei3 sap6 jat1 fan1，ceoi4 zoek6 jat1 sing1 geoi6 hoeng2，
+
+> 由中国航天科技集团有限公司第十一研究院（简称十一院）研制的星空-2火箭在西北某靶场缓缓升空，
+
+> jau4 zung1 gwok3 hong4 tin1 fo1 gei6 zaap6 tyun4 jau5 haan6 gung1 si1 dai6 sap6 jat1 jin4 gau3 jyun2 （gaan2 cing1 sap6 jat1 jyun2）jin4 zai3 dik1 sing1 hung1 - ji6 fo2 zin3 zoi6 sai1 bak1 mau5 baa2 coeng4 wun6 wun6 sing1 hung1，
+
+> 经过近10分钟飞行后，该火箭完成主动段转弯、抛罩/级间分离、试飞器释放自主飞行、弹道大机动转弯等动作，按预定弹道进入落区。
+
+> ging1 gwo3 gan6 sap6 fan1 zung1 fei1 hang4 hau6，goi1 fo2 zin3 jyun4 sing4 zyu2 dung6 dyun6 zyun3 waan1、paau1 zaau3/kap1 gaan1 fan1 lei4、si3 fei1 hei3 sik1 fong3 zi6 zyu2 fei1 hang4、daan6 dou6 daai6 gei1 dung6 zyun3 waan1 dang2 dung6 zok3，on3 jyu6 ding6 daan6 dou6 zeon3 jap6 lok6 keoi1。
+
+> 此举标志着星空-2火箭飞行试验圆满成功，实现了“国内第一乘波体”的飞行壮举。
+
+> ci2 geoi2 biu1 zi3 zoek6 sing1 hung1 - ji6 fo2 zin3 fei1 hang4 si3 jim6 jyun4 mun5 sing4 gung1，sat6 jin6 liu5 “gwok3 noi6 dai6 jat1 sing4 bo1 tai2” dik1 fei1 hang4 zong3 geoi2。
+
 
 ** 歌词：**
-```
-难念的经 周华健
-naan4 nim6 dik1 ging1 zau1 waa4 gin6
-笑你我枉花光心计
-siu3 nei5 ngo5 wong2 faa1 gwong1 sam1 gai3
-爱竞逐镜花那美丽
-oi3 ging6 zuk6 geng3 faa1 naa5 mei5 lai6
-怕幸运会转眼远逝
-paa3 hang6 wan6 wui zyun2 ngaan5 jyun5 sai6
-为贪嗔喜恶怒着迷
-wai6 taam1 can1 hei2 wu3 nou6 zoek6 mai4
-责你我太贪功恋势
-zaak3 nei5 ngo5 taai3 taam1 gung1 lyun2 sai3
-怪大地众生太美丽
-gwaai3 daai6 dei6 zung3 sang1 taai3 mei5 lai6
-悔旧日太执信约誓
-fui3 gau6 jat6 taai3 zap1 seon3 joek3 sai6
-为悲欢哀怨妒着迷
-wai6 bei1 fun1 oi1 jyun3 dou3 zoek6 mai4
-舍不得璀璨俗世
-se2 bat1 dak1 ceoi2 caan3 zuk6 sai3
-躲不开痴恋的欣慰
-do2 bat1 hoi1 ci1 lyun2 dik1 jan1 wai3
-找不到色相代替
-zaau2 bat1 dou3 sik1 soeng13 doi6 tai3
-参一生参不透这条难题
-caam1 jat1 sang1 caam1 bat1 tau3 ze5 tiu4 naan4 tai4
-吞风吻雨葬落日未曾徬徨
-tan1 fung1 man5 jyu5 zong3 lok6 jat6 mei6 cang4 pong4 wong4
-欺山赶海践雪径也未绝望
-hei1 saan1 gon2 hoi2 cin5 syut3 ging3 jaa5 mei6 zyut6 mong6
-拈花把酒偏折煞世人情狂
-nim1 faa1 baa2 zau2 pin1 zit3 saat3 sai3 jan4 cing4 kwong4
-凭这两眼与百臂或千手不能防
-pang4 ze5 loeng5 ngaan5 jyu5 baak3 bei3 waak6 cin1 sau2 bat1 nang4 fong4
-天阔阔雪漫漫共谁同航
-tin1 fut3 fut3 syut3 maan6 maan6 gung6 seoi4 tung4 hong4
-这沙滚滚水皱皱笑着浪荡
-ze5 saa1 gwan2 gwan2 seoi2 zau3 zau3 siu3 zoek6 long6 dong6
-贪欢一刻偏教那女儿情长埋葬
-taam1 fun1 jat1 hak1 pin1 gaau3 naa5 neoi5 ji4 cing4 coeng4 maai4 zong3
-```
+
+> [!EXAMPLE]
+
+> 难念的经 - 周华健
+
+> naan4 nim6 dik1 ging1 - zau1 waa4 gin6
+
+> 笑你我枉花光心计
+
+> siu3 nei5 ngo5 wong2 faa1 gwong1 sam1 gai3
+
+> 爱竞逐镜花那美丽
+
+> oi3 ging6 zuk6 geng3 faa1 naa5 mei5 lai6
+
+> 怕幸运会转眼远逝
+
+> paa3 hang6 wan6 wui zyun2 ngaan5 jyun5 sai6
+
+> 为贪嗔喜恶怒着迷
+
+> wai6 taam1 can1 hei2 wu3 nou6 zoek6 mai4
+
+> 责你我太贪功恋势
+
+> zaak3 nei5 ngo5 taai3 taam1 gung1 lyun2 sai3
+
+> 怪大地众生太美丽
+
+> gwaai3 daai6 dei6 zung3 sang1 taai3 mei5 lai6
+
+> 悔旧日太执信约誓
+
+> fui3 gau6 jat6 taai3 zap1 seon3 joek3 sai6
+
+> 为悲欢哀怨妒着迷
+
+> wai6 bei1 fun1 oi1 jyun3 dou3 zoek6 mai4
+
+> 舍不得璀璨俗世
+
+> se2 bat1 dak1 ceoi2 caan3 zuk6 sai3
+
+> 躲不开痴恋的欣慰
+
+> do2 bat1 hoi1 ci1 lyun2 dik1 jan1 wai3
+
+> 找不到色相代替
+
+> zaau2 bat1 dou3 sik1 soeng13 doi6 tai3
+
+> 参一生参不透这条难题
+
+> caam1 jat1 sang1 caam1 bat1 tau3 ze5 tiu4 naan4 tai4
+
+> 吞风吻雨葬落日未曾徬徨
+
+> tan1 fung1 man5 jyu5 zong3 lok6 jat6 mei6 cang4 pong4 wong4
+
+> 欺山赶海践雪径也未绝望
+
+> hei1 saan1 gon2 hoi2 cin5 syut3 ging3 jaa5 mei6 zyut6 mong6
+
+> 拈花把酒偏折煞世人情狂
+
+> nim1 faa1 baa2 zau2 pin1 zit3 saat3 sai3 jan4 cing4 kwong4
+
+> 凭这两眼与百臂或千手不能防
+
+> pang4 ze5 loeng5 ngaan5 jyu5 baak3 bei3 waak6 cin1 sau2 bat1 nang4 fong4
+
+> 天阔阔雪漫漫共谁同航
+
+> tin1 fut3 fut3 syut3 maan6 maan6 gung6 seoi4 tung4 hong4
+
+> 这沙滚滚水皱皱笑着浪荡
+
+> ze5 saa1 gwan2 gwan2 seoi2 zau3 zau3 siu3 zoek6 long6 dong6
+
+> 贪欢一刻偏教那女儿情长埋葬
+
+> taam1 fun1 jat1 hak1 pin1 gaau3 naa5 neoi5 ji4 cing4 coeng4 maai4 zong3
+
 
 ** 学术文章：**
-```
-当多齿配合体中的多个配位原子同时和中心离子键合时，可形成具有环状结构的配合物称螯合物。
-dong1 do1 ci2 pui3 hap6 tai2 zung3 dik1 do1 go3 pui3 wai6 jyun4 zi2 tung4 si4 wo4 zung1 sam1 lei4 zi2 gin6 hap6 si4，ho2 jing4 sing4 geoi6 jau5 waan4 zong6 git3 kau3 dik1 pui3 hap6 mat6 cing1 ngou4 hap6 mat6。
-多齿配位体称为螯合剂，它和中心离子的键合也称螯合。
-do1 ci2 pui3 wai6 tai2 cing1 wai4 ngou4 hap6 zai1，taa1 wo4 zung1 sam1 lei4 zi2 dik1 gin6 hap6 jaa5 cing1 ngou4 hap6。
-理论和实践证明五原子环和六原子环最稳定，故螯合剂中2个配位原子之间一般要相隔2~3个原子。
-lei5 leon6 wo4 sat6 cin5 zing3 ming4 ng5 jyun4 zi2 waan4 wo4 luk6 jyun4 zi2 waan4 zeoi3 wan2 ding6，gu3 ngou4 hap6 zai1 zung1 loeng2 go3 pui3 wai6 jyun4 zi2 zi1 gaan1 jat1 bun1 jiu3 soeng1 gaak3 2~3 go3 jyun4 zi2。
-```
+
+> [!EXAMPLE]
+
+> 当多齿配合体中的多个配位原子同时和中心离子键合时，可形成具有环状结构的配合物称螯合物。
+
+> dong1 do1 ci2 pui3 hap6 tai2 zung3 dik1 do1 go3 pui3 wai6 jyun4 zi2 tung4 si4 wo4 zung1 sam1 lei4 zi2 gin6 hap6 si4，ho2 jing4 sing4 geoi6 jau5 waan4 zong6 git3 kau3 dik1 pui3 hap6 mat6 cing1 ngou4 hap6 mat6。
+
+> 多齿配位体称为螯合剂，它和中心离子的键合也称螯合。
+
+> do1 ci2 pui3 wai6 tai2 cing1 wai4 ngou4 hap6 zai1，taa1 wo4 zung1 sam1 lei4 zi2 dik1 gin6 hap6 jaa5 cing1 ngou4 hap6。
+
+> 理论和实践证明五原子环和六原子环最稳定，故螯合剂中2个配位原子之间一般要相隔2~3个原子。
+
+> lei5 leon6 wo4 sat6 cin5 zing3 ming4 ng5 jyun4 zi2 waan4 wo4 luk6 jyun4 zi2 waan4 zeoi3 wan2 ding6，gu3 ngou4 hap6 zai1 zung1 loeng2 go3 pui3 wai6 jyun4 zi2 zi1 gaan1 jat1 bun1 jiu3 soeng1 gaak3 2~3 go3 jyun4 zi2。
+
 
 [转换工具](https://www.chineseconverter.com/cantonesetools/en/cantonese-to-jyutping) | [翡翠粤语歌词](https://www.feitsui.com/)
 

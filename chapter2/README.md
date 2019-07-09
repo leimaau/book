@@ -10,6 +10,8 @@
 
 2.5 本字与正字、粤语的现代化
 
+2.6 南宁地区粤语口音差异
+
 ![](http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1410/05/c0/39271650_1412463918961.jpg)
 
 【南湖桥夜景】

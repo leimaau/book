@@ -306,7 +306,7 @@ translator:
 #    - xform/eoi/ɵY/	水sɵy（廣州）
 #    - xform/oei/ɵY/	容錯
 #    - xform/oe([ptk])/œː$1]/	約jœːk̚
-#    - xform/oe(ng)/œː$1/	容錯
+#    - xform/oe(ng)/œː$1/	良lœːŋ
 #    - xform/oe([t])/ɵ$1]/	容錯
 #    - xform/oe([n])/ɵ$1/	容錯
 #    - xform/oe/œː/	張tʃœːŋ
@@ -356,6 +356,7 @@ translator:
 #    - xform/T͡ʃIːIː/T͡sɿ/
 #    - xform/T͡ʃHIːIː/T͡sHɿ/
 #    - xform/ʃIːIː/sɿ/
+#    - xform/nj/ȵ/
 #    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
   comment_format:
     - xform/\(.+?\)//    # 處理組詞拼音
@@ -401,7 +402,7 @@ translator:
     - xform/eoi/ɵY/	水sɵy（廣州）
     - xform/oei/ɵY/	容錯
     - xform/oe([ptk])/œː$1]/	約jœːk̚
-    - xform/oe(ng)/œː$1/	容錯
+    - xform/oe(ng)/œː$1/	良lœːŋ
     - xform/oe([t])/ɵ$1]/	容錯
     - xform/oe([n])/ɵ$1/	容錯
     - xform/oe/œː/	張tʃœːŋ
@@ -451,6 +452,7 @@ translator:
     - xform/T͡ʃIːIː/T͡sɿ/
     - xform/T͡ʃHIːIː/T͡sHɿ/
     - xform/ʃIːIː/sɿ/
+    - xform/nj/ȵ/
     - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
   comment_format:
     - xform/\(.+?\)//    # 處理組詞拼音

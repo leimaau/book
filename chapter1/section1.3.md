@@ -1,5 +1,7 @@
 # 音韵学基础
 
+## 教材
+
 ![](http://www.cssn.cn/yyx/yyx_slqh/201612/W020161223366798238897.jpg)
 
 《汉语音韵讲义》一书原是普通话语音研究班（教育部和语言研究所合办）第一期到第三期（一九五六年初到一九五七年中）汉语音韵课的讲义，由中国著名语言学家丁声树和李荣两位先生合力所作，是学习汉语音韵学和研究汉语方言学的必读经典著作之一，最近由上海教育出版社重印。
@@ -19,3 +21,6 @@
 
 [《汉语史稿》](https://book.douban.com/subject/1416340/)
 
+## 语音软件
+
+[Praat语音分析软件用法详解](https://www.bilibili.com/video/av28287489?from=search&seid=13630496126442617452) | [praat：从入门到放弃](https://www.bilibili.com/video/av49029224?from=search&seid=13630496126442617452) | [Praat基础培训](https://www.bilibili.com/video/av38449943?from=search&seid=13630496126442617452) | [Praat录音及成图方法](https://www.bilibili.com/video/av16932367?from=search&seid=13630496126442617452)

@@ -10,13 +10,13 @@ input.txt放需要标注的歌词，output.txt为输出的标注结果，执行l
 import re
 from mytool import jyutping_to_ipa
 
-filename='data_gwongzau.txt' # 字典文件 data_naamning 南宁粤拼; data_gwongzau 广州粤拼
-lines = open(filename, encoding='utf-8').readlines()
+file_name='data_naamning.txt' # 字典文件 data_naamning 南宁粤拼; data_gwongzau 广州粤拼
+data = open(file_name, encoding='utf-8')
 
 char = []
 dictionary = {}
 
-for line in lines:
+for line in data.readlines():
     char = line.split()
     if char[0] in dictionary:
         dictionary[char[0]] = dictionary[char[0]] + '/' + char[1]
@@ -33,7 +33,7 @@ def dealfunc(regstr,prose,flag,flag2):
                     s = ''
             else:
                 if flag==1:
-                    s = jyutping_to_ipa(dictionary[list(prose)[0]],'n' if filename == 'data_naamning.txt' else 'g')
+                    s = jyutping_to_ipa(dictionary[list(prose)[0]],'n' if file_name == 'data_naamning.txt' else 'g')
                 else:
                     s = dictionary[list(prose)[0]]
         except KeyError:
@@ -48,17 +48,17 @@ def dealfunc(regstr,prose,flag,flag2):
                         s += ''
                 else:
                     if flag==1:
-                        s += ' '+ jyutping_to_ipa(dictionary[char],'n' if filename == 'data_naamning.txt' else 'g')
+                        s += ' '+ jyutping_to_ipa(dictionary[char],'n' if file_name == 'data_naamning.txt' else 'g')
                     else:
                         s += ' '+ dictionary[char]
             except KeyError:
                 s += ' '+ 'ERR'
         return s
 
-lyrics = open('input.txt', encoding='utf-8').readlines()
+lyrics = open('input.txt', encoding='utf-8')
 out = open('output.txt', 'w', encoding='utf-8')
 
-for paragraph in lyrics:
+for paragraph in lyrics.readlines():
     try:
         line = paragraph.replace(' ','<space>').split()[0]
     except:
@@ -77,6 +77,8 @@ for paragraph in lyrics:
         s2 = dealfunc('[0-9A-Za-z-]|[_,，.。?？!！:：;；“”\[\]<>「」『』《》、]+',prose,1,1)
         out.write(s2.replace('<space> ',' ').replace('<space>',' ')+']\n')
 
+data.close()
+lyrics.close()
 out.close()
 ```
 

@@ -1,64 +1,113 @@
-# 歌词注音工具
+# 文本注音工具
 
 对于熟悉python的读者，这里提供一个可以标注粤拼和IPA的python脚本，灵感来源于[这里](https://github.com/laubonghaudoi/poem_auto_tag)，笔者对其作了重写以适用于本文，此处感谢原作者[刘邦后代](https://github.com/laubonghaudoi)。
 
-本项目的源码下载地址：[**下载地址**](https://github.com/leimaau/pythonTools)，脚本代码在`pythopnTools/SignLyrics`文件夹中。
+本项目的源码下载地址：[**下载地址**](https://github.com/leimaau/pythonTools)，脚本代码在`pythopnTools/SignArticle`文件夹中。
 
-input.txt放需要标注的歌词，output.txt为输出的标注结果，执行SignLyrics.py中的代码即可：
+input.txt放需要标注的歌词，output.txt为输出的标注结果，执行SignArticle.py中的代码即可：
 
 ```python
 import re
+import jieba
+import jieba.posseg as pseg
 from mytool import jyutping_to_ipa
 
-file_name='data_naamning.txt' # 字典文件 data_naamning 南宁粤拼; data_gwongzau 广州粤拼
+file_name='data_naamning.txt' # 字词典文件 data_naamning 南宁粤拼; data_gwongzau 广州粤拼
 data = open(file_name, encoding='utf-8')
 
 char = []
 dictionary = {}
+cutwordslist = []
 
 for line in data.readlines():
-    char = line.split()
+    char = line.replace(' ','_').split()
     if char[0] in dictionary:
-        dictionary[char[0]] = dictionary[char[0]] + '/' + char[1]
+        dictionary[char[0]] = dictionary[char[0]] + '/' + char[1].replace('_',' ')
     else:
-        dictionary[char[0]] = char[1]
+        dictionary[char[0]] = char[1].replace('_',' ')
 
-# flag: 0 拼音 1 ipa ; flag2: 0 regstr忽略 1 regstr不忽略
-def dealfunc(regstr,prose,flag,flag2):
+def cutwords(words):
+    cutwordslist = []
+    result = pseg.cut(words)
+    for w in result:
+        cutwordslist.append(w.word)
+    return cutwordslist
+
+# flag: 0-拼音 1-ipa ; flag2: 0-regstr忽略 1-regstr不忽略 ; flag3: n-南宁型ipa g-广州型ipa
+def dealfunc_characters(regstr,prose,flag,flag2,n_g):
+    prose_list = list(prose)
+    try:
+        if re.match(r"" + regstr, prose_list[0]):
+            if flag2==1:
+                s = prose_list[0]
+            else:
+                s = ''
+        else:
+            if flag==1:
+                s = jyutping_to_ipa(dictionary[prose_list[0]],n_g)
+            else:
+                s = dictionary[prose_list[0]]
+    except KeyError:
+        s = 'ERR'
+
+    for char in prose_list[1::]:
         try:
-            if re.match(r"" + regstr, list(prose)[0]):
+            if re.match(r"" + regstr, char):
                 if flag2==1:
-                    s = list(prose)[0]
+                    s += char
                 else:
-                    s = ''
+                    s += ''
             else:
                 if flag==1:
-                    s = jyutping_to_ipa(dictionary[list(prose)[0]],'n' if file_name == 'data_naamning.txt' else 'g')
+                    s += ' '+ jyutping_to_ipa(dictionary[char],n_g)
                 else:
-                    s = dictionary[list(prose)[0]]
+                    s += ' '+ dictionary[char]
         except KeyError:
-            s = 'ERR'
+            s += ' '+ 'ERR'
+    return s
 
-        for char in list(prose)[1::]:
-            try:
-                if re.match(r"" + regstr, char):
-                    if flag2==1:
-                        s += char
-                    else:
-                        s += ''
+def dealfunc_phrases(regstr,prose,flag,flag2,n_g):
+    prose_list = cutwords(prose)
+    try:
+        if re.match(r"" + regstr, prose_list[0]):
+            if flag2==1:
+                s = prose_list[0]
+            else:
+                s = ''
+        else:
+            if ' ' in dictionary[prose_list[0]] and '/' in dictionary[prose_list[0]]:
+                s = dealfunc_characters(regstr,prose_list[0],flag,flag2,n_g)
+            else:
+                if flag==1:
+                    s = jyutping_to_ipa(dictionary[prose_list[0]],n_g)
+                else:
+                    s = dictionary[prose_list[0]]
+    except KeyError:
+        s = dealfunc_characters(regstr,prose_list[0],flag,flag2,n_g)
+
+    for char in prose_list[1::]:
+        try:
+            if re.match(r"" + regstr, char):
+                if flag2==1:
+                    s += char
+                else:
+                    s += ''
+            else:
+                if ' ' in dictionary[char] and '/' in dictionary[char]:
+                    s += ' '+ dealfunc_characters(regstr,char,flag,flag2,n_g)
                 else:
                     if flag==1:
-                        s += ' '+ jyutping_to_ipa(dictionary[char],'n' if file_name == 'data_naamning.txt' else 'g')
+                        s += ' '+ jyutping_to_ipa(dictionary[char],n_g)
                     else:
                         s += ' '+ dictionary[char]
-            except KeyError:
-                s += ' '+ 'ERR'
-        return s
+        except KeyError:
+            s += ' '+ dealfunc_characters(regstr,char,flag,flag2,n_g)
+    return s
 
-lyrics = open('input.txt', encoding='utf-8')
+article = open('input.txt', encoding='utf-8')
 out = open('output.txt', 'w', encoding='utf-8')
 
-for paragraph in lyrics.readlines():
+for paragraph in article.readlines():
     try:
         line = paragraph.replace(' ','<space>').split()[0]
     except:
@@ -71,18 +120,20 @@ for paragraph in lyrics.readlines():
 
         prose = re.sub(r'([\u4e00-\u9fa5]+)([0-9A-Za-z-_]+)',r'\1<space>\2',prose)
         
-        s = dealfunc('[0-9A-Za-z-]|[_,，.。?？!！:：;；“”\[\]<>「」『』《》、 ]+',prose.replace('<space>',' '),0,1)
+        s = dealfunc_phrases('[0-9A-Za-z-]|[_,，.。·…?—？!！:：;；“”\[\]<>「」『』【】（）《》、 ]+',prose.replace('<space>',' '),0,1,'n' if file_name == 'data_naamning.txt' else 'g')
+        #s = dealfunc_characters('[0-9A-Za-z-]|[_,，.。·…?—？!！:：;；“”\[\]<>「」『』【】（）《》、 ]+',prose.replace('<space>',' '),0,1,'n' if file_name == 'data_naamning.txt' else 'g')
         out.write(s+'\n[')
 
-        s2 = dealfunc('[0-9A-Za-z-]|[_,，.。?？!！:：;；“”\[\]<>「」『』《》、 ]+',prose.replace('<space>',' '),1,1)
+        s2 = dealfunc_phrases('[0-9A-Za-z-]|[_,，.。·…?—？!！:：;；“”\[\]<>「」『』【】（）《》、 ]+',prose.replace('<space>',' '),1,1,'n' if file_name == 'data_naamning.txt' else 'g')
+        #s2 = dealfunc_characters('[0-9A-Za-z-]|[_,，.。·…?—？!！:：;；“”\[\]<>「」『』【】（）《》、 ]+',prose.replace('<space>',' '),1,1,'n' if file_name == 'data_naamning.txt' else 'g')
         out.write(s2+']\n')
 
 data.close()
-lyrics.close()
+article.close()
 out.close()
 ```
 
-多音字需要自己手工核对，data_naamning.txt为南宁粤拼字典，data_gwongzau.txt为广州粤拼字典，目前只提供这两种标注，更多功能读者可以根据自己的需求对脚本进行修改。
+多音字需要自己手工核对，data_naamning.txt为南宁粤拼字词典，data_gwongzau.txt为广州粤拼字词典，笔者使用了jieba分词工具，因而可以对分词词汇注音，目前只提供这两种标注，更多功能读者可以根据自己的需求对脚本进行修改。
 
 下面以陈奕迅《富士山下》的歌词作为标注例子：
 
@@ -146,9 +197,9 @@ out.close()
 > 
 > 谁都只得那双手 靠拥抱亦难任你拥有
 > 
-> sui4 du1 zek3/zi2/zik3 dak1 naa5 soeng1 sau2  kaau3 jung2/ung2 pu5 jik6 naan4/naan6 jam4/jam6 ni5 jung2/ung2 jau5
+> sui4 du1 zi2/zek3/zik3 dak1 naa5 soeng1 sau2  kaau3 jung2/ung2 pu5 jik6 naan4/naan6 jam4/jam6 ni5 jung2/ung2 jau5
 > 
-> [ʃuːi˨˩ tuː˥˥ t͡ʃɛːk̚˧/t͡ʃiː˧˥/t͡ʃɪk̚˧ tɐk̚˥ naː˨˦ ʃœːŋ˥˥ ʃɐu˧˥  kʰaːu˧˧ jʊŋ˧˥/ʊŋ˧˥ pʰuː˨˦ jɪk̚˨ naːn˨˩/naːn˨˨ jɐm˨˩/jɐm˨˨ niː˨˦ jʊŋ˧˥/ʊŋ˧˥ jɐu˨˦]
+> [ʃuːi˨˩ tuː˥˥ t͡ʃiː˧˥/t͡ʃɛːk̚˧/t͡ʃɪk̚˧ tɐk̚˥ naː˨˦ ʃœːŋ˥˥ ʃɐu˧˥  kʰaːu˧˧ jʊŋ˧˥/ʊŋ˧˥ pʰuː˨˦ jɪk̚˨ naːn˨˩/naːn˨˨ jɐm˨˩/jɐm˨˨ niː˨˦ jʊŋ˧˥/ʊŋ˧˥ jɐu˨˦]
 > 
 > 要拥有必先懂失去怎接受
 > 
@@ -170,9 +221,9 @@ out.close()
 > 
 > 何不把悲哀感觉 假设是来自你虚构
 > 
-> ho4 bat1 baa2/baa3 bi1 oi1 gaam2 gaau3/geu3/gok3/koek3/kok3  gaa2/gaa3/kaa3 cit3 si6 lai4/loi4 zi6/zy6 ni5 hyu1 gau3/kau3
+> ho4 bat1 baa2/baa3 bi1 oi1 gaam2 gaau3/geu3/gok3/koek3/kok3  gaa2/gaa3/kaa3 cit3 si6 lai4/loi4 zi6/zy6 ni5 hyu1 kau3/gau3
 > 
-> [hɔː˨˩ pɐt̚˥ paː˧˥/paː˧˧ piː˥˥ ɔːi˥˥ kaːm˧˥ kaːu˧˧/kɛːu˧˧/kɔːk̚˧/kʰœːk̚˧/kʰɔːk̚˧  kaː˧˥/kaː˧˧/kʰaː˧˧ t͡ʃʰiːt̚˧ ʃiː˨˨ lɐi˨˩/lɔːi˨˩ t͡ʃiː˨˨/t͡sɿ˨˨ niː˨˦ hyː˥˥ kɐu˧˧/kʰɐu˧˧]
+> [hɔː˨˩ pɐt̚˥ paː˧˥/paː˧˧ piː˥˥ ɔːi˥˥ kaːm˧˥ kaːu˧˧/kɛːu˧˧/kɔːk̚˧/kʰœːk̚˧/kʰɔːk̚˧  kaː˧˥/kaː˧˧/kʰaː˧˧ t͡ʃʰiːt̚˧ ʃiː˨˨ lɐi˨˩/lɔːi˨˩ t͡ʃiː˨˨/t͡sɿ˨˨ niː˨˦ hyː˥˥ kʰɐu˧˧/kɐu˧˧]
 > 
 > 试管里找不到它染污眼眸
 > 
@@ -194,9 +245,9 @@ out.close()
 > 
 > 情人节不要说穿 只敢抚你发端
 > 
-> cing4 jan4 zit3 bat1 jiu1/jiu3 sui3/syut3 cyun1  zek3/zi2/zik3 gaam2 fu2 ni5 faat3 dyun1
+> cing4 jan4 zit3 bat1 jiu1/jiu3 sui3/syut3 cyun1  zi2/zek3/zik3 gaam2 fu2 ni5 faat3 dyun1
 > 
-> [t͡ʃʰɪŋ˨˩ jɐn˨˩ t͡ʃiːt̚˧ pɐt̚˥ jiːu˥˥/jiːu˧˧ ʃuːi˧˧/ʃyːt̚˧ t͡ʃʰyːn˥˥  t͡ʃɛːk̚˧/t͡ʃiː˧˥/t͡ʃɪk̚˧ kaːm˧˥ fuː˧˥ niː˨˦ faːt̚˧ tyːn˥˥]
+> [t͡ʃʰɪŋ˨˩ jɐn˨˩ t͡ʃiːt̚˧ pɐt̚˥ jiːu˥˥/jiːu˧˧ ʃuːi˧˧/ʃyːt̚˧ t͡ʃʰyːn˥˥  t͡ʃiː˧˥/t͡ʃɛːk̚˧/t͡ʃɪk̚˧ kaːm˧˥ fuː˧˥ niː˨˦ faːt̚˧ tyːn˥˥]
 > 
 > 这种姿态可会令你更心酸
 > 
@@ -218,9 +269,9 @@ out.close()
 > 
 > 人活到几岁算短 失恋只有更短
 > 
-> jan4 wut6 du3 gi1/gi2 slui3 slyun3 dyun2  sat1 lyun2 zek3/zi2/zik3 jau5 gaang1/gang1/gang3 dyun2
+> jan4 wut6 du3 gi1/gi2 slui3 slyun3 dyun2  sat1 lyun2 zi2/zek3/zik3 jau5 gaang1/gang1/gang3 dyun2
 > 
-> [jɐn˨˩ wuːt̚˨ tuː˧˧ kiː˥˥/kiː˧˥ ɬuːi˧˧ ɬyːn˧˧ tyːn˧˥  ʃɐt̚˥ lyːn˧˥ t͡ʃɛːk̚˧/t͡ʃiː˧˥/t͡ʃɪk̚˧ jɐu˨˦ kaːŋ˥˥/kɐŋ˥˥/kɐŋ˧˧ tyːn˧˥]
+> [jɐn˨˩ wuːt̚˨ tuː˧˧ kiː˥˥/kiː˧˥ ɬuːi˧˧ ɬyːn˧˧ tyːn˧˥  ʃɐt̚˥ lyːn˧˥ t͡ʃiː˧˥/t͡ʃɛːk̚˧/t͡ʃɪk̚˧ jɐu˨˦ kaːŋ˥˥/kɐŋ˥˥/kɐŋ˧˧ tyːn˧˥]
 > 
 > 归家需要几里路谁能预算
 > 
@@ -242,9 +293,9 @@ out.close()
 > 
 > 谁都只得那双手 靠拥抱亦难任你拥有
 > 
-> sui4 du1 zek3/zi2/zik3 dak1 naa5 soeng1 sau2  kaau3 jung2/ung2 pu5 jik6 naan4/naan6 jam4/jam6 ni5 jung2/ung2 jau5
+> sui4 du1 zi2/zek3/zik3 dak1 naa5 soeng1 sau2  kaau3 jung2/ung2 pu5 jik6 naan4/naan6 jam4/jam6 ni5 jung2/ung2 jau5
 > 
-> [ʃuːi˨˩ tuː˥˥ t͡ʃɛːk̚˧/t͡ʃiː˧˥/t͡ʃɪk̚˧ tɐk̚˥ naː˨˦ ʃœːŋ˥˥ ʃɐu˧˥  kʰaːu˧˧ jʊŋ˧˥/ʊŋ˧˥ pʰuː˨˦ jɪk̚˨ naːn˨˩/naːn˨˨ jɐm˨˩/jɐm˨˨ niː˨˦ jʊŋ˧˥/ʊŋ˧˥ jɐu˨˦]
+> [ʃuːi˨˩ tuː˥˥ t͡ʃiː˧˥/t͡ʃɛːk̚˧/t͡ʃɪk̚˧ tɐk̚˥ naː˨˦ ʃœːŋ˥˥ ʃɐu˧˥  kʰaːu˧˧ jʊŋ˧˥/ʊŋ˧˥ pʰuː˨˦ jɪk̚˨ naːn˨˩/naːn˨˨ jɐm˨˩/jɐm˨˨ niː˨˦ jʊŋ˧˥/ʊŋ˧˥ jɐu˨˦]
 > 
 > 要拥有必先懂失去怎接受
 > 
@@ -266,9 +317,9 @@ out.close()
 > 
 > 何不把悲哀感觉 假设是来自你虚构
 > 
-> ho4 bat1 baa2/baa3 bi1 oi1 gaam2 gaau3/geu3/gok3/koek3/kok3  gaa2/gaa3/kaa3 cit3 si6 lai4/loi4 zi6/zy6 ni5 hyu1 gau3/kau3
+> ho4 bat1 baa2/baa3 bi1 oi1 gaam2 gaau3/geu3/gok3/koek3/kok3  gaa2/gaa3/kaa3 cit3 si6 lai4/loi4 zi6/zy6 ni5 hyu1 kau3/gau3
 > 
-> [hɔː˨˩ pɐt̚˥ paː˧˥/paː˧˧ piː˥˥ ɔːi˥˥ kaːm˧˥ kaːu˧˧/kɛːu˧˧/kɔːk̚˧/kʰœːk̚˧/kʰɔːk̚˧  kaː˧˥/kaː˧˧/kʰaː˧˧ t͡ʃʰiːt̚˧ ʃiː˨˨ lɐi˨˩/lɔːi˨˩ t͡ʃiː˨˨/t͡sɿ˨˨ niː˨˦ hyː˥˥ kɐu˧˧/kʰɐu˧˧]
+> [hɔː˨˩ pɐt̚˥ paː˧˥/paː˧˧ piː˥˥ ɔːi˥˥ kaːm˧˥ kaːu˧˧/kɛːu˧˧/kɔːk̚˧/kʰœːk̚˧/kʰɔːk̚˧  kaː˧˥/kaː˧˧/kʰaː˧˧ t͡ʃʰiːt̚˧ ʃiː˨˨ lɐi˨˩/lɔːi˨˩ t͡ʃiː˨˨/t͡sɿ˨˨ niː˨˦ hyː˥˥ kʰɐu˧˧/kɐu˧˧]
 > 
 > 试管里找不到它染污眼眸
 > 
@@ -290,9 +341,9 @@ out.close()
 > 
 > 谁都只得那双手 靠拥抱亦难任你拥有
 > 
-> sui4 du1 zek3/zi2/zik3 dak1 naa5 soeng1 sau2  kaau3 jung2/ung2 pu5 jik6 naan4/naan6 jam4/jam6 ni5 jung2/ung2 jau5
+> sui4 du1 zi2/zek3/zik3 dak1 naa5 soeng1 sau2  kaau3 jung2/ung2 pu5 jik6 naan4/naan6 jam4/jam6 ni5 jung2/ung2 jau5
 > 
-> [ʃuːi˨˩ tuː˥˥ t͡ʃɛːk̚˧/t͡ʃiː˧˥/t͡ʃɪk̚˧ tɐk̚˥ naː˨˦ ʃœːŋ˥˥ ʃɐu˧˥  kʰaːu˧˧ jʊŋ˧˥/ʊŋ˧˥ pʰuː˨˦ jɪk̚˨ naːn˨˩/naːn˨˨ jɐm˨˩/jɐm˨˨ niː˨˦ jʊŋ˧˥/ʊŋ˧˥ jɐu˨˦]
+> [ʃuːi˨˩ tuː˥˥ t͡ʃiː˧˥/t͡ʃɛːk̚˧/t͡ʃɪk̚˧ tɐk̚˥ naː˨˦ ʃœːŋ˥˥ ʃɐu˧˥  kʰaːu˧˧ jʊŋ˧˥/ʊŋ˧˥ pʰuː˨˦ jɪk̚˨ naːn˨˩/naːn˨˨ jɐm˨˩/jɐm˨˨ niː˨˦ jʊŋ˧˥/ʊŋ˧˥ jɐu˨˦]
 > 
 > 要拥有必先懂失去怎接受
 > 
@@ -314,9 +365,9 @@ out.close()
 > 
 > 何不把悲哀感觉 假设是来自你虚构
 > 
-> ho4 bat1 baa2/baa3 bi1 oi1 gaam2 gaau3/geu3/gok3/koek3/kok3  gaa2/gaa3/kaa3 cit3 si6 lai4/loi4 zi6/zy6 ni5 hyu1 gau3/kau3
+> ho4 bat1 baa2/baa3 bi1 oi1 gaam2 gaau3/geu3/gok3/koek3/kok3  gaa2/gaa3/kaa3 cit3 si6 lai4/loi4 zi6/zy6 ni5 hyu1 kau3/gau3
 > 
-> [hɔː˨˩ pɐt̚˥ paː˧˥/paː˧˧ piː˥˥ ɔːi˥˥ kaːm˧˥ kaːu˧˧/kɛːu˧˧/kɔːk̚˧/kʰœːk̚˧/kʰɔːk̚˧  kaː˧˥/kaː˧˧/kʰaː˧˧ t͡ʃʰiːt̚˧ ʃiː˨˨ lɐi˨˩/lɔːi˨˩ t͡ʃiː˨˨/t͡sɿ˨˨ niː˨˦ hyː˥˥ kɐu˧˧/kʰɐu˧˧]
+> [hɔː˨˩ pɐt̚˥ paː˧˥/paː˧˧ piː˥˥ ɔːi˥˥ kaːm˧˥ kaːu˧˧/kɛːu˧˧/kɔːk̚˧/kʰœːk̚˧/kʰɔːk̚˧  kaː˧˥/kaː˧˧/kʰaː˧˧ t͡ʃʰiːt̚˧ ʃiː˨˨ lɐi˨˩/lɔːi˨˩ t͡ʃiː˨˨/t͡sɿ˨˨ niː˨˦ hyː˥˥ kʰɐu˧˧/kɐu˧˧]
 > 
 > 试管里找不到它染污眼眸
 > 
@@ -355,15 +406,15 @@ out.close()
 > 
 > 拦路雨偏似雪花 饮泣的你冻吗
 > 
-> laan4 lou6 jyu5/jyu6 pin1 ci5 syut3 faa1  jam2/jam3 jap1 dik1 nei5 dung3 maa1
+> laan4 lou6 jyu5/jyu6 pin1 ci5 syut3 faa1  jam2 jap1 dik1 nei5 dung3 maa1
 > 
-> [laːn˨˩ lou˨˨ jyː˩˧/jyː˨˨ pʰiːn˥˥ t͡sʰiː˩˧ syːt̚˧ faː˥˥  jɐm˧˥/jɐm˧˧ jɐp̚˥ tɪk̚˥ nei˩˧ tʊŋ˧˧ maː˥˥]
+> [laːn˨˩ lou˨˨ jyː˩˧/jyː˨˨ pʰiːn˥˥ t͡sʰiː˩˧ syːt̚˧ faː˥˥  jɐm˧˥ jɐp̚˥ tɪk̚˥ nei˩˧ tʊŋ˧˧ maː˥˥]
 > 
 > 这风褛我给你磨到有襟花
 > 
-> ze3/ze5 fung1/fung3 lau5/leoi5 ngo5 kap1 nei5 mo4/mo6 dou3 jau5 kam1 faa1
+> ze3/ze5 fung1 lau1 ngo5 kap1 nei5 mo4/mo6 dou3 jau5 kam1 faa1
 > 
-> [t͡sɛː˧˧/t͡sɛː˩˧ fʊŋ˥˥/fʊŋ˧˧ lɐu˩˧/lɵy˩˧ ŋɔː˩˧ kʰɐp̚˥ nei˩˧ mɔː˨˩/mɔː˨˨ tou˧˧ jɐu˩˧ kʰɐm˥˥ faː˥˥]
+> [t͡sɛː˧˧/t͡sɛː˩˧ fʊŋ˥˥ lɐu˥˥ ŋɔː˩˧ kʰɐp̚˥ nei˩˧ mɔː˨˩/mɔː˨˨ tou˧˧ jɐu˩˧ kʰɐm˥˥ faː˥˥]
 > 
 > 连掉了渍也不怕 怎么始终牵挂
 > 
@@ -373,9 +424,9 @@ out.close()
 > 
 > 苦心选中今天想车你回家
 > 
-> fu2 sam1 syun2 zung1/zung3 gam1 tin1 soeng2 ce1/geoi1 nei5 wui4 gaa1/gu1
+> fu2 sam1 syun2 zung3 gam1 tin1 soeng2 ce1/geoi1 nei5 wui4 gaa1
 > 
-> [fuː˧˥ sɐm˥˥ syːn˧˥ t͡sʊŋ˥˥/t͡sʊŋ˧˧ kɐm˥˥ tʰiːn˥˥ sœːŋ˧˥ t͡sʰɛː˥˥/kɵy˥˥ nei˩˧ wuːi˨˩ kaː˥˥/kuː˥˥]
+> [fuː˧˥ sɐm˥˥ syːn˧˥ t͡sʊŋ˧˧ kɐm˥˥ tʰiːn˥˥ sœːŋ˧˥ t͡sʰɛː˥˥/kɵy˥˥ nei˩˧ wuːi˨˩ kaː˥˥]
 > 
 > 原谅我不再送花 伤口应要结疤
 > 
@@ -385,27 +436,27 @@ out.close()
 > 
 > 花瓣铺满心里坟场才害怕
 > 
-> faa1 baan6/faan6 pou1/pou3 mun5 sam1 lei5/leoi5 fan4 coeng4 coi4 hoi6/hot3 paa3
+> faa1 baan6/faan6 pou1/pou3 mun5 sam1 leoi5 fan4 coeng4 coi4 hoi6 paa3
 > 
-> [faː˥˥ paːn˨˨/faːn˨˨ pʰou˥˥/pʰou˧˧ muːn˩˧ sɐm˥˥ lei˩˧/lɵy˩˧ fɐn˨˩ t͡sʰœːŋ˨˩ t͡sʰɔːi˨˩ hɔːi˨˨/hɔːt̚˧ pʰaː˧˧]
+> [faː˥˥ paːn˨˨/faːn˨˨ pʰou˥˥/pʰou˧˧ muːn˩˧ sɐm˥˥ lɵy˩˧ fɐn˨˩ t͡sʰœːŋ˨˩ t͡sʰɔːi˨˩ hɔːi˨˨ pʰaː˧˧]
 > 
 > 如若你非我不嫁 彼此终必火化
 > 
-> jyu4 je5/joek6 nei5 fei1 ngo5 bat1 gaa3  bei2 ci2 zung1 bit1 fo2 faa3
+> jyu4 joek6 nei5 fei1 ngo5 bat1 gaa3  bei2 ci2 zung1 bit1 fo2 faa3
 > 
-> [jyː˨˩ jɛː˩˧/jœːk̚˨ nei˩˧ fei˥˥ ŋɔː˩˧ pɐt̚˥ kaː˧˧  pei˧˥ t͡sʰiː˧˥ t͡sʊŋ˥˥ piːt̚˥ fɔː˧˥ faː˧˧]
+> [jyː˨˩ jœːk̚˨ nei˩˧ fei˥˥ ŋɔː˩˧ pɐt̚˥ kaː˧˧  pei˧˥ t͡sʰiː˧˥ t͡sʊŋ˥˥ piːt̚˥ fɔː˧˥ faː˧˧]
 > 
 > 一生一世等一天需要代价
 > 
-> jat1 saang1/sang1 jat1 sai3 dang2 jat1 tin1 seoi1 jiu1/jiu3 doi6 gaa3
+> jat1 sang1 jat1 sai3 dang2 jat1 tin1 seoi1 jiu3 doi6 gaa3
 > 
-> [jɐt̚˥ saːŋ˥˥/sɐŋ˥˥ jɐt̚˥ sɐi˧˧ tɐŋ˧˥ jɐt̚˥ tʰiːn˥˥ sɵy˥˥ jiːu˥˥/jiːu˧˧ tɔːi˨˨ kaː˧˧]
+> [jɐt̚˥ sɐŋ˥˥ jɐt̚˥ sɐi˧˧ tɐŋ˧˥ jɐt̚˥ tʰiːn˥˥ sɵy˥˥ jiːu˧˧ tɔːi˨˨ kaː˧˧]
 > 
 > 谁都只得那双手 靠拥抱亦难任你拥有
 > 
-> seoi4 dou1 zek3/zi2 dak1 naa1/naa5 soeng1 sau2  kaau3 jung2 pou5 jik6 naan4/naan6/no4 jam4/jam6 nei5 jung2 jau5
+> seoi4 dou1 zi2 dak1 naa1/naa5 soeng1 sau2  kaau3 jung2 pou5 jik6 naan4/naan6/no4 jam4/jam6 nei5 jung2 jau5
 > 
-> [sɵy˨˩ tou˥˥ t͡sɛːk̚˧/t͡siː˧˥ tɐk̚˥ naː˥˥/naː˩˧ sœːŋ˥˥ sɐu˧˥  kʰaːu˧˧ jʊŋ˧˥ pʰou˩˧ jɪk̚˨ naːn˨˩/naːn˨˨/nɔː˨˩ jɐm˨˩/jɐm˨˨ nei˩˧ jʊŋ˧˥ jɐu˩˧]
+> [sɵy˨˩ tou˥˥ t͡siː˧˥ tɐk̚˥ naː˥˥/naː˩˧ sœːŋ˥˥ sɐu˧˥  kʰaːu˧˧ jʊŋ˧˥ pʰou˩˧ jɪk̚˨ naːn˨˩/naːn˨˨/nɔː˨˩ jɐm˨˩/jɐm˨˨ nei˩˧ jʊŋ˧˥ jɐu˩˧]
 > 
 > 要拥有必先懂失去怎接受
 > 
@@ -415,9 +466,9 @@ out.close()
 > 
 > 曾沿着雪路浪游 为何为好事泪流
 > 
-> cang4/zang1 jyun4 zoek3/zoek6/zyu3 syut3 lou6 long4/long6 jau4  wai4/wai6 ho4 wai4/wai6 hou2/hou3 si6 leoi6 lau4
+> cang4/zang1 jyun4 zoek6 syut3 lou6 long4/long6 jau4  wai6 ho4 wai4/wai6 hou2 si6 leoi6 lau4
 > 
-> [t͡sʰɐŋ˨˩/t͡sɐŋ˥˥ jyːn˨˩ t͡sœːk̚˧/t͡sœːk̚˨/t͡syː˧˧ syːt̚˧ lou˨˨ lɔːŋ˨˩/lɔːŋ˨˨ jɐu˨˩  wɐi˨˩/wɐi˨˨ hɔː˨˩ wɐi˨˩/wɐi˨˨ hou˧˥/hou˧˧ siː˨˨ lɵy˨˨ lɐu˨˩]
+> [t͡sʰɐŋ˨˩/t͡sɐŋ˥˥ jyːn˨˩ t͡sœːk̚˨ syːt̚˧ lou˨˨ lɔːŋ˨˩/lɔːŋ˨˨ jɐu˨˩  wɐi˨˨ hɔː˨˩ wɐi˨˩/wɐi˨˨ hou˧˥ siː˨˨ lɵy˨˨ lɐu˨˩]
 > 
 > 谁能凭爱意要富士山私有
 > 
@@ -427,9 +478,9 @@ out.close()
 > 
 > 何不把悲哀感觉 假设是来自你虚构
 > 
-> ho4 bat1 baa2 bei1 oi1 gam2 gaau3/gok3  gaa2/gaa3 cit3 si6 loi4 zi6 nei5 heoi1 gau3/kau3
+> ho4 bat1 baa2 bei1 oi1 gam2 gok3  gaa2 cit3 si6 loi4 zi6 nei5 heoi1 gau3/kau3
 > 
-> [hɔː˨˩ pɐt̚˥ paː˧˥ pei˥˥ ɔːi˥˥ kɐm˧˥ kaːu˧˧/kɔːk̚˧  kaː˧˥/kaː˧˧ t͡sʰiːt̚˧ siː˨˨ lɔːi˨˩ t͡siː˨˨ nei˩˧ hɵy˥˥ kɐu˧˧/kʰɐu˧˧]
+> [hɔː˨˩ pɐt̚˥ paː˧˥ pei˥˥ ɔːi˥˥ kɐm˧˥ kɔːk̚˧  kaː˧˥ t͡sʰiːt̚˧ siː˨˨ lɔːi˨˩ t͡siː˨˨ nei˩˧ hɵy˥˥ kɐu˧˧/kʰɐu˧˧]
 > 
 > 试管里找不到它染污眼眸
 > 
@@ -439,51 +490,51 @@ out.close()
 > 
 > 前尘硬化像石头 随缘地抛下便逃走
 > 
-> cin4 can4 ngaang6 faa3 zoeng6 daam3/sek6 tau4  ceoi4 jyun4 dei6 paau1 haa5/haa6 bin6/pin4 tou4 zau2
+> cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4  ceoi4 jyun4 dei6 paau1 haa6 bin6/pin4 tou4 zau2
 > 
-> [t͡sʰiːn˨˩ t͡sʰɐn˨˩ ŋaːŋ˨˨ faː˧˧ t͡sœːŋ˨˨ taːm˧˧/sɛːk̚˨ tʰɐu˨˩  t͡sʰɵy˨˩ jyːn˨˩ tei˨˨ pʰaːu˥˥ haː˩˧/haː˨˨ piːn˨˨/pʰiːn˨˩ tʰou˨˩ t͡sɐu˧˥]
+> [t͡sʰiːn˨˩ t͡sʰɐn˨˩ ŋaːŋ˨˨ faː˧˧ t͡sœːŋ˨˨ sɛːk̚˨ tʰɐu˨˩  t͡sʰɵy˨˩ jyːn˨˩ tei˨˨ pʰaːu˥˥ haː˨˨ piːn˨˨/pʰiːn˨˩ tʰou˨˩ t͡sɐu˧˥]
 > 
 > 我绝不罕有 往街里绕过一周 我便化乌有
 > 
-> ngo5 zyut6 bat1 hon2 jau5  wong5 gaai1 lei5/leoi5 jiu2/jiu5 gwo3 jat1 zau1  ngo5 bin6/pin4 faa3 wu1 jau5
+> ngo5 zyut6 bat1 hon2 jau5  wong5 gaai1 lei5/leoi5 jiu5 gwo3 jat1 zau1  ngo5 bin6/pin4 faa3 wu1 jau5
 > 
-> [ŋɔː˩˧ t͡syːt̚˨ pɐt̚˥ hɔːn˧˥ jɐu˩˧  wɔːŋ˩˧ kaːi˥˥ lei˩˧/lɵy˩˧ jiːu˧˥/jiːu˩˧ kʷɔː˧˧ jɐt̚˥ t͡sɐu˥˥  ŋɔː˩˧ piːn˨˨/pʰiːn˨˩ faː˧˧ wuː˥˥ jɐu˩˧]
+> [ŋɔː˩˧ t͡syːt̚˨ pɐt̚˥ hɔːn˧˥ jɐu˩˧  wɔːŋ˩˧ kaːi˥˥ lei˩˧/lɵy˩˧ jiːu˩˧ kʷɔː˧˧ jɐt̚˥ t͡sɐu˥˥  ŋɔː˩˧ piːn˨˨/pʰiːn˨˩ faː˧˧ wuː˥˥ jɐu˩˧]
 > 
 > 情人节不要说穿 只敢抚你发端
 > 
-> cing4 jan4 zit3 bat1 jiu1/jiu3 seoi3/syut3 cyun1  zek3/zi2 gam2 fu2 nei5 faat3 dyun1
+> cing4 jan4 zit3 bat1 jiu3 syut3 cyun1  zek3/zi2 gam2 fu2 nei5 faat3 dyun1
 > 
-> [t͡sʰɪŋ˨˩ jɐn˨˩ t͡siːt̚˧ pɐt̚˥ jiːu˥˥/jiːu˧˧ sɵy˧˧/syːt̚˧ t͡sʰyːn˥˥  t͡sɛːk̚˧/t͡siː˧˥ kɐm˧˥ fuː˧˥ nei˩˧ faːt̚˧ tyːn˥˥]
+> [t͡sʰɪŋ˨˩ jɐn˨˩ t͡siːt̚˧ pɐt̚˥ jiːu˧˧ syːt̚˧ t͡sʰyːn˥˥  t͡sɛːk̚˧/t͡siː˧˥ kɐm˧˥ fuː˧˥ nei˩˧ faːt̚˧ tyːn˥˥]
 > 
 > 这种姿态可会令你更心酸
 > 
-> ze3/ze5 zung2/zung3 zi1 taai3 hak1/ho2 kui2/wui5/wui6 ling1/ling6 nei5 gaang1/gang1/gang3 sam1 syun1
+> ze2 zung2 zi1 taai3 hak1/ho2 kui2/wui5/wui6 ling1/ling6 nei5 gaang1/gang1/gang3 sam1 syun1
 > 
-> [t͡sɛː˧˧/t͡sɛː˩˧ t͡sʊŋ˧˥/t͡sʊŋ˧˧ t͡siː˥˥ tʰaːi˧˧ hɐk̚˥/hɔː˧˥ kʰuːi˧˥/wuːi˩˧/wuːi˨˨ lɪŋ˥˥/lɪŋ˨˨ nei˩˧ kaːŋ˥˥/kɐŋ˥˥/kɐŋ˧˧ sɐm˥˥ syːn˥˥]
+> [t͡sɛː˧˥ t͡sʊŋ˧˥ t͡siː˥˥ tʰaːi˧˧ hɐk̚˥/hɔː˧˥ kʰuːi˧˥/wuːi˩˧/wuːi˨˨ lɪŋ˥˥/lɪŋ˨˨ nei˩˧ kaːŋ˥˥/kɐŋ˥˥/kɐŋ˧˧ sɐm˥˥ syːn˥˥]
 > 
 > 留在汽车里取暖 应该怎么规劝
 > 
-> lau4 zoi6 hei3 ce1/geoi1 lei5/leoi5 ceoi2 nyun5  jing1/jing3 goi1 zam2 mo1 kwai1 hyun3
+> lau4 zoi6 hei3 ce1 lei5/leoi5 ceoi2 nyun5  jing1 goi1 zam2 mo1 kwai1 hyun3
 > 
-> [lɐu˨˩ t͡sɔːi˨˨ hei˧˧ t͡sʰɛː˥˥/kɵy˥˥ lei˩˧/lɵy˩˧ t͡sʰɵy˧˥ nyːn˩˧  jɪŋ˥˥/jɪŋ˧˧ kɔːi˥˥ t͡sɐm˧˥ mɔː˥˥ kʷʰɐi˥˥ hyːn˧˧]
+> [lɐu˨˩ t͡sɔːi˨˨ hei˧˧ t͡sʰɛː˥˥ lei˩˧/lɵy˩˧ t͡sʰɵy˧˥ nyːn˩˧  jɪŋ˥˥ kɔːi˥˥ t͡sɐm˧˥ mɔː˥˥ kʷʰɐi˥˥ hyːn˧˧]
 > 
 > 怎么可以将手腕忍痛划损
 > 
-> zam2 mo1 hak1/ho2 ji5 zoeng1/zoeng3 sau2 wun2 jan2/jan5 tung3 faa3/waa1/waak6 syun2
+> zam2 mo1 ho2 ji5 zoeng1/zoeng3 sau2 wun2 jan2 tung3 faa3/waa1/waak6 syun2
 > 
-> [t͡sɐm˧˥ mɔː˥˥ hɐk̚˥/hɔː˧˥ jiː˩˧ t͡sœːŋ˥˥/t͡sœːŋ˧˧ sɐu˧˥ wuːn˧˥ jɐn˧˥/jɐn˩˧ tʰʊŋ˧˧ faː˧˧/waː˥˥/waːk̚˨ syːn˧˥]
+> [t͡sɐm˧˥ mɔː˥˥ hɔː˧˥ jiː˩˧ t͡sœːŋ˥˥/t͡sœːŋ˧˧ sɐu˧˥ wuːn˧˥ jɐn˧˥ tʰʊŋ˧˧ faː˧˧/waː˥˥/waːk̚˨ syːn˧˥]
 > 
 > 人活到几岁算短 失恋只有更短
 > 
-> jan4 wut6 dou3 gei1/gei2 seoi3 syun3 dyun2  sat1 lyun2/lyun5 zek3/zi2 jau5 gaang1/gang1/gang3 dyun2
+> jan4 wut6 dou3 gei2 seoi3 syun3 dyun2  sat1 lyun2 zi2 jau5 gaang1/gang1/gang3 dyun2
 > 
-> [jɐn˨˩ wuːt̚˨ tou˧˧ kei˥˥/kei˧˥ sɵy˧˧ syːn˧˧ tyːn˧˥  sɐt̚˥ lyːn˧˥/lyːn˩˧ t͡sɛːk̚˧/t͡siː˧˥ jɐu˩˧ kaːŋ˥˥/kɐŋ˥˥/kɐŋ˧˧ tyːn˧˥]
+> [jɐn˨˩ wuːt̚˨ tou˧˧ kei˧˥ sɵy˧˧ syːn˧˧ tyːn˧˥  sɐt̚˥ lyːn˧˥ t͡siː˧˥ jɐu˩˧ kaːŋ˥˥/kɐŋ˥˥/kɐŋ˧˧ tyːn˧˥]
 > 
 > 归家需要几里路谁能预算
 > 
-> gwai1 gaa1/gu1 seoi1 jiu1/jiu3 gei1/gei2 lei5/leoi5 lou6 seoi4 nang4 jyu6 syun3
+> gwai1 gaa1/gu1 seoi1 jiu3 gei1/gei2 lei5/leoi5 lou6 seoi4 nang4 jyu6 syun3
 > 
-> [kʷɐi˥˥ kaː˥˥/kuː˥˥ sɵy˥˥ jiːu˥˥/jiːu˧˧ kei˥˥/kei˧˥ lei˩˧/lɵy˩˧ lou˨˨ sɵy˨˩ nɐŋ˨˩ jyː˨˨ syːn˧˧]
+> [kʷɐi˥˥ kaː˥˥/kuː˥˥ sɵy˥˥ jiːu˧˧ kei˥˥/kei˧˥ lei˩˧/lɵy˩˧ lou˨˨ sɵy˨˩ nɐŋ˨˩ jyː˨˨ syːn˧˧]
 > 
 > 忘掉我跟你恩怨 樱花开了几转
 > 
@@ -493,15 +544,15 @@ out.close()
 > 
 > 东京之旅一早比一世遥远
 > 
-> dung1 ging1 zi1 leoi5 jat1 zou2 bei2/bei3/bei6 jat1 sai3 jiu4 jyun5/jyun6
+> dung1 ging1 zi1 leoi5 jat1 zou2 bei2/bei3/bei6 jat1 sai3 jiu4 jyun5
 > 
-> [tʊŋ˥˥ kɪŋ˥˥ t͡siː˥˥ lɵy˩˧ jɐt̚˥ t͡sou˧˥ pei˧˥/pei˧˧/pei˨˨ jɐt̚˥ sɐi˧˧ jiːu˨˩ jyːn˩˧/jyːn˨˨]
+> [tʊŋ˥˥ kɪŋ˥˥ t͡siː˥˥ lɵy˩˧ jɐt̚˥ t͡sou˧˥ pei˧˥/pei˧˧/pei˨˨ jɐt̚˥ sɐi˧˧ jiːu˨˩ jyːn˩˧]
 > 
 > 谁都只得那双手 靠拥抱亦难任你拥有
 > 
-> seoi4 dou1 zek3/zi2 dak1 naa1/naa5 soeng1 sau2  kaau3 jung2 pou5 jik6 naan4/naan6/no4 jam4/jam6 nei5 jung2 jau5
+> seoi4 dou1 zi2 dak1 naa1/naa5 soeng1 sau2  kaau3 jung2 pou5 jik6 naan4/naan6/no4 jam4/jam6 nei5 jung2 jau5
 > 
-> [sɵy˨˩ tou˥˥ t͡sɛːk̚˧/t͡siː˧˥ tɐk̚˥ naː˥˥/naː˩˧ sœːŋ˥˥ sɐu˧˥  kʰaːu˧˧ jʊŋ˧˥ pʰou˩˧ jɪk̚˨ naːn˨˩/naːn˨˨/nɔː˨˩ jɐm˨˩/jɐm˨˨ nei˩˧ jʊŋ˧˥ jɐu˩˧]
+> [sɵy˨˩ tou˥˥ t͡siː˧˥ tɐk̚˥ naː˥˥/naː˩˧ sœːŋ˥˥ sɐu˧˥  kʰaːu˧˧ jʊŋ˧˥ pʰou˩˧ jɪk̚˨ naːn˨˩/naːn˨˨/nɔː˨˩ jɐm˨˩/jɐm˨˨ nei˩˧ jʊŋ˧˥ jɐu˩˧]
 > 
 > 要拥有必先懂失去怎接受
 > 
@@ -511,9 +562,9 @@ out.close()
 > 
 > 曾沿着雪路浪游 为何为好事泪流
 > 
-> cang4/zang1 jyun4 zoek3/zoek6/zyu3 syut3 lou6 long4/long6 jau4  wai4/wai6 ho4 wai4/wai6 hou2/hou3 si6 leoi6 lau4
+> cang4/zang1 jyun4 zoek6 syut3 lou6 long4/long6 jau4  wai6 ho4 wai4/wai6 hou2 si6 leoi6 lau4
 > 
-> [t͡sʰɐŋ˨˩/t͡sɐŋ˥˥ jyːn˨˩ t͡sœːk̚˧/t͡sœːk̚˨/t͡syː˧˧ syːt̚˧ lou˨˨ lɔːŋ˨˩/lɔːŋ˨˨ jɐu˨˩  wɐi˨˩/wɐi˨˨ hɔː˨˩ wɐi˨˩/wɐi˨˨ hou˧˥/hou˧˧ siː˨˨ lɵy˨˨ lɐu˨˩]
+> [t͡sʰɐŋ˨˩/t͡sɐŋ˥˥ jyːn˨˩ t͡sœːk̚˨ syːt̚˧ lou˨˨ lɔːŋ˨˩/lɔːŋ˨˨ jɐu˨˩  wɐi˨˨ hɔː˨˩ wɐi˨˩/wɐi˨˨ hou˧˥ siː˨˨ lɵy˨˨ lɐu˨˩]
 > 
 > 谁能凭爱意要富士山私有
 > 
@@ -523,9 +574,9 @@ out.close()
 > 
 > 何不把悲哀感觉 假设是来自你虚构
 > 
-> ho4 bat1 baa2 bei1 oi1 gam2 gaau3/gok3  gaa2/gaa3 cit3 si6 loi4 zi6 nei5 heoi1 gau3/kau3
+> ho4 bat1 baa2 bei1 oi1 gam2 gok3  gaa2 cit3 si6 loi4 zi6 nei5 heoi1 gau3/kau3
 > 
-> [hɔː˨˩ pɐt̚˥ paː˧˥ pei˥˥ ɔːi˥˥ kɐm˧˥ kaːu˧˧/kɔːk̚˧  kaː˧˥/kaː˧˧ t͡sʰiːt̚˧ siː˨˨ lɔːi˨˩ t͡siː˨˨ nei˩˧ hɵy˥˥ kɐu˧˧/kʰɐu˧˧]
+> [hɔː˨˩ pɐt̚˥ paː˧˥ pei˥˥ ɔːi˥˥ kɐm˧˥ kɔːk̚˧  kaː˧˥ t͡sʰiːt̚˧ siː˨˨ lɔːi˨˩ t͡siː˨˨ nei˩˧ hɵy˥˥ kɐu˧˧/kʰɐu˧˧]
 > 
 > 试管里找不到它染污眼眸
 > 
@@ -535,21 +586,21 @@ out.close()
 > 
 > 前尘硬化像石头 随缘地抛下便逃走
 > 
-> cin4 can4 ngaang6 faa3 zoeng6 daam3/sek6 tau4  ceoi4 jyun4 dei6 paau1 haa5/haa6 bin6/pin4 tou4 zau2
+> cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4  ceoi4 jyun4 dei6 paau1 haa6 bin6/pin4 tou4 zau2
 > 
-> [t͡sʰiːn˨˩ t͡sʰɐn˨˩ ŋaːŋ˨˨ faː˧˧ t͡sœːŋ˨˨ taːm˧˧/sɛːk̚˨ tʰɐu˨˩  t͡sʰɵy˨˩ jyːn˨˩ tei˨˨ pʰaːu˥˥ haː˩˧/haː˨˨ piːn˨˨/pʰiːn˨˩ tʰou˨˩ t͡sɐu˧˥]
+> [t͡sʰiːn˨˩ t͡sʰɐn˨˩ ŋaːŋ˨˨ faː˧˧ t͡sœːŋ˨˨ sɛːk̚˨ tʰɐu˨˩  t͡sʰɵy˨˩ jyːn˨˩ tei˨˨ pʰaːu˥˥ haː˨˨ piːn˨˨/pʰiːn˨˩ tʰou˨˩ t͡sɐu˧˥]
 > 
 > 我绝不罕有 往街里绕过一周 我便化乌有
 > 
-> ngo5 zyut6 bat1 hon2 jau5  wong5 gaai1 lei5/leoi5 jiu2/jiu5 gwo3 jat1 zau1  ngo5 bin6/pin4 faa3 wu1 jau5
+> ngo5 zyut6 bat1 hon2 jau5  wong5 gaai1 lei5/leoi5 jiu5 gwo3 jat1 zau1  ngo5 bin6/pin4 faa3 wu1 jau5
 > 
-> [ŋɔː˩˧ t͡syːt̚˨ pɐt̚˥ hɔːn˧˥ jɐu˩˧  wɔːŋ˩˧ kaːi˥˥ lei˩˧/lɵy˩˧ jiːu˧˥/jiːu˩˧ kʷɔː˧˧ jɐt̚˥ t͡sɐu˥˥  ŋɔː˩˧ piːn˨˨/pʰiːn˨˩ faː˧˧ wuː˥˥ jɐu˩˧]
+> [ŋɔː˩˧ t͡syːt̚˨ pɐt̚˥ hɔːn˧˥ jɐu˩˧  wɔːŋ˩˧ kaːi˥˥ lei˩˧/lɵy˩˧ jiːu˩˧ kʷɔː˧˧ jɐt̚˥ t͡sɐu˥˥  ŋɔː˩˧ piːn˨˨/pʰiːn˨˩ faː˧˧ wuː˥˥ jɐu˩˧]
 > 
 > 谁都只得那双手 靠拥抱亦难任你拥有
 > 
-> seoi4 dou1 zek3/zi2 dak1 naa1/naa5 soeng1 sau2  kaau3 jung2 pou5 jik6 naan4/naan6/no4 jam4/jam6 nei5 jung2 jau5
+> seoi4 dou1 zi2 dak1 naa1/naa5 soeng1 sau2  kaau3 jung2 pou5 jik6 naan4/naan6/no4 jam4/jam6 nei5 jung2 jau5
 > 
-> [sɵy˨˩ tou˥˥ t͡sɛːk̚˧/t͡siː˧˥ tɐk̚˥ naː˥˥/naː˩˧ sœːŋ˥˥ sɐu˧˥  kʰaːu˧˧ jʊŋ˧˥ pʰou˩˧ jɪk̚˨ naːn˨˩/naːn˨˨/nɔː˨˩ jɐm˨˩/jɐm˨˨ nei˩˧ jʊŋ˧˥ jɐu˩˧]
+> [sɵy˨˩ tou˥˥ t͡siː˧˥ tɐk̚˥ naː˥˥/naː˩˧ sœːŋ˥˥ sɐu˧˥  kʰaːu˧˧ jʊŋ˧˥ pʰou˩˧ jɪk̚˨ naːn˨˩/naːn˨˨/nɔː˨˩ jɐm˨˩/jɐm˨˨ nei˩˧ jʊŋ˧˥ jɐu˩˧]
 > 
 > 要拥有必先懂失去怎接受
 > 
@@ -559,9 +610,9 @@ out.close()
 > 
 > 曾沿着雪路浪游 为何为好事泪流
 > 
-> cang4/zang1 jyun4 zoek3/zoek6/zyu3 syut3 lou6 long4/long6 jau4  wai4/wai6 ho4 wai4/wai6 hou2/hou3 si6 leoi6 lau4
+> cang4/zang1 jyun4 zoek6 syut3 lou6 long4/long6 jau4  wai6 ho4 wai4/wai6 hou2 si6 leoi6 lau4
 > 
-> [t͡sʰɐŋ˨˩/t͡sɐŋ˥˥ jyːn˨˩ t͡sœːk̚˧/t͡sœːk̚˨/t͡syː˧˧ syːt̚˧ lou˨˨ lɔːŋ˨˩/lɔːŋ˨˨ jɐu˨˩  wɐi˨˩/wɐi˨˨ hɔː˨˩ wɐi˨˩/wɐi˨˨ hou˧˥/hou˧˧ siː˨˨ lɵy˨˨ lɐu˨˩]
+> [t͡sʰɐŋ˨˩/t͡sɐŋ˥˥ jyːn˨˩ t͡sœːk̚˨ syːt̚˧ lou˨˨ lɔːŋ˨˩/lɔːŋ˨˨ jɐu˨˩  wɐi˨˨ hɔː˨˩ wɐi˨˩/wɐi˨˨ hou˧˥ siː˨˨ lɵy˨˨ lɐu˨˩]
 > 
 > 谁能凭爱意要富士山私有
 > 
@@ -571,9 +622,9 @@ out.close()
 > 
 > 何不把悲哀感觉 假设是来自你虚构
 > 
-> ho4 bat1 baa2 bei1 oi1 gam2 gaau3/gok3  gaa2/gaa3 cit3 si6 loi4 zi6 nei5 heoi1 gau3/kau3
+> ho4 bat1 baa2 bei1 oi1 gam2 gok3  gaa2 cit3 si6 loi4 zi6 nei5 heoi1 gau3/kau3
 > 
-> [hɔː˨˩ pɐt̚˥ paː˧˥ pei˥˥ ɔːi˥˥ kɐm˧˥ kaːu˧˧/kɔːk̚˧  kaː˧˥/kaː˧˧ t͡sʰiːt̚˧ siː˨˨ lɔːi˨˩ t͡siː˨˨ nei˩˧ hɵy˥˥ kɐu˧˧/kʰɐu˧˧]
+> [hɔː˨˩ pɐt̚˥ paː˧˥ pei˥˥ ɔːi˥˥ kɐm˧˥ kɔːk̚˧  kaː˧˥ t͡sʰiːt̚˧ siː˨˨ lɔːi˨˩ t͡siː˨˨ nei˩˧ hɵy˥˥ kɐu˧˧/kʰɐu˧˧]
 > 
 > 试管里找不到它染污眼眸
 > 
@@ -583,19 +634,19 @@ out.close()
 > 
 > 前尘硬化像石头 随缘地抛下便逃走
 > 
-> cin4 can4 ngaang6 faa3 zoeng6 daam3/sek6 tau4  ceoi4 jyun4 dei6 paau1 haa5/haa6 bin6/pin4 tou4 zau2
+> cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4  ceoi4 jyun4 dei6 paau1 haa6 bin6/pin4 tou4 zau2
 > 
-> [t͡sʰiːn˨˩ t͡sʰɐn˨˩ ŋaːŋ˨˨ faː˧˧ t͡sœːŋ˨˨ taːm˧˧/sɛːk̚˨ tʰɐu˨˩  t͡sʰɵy˨˩ jyːn˨˩ tei˨˨ pʰaːu˥˥ haː˩˧/haː˨˨ piːn˨˨/pʰiːn˨˩ tʰou˨˩ t͡sɐu˧˥]
+> [t͡sʰiːn˨˩ t͡sʰɐn˨˩ ŋaːŋ˨˨ faː˧˧ t͡sœːŋ˨˨ sɛːk̚˨ tʰɐu˨˩  t͡sʰɵy˨˩ jyːn˨˩ tei˨˨ pʰaːu˥˥ haː˨˨ piːn˨˨/pʰiːn˨˩ tʰou˨˩ t͡sɐu˧˥]
 > 
 > 我绝不罕有 往街里绕过一周 我便化乌有
 > 
-> ngo5 zyut6 bat1 hon2 jau5  wong5 gaai1 lei5/leoi5 jiu2/jiu5 gwo3 jat1 zau1  ngo5 bin6/pin4 faa3 wu1 jau5
+> ngo5 zyut6 bat1 hon2 jau5  wong5 gaai1 lei5/leoi5 jiu5 gwo3 jat1 zau1  ngo5 bin6/pin4 faa3 wu1 jau5
 > 
-> [ŋɔː˩˧ t͡syːt̚˨ pɐt̚˥ hɔːn˧˥ jɐu˩˧  wɔːŋ˩˧ kaːi˥˥ lei˩˧/lɵy˩˧ jiːu˧˥/jiːu˩˧ kʷɔː˧˧ jɐt̚˥ t͡sɐu˥˥  ŋɔː˩˧ piːn˨˨/pʰiːn˨˩ faː˧˧ wuː˥˥ jɐu˩˧]
+> [ŋɔː˩˧ t͡syːt̚˨ pɐt̚˥ hɔːn˧˥ jɐu˩˧  wɔːŋ˩˧ kaːi˥˥ lei˩˧/lɵy˩˧ jiːu˩˧ kʷɔː˧˧ jɐt̚˥ t͡sɐu˥˥  ŋɔː˩˧ piːn˨˨/pʰiːn˨˩ faː˧˧ wuː˥˥ jɐu˩˧]
 > 
 > 你还嫌不够 我把这陈年风褛 送赠你解咒
 > 
-> nei5 waan4 jim4 bat1 gau3  ngo5 baa2 ze3/ze5 can4 nin4 fung1/fung3 lau5/leoi5  sung3 zang6 nei5 gaai2/gaai3/haai6 zau3
+> nei5 waan4 jim4 bat1 gau3  ngo5 baa2 ze3/ze5 can4 nin4 fung1 lau1  sung3 zang6 nei5 gaai2/gaai3/haai6 zau3
 > 
-> [nei˩˧ waːn˨˩ jiːm˨˩ pɐt̚˥ kɐu˧˧  ŋɔː˩˧ paː˧˥ t͡sɛː˧˧/t͡sɛː˩˧ t͡sʰɐn˨˩ niːn˨˩ fʊŋ˥˥/fʊŋ˧˧ lɐu˩˧/lɵy˩˧  sʊŋ˧˧ t͡sɐŋ˨˨ nei˩˧ kaːi˧˥/kaːi˧˧/haːi˨˨ t͡sɐu˧˧]
+> [nei˩˧ waːn˨˩ jiːm˨˩ pɐt̚˥ kɐu˧˧  ŋɔː˩˧ paː˧˥ t͡sɛː˧˧/t͡sɛː˩˧ t͡sʰɐn˨˩ niːn˨˩ fʊŋ˥˥ lɐu˥˥  sʊŋ˧˧ t͡sɐŋ˨˨ nei˩˧ kaːi˧˥/kaːi˧˧/haːi˨˨ t͡sɐu˧˧]
 

@@ -1,6 +1,6 @@
 # 南宁平话拼音方案〔简化版〕
 
-桂南平话以南宁亭子村平话为代表。
+桂南平话以南宁亭子乡平话为代表。
 
 ## 声母
 
@@ -31,13 +31,13 @@
 	<td><span style="font-size:2em;">kw</span> [kʷʰ] 夸</td>
 	<td></td>
 	<td></td>
-	<td><span style="font-size:2em;">w</span> [β/w] 蛙</td>
+	<td><span style="font-size:2em;">w</span> [w/β] 蛙</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">z</span> [ts/tʃ] 资</td>
-	<td><span style="font-size:2em;">c</span> [tsʰ/tʃʰ] 雌</td>
-	<td><span style="font-size:2em;">nj</span> [ɲ/ȵ] 日</td>
-	<td><span style="font-size:2em;">s</span> [s/ʃ] 诗</td>
+	<td><span style="font-size:2em;">z</span> [tʃ/ts] 资</td>
+	<td><span style="font-size:2em;">c</span> [tʃʰ/tsʰ] 雌</td>
+	<td><span style="font-size:2em;">nj</span> [ȵ/ɲ] 日</td>
+	<td><span style="font-size:2em;">s</span> [ʃ/s] 诗</td>
 	<td><span style="font-size:2em;">j</span> [j] 衣</td>
   </tr>
 </table>
@@ -51,15 +51,15 @@
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
 	<td><span style="font-size:2em;">aa</span> [aː] 沙</td>
-	<td><span style="font-size:2em;">a</span> [ə/ɐ] 新</td>
-	<td><span style="font-size:2em;">e</span> [e] 写星识</td>
+	<td><span style="font-size:2em;">a</span> [ɐ/ə] 新</td>
+	<td><span style="font-size:2em;">e</span> [e] 些</td>
 	<td><span style="font-size:2em;">o</span> [o] 多光国</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">i</span> [iː] 诗</td>
+	<td><span style="font-size:2em;">i</span> [iː/e] 诗星识</td>
 	<td><span style="font-size:2em;">u</span> [uː] 夫官阔</td>
 	<td><span style="font-size:2em;">yu</span> [yː] 书</td>
-	<td><span style="font-size:2em;">oe</span> [øː/œː] 靴</td>
+	<td><span style="font-size:2em;">oe</span> [œː/øː] 靴</td>
   </tr>
 </table>
 
@@ -88,12 +88,12 @@
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
 	<td><span style="font-size:2em;">ng</span> [ŋ̩] 五*</td>
-	<td><span style="font-size:2em;">oe</span> [øː/œː] 而尔*</td>
+	<td><span style="font-size:2em;">oe</span> [œː/øː] 而尔*</td>
   </tr>
 </table>
 
-- 老派[ŋ]只作为声母，例如「五ngu5[ŋu˨˦]、误ngu6[ŋuː˨˨]」，新派可以自成音节[ŋ̩]，例如「五ng5[ŋ˨˦]、误ng6[ŋ˨˨]」。
-- 单元音oe[øː/œː]有「而、尔」两个字。
+- 老派[ŋ]只作为声母，例如「五」ngu5[ŋu˨˦]、「误」ngu6[ŋuː˨˨]，新派可以自成音节[ŋ̩]，例如「五」ng5[ŋ˨˦]、「误」ng6[ŋ˨˨]。
+- 「而」有oe4[œː˨˩]、ji4[jiː˨˩]两读，「尔」有oe5[œː˨˦]、nji5[ȵiː˨˦]两读。
 
 ## 字调
 
@@ -106,15 +106,15 @@
   </tr>
   <tr>
 	<td><span style="font-size:2em;">阴</span></td>
-	<td><span style="font-size:2em;">si1</span> [ʃiː˥˧] 诗</td>
+	<td><span style="font-size:2em;">si1</span> [ʃiː˥˧/siː˥˧] 诗</td>
 	<td><span style="font-size:2em;">si2</span> [ɬiː˧˧] 死</td>
-	<td><span style="font-size:2em;">si3</span> [ʃiː˥˥] 世</td>
+	<td><span style="font-size:2em;">si3</span> [ʃiː˥˥/siː˥˥] 世</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">阳</span></td>
-	<td><span style="font-size:2em;">si4</span> [ʃiː˨˩] 时</td>
-	<td><span style="font-size:2em;">si5</span> [ʃiː˨˦] 市</td>
-	<td><span style="font-size:2em;">si6</span> [ʃiː˨˨] 是</td>
+	<td><span style="font-size:2em;">si4</span> [ʃiː˨˩/siː˨˩] 时</td>
+	<td><span style="font-size:2em;">si5</span> [ʃiː˨˦/siː˨˦] 市</td>
+	<td><span style="font-size:2em;">si6</span> [ʃiː˨˨/siː˨˨] 是</td>
   </tr>
 </table>
 
@@ -126,10 +126,10 @@
 	<td><span style="font-size:2em;">下阳入</span></td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">nap3</span> [nɐp̚˥] 粒</td>
-	<td><span style="font-size:2em;">sip2</span> [ʃiːp̚˧] 摄</td>
+	<td><span style="font-size:2em;">nap3</span> [nɐp̚˥/nəp̚˥] 粒</td>
+	<td><span style="font-size:2em;">sip2</span> [ʃiːp̚˧/siːp̚˧] 摄</td>
 	<td><span style="font-size:2em;">lyut5</span> [lyːt̚˨˦] 劣</td>
-	<td><span style="font-size:2em;">zyut6</span> [t͡ʃyːt̚˨] 绝</td>
+	<td><span style="font-size:2em;">zyut6</span> [t͡ʃyːt̚˨/t͡syːt̚˨] 绝</td>
   </tr>
 </table>
 
@@ -152,25 +152,25 @@
   </tr>
   <tr>
 	<td></td>
-	<td><span style="font-size:2em;">ai</span><br/>[əi/ɐi]<br/>事</td>
-	<td><span style="font-size:2em;">au</span><br/>[əu/ɐu]<br/>手</td>
-	<td><span style="font-size:2em;">am</span><br/>[əm/ɐm]<br/>针</td>
-	<td><span style="font-size:2em;">an</span><br/>[ən/ɐn]<br/>分</td>
-	<td><span style="font-size:2em;">ang</span><br/>[əŋ/ɐŋ]<br/>朋</td>
-	<td><span style="font-size:2em;">ap</span><br/>[əp̚/ɐp̚]<br/>立</td>
-	<td><span style="font-size:2em;">at</span><br/>[ət̚/ɐt̚]<br/>笔</td>
-	<td><span style="font-size:2em;">ak</span><br/>[ək̚/ɐk̚]<br/>得</td>
+	<td><span style="font-size:2em;">ai</span><br/>[ɐi/əi]<br/>事</td>
+	<td><span style="font-size:2em;">au</span><br/>[ɐu/əu]<br/>手</td>
+	<td><span style="font-size:2em;">am</span><br/>[ɐm/əm]<br/>针</td>
+	<td><span style="font-size:2em;">an</span><br/>[ɐn/ən]<br/>分</td>
+	<td><span style="font-size:2em;">ang</span><br/>[ɐŋ/əŋ]<br/>朋</td>
+	<td><span style="font-size:2em;">ap</span><br/>[ɐp̚/əp̚]<br/>立</td>
+	<td><span style="font-size:2em;">at</span><br/>[ɐt̚/ət̚]<br/>笔</td>
+	<td><span style="font-size:2em;">ak</span><br/>[ɐk̚/ək̚]<br/>得</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">e</span><br/>[e]<br/>车</td>
 	<td></td>
-	<td><span style="font-size:2em;">eu</span><br/>[eu/ɛːu]<br/>猫</td>
-	<td><span style="font-size:2em;">em</span><br/>[em/ɛːm]<br/>钳</td>
-	<td><span style="font-size:2em;">en</span><br/>[en/ɛːn]<br/>扁</td>
-	<td><span style="font-size:2em;">eng</span><br/>[eŋ]<br/>定</td>
-	<td><span style="font-size:2em;">ep</span><br/>[ep̚/ɛːp̚]<br/>夹</td>
-	<td><span style="font-size:2em;">et</span><br/>[et̚/ɛːt̚]<br/>挖</td>
-	<td><span style="font-size:2em;">ek</span><br/>[ek̚]<br/>逼</td>
+	<td><span style="font-size:2em;">eu</span><br/>[ɛːu/eu]<br/>猫</td>
+	<td><span style="font-size:2em;">em</span><br/>[ɛːm/em]<br/>钳</td>
+	<td><span style="font-size:2em;">en</span><br/>[ɛːn/en]<br/>扁</td>
+	<td><span style="font-size:2em;">ing</span><br/>[eŋ]<br/>平</td>
+	<td><span style="font-size:2em;">ep</span><br/>[ɛːp̚/ep̚]<br/>夹</td>
+	<td><span style="font-size:2em;">et</span><br/>[ɛːt̚/et̚]<br/>挖</td>
+	<td><span style="font-size:2em;">ik</span><br/>[ek̚]<br/>逼</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">o</span><br/>[o]<br/>多</td>
@@ -217,20 +217,21 @@
 	<td></td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">oe</span><br/>[øː/œː]<br/>靴</td>
+	<td><span style="font-size:2em;">oe</span><br/>[œː/øː]<br/>靴</td>
 	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
-	<td><span style="font-size:2em;">oeng</span><br/>[øːŋ/œːŋ]<br/>冬</td>
+	<td><span style="font-size:2em;">oeng</span><br/>[œːŋ/øːŋ]<br/>冬</td>
 	<td></td>
 	<td></td>
-	<td><span style="font-size:2em;">oek</span><br/>[øːk̚/œːk̚]<br/>木</td>
+	<td><span style="font-size:2em;">oek</span><br/>[œːk̚/øːk̚]<br/>木</td>
   </tr>
 </table>
 
-- ot[ot̚]作韵尾大多是口语中有音无字的音节，例如「嘬」。
-- 南宁平话有iang[iəŋ/iɐŋ]和iak[iək̚/iɐk̚]韵，包括自成音节ng[ŋ̩]在内，韵母共有49个。
+- ot[ot̚]作韵尾大多是口语中有音无字的音节，例如「嘬」zot3[tsot̚˥]。
+- 「割、葛」两字老派读音get2[kɛːt̚˧]，新派读音gaat2[kaːt̚˧]。
+- 南宁平话有iang[iɐŋ]和iak[iɐk̚]两韵，包括自成音节ng[ŋ̩]在内，韵母共有49个。
 
 
 ## 拼音方案说明
@@ -263,5 +264,7 @@
 > 广西地方志编纂委员会.《广西通志（汉语方言志）》.1998年.
 
 > 李连进.《平话音韵研究》.2000年.
+
+> 陈海伦、林亦.《粤语平话土话方音字汇》.2009年.
 
 > 余瑾.《广西平话研究》.2016年.

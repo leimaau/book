@@ -1,4 +1,6 @@
-# 南宁（亭子）平话拼音方案〔简化版〕
+# 南宁平话拼音方案〔简化版〕
+
+桂南平话以南宁亭子村平话为代表。
 
 ## 声母
 
@@ -20,7 +22,7 @@
   <tr>
 	<td><span style="font-size:2em;">g</span> [k] 果</td>
 	<td><span style="font-size:2em;">k</span> [kʰ] 区</td>
-	<td><span style="font-size:2em;">ng</span> [ŋ] 五</td>
+	<td><span style="font-size:2em;">ng</span> [ŋ] 岸</td>
 	<td><span style="font-size:2em;">h</span> [h] 河</td>
 	<td></td>
   </tr>
@@ -29,18 +31,18 @@
 	<td><span style="font-size:2em;">kw</span> [kʷʰ] 夸</td>
 	<td></td>
 	<td></td>
-	<td><span style="font-size:2em;">w</span> [w] 蛙</td>
+	<td><span style="font-size:2em;">w</span> [β/w] 蛙</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">z</span> [tʃ] 知</td>
-	<td><span style="font-size:2em;">c</span> [tʃʰ] 痴</td>
-	<td><span style="font-size:2em;">nj</span> [ȵ] 日</td>
-	<td><span style="font-size:2em;">s</span> [ʃ] 诗</td>
+	<td><span style="font-size:2em;">z</span> [ts/tʃ] 资</td>
+	<td><span style="font-size:2em;">c</span> [tsʰ/tʃʰ] 雌</td>
+	<td><span style="font-size:2em;">nj</span> [ɲ/ȵ] 日</td>
+	<td><span style="font-size:2em;">s</span> [s/ʃ] 诗</td>
 	<td><span style="font-size:2em;">j</span> [j] 衣</td>
   </tr>
 </table>
 
-- 零声母不用字母作标记，如「亚」只拼作aa3。
+- 零声母不用字母作标记，如「亚」只拼作aa3[aː˥˥]。
 - sl[ɬ]为清齿龈边擦音。
 - 包括零声母在内声母共有22个。
 
@@ -49,17 +51,15 @@
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
 	<td><span style="font-size:2em;">aa</span> [aː] 沙</td>
-	<td><span style="font-size:2em;">i</span> [iː/ɪ/e] 诗星识</td>
-	<td><span style="font-size:2em;">u</span> [uː/ʊ/o] 夫风福</td>
-	<td><span style="font-size:2em;">e</span> [ɛː] 些</td>
-	<td><span style="font-size:2em;">o</span> [ɔː] 疏</td>
+	<td><span style="font-size:2em;">a</span> [ə/ɐ] 新</td>
+	<td><span style="font-size:2em;">e</span> [e] 写星识</td>
+	<td><span style="font-size:2em;">o</span> [o] 多光国</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">a</span> [ɐ] 新</td>
+	<td><span style="font-size:2em;">i</span> [iː] 诗</td>
+	<td><span style="font-size:2em;">u</span> [uː] 夫官阔</td>
 	<td><span style="font-size:2em;">yu</span> [yː] 书</td>
-	<td><span style="font-size:2em;">oe</span> [œː] 靴</td>
-	<td><span style="font-size:2em;">ia</span> [iɐ] 长白</td>
-	<td></td>
+	<td><span style="font-size:2em;">oe</span> [øː/œː] 靴</td>
   </tr>
 </table>
 
@@ -87,12 +87,13 @@
 
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
-	<td><span style="font-size:2em;">ng</span> [ŋ̩] 吴</td>
-	<td><span style="font-size:2em;">ea</span> [ə] 而*</td>
+	<td><span style="font-size:2em;">ng</span> [ŋ̩] 五*</td>
+	<td><span style="font-size:2em;">oe</span> [øː/œː] 而尔*</td>
   </tr>
 </table>
 
-- 单元音[ə]只有「而」字，在助词与语气词中有时也用到[ə]。
+- 老派[ŋ]只作为声母，例如「五ngu5[ŋu˨˦]、误ngu6[ŋuː˨˨]」，新派可以自成音节[ŋ̩]，例如「五ng5[ŋ˨˦]、误ng6[ŋ˨˨]」。
+- 单元音oe[øː/œː]有「而、尔」两个字。
 
 ## 字调
 
@@ -125,7 +126,7 @@
 	<td><span style="font-size:2em;">下阳入</span></td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">nap1</span> [nɐp̚˥] 粒</td>
+	<td><span style="font-size:2em;">nap3</span> [nɐp̚˥] 粒</td>
 	<td><span style="font-size:2em;">sip2</span> [ʃiːp̚˧] 摄</td>
 	<td><span style="font-size:2em;">lyut5</span> [lyːt̚˨˦] 劣</td>
 	<td><span style="font-size:2em;">zyut6</span> [t͡ʃyːt̚˨] 绝</td>
@@ -133,7 +134,7 @@
 </table>
 
 - 共有6个调号，以1-6表示，声调标在音节后。
-- 包括入声在内声调共有10个。
+- 具体调值：阴平[53]、阳平[21]、阴上[33]、阳上[24]、阴去[55]、阳去[22]、上阴入[55]、下阴入[33]、上阳入[24]、下阳入[22]，包括入声在内声调共有10个。
 
 ## 韵母字例
 
@@ -151,25 +152,36 @@
   </tr>
   <tr>
 	<td></td>
-	<td><span style="font-size:2em;">ai</span><br/>[ɐi]<br/>事</td>
-	<td><span style="font-size:2em;">au</span><br/>[ɐu]<br/>手</td>
-	<td><span style="font-size:2em;">am</span><br/>[ɐm]<br/>针</td>
-	<td><span style="font-size:2em;">an</span><br/>[ɐn]<br/>分</td>
-	<td><span style="font-size:2em;">ang</span><br/>[ɐŋ]<br/>朋</td>
-	<td><span style="font-size:2em;">ap</span><br/>[ɐp̚]<br/>立</td>
-	<td><span style="font-size:2em;">at</span><br/>[ɐt̚]<br/>笔</td>
-	<td><span style="font-size:2em;">ak</span><br/>[ɐk̚]<br/>得</td>
+	<td><span style="font-size:2em;">ai</span><br/>[əi/ɐi]<br/>事</td>
+	<td><span style="font-size:2em;">au</span><br/>[əu/ɐu]<br/>手</td>
+	<td><span style="font-size:2em;">am</span><br/>[əm/ɐm]<br/>针</td>
+	<td><span style="font-size:2em;">an</span><br/>[ən/ɐn]<br/>分</td>
+	<td><span style="font-size:2em;">ang</span><br/>[əŋ/ɐŋ]<br/>朋</td>
+	<td><span style="font-size:2em;">ap</span><br/>[əp̚/ɐp̚]<br/>立</td>
+	<td><span style="font-size:2em;">at</span><br/>[ət̚/ɐt̚]<br/>笔</td>
+	<td><span style="font-size:2em;">ak</span><br/>[ək̚/ɐk̚]<br/>得</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">e</span><br/>[ɛː/e]<br/>车</td>
+	<td><span style="font-size:2em;">e</span><br/>[e]<br/>车</td>
 	<td></td>
-	<td><span style="font-size:2em;">eu</span><br/>[ɛːu/eu]<br/>猫</td>
-	<td><span style="font-size:2em;">em</span><br/>[ɛːm/em]<br/>钳</td>
-	<td><span style="font-size:2em;">en</span><br/>[ɛːn/en]<br/>扁</td>
+	<td><span style="font-size:2em;">eu</span><br/>[eu/ɛːu]<br/>猫</td>
+	<td><span style="font-size:2em;">em</span><br/>[em/ɛːm]<br/>钳</td>
+	<td><span style="font-size:2em;">en</span><br/>[en/ɛːn]<br/>扁</td>
 	<td><span style="font-size:2em;">eng</span><br/>[eŋ]<br/>定</td>
-	<td><span style="font-size:2em;">ep</span><br/>[ɛːp̚]<br/>夹</td>
-	<td><span style="font-size:2em;">et</span><br/>[ɛːt̚]<br/>擳</td>
+	<td><span style="font-size:2em;">ep</span><br/>[ep̚/ɛːp̚]<br/>夹</td>
+	<td><span style="font-size:2em;">et</span><br/>[et̚/ɛːt̚]<br/>挖</td>
 	<td><span style="font-size:2em;">ek</span><br/>[ek̚]<br/>逼</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">o</span><br/>[o]<br/>多</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">on</span><br/>[on]<br/>存</td>
+	<td><span style="font-size:2em;">ong</span><br/>[oŋ]<br/>王</td>
+	<td></td>
+	<td><span style="font-size:2em;">ot</span><br/>[ot̚]<br/>嘬*</td>
+	<td><span style="font-size:2em;">ok</span><br/>[ok̚]<br/>国</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">i</span><br/>[iː]<br/>皮</td>
@@ -183,17 +195,6 @@
 	<td><span style="font-size:2em;">iak</span><br/>[iɐk̚]<br/>白*</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">o</span><br/>[o]<br/>多</td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td><span style="font-size:2em;">on</span><br/>[on]<br/>存</td>
-	<td><span style="font-size:2em;">ong</span><br/>[oŋ]<br/>望</td>
-	<td></td>
-	<td><span style="font-size:2em;">ot</span><br/>[ot̚]<br/>阔</td>
-	<td><span style="font-size:2em;">ok</span><br/>[ok̚]<br/>国</td>
-  </tr>
-  <tr>
 	<td><span style="font-size:2em;">u</span><br/>[uː]<br/>步</td>
 	<td><span style="font-size:2em;">ui</span><br/>[uːi]<br/>对</td>
 	<td></td>
@@ -201,19 +202,8 @@
 	<td><span style="font-size:2em;">un</span><br/>[uːn]<br/>般</td>
 	<td></td>
 	<td></td>
-	<td><span style="font-size:2em;">ut</span><br/>[uːt̚]<br/>泼</td>
+	<td><span style="font-size:2em;">ut</span><br/>[uːt̚]<br/>阔</td>
 	<td></td>
-  </tr>
-  <tr>
-	<td><span style="font-size:2em;">oe</span><br/>[œː]<br/>靴</td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td><span style="font-size:2em;">oeng</span><br/>[œːŋ]<br/>龙</td>
-	<td></td>
-	<td></td>
-	<td><span style="font-size:2em;">oek</span><br/>[œːk̚]<br/>木</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">yu</span><br/>[yː]<br/>朱</td>
@@ -226,16 +216,44 @@
 	<td><span style="font-size:2em;">yut</span><br/>[yːt̚]<br/>决</td>
 	<td></td>
   </tr>
+  <tr>
+	<td><span style="font-size:2em;">oe</span><br/>[øː/œː]<br/>靴</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">oeng</span><br/>[øːŋ/œːŋ]<br/>冬</td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">oek</span><br/>[øːk̚/œːk̚]<br/>木</td>
+  </tr>
 </table>
 
-- 南宁平话有iang[iɐŋ]和iak[iɐk̚]韵，韵母共有50个（包括单独成韵的鼻音和单元音）。
+- ot[ot̚]作韵尾大多是口语中有音无字的音节，例如「嘬」。
+- 南宁平话有iang[iəŋ/iɐŋ]和iak[iək̚/iɐk̚]韵，包括自成音节ng[ŋ̩]在内，韵母共有49个。
 
 
 ## 拼音方案说明
 
-1.本方案是在1992年香港语言学学会创制的[粤拼](https://www.lshk.org/jyutping)基础上改编而成，以本人的[**初稿**](https://zhuanlan.zhihu.com/p/55749048)为基础改进。
+1.本方案是在1992年香港语言学学会创制的[粤拼](https://www.lshk.org/jyutping)基础上改编而成。
 
-2.上阴入、下阴入、上阳入和下阳入也可以用数字7、8、9、10表示。
+2.上阴入、下阴入、上阳入和下阳入在不引起误解的时候也可以用数字7、8、9、10表示。
+
+## 输入方案说明
+
+南宁（亭子）平话输入方案：[**下载地址**](https://github.com/leimaau/naamning_bingwaa)
+
+1.打字时，用拼音方案所无的三个拉丁字母q v x标注声调，单击表示平上去的阴调，双击为平上去的阳调。
+
+2.有时双字母aa输入比较繁琐，模糊音设置中配置了r可替代aa输入，例如gaa1，可以输入gr1。其他模糊音与容错设置这里不作过多介绍，具体内容可以参看schema文件。
+
+3.输入方案中提示音转为IPA可在preedit_format处开启，PC上按Ctrl+Enter可将提示音上屏，按Ctrl+Shift+Enter可将候选项上屏。
+
+## 注音举例
+
+> [!EXAMPLE]
+> 
+> 待补
 
 
 **参考资料：**
@@ -246,3 +264,4 @@
 
 > 李连进.《平话音韵研究》.2000年.
 
+> 余瑾.《广西平话研究》.2016年.

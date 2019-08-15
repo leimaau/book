@@ -10,7 +10,7 @@
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fyw7lbnygdj20o215b7aa.jpg)
 
-关于各个字所对应的页码数据可以在**[此处](https://leimaau.github.io/faq/)**查询。根据我的校对，需要注意的是以下这些字：
+关于各个字所对应的页码数据可以在**[此处](https://leimaau.github.io/faq/)**查询。根据笔者的校对，需要注意的是以下这些字：
 
 %accordion%列表%accordion%
 
@@ -188,9 +188,9 @@
 
 意义 | 阳声韵 | 入声韵
 ---|---|---
-啄 | doek3[tœːk̚˧] | doeng1[tœːŋ˥˥]
-扩 | kong3[kʰɔːŋ˧˧] | kok3[kʰɔːk̚˧]
-腌 | jim1[jiːm˥˥] | jip3[jiːp̚˧]
+啄 | 啄doek3[tœːk̚˧] | 啄doeng1[tœːŋ˥˥]
+扩 | 扩kong3[kʰɔːŋ˧˧] | 扩kok3[kʰɔːk̚˧]
+腌 | 腌jim1[jiːm˥˥] | 腌jip3[jiːp̚˧]
 拿 | 拧ning1[nɪŋ˥˥] | 搦nik1[nɪk̚˥]
 捶 | 抌dam2[tɐm˧˥] | 撘dap6[tɐp̚˨]
 捂 | 揞am2[ɐm˧˥] | 搕ap1[ɐp̚˥]

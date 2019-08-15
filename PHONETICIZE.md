@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-- 零声母不用字母作标记，如「亚」只拼作aa3。
+- 零声母不用字母作标记，如「亚」只拼作aa3[aː˧˧]。
 - sl[ɬ]为清齿龈边擦音，也有人读清齿擦音sl[θ]，拼音皆为sl。
 - 包括零声母在内声母共有21个。
 
@@ -49,17 +49,15 @@
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
 	<td><span style="font-size:2em;">aa</span> [aː] 沙</td>
-	<td><span style="font-size:2em;">i</span> [iː/ɪ/e] 诗星识</td>
-	<td><span style="font-size:2em;">u</span> [uː/ʊ/o] 夫风福</td>
+	<td><span style="font-size:2em;">a</span> [ɐ] 新</td>
 	<td><span style="font-size:2em;">e</span> [ɛː] 些声</td>
 	<td><span style="font-size:2em;">o</span> [ɔː] 疏康</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">a</span> [ɐ] 新</td>
+	<td><span style="font-size:2em;">i</span> [iː/ɪ/e] 诗星识</td>
+	<td><span style="font-size:2em;">u</span> [uː/ʊ/o] 夫风福</td>
 	<td><span style="font-size:2em;">yu</span> [yː] 书</td>
 	<td><span style="font-size:2em;">oe</span> [œː] 靴</td>
-	<td></td>
-	<td></td>
   </tr>
 </table>
 
@@ -131,7 +129,7 @@
 </table>
 
 - 共有6个调号，以1-6表示，声调标在音节后。
-- 包括入声在内声调共有9个。
+- 具体调值：阴平[55]、阳平[21]、阴上[35]、阳上[24]、阴去[33]、阳去[22]、上阴入[55]、下阴入[33]、阳入[22]，包括入声在内声调共有9个。
 
 ## 韵母字例
 
@@ -170,17 +168,6 @@
 	<td><span style="font-size:2em;">ek</span><br/>[ɛːk̚]<br/>石</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">i</span><br/>[iː]<br/>机</td>
-	<td></td>
-	<td><span style="font-size:2em;">iu</span><br/>[iːu]<br/>娇</td>
-	<td><span style="font-size:2em;">im</span><br/>[iːm]<br/>剑</td>
-	<td><span style="font-size:2em;">in</span><br/>[iːn]<br/>见</td>
-	<td><span style="font-size:2em;">ing</span><br/>[ɪŋ/eŋ]<br/>经</td>
-	<td><span style="font-size:2em;">ip</span><br/>[iːp̚]<br/>劫</td>
-	<td><span style="font-size:2em;">it</span><br/>[iːt̚]<br/>结</td>
-	<td><span style="font-size:2em;">ik</span><br/>[ɪk̚/ek̚]<br/>激</td>
-  </tr>
-  <tr>
 	<td><span style="font-size:2em;">o</span><br/>[ɔː]<br/>可</td>
 	<td><span style="font-size:2em;">oi</span><br/>[ɔːi]<br/>开</td>
 	<td></td>
@@ -190,6 +177,17 @@
 	<td></td>
 	<td><span style="font-size:2em;">ot</span><br/>[ɔːt̚]<br/>喝</td>
 	<td><span style="font-size:2em;">ok</span><br/>[ɔːk̚]<br/>学</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">i</span><br/>[iː]<br/>机</td>
+	<td></td>
+	<td><span style="font-size:2em;">iu</span><br/>[iːu]<br/>娇</td>
+	<td><span style="font-size:2em;">im</span><br/>[iːm]<br/>剑</td>
+	<td><span style="font-size:2em;">in</span><br/>[iːn]<br/>见</td>
+	<td><span style="font-size:2em;">ing</span><br/>[ɪŋ/eŋ]<br/>经</td>
+	<td><span style="font-size:2em;">ip</span><br/>[iːp̚]<br/>劫</td>
+	<td><span style="font-size:2em;">it</span><br/>[iːt̚]<br/>结</td>
+	<td><span style="font-size:2em;">ik</span><br/>[ɪk̚/ek̚]<br/>激</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">u</span><br/>[uː]<br/>夫</td>
@@ -203,17 +201,6 @@
 	<td><span style="font-size:2em;">uk</span><br/>[ʊk̚/ok̚]<br/>福</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">oe</span><br/>[œː]<br/>靴</td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td><span style="font-size:2em;">oeng</span><br/>[œːŋ]<br/>香</td>
-	<td></td>
-	<td><span style="font-size:2em;">oet</span><br/>[œːt̚]<br/>哕*</td>
-	<td><span style="font-size:2em;">oek</span><br/>[œːk̚]<br/>脚</td>
-  </tr>
-  <tr>
 	<td><span style="font-size:2em;">yu</span><br/>[yː]<br/>朱</td>
 	<td></td>
 	<td></td>
@@ -223,6 +210,17 @@
 	<td></td>
 	<td><span style="font-size:2em;">yut</span><br/>[yːt̚]<br/>决</td>
 	<td></td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">oe</span><br/>[œː]<br/>靴</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">oeng</span><br/>[œːŋ]<br/>香</td>
+	<td></td>
+	<td><span style="font-size:2em;">oet</span><br/>[œːt̚]<br/>哕*</td>
+	<td><span style="font-size:2em;">oek</span><br/>[œːk̚]<br/>脚</td>
   </tr>
 </table>
 

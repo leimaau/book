@@ -258,7 +258,7 @@
 > 
 > **bat2 fan1 sau2 dik2 lin6 aai3 - ong1 slu1 loeng4**
 > 
-> **[pət³ fən⁵³ səu³³ tek³ lin²² ai⁵⁵ - oŋ⁵³ ɬu⁵³ løːŋ²¹]**
+> **[pət³ fən⁵³ səu³³ tek³ lin²² ai⁵⁵ - oŋ⁵³ ɬu⁵³ løŋ²¹]**
 > 
 > 不知不觉不问 不痛不痒
 > 
@@ -282,7 +282,7 @@
 > 
 > lui6 ciu1 ciu1 lau4 taang2
 > 
-> [lui²² tsʰiu⁵³ tsʰiu⁵³ ləu²¹ tʰaːŋ³³]
+> [lui²² tsʰiu⁵³ tsʰiu⁵³ ləu²¹ tʰaŋ³³]
 > 
 > 街边天气微凉 淡淡月光
 > 
@@ -300,7 +300,7 @@
 > 
 > zaau2 zam4 ngo5 mun4 at2 zik6  zaau2 bat2 daau3 dik2
 > 
-> [tsau³³ tsəm²¹ ŋo²⁴ muːn²¹ ət³ tsek²  tsau³³ pət³ tau⁵⁵ tek³]
+> [tsau³³ tsəm²¹ ŋo²⁴ mun²¹ ət³ tsek²  tsau³³ pət³ tau⁵⁵ tek³]
 > 
 > 缘分被捆绑
 > 
@@ -324,7 +324,7 @@
 > 
 > ngo5 aan1 zing6 ting1 ziak6 sliu1 baang1
 > 
-> [ŋo²⁴ an⁵³ tseŋ²² tʰeŋ⁵³ tsiɐk² ɬiːu⁵³ paŋ⁵³]
+> [ŋo²⁴ an⁵³ tseŋ²² tʰeŋ⁵³ tsiɐk² ɬiu⁵³ paŋ⁵³]
 > 
 > 用维也纳忧伤
 > 
@@ -360,7 +360,7 @@
 > 
 > haan3 ziak6 ni5 dik2 lim2 baang4  bui3 ziak6 hiang4 naang4
 > 
-> [han⁵⁵ tsiɐk² ni²⁴ tek³ lim³³ paŋ²¹  puːi⁵⁵ tsiɐk² hiɐŋ²¹ naŋ²¹]
+> [han⁵⁵ tsiɐk² ni²⁴ tek³ lim³³ paŋ²¹  pui⁵⁵ tsiɐk² hiɐŋ²¹ naŋ²¹]
 > 
 > 说要去远方
 > 
@@ -396,13 +396,13 @@
 > 
 > daang1 cu1 ngo5 mun4 syut2 go3 jiu3 daam4 at2 ziang4 wing5 jyun5 bat2 fan1 sau2 dik2 lyun6 aai3
 > 
-> [taŋ⁵³ tsʰu⁵³ ŋo²⁴ muːn²¹ syt³ ko⁵⁵ jiu⁵⁵ tam²¹ ət³ tsiɐŋ²¹ βeŋ²⁴ jyn²⁴ pət³ fən⁵³ səu³³ tek³ lyːn²² ai⁵⁵]
+> [taŋ⁵³ tsʰu⁵³ ŋo²⁴ mun²¹ syt³ ko⁵⁵ jiu⁵⁵ tam²¹ ət³ tsiɐŋ²¹ βeŋ²⁴ jyn²⁴ pət³ fən⁵³ səu³³ tek³ lyn²² ai⁵⁵]
 > 
 > 是否今天这句话竟变成我们之间的阻碍
 > 
 > si6 fau2 gam1 tin1 ze5 gyu3 waa6 ging3 bin3 sing4 ngo5 mun4 zi1 gaan1 dik2 zu2 ngaai6
 > 
-> [si²² fəu³³ kəm⁵³ tʰin⁵³ tse²⁴ ky⁵⁵ βa²² keŋ⁵⁵ pin⁵⁵ seŋ²¹ ŋo²⁴ muːn²¹ tsi⁵³ kan⁵³ tek³ tsu³³ ŋai²²]
+> [si²² fəu³³ kəm⁵³ tʰin⁵³ tse²⁴ ky⁵⁵ βa²² keŋ⁵⁵ pin⁵⁵ seŋ²¹ ŋo²⁴ mun²¹ tsi⁵³ kan⁵³ tek³ tsu³³ ŋai²²]
 > 
 > 不想太多 不想太多 也许会明白的更多
 > 
@@ -414,19 +414,19 @@
 > 
 > bat2 sliang2 zaai3 syut2  bat2 sliang2 zaai3 syut2  zau6 ngiang6 ngo5 mun4 pi2 ci2 zam4 mak5
 > 
-> [pət³ ɬiɐŋ³³ tsai⁵⁵ syt³  pət³ ɬiɐŋ³³ tsai⁵⁵ syt³  tsəu²² ŋiɐŋ²² ŋo²⁴ muːn²¹ pʰi³³ tsʰi³³ tsəm²¹ mək²⁴]
+> [pət³ ɬiɐŋ³³ tsai⁵⁵ syt³  pət³ ɬiɐŋ³³ tsai⁵⁵ syt³  tsəu²² ŋiɐŋ²² ŋo²⁴ mun²¹ pʰi³³ tsʰi³³ tsəm²¹ mək²⁴]
 > 
 > 现在我们终于明白 结局却也无法更改
 > 
 > jyun4 zaai6 ngo5 mun4 zoeng1 jyu1 ming4 biak6  gyut2 goek6 kiak2 je5 mu4 faat2 gang1 gaai2
 > 
-> [jyn²¹ tsai²² ŋo²⁴ muːn²¹ tsøŋ⁵³ jy⁵³ meŋ²¹ piɐk²  kyt³ køk² kʰiɐk³ je²⁴ mu²¹ fat³ kəŋ⁵³ kai³³]
+> [jyn²¹ tsai²² ŋo²⁴ mun²¹ tsøŋ⁵³ jy⁵³ meŋ²¹ piɐk²  kyt³ køk² kʰiɐk³ je²⁴ mu²¹ fat³ kəŋ⁵³ kai³³]
 > 
 > 这场不分手的恋爱 我想结局注定失败
 > 
-> ERR ziang4 bat2 fan1 sau2 dik2 lin6 aai3  ngo5 sliang2 gut2 goek6 zyu3 ding6 sat2 baai6
+> ze5 ziang4 bat2 fan1 sau2 dik2 lin6 aai3  ngo5 sliang2 gut2 goek6 zyu3 ding6 sat2 baai6
 > 
-> [ERR tsiɐŋ²¹ pət³ fən⁵³ səu³³ tek³ lin²² ai⁵⁵  ŋo²⁴ ɬiɐŋ³³ kut³ køk² tsy⁵⁵ teŋ²² sət³ pai²²]
+> [tse²⁴ tsiɐŋ²¹ pət³ fən⁵³ səu³³ tek³ lin²² ai⁵⁵  ŋo²⁴ ɬiɐŋ³³ kut³ køk² tsy⁵⁵ teŋ²² sət³ pai²²]
 > 
 > 不知不觉不问 不痛不痒
 > 
@@ -450,7 +450,7 @@
 > 
 > lui6 ciu1 ciu1 lau4 taang2
 > 
-> [lui²² tsʰiu⁵³ tsʰiu⁵³ ləu²¹ tʰaːŋ³³]
+> [lui²² tsʰiu⁵³ tsʰiu⁵³ ləu²¹ tʰaŋ³³]
 > 
 > 街边天气微凉 淡淡月光
 > 
@@ -468,7 +468,7 @@
 > 
 > zaau2 zam4 ngo5 mun4 at2 zik6  zaau2 bat2 daau3 dik2
 > 
-> [tsau³³ tsəm²¹ ŋo²⁴ muːn²¹ ət³ tsek²  tsau³³ pət³ tau⁵⁵ tek³]
+> [tsau³³ tsəm²¹ ŋo²⁴ mun²¹ ət³ tsek²  tsau³³ pət³ tau⁵⁵ tek³]
 > 
 > 缘分被捆绑
 > 
@@ -492,7 +492,7 @@
 > 
 > ngo5 aan1 zing6 ting1 ziak6 sliu1 baang1
 > 
-> [ŋo²⁴ an⁵³ tseŋ²² tʰeŋ⁵³ tsiɐk² ɬiːu⁵³ paŋ⁵³]
+> [ŋo²⁴ an⁵³ tseŋ²² tʰeŋ⁵³ tsiɐk² ɬiu⁵³ paŋ⁵³]
 > 
 > 用维也纳忧伤
 > 
@@ -528,7 +528,7 @@
 > 
 > haan3 ziak6 ni5 dik2 lim2 baang4  bui3 ziak6 hiang4 naang4
 > 
-> [han⁵⁵ tsiɐk² ni²⁴ tek³ lim³³ paŋ²¹  puːi⁵⁵ tsiɐk² hiɐŋ²¹ naŋ²¹]
+> [han⁵⁵ tsiɐk² ni²⁴ tek³ lim³³ paŋ²¹  pui⁵⁵ tsiɐk² hiɐŋ²¹ naŋ²¹]
 > 
 > 说要去远方
 > 
@@ -576,7 +576,7 @@
 > 
 > haan3 ziak6 ni5 dik2 lim2 baang4  bui3 ziak6 hiang4 naang4
 > 
-> [han⁵⁵ tsiɐk² ni²⁴ tek³ lim³³ paŋ²¹  puːi⁵⁵ tsiɐk² hiɐŋ²¹ naŋ²¹]
+> [han⁵⁵ tsiɐk² ni²⁴ tek³ lim³³ paŋ²¹  pui⁵⁵ tsiɐk² hiɐŋ²¹ naŋ²¹]
 > 
 > 说要去远方
 > 

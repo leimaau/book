@@ -1,6 +1,6 @@
-# 南宁平话拼音方案〔简化版〕
+# 南宁平话拼音方案〔亭子音〕
 
-桂南平话以南宁亭子村平话为代表。
+桂南平话以南宁平话为代表，下面列出亭子平话的声韵调系统。
 
 ## 声母
 
@@ -52,7 +52,7 @@
   <tr>
 	<td><span style="font-size:2em;">aa</span> [aː] 沙</td>
 	<td><span style="font-size:2em;">a</span> [ɐ/ə] 新</td>
-	<td><span style="font-size:2em;">e</span> [e] 些</td>
+	<td><span style="font-size:2em;">e</span> [e/E] 些</td>
 	<td><span style="font-size:2em;">o</span> [o] 多光国</td>
   </tr>
   <tr>
@@ -135,6 +135,7 @@
 
 - 共有6个调号，以1-6表示，声调标在音节后。
 - 具体调值：阴平[53]、阳平[21]、阴上[33]、阳上[24]、阴去[55]、阳去[22]、上阴入[55]、下阴入[33]、上阳入[24]、下阳入[22]，包括入声在内声调共有10个。
+- 上阴入辖字较少，大多来源于白话。
 
 ## 韵母字例
 
@@ -152,7 +153,7 @@
   </tr>
   <tr>
 	<td></td>
-	<td><span style="font-size:2em;">ai</span><br/>[ɐi/əi]<br/>事</td>
+	<td><span style="font-size:2em;">ai</span><br/>[ɐi/əi/Ei]<br/>事</td>
 	<td><span style="font-size:2em;">au</span><br/>[ɐu/əu]<br/>手</td>
 	<td><span style="font-size:2em;">am</span><br/>[ɐm/əm]<br/>针</td>
 	<td><span style="font-size:2em;">an</span><br/>[ɐn/ən]<br/>分</td>
@@ -162,18 +163,18 @@
 	<td><span style="font-size:2em;">ak</span><br/>[ɐk̚/ək̚]<br/>得</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">e</span><br/>[e]<br/>车</td>
+	<td><span style="font-size:2em;">e</span><br/>[e/E]<br/>车</td>
 	<td></td>
-	<td><span style="font-size:2em;">eu</span><br/>[ɛːu/eu]<br/>猫</td>
-	<td><span style="font-size:2em;">em</span><br/>[ɛːm/em]<br/>钳</td>
-	<td><span style="font-size:2em;">en</span><br/>[ɛːn/en]<br/>扁</td>
+	<td><span style="font-size:2em;">eu</span><br/>[ɛːu/eu/Eu]<br/>猫</td>
+	<td><span style="font-size:2em;">em</span><br/>[ɛːm/em/Em]<br/>钳</td>
+	<td><span style="font-size:2em;">en</span><br/>[ɛːn/en/En]<br/>扁</td>
 	<td><span style="font-size:2em;">ing</span><br/>[eŋ]<br/>平</td>
-	<td><span style="font-size:2em;">ep</span><br/>[ɛːp̚/ep̚]<br/>夹</td>
-	<td><span style="font-size:2em;">et</span><br/>[ɛːt̚/et̚]<br/>挖</td>
-	<td><span style="font-size:2em;">ik</span><br/>[ek̚]<br/>逼</td>
+	<td><span style="font-size:2em;">ep</span><br/>[ɛːp̚/ep̚/Ep̚]<br/>夹</td>
+	<td><span style="font-size:2em;">et</span><br/>[ɛːt̚/et̚/Et̚]<br/>挖</td>
+	<td><span style="font-size:2em;">ik</span><br/>[ek̚/ʅk̚]<br/>逼</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">o</span><br/>[o]<br/>多</td>
+	<td><span style="font-size:2em;">o</span><br/>[o/ɔː]<br/>多</td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -181,7 +182,7 @@
 	<td><span style="font-size:2em;">ong</span><br/>[oŋ]<br/>王</td>
 	<td></td>
 	<td><span style="font-size:2em;">ot</span><br/>[ot̚]<br/>嘬*</td>
-	<td><span style="font-size:2em;">ok</span><br/>[ok̚]<br/>国</td>
+	<td><span style="font-size:2em;">ok</span><br/>[ok̚/ɷk̚]<br/>国</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">i</span><br/>[iː]<br/>皮</td>
@@ -189,10 +190,10 @@
 	<td><span style="font-size:2em;">iu</span><br/>[iːu]<br/>标</td>
 	<td><span style="font-size:2em;">im</span><br/>[iːm]<br/>尖</td>
 	<td><span style="font-size:2em;">in</span><br/>[iːn]<br/>片</td>
-	<td><span style="font-size:2em;">iang</span><br/>[iɐŋ]<br/>长*</td>
+	<td><span style="font-size:2em;">iang</span><br/>[iɐŋ/Eŋ]<br/>长*</td>
 	<td><span style="font-size:2em;">ip</span><br/>[iːp̚]<br/>贴</td>
 	<td><span style="font-size:2em;">it</span><br/>[iːt̚]<br/>必</td>
-	<td><span style="font-size:2em;">iak</span><br/>[iɐk̚]<br/>白*</td>
+	<td><span style="font-size:2em;">iak</span><br/>[iɐk̚/Ek̚]<br/>白*</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">u</span><br/>[uː]<br/>步</td>

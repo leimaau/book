@@ -8,7 +8,7 @@
 
 ![演示gif](https://s2.ax1x.com/2019/05/14/Eo2OyR.gif)
 
-南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping) | 安装及使用方法：[**用汉语方言拼音打字**](https://laubonghaudoi.github.io/dialects/)
+南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning-dialect) | 安装及使用方法：[**用汉语方言拼音打字**](https://laubonghaudoi.github.io/dialects/)
 
 ## 打字技巧
 
@@ -291,7 +291,7 @@ translator:
 #    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/	月jyːt̚
 #    - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/	奪tyːt̚
 #    - xform/(^|[ '])([jy])u([k])/$1jʊ$3]/	玉jʊk̚
-#    - xform/(^|[ '])(jy|[jy])u/$1jYː/	元jyːn
+#    - xform/(^|[ '])(jy)u/$1jYː/	元jyːn
 #    - xform/yu/Yː/	嫩nyːn
 #    - xform/y([aeior])/j$1/	一yat/jɐt̚/
 #    - xform/(aa|r)([iu])/Aː\U$2/	嗎maː
@@ -387,7 +387,7 @@ translator:
     - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/	月jyːt̚
     - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/	奪tyːt̚
     - xform/(^|[ '])([jy])u([k])/$1jʊ$3]/	玉jʊk̚
-    - xform/(^|[ '])(jy|[jy])u/$1jYː/	元jyːn
+    - xform/(^|[ '])(jy)u/$1jYː/	元jyːn
     - xform/yu/Yː/	嫩nyːn
     - xform/y([aeior])/j$1/	一yat/jɐt̚/
     - xform/(aa|r)([iu])/Aː\U$2/	嗎maː

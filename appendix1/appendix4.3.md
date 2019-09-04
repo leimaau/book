@@ -1,5 +1,7 @@
 # 文本注音工具
 
+## 工具说明
+
 对于熟悉python的读者，这里提供一个可以标注粤拼和IPA的python脚本，灵感来源于[这里](https://github.com/laubonghaudoi/poem_auto_tag)，笔者对其作了重写以适用于本文，并使用了jieba分词和opencc工具使其注音更准确，此处感谢原作者[刘邦后代](https://github.com/laubonghaudoi)。
 
 本项目的源码下载地址：[**下载地址**](https://github.com/leimaau/pythonTools)，脚本代码在`pythopnTools/SignArticle`文件夹中。
@@ -38,7 +40,7 @@ def cutwords(words):
 
 # isIPA: jyutping-拼音 IPA-ipa
 # regstr_ignore: yes_ignore-忽略 no_ignore-不忽略
-# area: n-南宁型ipa  g-广州型ipa  p-南宁平话型ipa  p2-第二种南宁平话型ipa
+# area: n-南宁ipa  g-广州ipa  p-南宁平话《广西通志·汉语方言志》版IPA  p2-《南宁平话词典》版IPA
 # ipatype: 0-宽式音标(上标调值数码) 1-宽式音标(不上标调值数码) 2-严式音标(调值竖线)
 def dealfunc_characters(regstr,prose,isIPA,regstr_ignore,area,ipatype):
     prose_list = list(prose)
@@ -150,9 +152,9 @@ out.close()
 
 多音字需要自己手工核对，笔者使用了jieba分词工具，因而可以对分词词汇注音，目前只提供这两种标注，更多功能读者可以根据自己的需求对脚本进行修改。
 
-下面以陈奕迅《富士山下》的歌词作为标注例子：
+下面以陈奕迅《富士山下》的歌词作为标注南宁音的例子：
 
-## 南宁白话
+## 注音举例
 
 > [!EXAMPLE]
 > 
@@ -407,264 +409,3 @@ out.close()
 > ni5 waan4/wen4 him4/jim4 bat1 gau3  ngo5 baa2 ze5 can4 nin4 fung1 lau1/lau5/lyu5  slung3 zang6 ni5 gaai2/gaai3/haai6 zau3
 > 
 > [ni²⁴ wan²¹/wɛn²¹ him²¹/jim²¹ pɐt⁵ kɐu³³  ŋɔ²⁴ pa³⁵ tʃɛ²⁴ tʃʰɐn²¹ nin²¹ fʊŋ⁵⁵ lɐu⁵⁵/lɐu²⁴/ly²⁴  ɬʊŋ³³ tʃɐŋ²² ni²⁴ kai³⁵/kai³³/hai²² tʃɐu³³]
-
-## 南宁平话(第一种IPA型)
-
-## 南宁平话(第二种IPA型)
-
-## 广州音
-
-> [!EXAMPLE]
-> 
-> 富士山下-陈奕迅
-> 
-> fu3 si6 saan1 haa5/haa6 - can4 jik6 seon3
-> 
-> [fu³³ si²² san⁵⁵ ha¹³/ha²² - tsʰɐn¹¹ jek² sɵn³³]
-> 
-> 拦路雨偏似雪花 饮泣的你冻吗
-> 
-> laan4 lou6 jyu5/jyu6 pin1 ci5 syut3 faa1  jam2 jap1 dik1 nei5 dung3 maa1
-> 
-> [lan¹¹ lou²² jy¹³/jy²² pʰin⁵⁵ tsʰi¹³ syt³ fa⁵⁵  jɐm³⁵ jɐp⁵ tek⁵ nei¹³ tʊŋ³³ ma⁵⁵]
-> 
-> 这风褛我给你磨到有襟花
-> 
-> ze3/ze5 fung1 lau1 ngo5 kap1 nei5 mo4/mo6 dou3 jau5 kam1 faa1
-> 
-> [tsɛ³³/tsɛ¹³ fʊŋ⁵⁵ lɐu⁵⁵ ŋɔ¹³ kʰɐp⁵ nei¹³ mɔ¹¹/mɔ²² tou³³ jɐu¹³ kʰɐm⁵⁵ fa⁵⁵]
-> 
-> 连掉了渍也不怕 怎么始终牵挂
-> 
-> lin4 diu6 liu5 zik1 jaa5 bat1 paa3  zam2 mo1 ci2 zung1 hin1 gwaa3
-> 
-> [lin¹¹ tiu²² liu¹³ tsek⁵ ja¹³ pɐt⁵ pʰa³³  tsɐm³⁵ mɔ⁵⁵ tsʰi³⁵ tsʊŋ⁵⁵ hin⁵⁵ kʷa³³]
-> 
-> 苦心选中今天想车你回家
-> 
-> fu2 sam1 syun2 zung3 gam1 tin1 soeng2 ce1/geoi1 nei5 wui4 gaa1
-> 
-> [fu³⁵ sɐm⁵⁵ syn³⁵ tsʊŋ³³ kɐm⁵⁵ tʰin⁵⁵ sœŋ³⁵ tsʰɛ⁵⁵/kɵy⁵⁵ nei¹³ wui¹¹ ka⁵⁵]
-> 
-> 原谅我不再送花 伤口应要结疤
-> 
-> jyun4 loeng6 ngo5 bat1 zoi3 sung3 faa1  soeng1 hau2 jing1/jing3 jiu1/jiu3 git3 baa1
-> 
-> [jyn¹¹ lœŋ²² ŋɔ¹³ pɐt⁵ tsɔi³³ sʊŋ³³ fa⁵⁵  sœŋ⁵⁵ hɐu³⁵ jeŋ⁵⁵/jeŋ³³ jiu⁵⁵/jiu³³ kit³ pa⁵⁵]
-> 
-> 花瓣铺满心里坟场才害怕
-> 
-> faa1 baan6/faan6 pou1/pou3 mun5 sam1 leoi5 fan4 coeng4 coi4 hoi6 paa3
-> 
-> [fa⁵⁵ pan²²/fan²² pʰou⁵⁵/pʰou³³ mun¹³ sɐm⁵⁵ lɵy¹³ fɐn¹¹ tsʰœŋ¹¹ tsʰɔi¹¹ hɔi²² pʰa³³]
-> 
-> 如若你非我不嫁 彼此终必火化
-> 
-> jyu4 joek6 nei5 fei1 ngo5 bat1 gaa3  bei2 ci2 zung1 bit1 fo2 faa3
-> 
-> [jy¹¹ jœk² nei¹³ fei⁵⁵ ŋɔ¹³ pɐt⁵ ka³³  pei³⁵ tsʰi³⁵ tsʊŋ⁵⁵ pit⁵ fɔ³⁵ fa³³]
-> 
-> 一生一世等一天需要代价
-> 
-> jat1 sang1 jat1 sai3 dang2 jat1 tin1 seoi1 jiu3 doi6 gaa3
-> 
-> [jɐt⁵ sɐŋ⁵⁵ jɐt⁵ sɐi³³ tɐŋ³⁵ jɐt⁵ tʰin⁵⁵ sɵy⁵⁵ jiu³³ tɔi²² ka³³]
-> 
-> 谁都只得那双手 靠拥抱亦难任你拥有
-> 
-> seoi4 dou1 zi2 dak1 naa1/naa5 soeng1 sau2  kaau3 jung2 pou5 jik6 naan4/naan6/no4 jam4/jam6 nei5 jung2 jau5
-> 
-> [sɵy¹¹ tou⁵⁵ tsi³⁵ tɐk⁵ na⁵⁵/na¹³ sœŋ⁵⁵ sɐu³⁵  kʰau³³ jʊŋ³⁵ pʰou¹³ jek² nan¹¹/nan²²/nɔ¹¹ jɐm¹¹/jɐm²² nei¹³ jʊŋ³⁵ jɐu¹³]
-> 
-> 要拥有必先懂失去怎接受
-> 
-> jiu1/jiu3 jung2 jau5 bit1 sin1 dung2 sat1 heoi3 zam2 zip3 sau6
-> 
-> [jiu⁵⁵/jiu³³ jʊŋ³⁵ jɐu¹³ pit⁵ sin⁵⁵ tʊŋ³⁵ sɐt⁵ hɵy³³ tsɐm³⁵ tsip³ sɐu²²]
-> 
-> 曾沿着雪路浪游 为何为好事泪流
-> 
-> cang4/zang1 jyun4 zoek6 syut3 lou6 long4/long6 jau4  wai6 ho4 wai4/wai6 hou2 si6 leoi6 lau4
-> 
-> [tsʰɐŋ¹¹/tsɐŋ⁵⁵ jyn¹¹ tsœk² syt³ lou²² lɔŋ¹¹/lɔŋ²² jɐu¹¹  wɐi²² hɔ¹¹ wɐi¹¹/wɐi²² hou³⁵ si²² lɵy²² lɐu¹¹]
-> 
-> 谁能凭爱意要富士山私有
-> 
-> seoi4 nang4 pang4 oi3 ji3 jiu1/jiu3 fu3 si6 saan1 si1 jau5
-> 
-> [sɵy¹¹ nɐŋ¹¹ pʰɐŋ¹¹ ɔi³³ ji³³ jiu⁵⁵/jiu³³ fu³³ si²² san⁵⁵ si⁵⁵ jɐu¹³]
-> 
-> 何不把悲哀感觉 假设是来自你虚构
-> 
-> ho4 bat1 baa2 bei1 oi1 gam2 gok3  gaa2 cit3 si6 loi4 zi6 nei5 heoi1 kau3
-> 
-> [hɔ¹¹ pɐt⁵ pa³⁵ pei⁵⁵ ɔi⁵⁵ kɐm³⁵ kɔk³  ka³⁵ tsʰit³ si²² lɔi¹¹ tsi²² nei¹³ hɵy⁵⁵ kʰɐu³³]
-> 
-> 试管里找不到它染污眼眸
-> 
-> si3 gun2 lei5/leoi5 zaau2 bat1 dou3 taa1 jim5 wu1 ngaan5 mau4
-> 
-> [si³³ kun³⁵ lei¹³/lɵy¹³ tsau³⁵ pɐt⁵ tou³³ tʰa⁵⁵ jim¹³ wu⁵⁵ ŋan¹³ mɐu¹¹]
-> 
-> 前尘硬化像石头 随缘地抛下便逃走
-> 
-> cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4  ceoi4 jyun4 dei6 paau1 haa6 bin6/pin4 tou4 zau2
-> 
-> [tsʰin¹¹ tsʰɐn¹¹ ŋaŋ²² fa³³ tsœŋ²² sɛk² tʰɐu¹¹  tsʰɵy¹¹ jyn¹¹ tei²² pʰau⁵⁵ ha²² pin²²/pʰin¹¹ tʰou¹¹ tsɐu³⁵]
-> 
-> 我绝不罕有 往街里绕过一周 我便化乌有
-> 
-> ngo5 zyut6 bat1 hon2 jau5  wong5 gaai1 lei5/leoi5 jiu5 gwo3 jat1 zau1  ngo5 bin6/pin4 faa3 wu1 jau5
-> 
-> [ŋɔ¹³ tsyt² pɐt⁵ hɔn³⁵ jɐu¹³  wɔŋ¹³ kai⁵⁵ lei¹³/lɵy¹³ jiu¹³ kʷɔ³³ jɐt⁵ tsɐu⁵⁵  ŋɔ¹³ pin²²/pʰin¹¹ fa³³ wu⁵⁵ jɐu¹³]
-> 
-> 情人节不要说穿 只敢抚你发端
-> 
-> cing4 jan4 zit3 bat1 jiu3 syut3 cyun1  zi2 gam2 fu2 nei5 faat3 dyun1
-> 
-> [tsʰeŋ¹¹ jɐn¹¹ tsit³ pɐt⁵ jiu³³ syt³ tsʰyn⁵⁵  tsi³⁵ kɐm³⁵ fu³⁵ nei¹³ fat³ tyn⁵⁵]
-> 
-> 这种姿态可会令你更心酸
-> 
-> ze5 zung2 zi1 taai3 hak1/ho2 kui2/wui5/wui6 ling1/ling6 nei5 gaang1/gang1/gang3 sam1 syun1
-> 
-> [tsɛ¹³ tsʊŋ³⁵ tsi⁵⁵ tʰai³³ hɐk⁵/hɔ³⁵ kʰui³⁵/wui¹³/wui²² leŋ⁵⁵/leŋ²² nei¹³ kaŋ⁵⁵/kɐŋ⁵⁵/kɐŋ³³ sɐm⁵⁵ syn⁵⁵]
-> 
-> 留在汽车里取暖 应该怎么规劝
-> 
-> lau4 zoi6 hei3 ce1 lei5/leoi5 ceoi2 nyun5  jing1 goi1 zam2 mo1 kwai1 hyun3
-> 
-> [lɐu¹¹ tsɔi²² hei³³ tsʰɛ⁵⁵ lei¹³/lɵy¹³ tsʰɵy³⁵ nyn¹³  jeŋ⁵⁵ kɔi⁵⁵ tsɐm³⁵ mɔ⁵⁵ kʷʰɐi⁵⁵ hyn³³]
-> 
-> 怎么可以将手腕忍痛划损
-> 
-> zam2 mo1 ho2 ji5 zoeng1/zoeng3 sau2 wun2 jan2 tung3 waak6 syun2
-> 
-> [tsɐm³⁵ mɔ⁵⁵ hɔ³⁵ ji¹³ tsœŋ⁵⁵/tsœŋ³³ sɐu³⁵ wun³⁵ jɐn³⁵ tʰʊŋ³³ wak² syn³⁵]
-> 
-> 人活到几岁算短 失恋只有更短
-> 
-> jan4 wut6 dou3 gei2 seoi3 syun3 dyun2  sat1 lyun2 zi2 jau5 gaang1/gang1/gang3 dyun2
-> 
-> [jɐn¹¹ wut² tou³³ kei³⁵ sɵy³³ syn³³ tyn³⁵  sɐt⁵ lyn³⁵ tsi³⁵ jɐu¹³ kaŋ⁵⁵/kɐŋ⁵⁵/kɐŋ³³ tyn³⁵]
-> 
-> 归家需要几里路谁能预算
-> 
-> gwai1 gaa1/gu1 seoi1 jiu3 gei1/gei2 lei5 lou6 seoi4 nang4 jyu6 syun3
-> 
-> [kʷɐi⁵⁵ ka⁵⁵/ku⁵⁵ sɵy⁵⁵ jiu³³ kei⁵⁵/kei³⁵ lei¹³ lou²² sɵy¹¹ nɐŋ¹¹ jy²² syn³³]
-> 
-> 忘掉我跟你恩怨 樱花开了几转
-> 
-> mong4 diu6 ngo5 gan1 nei5 jan1 jyun3  jing1 faa1 hoi1 liu5 gei1/gei2 zyun2/zyun3
-> 
-> [mɔŋ¹¹ tiu²² ŋɔ¹³ kɐn⁵⁵ nei¹³ jɐn⁵⁵ jyn³³  jeŋ⁵⁵ fa⁵⁵ hɔi⁵⁵ liu¹³ kei⁵⁵/kei³⁵ tsyn³⁵/tsyn³³]
-> 
-> 东京之旅一早比一世遥远
-> 
-> dung1 ging1 zi1 leoi5 jat1 zou2 bei2/bei3/bei6 jat1 sai3 jiu4 jyun5
-> 
-> [tʊŋ⁵⁵ keŋ⁵⁵ tsi⁵⁵ lɵy¹³ jɐt⁵ tsou³⁵ pei³⁵/pei³³/pei²² jɐt⁵ sɐi³³ jiu¹¹ jyn¹³]
-> 
-> 谁都只得那双手 靠拥抱亦难任你拥有
-> 
-> seoi4 dou1 zi2 dak1 naa1/naa5 soeng1 sau2  kaau3 jung2 pou5 jik6 naan4/naan6/no4 jam4/jam6 nei5 jung2 jau5
-> 
-> [sɵy¹¹ tou⁵⁵ tsi³⁵ tɐk⁵ na⁵⁵/na¹³ sœŋ⁵⁵ sɐu³⁵  kʰau³³ jʊŋ³⁵ pʰou¹³ jek² nan¹¹/nan²²/nɔ¹¹ jɐm¹¹/jɐm²² nei¹³ jʊŋ³⁵ jɐu¹³]
-> 
-> 要拥有必先懂失去怎接受
-> 
-> jiu1/jiu3 jung2 jau5 bit1 sin1 dung2 sat1 heoi3 zam2 zip3 sau6
-> 
-> [jiu⁵⁵/jiu³³ jʊŋ³⁵ jɐu¹³ pit⁵ sin⁵⁵ tʊŋ³⁵ sɐt⁵ hɵy³³ tsɐm³⁵ tsip³ sɐu²²]
-> 
-> 曾沿着雪路浪游 为何为好事泪流
-> 
-> cang4/zang1 jyun4 zoek6 syut3 lou6 long4/long6 jau4  wai6 ho4 wai4/wai6 hou2 si6 leoi6 lau4
-> 
-> [tsʰɐŋ¹¹/tsɐŋ⁵⁵ jyn¹¹ tsœk² syt³ lou²² lɔŋ¹¹/lɔŋ²² jɐu¹¹  wɐi²² hɔ¹¹ wɐi¹¹/wɐi²² hou³⁵ si²² lɵy²² lɐu¹¹]
-> 
-> 谁能凭爱意要富士山私有
-> 
-> seoi4 nang4 pang4 oi3 ji3 jiu1/jiu3 fu3 si6 saan1 si1 jau5
-> 
-> [sɵy¹¹ nɐŋ¹¹ pʰɐŋ¹¹ ɔi³³ ji³³ jiu⁵⁵/jiu³³ fu³³ si²² san⁵⁵ si⁵⁵ jɐu¹³]
-> 
-> 何不把悲哀感觉 假设是来自你虚构
-> 
-> ho4 bat1 baa2 bei1 oi1 gam2 gok3  gaa2 cit3 si6 loi4 zi6 nei5 heoi1 kau3
-> 
-> [hɔ¹¹ pɐt⁵ pa³⁵ pei⁵⁵ ɔi⁵⁵ kɐm³⁵ kɔk³  ka³⁵ tsʰit³ si²² lɔi¹¹ tsi²² nei¹³ hɵy⁵⁵ kʰɐu³³]
-> 
-> 试管里找不到它染污眼眸
-> 
-> si3 gun2 lei5/leoi5 zaau2 bat1 dou3 taa1 jim5 wu1 ngaan5 mau4
-> 
-> [si³³ kun³⁵ lei¹³/lɵy¹³ tsau³⁵ pɐt⁵ tou³³ tʰa⁵⁵ jim¹³ wu⁵⁵ ŋan¹³ mɐu¹¹]
-> 
-> 前尘硬化像石头 随缘地抛下便逃走
-> 
-> cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4  ceoi4 jyun4 dei6 paau1 haa6 bin6/pin4 tou4 zau2
-> 
-> [tsʰin¹¹ tsʰɐn¹¹ ŋaŋ²² fa³³ tsœŋ²² sɛk² tʰɐu¹¹  tsʰɵy¹¹ jyn¹¹ tei²² pʰau⁵⁵ ha²² pin²²/pʰin¹¹ tʰou¹¹ tsɐu³⁵]
-> 
-> 我绝不罕有 往街里绕过一周 我便化乌有
-> 
-> ngo5 zyut6 bat1 hon2 jau5  wong5 gaai1 lei5/leoi5 jiu5 gwo3 jat1 zau1  ngo5 bin6/pin4 faa3 wu1 jau5
-> 
-> [ŋɔ¹³ tsyt² pɐt⁵ hɔn³⁵ jɐu¹³  wɔŋ¹³ kai⁵⁵ lei¹³/lɵy¹³ jiu¹³ kʷɔ³³ jɐt⁵ tsɐu⁵⁵  ŋɔ¹³ pin²²/pʰin¹¹ fa³³ wu⁵⁵ jɐu¹³]
-> 
-> 谁都只得那双手 靠拥抱亦难任你拥有
-> 
-> seoi4 dou1 zi2 dak1 naa1/naa5 soeng1 sau2  kaau3 jung2 pou5 jik6 naan4/naan6/no4 jam4/jam6 nei5 jung2 jau5
-> 
-> [sɵy¹¹ tou⁵⁵ tsi³⁵ tɐk⁵ na⁵⁵/na¹³ sœŋ⁵⁵ sɐu³⁵  kʰau³³ jʊŋ³⁵ pʰou¹³ jek² nan¹¹/nan²²/nɔ¹¹ jɐm¹¹/jɐm²² nei¹³ jʊŋ³⁵ jɐu¹³]
-> 
-> 要拥有必先懂失去怎接受
-> 
-> jiu1/jiu3 jung2 jau5 bit1 sin1 dung2 sat1 heoi3 zam2 zip3 sau6
-> 
-> [jiu⁵⁵/jiu³³ jʊŋ³⁵ jɐu¹³ pit⁵ sin⁵⁵ tʊŋ³⁵ sɐt⁵ hɵy³³ tsɐm³⁵ tsip³ sɐu²²]
-> 
-> 曾沿着雪路浪游 为何为好事泪流
-> 
-> cang4/zang1 jyun4 zoek6 syut3 lou6 long4/long6 jau4  wai6 ho4 wai4/wai6 hou2 si6 leoi6 lau4
-> 
-> [tsʰɐŋ¹¹/tsɐŋ⁵⁵ jyn¹¹ tsœk² syt³ lou²² lɔŋ¹¹/lɔŋ²² jɐu¹¹  wɐi²² hɔ¹¹ wɐi¹¹/wɐi²² hou³⁵ si²² lɵy²² lɐu¹¹]
-> 
-> 谁能凭爱意要富士山私有
-> 
-> seoi4 nang4 pang4 oi3 ji3 jiu1/jiu3 fu3 si6 saan1 si1 jau5
-> 
-> [sɵy¹¹ nɐŋ¹¹ pʰɐŋ¹¹ ɔi³³ ji³³ jiu⁵⁵/jiu³³ fu³³ si²² san⁵⁵ si⁵⁵ jɐu¹³]
-> 
-> 何不把悲哀感觉 假设是来自你虚构
-> 
-> ho4 bat1 baa2 bei1 oi1 gam2 gok3  gaa2 cit3 si6 loi4 zi6 nei5 heoi1 kau3
-> 
-> [hɔ¹¹ pɐt⁵ pa³⁵ pei⁵⁵ ɔi⁵⁵ kɐm³⁵ kɔk³  ka³⁵ tsʰit³ si²² lɔi¹¹ tsi²² nei¹³ hɵy⁵⁵ kʰɐu³³]
-> 
-> 试管里找不到它染污眼眸
-> 
-> si3 gun2 lei5/leoi5 zaau2 bat1 dou3 taa1 jim5 wu1 ngaan5 mau4
-> 
-> [si³³ kun³⁵ lei¹³/lɵy¹³ tsau³⁵ pɐt⁵ tou³³ tʰa⁵⁵ jim¹³ wu⁵⁵ ŋan¹³ mɐu¹¹]
-> 
-> 前尘硬化像石头 随缘地抛下便逃走
-> 
-> cin4 can4 ngaang6 faa3 zoeng6 sek6 tau4  ceoi4 jyun4 dei6 paau1 haa6 bin6/pin4 tou4 zau2
-> 
-> [tsʰin¹¹ tsʰɐn¹¹ ŋaŋ²² fa³³ tsœŋ²² sɛk² tʰɐu¹¹  tsʰɵy¹¹ jyn¹¹ tei²² pʰau⁵⁵ ha²² pin²²/pʰin¹¹ tʰou¹¹ tsɐu³⁵]
-> 
-> 我绝不罕有 往街里绕过一周 我便化乌有
-> 
-> ngo5 zyut6 bat1 hon2 jau5  wong5 gaai1 lei5/leoi5 jiu5 gwo3 jat1 zau1  ngo5 bin6/pin4 faa3 wu1 jau5
-> 
-> [ŋɔ¹³ tsyt² pɐt⁵ hɔn³⁵ jɐu¹³  wɔŋ¹³ kai⁵⁵ lei¹³/lɵy¹³ jiu¹³ kʷɔ³³ jɐt⁵ tsɐu⁵⁵  ŋɔ¹³ pin²²/pʰin¹¹ fa³³ wu⁵⁵ jɐu¹³]
-> 
-> 你还嫌不够 我把这陈年风褛 送赠你解咒
-> 
-> nei5 waan4 jim4 bat1 gau3  ngo5 baa2 ze3/ze5 can4 nin4 fung1 lau1  sung3 zang6 nei5 gaai2/gaai3/haai6 zau3
-> 
-> [nei¹³ wan¹¹ jim¹¹ pɐt⁵ kɐu³³  ŋɔ¹³ pa³⁵ tsɛ³³/tsɛ¹³ tsʰɐn¹¹ nin¹¹ fʊŋ⁵⁵ lɐu⁵⁵  sʊŋ³³ tsɐŋ²² nei¹³ kai³⁵/kai³³/hai²² tsɐu³³]
-

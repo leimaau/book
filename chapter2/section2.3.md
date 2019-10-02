@@ -235,8 +235,8 @@ C-->|韵尾变化|H(掝fit1<抽打>)
 桌 | zoek3[t͡ʃœːk̚˧] | zok3[t͡ʃɔːk̚˧]
 卓 | zoek3[t͡ʃœːk̚˧] | zok3[t͡ʃɔːk̚˧]
 啄 | doek3[tœːk̚˧] | dok3[tɔːk̚˧]
-琢 | doek3[tœːk̚˧]、zoek3[t͡ʃœːk̚˧] | zok3[t͡ʃɔːk̚˧]
-涿 | doek3[tœːk̚˧]、zoek3[t͡ʃœːk̚˧] | zok3[t͡ʃɔːk̚˧]
+琢 | doek3[tœːk̚˧] | zok3[t͡ʃɔːk̚˧]
+涿 | doek3[tœːk̚˧] | zok3[t͡ʃɔːk̚˧]
 斲(斫) | doek3[tœːk̚˧] | dok3[tɔːk̚˧]
 戳 | cok3[t͡ʃʰɔːk̚˧] | coek3[t͡ʃʰœːk̚˧]
 

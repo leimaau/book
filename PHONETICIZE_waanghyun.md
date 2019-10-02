@@ -14,7 +14,7 @@
 	<td><span style="font-size:2em;">d</span> [t] 多</td>
 	<td><span style="font-size:2em;">t</span> [tʰ] 拖</td>
 	<td><span style="font-size:2em;">n</span> [n] 挪</td>
-	<td><span style="font-size:2em;">sl</span> [ɬ/θ] 锁</td>
+	<td><span style="font-size:2em;">sl</span> [ɬ] 锁</td>
 	<td><span style="font-size:2em;">l</span> [l] 罗</td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@
 </table>
 
 - 零声母不用字母作标记，如「亚」只拼作aa3[aː˧˧]。
-- nj[ȵ]为龈齶鼻音，sl[ɬ]为清齿龈边擦音，也有人读清齿擦音sl[θ]，拼音皆为sl。
+- nj[ȵ]为龈腭音，sl[ɬ]为清齿龈边擦音。
 - 横县白话古喻母字的声母今大多读h[h]，如：雨hyu5[hyː˨˦]。
 - 包括零声母在内声母共有22个。
 

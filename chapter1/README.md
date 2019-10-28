@@ -8,6 +8,10 @@
 
 1.4 中国语言地图集选摘
 
+<!--
 ![](https://wx2.sinaimg.cn/large/69144085ly1g8d4w4hynyj20pt0go42a.jpg)
+-->
+
+![](https://s2.ax1x.com/2019/10/29/Kgxjj1.jpg)
 
 【南宁中山路】

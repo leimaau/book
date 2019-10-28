@@ -4,7 +4,11 @@
 
 目前已知可能描述广州西关音最早的文献为高本汉的《中国音韵学研究》，该书法文原本1915年至1926年分四次出版，中文译本在1940年初版，虽然该书并没有直接提到西关音，但后来的译者在注释中却提及了这点。
 
+<!--
 ![](https://wx3.sinaimg.cn/large/69144085ly1g8d4wejo0sj20m50vs7bk.jpg)
+-->
+
+![](https://s2.ax1x.com/2019/10/29/Kgzd5F.jpg)
 
 书中所描述的广州话音系与现今的广州话有些差异，根据相关论文研究，用现代的IPA将书中描述的广州音转写如下：
 
@@ -33,10 +37,15 @@ y yn yt
 
 而在1941年黄锡凌《粤音韵汇》中也提到了西关音。
 
+<!--
 ![](https://wx1.sinaimg.cn/large/69144085ly1g8d4w92pyrj20j30swtb2.jpg)
+-->
+
+![](https://s2.ax1x.com/2019/10/29/KgzYD0.jpg)
 
 2016年麦耘在其论文《汉语方言中的舌叶元音和兼舌叶元音》中对西关音的舌尖元音作了详细描述。
 
+<!--
 ![](https://wx4.sinaimg.cn/large/69144085ly1g8d6ghwqewj20xu0l016k.jpg)
 
 ![](https://wx1.sinaimg.cn/large/69144085ly1g8d6gf0b0dj20vt08ldk7.jpg)
@@ -44,6 +53,15 @@ y yn yt
 ![](https://wx4.sinaimg.cn/large/69144085ly1g8d6gc2it4j20w608z438.jpg)
 
 ![](https://wx3.sinaimg.cn/large/69144085ly1g8d6g91mc8j20w50f8ti6.jpg)
+-->
+
+![](https://s2.ax1x.com/2019/10/29/Kgz0C4.jpg)
+
+![](https://s2.ax1x.com/2019/10/29/KgzUET.jpg)
+
+![](https://s2.ax1x.com/2019/10/29/KgztbV.jpg)
+
+![](https://s2.ax1x.com/2019/10/29/KgzaUU.jpg)
 
 **参考资料：**
 
@@ -54,7 +72,11 @@ y yn yt
 现在的粤剧用的粤音来唱曲和念白，但在早期的粤剧或者说粤剧形成时期并非使用粤音而是官话来唱曲和念白，甚至现今的一些粤剧剧目还保留了这些早期官话和早期粤音的影子，例如《帝女花之香夭》中侍女的念白「知道」，甚至最后一句的「死」字还不裂化。
 这个隐藏在粤剧中的早期官话曾经学界以为是桂林官话，但是近年随着对官话和粤剧的研究深入，例如2006年抢救性发掘的邕州官话就具有这种官话的特点，这个官话可能是接近桂柳话的一种官话，但具体是何种官话未有定论。
 
+<!--
 ![](https://wx3.sinaimg.cn/large/69144085ly1g8eaqutxbfj20pa12fn9z.jpg)
+-->
+
+![](https://s2.ax1x.com/2019/10/29/KgzyK1.jpg)
 
 **更多参考资料：**
 

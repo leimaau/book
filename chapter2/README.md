@@ -12,6 +12,6 @@
 
 2.6 本字与正字、粤语的现代化
 
-![](http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1410/05/c0/39271650_1412463918961.jpg)
+![](https://wx1.sinaimg.cn/large/69144085ly1g8d4xflodaj215o0q47u0.jpg)
 
-【南湖桥夜景】
+【广西文化艺术中心】

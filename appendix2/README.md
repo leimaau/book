@@ -1,9 +1,11 @@
-# 附录二 新闻报道
+# 附录二 相关资讯
 
-5.1 羊城晚报《推普的“南宁”现象》
+5.1 张振兴：《广西汉语方言重点研究丛书》序
 
 5.2 刘丹青：差别化政策是语言保护工作的迫切要务
 
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1554067885436&di=9198ac15a0bbde319c968f3f73e30d1d&imgtype=0&src=http%3A%2F%2Fphoto.tuchong.com%2F486203%2Ff%2F11064404.jpg)
+5.3 羊城晚报：推普的“南宁”现象
+
+![](https://wx1.sinaimg.cn/large/69144085ly1g8d4wrs685j21980p8u0x.jpg)
 
 【南宁街道夜景】

@@ -17,7 +17,7 @@
 
 %accordion%列表%accordion%
 
-[汉语方言学大词典](http://www.fangyanxue.com) | [粤语审音配词字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [黄锡凌《粤音韵汇》电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton/) | [粤语音韵集成电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton2/) | [小学堂粤语](http://xiaoxue.iis.sinica.edu.tw/yueyu) | [粤音资料集丛](http://www.jyut.net/) | [中国哲学书电子化计划](https://ctext.org/zhs) | [古今文字集成](http://www.ccamc.co/index.php) | [韵典网](http://ytenx.org/) | [汉典网](http://www.zdic.net/) | [国学大师网](http://www.guoxuedashi.com/) | [汉字资源全息应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index) | [香港语言学学会粤拼词表](http://corpus.ied.edu.hk/JPwordlist/index.php) | [香港小学学习字词表](https://www.edbchinese.hk/lexlist_ch/) | [中英对照香港学校中文学习基础字词](https://www.edbchinese.hk/lexlist_en/) | [电脑用汉字粤语拼音表](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/cliac/canton_pronun_list.htm) | [香港增补字符集](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/download_area/) | [粤拼资料库](http://www.iso10646hk.net/jp/database/index.jsp) | [ISO汉字查询系统](http://glyph.iso10646hk.net/ccs/ccs.jsp?lang=zh_TW) | [开放粤语词典](http://www.kaifangcidian.com/han/yue) | [CC-CANTO](http://cccanto.org/) | [中国语言资源保护工程汉语方言用字规范](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html) | [粤语字打法大全](http://restools.hanzify.org/other/canchars.htm) | [翡翠粤语歌词](https://www.feitsui.com/) | [语言文字信息管理司](http://www.moe.edu.cn/s78/A19/) | [语保工程采录展示平台](http://expert.jiaxianghua.org/)  |  [中国语言资源保护工程宣传片](http://www.moe.edu.cn/s78/A19/moe_814/201607/t20160721_272527.html) | [语保网](http://www.chinalanguages.org/) | [乡音苑](http://www.phonemica.net/) | [语汇网](http://www.clr.org.cn/) | [复旦大学东亚语言数据中心](http://ccdc.fudan.edu.cn/bases/index.jsp) | [语言文字网](http://www.yywzw.com/jt/feng/index.html) | [语料库在线](http://corpus.zhonghuayuwen.org/index.aspx)
+[东方语言学](http://www.eastling.org/index.php) | [汉语方言学大词典](http://www.fangyanxue.com) | [粤语审音配词字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [黄锡凌《粤音韵汇》电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton/) | [粤语音韵集成电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton2/) | [小学堂粤语](http://xiaoxue.iis.sinica.edu.tw/yueyu) | [粤音资料集丛](http://www.jyut.net/) | [中国哲学书电子化计划](https://ctext.org/zhs) | [古今文字集成](http://www.ccamc.co/index.php) | [韵典网](http://ytenx.org/) | [汉典网](http://www.zdic.net/) | [国学大师网](http://www.guoxuedashi.com/) | [汉字资源全息应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index) | [香港语言学学会粤拼词表](http://corpus.ied.edu.hk/JPwordlist/index.php) | [香港小学学习字词表](https://www.edbchinese.hk/lexlist_ch/) | [中英对照香港学校中文学习基础字词](https://www.edbchinese.hk/lexlist_en/) | [电脑用汉字粤语拼音表](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/cliac/canton_pronun_list.htm) | [香港增补字符集](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/download_area/) | [粤拼资料库](http://www.iso10646hk.net/jp/database/index.jsp) | [ISO汉字查询系统](http://glyph.iso10646hk.net/ccs/ccs.jsp?lang=zh_TW) | [开放粤语词典](http://www.kaifangcidian.com/han/yue) | [CC-CANTO](http://cccanto.org/) | [中国语言资源保护工程汉语方言用字规范](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html) | [粤语字打法大全](http://restools.hanzify.org/other/canchars.htm) | [翡翠粤语歌词](https://www.feitsui.com/) | [语言文字信息管理司](http://www.moe.edu.cn/s78/A19/) | [语保工程采录展示平台](http://expert.jiaxianghua.org/)  |  [中国语言资源保护工程宣传片](http://www.moe.edu.cn/s78/A19/moe_814/201607/t20160721_272527.html) | [语保网](http://www.chinalanguages.org/) | [乡音苑](http://www.phonemica.net/) | [语汇网](http://www.clr.org.cn/) | [复旦大学东亚语言数据中心](http://ccdc.fudan.edu.cn/bases/index.jsp) | [语言文字网](http://www.yywzw.com/jt/feng/index.html) | [语料库在线](http://corpus.zhonghuayuwen.org/index.aspx)
 
 %/accordion%
 
@@ -39,6 +39,7 @@
 * 1998年白宛如《广州方言词典》
 * 1998年陈伯𪸩《论粤方言词本字考释》
 * 2000年李连进《平话音韵研究》
+* 2001年张惠英《汉语方言代词研究》
 * 2002年詹伯慧《广东粤方言概要》
 * 2003年饶秉才《广州音字典》
 * 2003年黎曙光《广西粤方言比较音韵研究》
@@ -48,8 +49,11 @@
 * 2006年班弨《论汉语中的台语底层》
 * 2009年郑作广《广西汉语珍惜方言语音研究》
 * 2010年欧阳觉亚、周无忌、饶秉才《广州话俗语词典》
+* 2010年徐杰舜、何月华《城中小村的“前世今生”》
+* 徐杰舜平话人书系《平话人印象》、《平话人图像》、《平话人变迁》和《平话人与客家人比较》
 * 2011年陈卫强《广州地区粤方言语音研究》
 * 2011年刘玉萍《实用粤语播音主持语言基础教程》
+* 2015年洪琪、洪珏《邕州老戏——邕剧》
 * 2016年余瑾《广西平话研究》
 
 %/accordion%
@@ -143,6 +147,26 @@
 * 覃远雄; 黄昭艳.南宁心圩平话语音特点讨论.《钦州学院学报》.2018-06-20.
 * 覃远雄.南宁心圩平话语音系统.《钦州学院学报》.2018-02-20.
 * 覃远雄.南宁平话的指示代词.《钦州学院学报》.2017-08-20.
+* 覃远雄.南宁平话的介词.《广西民族师范学院学报》.1999-04. 
+* 覃远雄.南宁平话的结构助词.《广西民族师范学院学报》.1998-10. 
+* 覃远雄.桂南平话研究.暨南大学博士论文.2000年.
+* 覃远雄.平话和土话.《方言》.2007(02).
+* 覃远雄.方言本字举例.《方言》.2002(01)33.
+* 覃远雄.汉语方言否定词的读音.《方言》.2003(02)34.
+* 覃远雄.部分方言否定语素“冇/冒”所反映的读音层次.《方言》.2007(03).
+* 覃远雄.平话、粤语与壮语“给”义的词.《民族语文》.2007(05)21.
+* 覃远雄.平话和粤语古庄母的特殊读音.《方言》.2008(04)15.
+* 覃远雄.桂南平话的声调及其演变.《方言》.2004 (03)44.
+* 覃远雄.桂南平话古晓、匣、云、以母字的读音.《方言》.2005 (03) 43.
+* 覃远雄.桂南平话的主元音及韵母格局.《方言》.2001(02)37.
+* 覃远雄.桂南平话古见组声母和日母的今读.《方言》.2006(03)33.
+* 覃远雄.桂南平话古果假两摄字的今读音.《方言》.2011(01).
+* 覃远雄.桂南平话古晓匣母字今读零声母的解释. 《民族语文》. 2016(06).
+* 覃远雄.桂南平话古遇摄字的今读.《方言》.2012(04).
+* 覃远雄.桂北平话古全浊声母的今读.  钦州学院学报. 2016(11).
+* 覃远雄.桂北平话古上声字的今读.《方言》.2013(04).
+* 覃远雄.桂北平话的声调及其演变.《贺州学院学报》. 2016(01).
+* 张晓勤; 罗丹.桂南平话山摄、臻摄入声韵的演变.《桂林航天工业高等专科学校学报》.2011-01.
 * 覃小航.广西粤语的线性分布和历史成因.《中南民族学院学报》.1998-01-30.
 * 王珅.南宁白话(新派)单字调声学实验研究.《语文学刊》.2015-02-15.
 * 罗婷; 唐七元.广西汉语方言词汇研究综述.《现代语文(学术综合版)》.2017-05-05.
@@ -165,6 +189,10 @@
 * 李纯茵.南宁白话中的特殊语法现象.《广西教育》.2016年.
 * 宁洁.南宁白话的处置句式.《桂林师范高等专科学校学报》.2015-07-15.
 * 滕祖爱.南宁市与桂平市粤方言比较研究.广西师范大硕士论文.2018-06-01.
+* 赫英娜.平话四点的结构助词研究.广西师范大硕士论文.2009-06-26.
+* 莫育珍.从粤语特征词看桂南平话和粤语的关系.《桂林师范高等专科学校学报》.2007-04-01.
+* 王莉宁.桂南平话与粤语词汇比较方法探讨.广西大学硕士论文.2006-06-01.
+* 梁忠东.从《方言调查字表》例外字读音看桂南平话与粤语的关系.《贺州学院学报》.2009-06.
 * 沈祥和.普通话“子”缀词在南宁白话中的存在方式.《广西社会科学》.2001-05-25.
 * 袁善来; 黄南津.广西强势语言（包括汉语方言、普通话）更替及其外部原因.《柳州师专学报》.2005-09-30.
 * 张秀珍.广西汉语方言研究篇目(1925-2011).《桂林师范高等专科学校学报》.2012-04-15.
@@ -183,6 +211,10 @@
 * 谢静华.粤方言书面化中的文字借用现象.《闽西职业技术学院学报》.2017-07-20.
 * 张海红; 李敏盈; 林华勇.粤方言语法化研究综观.《惠州学院学报》.2019-04-28.
 * 李小军.试论总括向高程度的演变.《语言科学》.2018-09-01.
+* 莫思敏; 谈婷.广西横县白话同音字汇.《钦州学院学报》.2019-02-20.
+* 莫思敏.横县白话语音研究.广西大学硕士论文.2019-06-01.
+* 封红羽.广西汉壮方言否定词对比研究.广西大学硕士论文.2019-06-01.
+* 覃东生; 覃凤余.广西汉、壮语方言的方式助词和取舍助词.《中国语文》.2018-09-10.
 
 %/accordion%
 

@@ -268,18 +268,19 @@ translator:
   prism: naamning_jyutping
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:    # 需要顯示IPA時這段要被替換掉
-    - xform/([aeioumngptk])qq/$1⁴/
-    - xform/([aeioumngptk])q/$1¹/
-    - xform/([aeioumngptk])vv/$1⁵/
-    - xform/([aeioumngptk])v/$1²/
-    - xform/([aeioumngptk])xx/$1⁶/
-    - xform/([aeioumngptk])x/$1³/
+    - xform/([yaeioumngptk])qq/$1⁴/
+    - xform/([yaeioumngptk])q/$1¹/
+    - xform/([yaeioumngptk])vv/$1⁵/
+    - xform/([yaeioumngptk])v/$1²/
+    - xform/([yaeioumngptk])xx/$1⁶/
+    - xform/([yaeioumngptk])x/$1³/
 #  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
 #    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
 #    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
 #    - xform/([ptk])x/$1˧/	咽jiːt̚˧
 #    - xform/([ptk])q/$1˥/	一jɐt̚
 #    - xform/qq/˨˩/	而jiː˨˩
+#    - xform/(^|[ '])q/$1ʔ/
 #    - xform/q/˥˥/	倚jiː˥˥
 #    - xform/vv/˨˦/	以jiː˨˦
 #    - xform/v/˧˥/	倚jiː˧˥
@@ -370,12 +371,20 @@ translator:
   dictionary: naamning_jyutping
   prism: naamning_jyutping
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
+#  preedit_format:    # 需要顯示IPA時這段要被替換掉
+#    - xform/([yaeioumngptk])qq/$1⁴/
+#    - xform/([yaeioumngptk])q/$1¹/
+#    - xform/([yaeioumngptk])vv/$1⁵/
+#    - xform/([yaeioumngptk])v/$1²/
+#    - xform/([yaeioumngptk])xx/$1⁶/
+#    - xform/([yaeioumngptk])x/$1³/
   preedit_format:    # 需要顯示IPA時preedit_format替換成這段
     - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
     - xform/([ptk])xx/$1˨/	熱jiːt̚˨
     - xform/([ptk])x/$1˧/	咽jiːt̚˧
     - xform/([ptk])q/$1˥/	一jɐt̚
     - xform/qq/˨˩/	而jiː˨˩
+    - xform/(^|[ '])q/$1ʔ/
     - xform/q/˥˥/	倚jiː˥˥
     - xform/vv/˨˦/	以jiː˨˦
     - xform/v/˧˥/	倚jiː˧˥

@@ -251,9 +251,9 @@
 > 
 > ** 花街的流星-李克勤 **
 > 
-> ** faa1 gaai1 dik1 lau4 sling1 - li5 hak1 kan4 **
+> faa1 gaai1 dik1 lau4 sling1 - li5 hak1 kan4
 > 
-> ** [faː˥˥ kaːi˥˥ tɪk̚˥ lɐu˨˩ ɬɪŋ˥˥ - liː˨˦ hɐk̚˥ kʰɐn˨˩] **
+> [faː˥˥ kaːi˥˥ tɪk̚˥ lɐu˨˩ ɬɪŋ˥˥ - liː˨˦ hɐk̚˥ kʰɐn˨˩]
 > 
 > 六岁的我这里散步
 > 

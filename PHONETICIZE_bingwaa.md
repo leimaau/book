@@ -232,7 +232,7 @@
 
 - ot[ot̚]作韵尾的大多为有音无字的口语词，例如「嘬（吮吸）」zot3[tsot̚˥]。
 - 微母逢遇、臻两摄读[f]为老派，读[m]为新派，例如「武」老派fu5[fuː˨˦]、新派mu5[muː˨˦]。
-- 南宁平话有iang[iɐŋ]和iak[iɐk̚]两韵，包括自成音节ng[ŋ̩]在内，韵母共有49个。
+- 南宁平话有iang[iɐŋ]和iak[iɐk̚]两韵，可分别以eng和ek替代，包括自成音节ng[ŋ̩]在内，韵母共有49个。
 
 
 ## 拼音方案说明
@@ -257,11 +257,570 @@
 
 > [!EXAMPLE]
 > 
+> ** 你爱我像谁-张卫健 **
+> 
+> ni5 aai3 ngo5 ziang6 sui4 - ziang1 wai6 gin6
+> 
+> [ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21 - tʃiɐŋ53 wɐi22 kin22]
+> 
+> 我什么都没有
+> 
+> ngo5 sam6 mo1 du1 mut5 jau5
+> 
+> [ŋo24 ʃɐm22 mo53 tu53 mut24 jɐu24]
+> 
+> 只是有一点吵
+> 
+> zi2 si6 jau5 at2 dim2 caau2
+> 
+> [tʃi33 ʃi22 jɐu24 ɐt3 tim33 tʃʰau33]
+> 
+> 如果你感到寂寞
+> 
+> jyu4 go2 ni5 gaam2 daau3 zik6 moek5
+> 
+> [jy21 ko33 ni24 kam33 tau55 tʃek2 mœk24]
+> 
+> 我带给你热闹
+> 
+> ngo5 daai3 kap2 ni5 njit5 naau6
+> 
+> [ŋo24 tai55 kʰɐp3 ni24 ȵit24 nau22]
+> 
+> 为你绕一绕
+> 
+> wai6 ni5 jiu5 at2 jiu5
+> 
+> [wɐi22 ni24 jiu24 ɐt3 jiu24]
+> 
+> 没有什么大不了
+> 
+> mut5 jau5 sam6 mo1 daai6 bat2 liu5
+> 
+> [mut24 jɐu24 ʃɐm22 mo53 tai22 pɐt3 liu24]
+> 
+> 却可以让你微笑
+> 
+> kiak2 ko2 ji5 ngiang6 ni5 mi4 sliu3
+> 
+> [kʰiɐk3 kʰo33 ji24 ŋiɐŋ22 ni24 mi21 ɬiu55]
+> 
+> 其实我很烦恼
+> 
+> gi4 sat6 ngo5 han2 faan4 naau5
+> 
+> [ki21 ʃɐt2 ŋo24 hɐn33 fan21 nau24]
+> 
+> 只是你看不到
+> 
+> zi2 si6 ni5 haan3 bat2 daau3
+> 
+> [tʃi33 ʃi22 ni24 han55 pɐt3 tau55]
+> 
+> 如果我也不开心
+> 
+> jyu4 go2 ngo5 je5 bat2 haai1 slam1
+> 
+> [jy21 ko33 ŋo24 je24 pɐt3 hai53 ɬɐm53]
+> 
+> 怕你转身就逃
+> 
+> paa3 ni5 zyun2 san1 zau6 daau4
+> 
+> [pʰa55 ni24 tʃyn33 ʃɐn53 tʃɐu22 tau21]
+> 
+> 爱上一个人
+> 
+> aai3 sang6 at2 go3 njan4
+> 
+> [ai55 ʃɐŋ22 ɐt3 ko55 ȵɐn21]
+> 
+> 一定要让他相信
+> 
+> at2 ding6 jiu3 ngiang6 taa1 sliang1 slan3
+> 
+> [ɐt3 teŋ22 jiu55 ŋiɐŋ22 tʰa53 ɬiɐŋ53 ɬɐn55]
+> 
+> 这世界多么美好
+> 
+> ze5 si3 gaai3 do1 mo1 mai5 haau2
+> 
+> [tʃe24 ʃi55 kai55 to53 mo53 mɐi24 hau33]
+> 
+> 对每个人
+> 
+> dui3 mui5 go3 njan4
+> 
+> [tui55 mui24 ko55 ȵɐn21]
+> 
+> 都说还好
+> 
+> du1 syut2 waan4 haau2
+> 
+> [tu53 ʃyt3 wan21 hau33]
+> 
+> 我的心 我的情 你不需要明了
+> 
+> ngo5 dik2 slam1  ngo5 dik2 zing4  ni5 bat2 slyu1 jiu3 ming4 liu4
+> 
+> [ŋo24 tek3 ɬɐm53  ŋo24 tek3 tʃeŋ21  ni24 pɐt3 ɬy53 jiu55 meŋ21 liu21]
+> 
+> 只要我对你好
+> 
+> zi2 jiu3 ngo5 dui3 ni5 haau2
+> 
+> [tʃi33 jiu55 ŋo24 tui55 ni24 hau33]
+> 
+> 这样的温柔 你要不要
+> 
+> ze5 jiang6 dik2 wan1 jau4  ni5 jiu3 bat2 jiu3
+> 
+> [tʃe24 jiɐŋ22 tek3 wɐn53 jɐu21  ni24 jiu55 pɐt3 jiu55]
+> 
+> 其实 你爱我像谁
+> 
+> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> 
+> [ki21 ʃɐt2  ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21]
+> 
+> 扮演什么角色我都会
+> 
+> baan6 jin2 sam6 mo1 gaak2 sik2 ngo5 du1 wai6
+> 
+> [pan22 jin33 ʃɐm22 mo53 kak3 ʃek3 ŋo24 tu53 wɐi22]
+> 
+> 快不快乐我无所谓
+> 
+> waai3 bat2 waai3 laak5 ngo5 mu4 slo2 wai6
+> 
+> [wai55 pɐt3 wai55 lak24 ŋo24 mu21 ɬo33 wɐi22]
+> 
+> 为了你开心 我忘记了累不累
+> 
+> wai6 liu5 ni5 haai1 slam1  ngo5 mong4 gi3 liu5 lui6 bat2 lui6
+> 
+> [wɐi22 liu24 ni24 hai53 ɬɐm53  ŋo24 moŋ21 ki55 liu24 lui22 pɐt3 lui22]
+> 
+> 其实 你爱我像谁
+> 
+> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> 
+> [ki21 ʃɐt2  ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21]
+> 
+> 任何的表情 我都能给
+> 
+> njam6 ho4 dik2 biu2 zing4  ngo5 du1 nang4 kap2
+> 
+> [ȵɐm22 ho21 tek3 piu33 tʃeŋ21  ŋo24 tu53 nɐŋ21 kʰɐp3]
+> 
+> Woo
+> 
+> 在你身上学会 流眼泪
+> 
+> zaai6 ni5 san1 sang6 haak6 wai6  lau4 njaan5 lui6
+> 
+> [tʃai22 ni24 ʃɐn53 ʃɐŋ22 hak2 wɐi22  lɐu21 ȵan24 lui22]
+> 
+> 其实我很烦恼
+> 
+> gi4 sat6 ngo5 han2 faan4 naau5
+> 
+> [ki21 ʃɐt2 ŋo24 hɐn33 fan21 nau24]
+> 
+> 只是你看不到
+> 
+> zi2 si6 ni5 haan3 bat2 daau3
+> 
+> [tʃi33 ʃi22 ni24 han55 pɐt3 tau55]
+> 
+> 如果我也不开心
+> 
+> jyu4 go2 ngo5 je5 bat2 haai1 slam1
+> 
+> [jy21 ko33 ŋo24 je24 pɐt3 hai53 ɬɐm53]
+> 
+> 怕你转身就逃
+> 
+> paa3 ni5 zyun2 san1 zau6 daau4
+> 
+> [pʰa55 ni24 tʃyn33 ʃɐn53 tʃɐu22 tau21]
+> 
+> 爱上一个人
+> 
+> aai3 sang6 at2 go3 njan4
+> 
+> [ai55 ʃɐŋ22 ɐt3 ko55 ȵɐn21]
+> 
+> 一定要让他相信
+> 
+> at2 ding6 jiu3 ngiang6 taa1 sliang1 slan3
+> 
+> [ɐt3 teŋ22 jiu55 ŋiɐŋ22 tʰa53 ɬiɐŋ53 ɬɐn55]
+> 
+> 这世界多么美好
+> 
+> ze5 si3 gaai3 do1 mo1 mai5 haau2
+> 
+> [tʃe24 ʃi55 kai55 to53 mo53 mɐi24 hau33]
+> 
+> 对每个人
+> 
+> dui3 mui5 go3 njan4
+> 
+> [tui55 mui24 ko55 ȵɐn21]
+> 
+> 都说还好
+> 
+> du1 syut2 waan4 haau2
+> 
+> [tu53 ʃyt3 wan21 hau33]
+> 
+> 我的心 我的情 你不需要明了
+> 
+> ngo5 dik2 slam1  ngo5 dik2 zing4  ni5 bat2 slyu1 jiu3 ming4 liu4
+> 
+> [ŋo24 tek3 ɬɐm53  ŋo24 tek3 tʃeŋ21  ni24 pɐt3 ɬy53 jiu55 meŋ21 liu21]
+> 
+> 只要我对你好
+> 
+> zi2 jiu3 ngo5 dui3 ni5 haau2
+> 
+> [tʃi33 jiu55 ŋo24 tui55 ni24 hau33]
+> 
+> 这样的温柔 你要不要
+> 
+> ze5 jiang6 dik2 wan1 jau4  ni5 jiu3 bat2 jiu3
+> 
+> [tʃe24 jiɐŋ22 tek3 wɐn53 jɐu21  ni24 jiu55 pɐt3 jiu55]
+> 
+> 其实 你爱我像谁
+> 
+> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> 
+> [ki21 ʃɐt2  ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21]
+> 
+> 扮演什么角色我都会
+> 
+> baan6 jin2 sam6 mo1 gaak2 sik2 ngo5 du1 wai6
+> 
+> [pan22 jin33 ʃɐm22 mo53 kak3 ʃek3 ŋo24 tu53 wɐi22]
+> 
+> 快不快乐我无所谓
+> 
+> waai3 bat2 waai3 laak5 ngo5 mu4 slo2 wai6
+> 
+> [wai55 pɐt3 wai55 lak24 ŋo24 mu21 ɬo33 wɐi22]
+> 
+> 为了你开心 我忘记了累不累
+> 
+> wai6 liu5 ni5 haai1 slam1  ngo5 mong4 gi3 liu5 lui6 bat2 lui6
+> 
+> [wɐi22 liu24 ni24 hai53 ɬɐm53  ŋo24 moŋ21 ki55 liu24 lui22 pɐt3 lui22]
+> 
+> 其实 你爱我像谁
+> 
+> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> 
+> [ki21 ʃɐt2  ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21]
+> 
+> 任何的表情 我都能给
+> 
+> njam6 ho4 dik2 biu2 zing4  ngo5 du1 nang4 kap2
+> 
+> [ȵɐm22 ho21 tek3 piu33 tʃeŋ21  ŋo24 tu53 nɐŋ21 kʰɐp3]
+> 
+> Woo
+> 
+> 在你身上学会流眼泪
+> 
+> zaai6 ni5 san1 sang6 haak6 wai6 lau4 njaan5 lui6
+> 
+> [tʃai22 ni24 ʃɐn53 ʃɐŋ22 hak2 wɐi22 lɐu21 ȵan24 lui22]
+
 
 ### 《南宁平话词典》版IPA
 
 > [!EXAMPLE]
 > 
+> ** 你爱我像谁-张卫健 **
+> 
+> ni5 aai3 ngo5 ziang6 sui4 - ziang1 wai6 gin6
+> 
+> [ni24 ai55 ŋo24 tsiɐŋ22 sui21 - tsiɐŋ53 βəi22 kin22]
+> 
+> 我什么都没有
+> 
+> ngo5 sam6 mo1 du1 mut5 jau5
+> 
+> [ŋo24 səm22 mo53 tu53 mut24 jəu24]
+> 
+> 只是有一点吵
+> 
+> zi2 si6 jau5 at2 dim2 caau2
+> 
+> [tsi33 si22 jəu24 ət3 tim33 tsʰau33]
+> 
+> 如果你感到寂寞
+> 
+> jyu4 go2 ni5 gaam2 daau3 zik6 moek5
+> 
+> [jy21 ko33 ni24 kam33 tau55 tsek2 møk24]
+> 
+> 我带给你热闹
+> 
+> ngo5 daai3 kap2 ni5 njit5 naau6
+> 
+> [ŋo24 tai55 kʰəp3 ni24 ɲit24 nau22]
+> 
+> 为你绕一绕
+> 
+> wai6 ni5 jiu5 at2 jiu5
+> 
+> [βəi22 ni24 jiu24 ət3 jiu24]
+> 
+> 没有什么大不了
+> 
+> mut5 jau5 sam6 mo1 daai6 bat2 liu5
+> 
+> [mut24 jəu24 səm22 mo53 tai22 pət3 liu24]
+> 
+> 却可以让你微笑
+> 
+> kiak2 ko2 ji5 ngiang6 ni5 mi4 sliu3
+> 
+> [kʰiɐk3 kʰo33 ji24 ŋiɐŋ22 ni24 mi21 ɬiu55]
+> 
+> 其实我很烦恼
+> 
+> gi4 sat6 ngo5 han2 faan4 naau5
+> 
+> [ki21 sət2 ŋo24 hən33 fan21 nau24]
+> 
+> 只是你看不到
+> 
+> zi2 si6 ni5 haan3 bat2 daau3
+> 
+> [tsi33 si22 ni24 han55 pət3 tau55]
+> 
+> 如果我也不开心
+> 
+> jyu4 go2 ngo5 je5 bat2 haai1 slam1
+> 
+> [jy21 ko33 ŋo24 je24 pət3 hai53 ɬəm53]
+> 
+> 怕你转身就逃
+> 
+> paa3 ni5 zyun2 san1 zau6 daau4
+> 
+> [pʰa55 ni24 tsyn33 sən53 tsəu22 tau21]
+> 
+> 爱上一个人
+> 
+> aai3 sang6 at2 go3 njan4
+> 
+> [ai55 səŋ22 ət3 ko55 ɲən21]
+> 
+> 一定要让他相信
+> 
+> at2 ding6 jiu3 ngiang6 taa1 sliang1 slan3
+> 
+> [ət3 teŋ22 jiu55 ŋiɐŋ22 tʰa53 ɬiɐŋ53 ɬən55]
+> 
+> 这世界多么美好
+> 
+> ze5 si3 gaai3 do1 mo1 mai5 haau2
+> 
+> [tse24 si55 kai55 to53 mo53 məi24 hau33]
+> 
+> 对每个人
+> 
+> dui3 mui5 go3 njan4
+> 
+> [tui55 mui24 ko55 ɲən21]
+> 
+> 都说还好
+> 
+> du1 syut2 waan4 haau2
+> 
+> [tu53 syt3 βan21 hau33]
+> 
+> 我的心 我的情 你不需要明了
+> 
+> ngo5 dik2 slam1  ngo5 dik2 zing4  ni5 bat2 slyu1 jiu3 ming4 liu4
+> 
+> [ŋo24 tek3 ɬəm53  ŋo24 tek3 tseŋ21  ni24 pət3 ɬy53 jiu55 meŋ21 liu21]
+> 
+> 只要我对你好
+> 
+> zi2 jiu3 ngo5 dui3 ni5 haau2
+> 
+> [tsi33 jiu55 ŋo24 tui55 ni24 hau33]
+> 
+> 这样的温柔 你要不要
+> 
+> ze5 jiang6 dik2 wan1 jau4  ni5 jiu3 bat2 jiu3
+> 
+> [tse24 jiɐŋ22 tek3 βən53 jəu21  ni24 jiu55 pət3 jiu55]
+> 
+> 其实 你爱我像谁
+> 
+> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> 
+> [ki21 sət2  ni24 ai55 ŋo24 tsiɐŋ22 sui21]
+> 
+> 扮演什么角色我都会
+> 
+> baan6 jin2 sam6 mo1 gaak2 sik2 ngo5 du1 wai6
+> 
+> [pan22 jin33 səm22 mo53 kak3 sek3 ŋo24 tu53 βəi22]
+> 
+> 快不快乐我无所谓
+> 
+> waai3 bat2 waai3 laak5 ngo5 mu4 slo2 wai6
+> 
+> [βai55 pət3 βai55 lak24 ŋo24 mu21 ɬo33 βəi22]
+> 
+> 为了你开心 我忘记了累不累
+> 
+> wai6 liu5 ni5 haai1 slam1  ngo5 mong4 gi3 liu5 lui6 bat2 lui6
+> 
+> [βəi22 liu24 ni24 hai53 ɬəm53  ŋo24 moŋ21 ki55 liu24 lui22 pət3 lui22]
+> 
+> 其实 你爱我像谁
+> 
+> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> 
+> [ki21 sət2  ni24 ai55 ŋo24 tsiɐŋ22 sui21]
+> 
+> 任何的表情 我都能给
+> 
+> njam6 ho4 dik2 biu2 zing4  ngo5 du1 nang4 kap2
+> 
+> [ɲəm22 ho21 tek3 piu33 tseŋ21  ŋo24 tu53 nəŋ21 kʰəp3]
+> 
+> Woo
+> 
+> 在你身上学会 流眼泪
+> 
+> zaai6 ni5 san1 sang6 haak6 wai6  lau4 njaan5 lui6
+> 
+> [tsai22 ni24 sən53 səŋ22 hak2 βəi22  ləu21 ɲan24 lui22]
+> 
+> 其实我很烦恼
+> 
+> gi4 sat6 ngo5 han2 faan4 naau5
+> 
+> [ki21 sət2 ŋo24 hən33 fan21 nau24]
+> 
+> 只是你看不到
+> 
+> zi2 si6 ni5 haan3 bat2 daau3
+> 
+> [tsi33 si22 ni24 han55 pət3 tau55]
+> 
+> 如果我也不开心
+> 
+> jyu4 go2 ngo5 je5 bat2 haai1 slam1
+> 
+> [jy21 ko33 ŋo24 je24 pət3 hai53 ɬəm53]
+> 
+> 怕你转身就逃
+> 
+> paa3 ni5 zyun2 san1 zau6 daau4
+> 
+> [pʰa55 ni24 tsyn33 sən53 tsəu22 tau21]
+> 
+> 爱上一个人
+> 
+> aai3 sang6 at2 go3 njan4
+> 
+> [ai55 səŋ22 ət3 ko55 ɲən21]
+> 
+> 一定要让他相信
+> 
+> at2 ding6 jiu3 ngiang6 taa1 sliang1 slan3
+> 
+> [ət3 teŋ22 jiu55 ŋiɐŋ22 tʰa53 ɬiɐŋ53 ɬən55]
+> 
+> 这世界多么美好
+> 
+> ze5 si3 gaai3 do1 mo1 mai5 haau2
+> 
+> [tse24 si55 kai55 to53 mo53 məi24 hau33]
+> 
+> 对每个人
+> 
+> dui3 mui5 go3 njan4
+> 
+> [tui55 mui24 ko55 ɲən21]
+> 
+> 都说还好
+> 
+> du1 syut2 waan4 haau2
+> 
+> [tu53 syt3 βan21 hau33]
+> 
+> 我的心 我的情 你不需要明了
+> 
+> ngo5 dik2 slam1  ngo5 dik2 zing4  ni5 bat2 slyu1 jiu3 ming4 liu4
+> 
+> [ŋo24 tek3 ɬəm53  ŋo24 tek3 tseŋ21  ni24 pət3 ɬy53 jiu55 meŋ21 liu21]
+> 
+> 只要我对你好
+> 
+> zi2 jiu3 ngo5 dui3 ni5 haau2
+> 
+> [tsi33 jiu55 ŋo24 tui55 ni24 hau33]
+> 
+> 这样的温柔 你要不要
+> 
+> ze5 jiang6 dik2 wan1 jau4  ni5 jiu3 bat2 jiu3
+> 
+> [tse24 jiɐŋ22 tek3 βən53 jəu21  ni24 jiu55 pət3 jiu55]
+> 
+> 其实 你爱我像谁
+> 
+> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> 
+> [ki21 sət2  ni24 ai55 ŋo24 tsiɐŋ22 sui21]
+> 
+> 扮演什么角色我都会
+> 
+> baan6 jin2 sam6 mo1 gaak2 sik2 ngo5 du1 wai6
+> 
+> [pan22 jin33 səm22 mo53 kak3 sek3 ŋo24 tu53 βəi22]
+> 
+> 快不快乐我无所谓
+> 
+> waai3 bat2 waai3 laak5 ngo5 mu4 slo2 wai6
+> 
+> [βai55 pət3 βai55 lak24 ŋo24 mu21 ɬo33 βəi22]
+> 
+> 为了你开心 我忘记了累不累
+> 
+> wai6 liu5 ni5 haai1 slam1  ngo5 mong4 gi3 liu5 lui6 bat2 lui6
+> 
+> [βəi22 liu24 ni24 hai53 ɬəm53  ŋo24 moŋ21 ki55 liu24 lui22 pət3 lui22]
+> 
+> 其实 你爱我像谁
+> 
+> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> 
+> [ki21 sət2  ni24 ai55 ŋo24 tsiɐŋ22 sui21]
+> 
+> 任何的表情 我都能给
+> 
+> njam6 ho4 dik2 biu2 zing4  ngo5 du1 nang4 kap2
+> 
+> [ɲəm22 ho21 tek3 piu33 tseŋ21  ŋo24 tu53 nəŋ21 kʰəp3]
+> 
+> Woo
+> 
+> 在你身上学会流眼泪
+> 
+> zaai6 ni5 san1 sang6 haak6 wai6 lau4 njaan5 lui6
+> 
+> [tsai22 ni24 sən53 səŋ22 hak2 βəi22 ləu21 ɲan24 lui22]
 
 
 **参考资料：**

@@ -8,13 +8,13 @@
 
 ![演示gif](https://s2.ax1x.com/2019/05/14/Eo2OyR.gif)
 
-南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping) | 安装及使用方法：[**用汉语方言拼音打字**](https://laubonghaudoi.github.io/dialects/)
+南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping) | 安装及使用方法：[**汉语方言拼音输入**](https://www.hanhngiox.net/)
 
 ## 打字技巧
 
 ### 声调输入
 
-q 阴平 v 阴上 x 阴去 qq 阳平 vv 阳上 xx 阳去
+v 阴平 x 阴上 q 阴去 vv 阳平 xx 阳上 qq 阳去
 
 ### 拼音反查
 
@@ -268,24 +268,24 @@ translator:
   prism: naamning_jyutping
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:    # 需要顯示IPA時這段要被替換掉
-    - xform/([yaeioumngptk])qq/$1⁴/
-    - xform/([yaeioumngptk])q/$1¹/
-    - xform/([yaeioumngptk])vv/$1⁵/
-    - xform/([yaeioumngptk])v/$1²/
-    - xform/([yaeioumngptk])xx/$1⁶/
-    - xform/([yaeioumngptk])x/$1³/
+    - xform/([yaeioumngptk])vv/$1⁴/
+    - xform/([yaeioumngptk])v/$1¹/
+    - xform/([yaeioumngptk])xx/$1⁵/
+    - xform/([yaeioumngptk])x/$1²/
+    - xform/([yaeioumngptk])qq/$1⁶/
+    - xform/([yaeioumngptk])q/$1³/
 #  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
 #    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
-#    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
-#    - xform/([ptk])x/$1˧/	咽jiːt̚˧
-#    - xform/([ptk])q/$1˥/	一jɐt̚
-#    - xform/qq/˨˩/	而jiː˨˩
+#    - xform/([ptk])qq/$1˨/	熱jiːt̚˨
+#    - xform/([ptk])q/$1˧/	咽jiːt̚˧
+#    - xform/([ptk])v/$1˥/	一jɐt̚
+#    - xform/vv/˨˩/
+#    - xform/v/˥˥/
+#    - xform/xx/˨˦/
+#    - xform/x/˧˥/
+#    - xform/qq/˨˨/
 #    - xform/(^|[ '])q/$1ʔ/
-#    - xform/q/˥˥/	倚jiː˥˥
-#    - xform/vv/˨˦/	以jiː˨˦
-#    - xform/v/˧˥/	倚jiː˧˥
-#    - xform/xx/˨˨/	二jiː˨˨
-#    - xform/x/˧˧/	以jiː˧˧
+#    - xform/q/˧˧/
 #    - xform/sl/ɬ/
 #    - xform/([PTK])$/$1]$2/	入jɐp̚
 #    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
@@ -372,24 +372,24 @@ translator:
   prism: naamning_jyutping
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
 #  preedit_format:    # 需要顯示IPA時這段要被替換掉
-#    - xform/([yaeioumngptk])qq/$1⁴/
-#    - xform/([yaeioumngptk])q/$1¹/
-#    - xform/([yaeioumngptk])vv/$1⁵/
-#    - xform/([yaeioumngptk])v/$1²/
-#    - xform/([yaeioumngptk])xx/$1⁶/
-#    - xform/([yaeioumngptk])x/$1³/
+#    - xform/([yaeioumngptk])vv/$1⁴/
+#    - xform/([yaeioumngptk])v/$1¹/
+#    - xform/([yaeioumngptk])xx/$1⁵/
+#    - xform/([yaeioumngptk])x/$1²/
+#    - xform/([yaeioumngptk])qq/$1⁶/
+#    - xform/([yaeioumngptk])q/$1³/
   preedit_format:    # 需要顯示IPA時preedit_format替換成這段
     - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
-    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
-    - xform/([ptk])x/$1˧/	咽jiːt̚˧
-    - xform/([ptk])q/$1˥/	一jɐt̚
-    - xform/qq/˨˩/	而jiː˨˩
+    - xform/([ptk])qq/$1˨/	熱jiːt̚˨
+    - xform/([ptk])q/$1˧/	咽jiːt̚˧
+    - xform/([ptk])v/$1˥/	一jɐt̚
+    - xform/vv/˨˩/
+    - xform/v/˥˥/
+    - xform/xx/˨˦/
+    - xform/x/˧˥/
+    - xform/qq/˨˨/
     - xform/(^|[ '])q/$1ʔ/
-    - xform/q/˥˥/	倚jiː˥˥
-    - xform/vv/˨˦/	以jiː˨˦
-    - xform/v/˧˥/	倚jiː˧˥
-    - xform/xx/˨˨/	二jiː˨˨
-    - xform/x/˧˧/	以jiː˧˧
+    - xform/q/˧˧/
     - xform/sl/ɬ/
     - xform/([PTK])$/$1]$2/	入jɐp̚
     - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
@@ -545,37 +545,3 @@ patch:
 效果
 
 ![横排打字](https://s2.ax1x.com/2019/05/14/EoNfSO.gif)
-
-### 小鹤同文主题[安卓端用]
-
-```yaml
-key_binder:
-  import_preset: default
-#  bindings:   # 使用小鶴同文主題時開啓
-#    - {accept: semicolon, send: 2, when: has_menu} # 分號次選
-#    - {accept: dollar, send: 2, when: composing}
-#    - {accept: Release+dollar, send: period, when: composing}
-#    - {accept: Release+period, send: period, when: composing}
-#    - {accept: bar, send: 2, when: composing}
-#    - {accept: Release+bar, send: comma, when: composing}
-#    - {accept: Release+comma, send: comma, when: composing}
-```
-
-改为
-
-```yaml
-key_binder:
-  import_preset: default
-  bindings:   # 使用小鶴同文主題時開啓
-    - {accept: semicolon, send: 2, when: has_menu} # 分號次選
-    - {accept: dollar, send: 2, when: composing}
-    - {accept: Release+dollar, send: period, when: composing}
-    - {accept: Release+period, send: period, when: composing}
-    - {accept: bar, send: 2, when: composing}
-    - {accept: Release+bar, send: comma, when: composing}
-    - {accept: Release+comma, send: comma, when: composing}
-```
-
-效果
-
-![小鹤同文主题](https://s2.ax1x.com/2019/05/14/EoyHK0.png)

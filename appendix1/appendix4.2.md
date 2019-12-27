@@ -14,7 +14,7 @@
 
 ### 声调输入
 
-v 阴平 x 阴上 q 阴去 vv 阳平 xx 阳上 qq 阳去
+q 阴平 v 阴上 x 阴去 qq 阳平 vv 阳上 xx 阳去
 
 ### 拼音反查
 
@@ -268,24 +268,24 @@ translator:
   prism: naamning_jyutping
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:    # 需要顯示IPA時這段要被替換掉
-    - xform/([yaeioumngptk])vv/$1⁴/
-    - xform/([yaeioumngptk])v/$1¹/
-    - xform/([yaeioumngptk])xx/$1⁵/
-    - xform/([yaeioumngptk])x/$1²/
-    - xform/([yaeioumngptk])qq/$1⁶/
-    - xform/([yaeioumngptk])q/$1³/
+    - xform/([yaeioumngptk])qq/$1⁴/
+    - xform/([yaeioumngptk])q/$1¹/
+    - xform/([yaeioumngptk])vv/$1⁵/
+    - xform/([yaeioumngptk])v/$1²/
+    - xform/([yaeioumngptk])xx/$1⁶/
+    - xform/([yaeioumngptk])x/$1³/
 #  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
 #    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
-#    - xform/([ptk])qq/$1˨/	熱jiːt̚˨
-#    - xform/([ptk])q/$1˧/	咽jiːt̚˧
-#    - xform/([ptk])v/$1˥/	一jɐt̚
-#    - xform/vv/˨˩/
-#    - xform/v/˥˥/
-#    - xform/xx/˨˦/
-#    - xform/x/˧˥/
-#    - xform/qq/˨˨/
+#    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
+#    - xform/([ptk])x/$1˧/	咽jiːt̚˧
+#    - xform/([ptk])q/$1˥/	一jɐt̚
+#    - xform/qq/˨˩/
 #    - xform/(^|[ '])q/$1ʔ/
-#    - xform/q/˧˧/
+#    - xform/q/˥˥/
+#    - xform/vv/˨˦/
+#    - xform/v/˧˥/
+#    - xform/xx/˨˨/
+#    - xform/x/˧˧/
 #    - xform/sl/ɬ/
 #    - xform/([PTK])$/$1]$2/	入jɐp̚
 #    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
@@ -372,24 +372,24 @@ translator:
   prism: naamning_jyutping
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
 #  preedit_format:    # 需要顯示IPA時這段要被替換掉
-#    - xform/([yaeioumngptk])vv/$1⁴/
-#    - xform/([yaeioumngptk])v/$1¹/
-#    - xform/([yaeioumngptk])xx/$1⁵/
-#    - xform/([yaeioumngptk])x/$1²/
-#    - xform/([yaeioumngptk])qq/$1⁶/
-#    - xform/([yaeioumngptk])q/$1³/
+#    - xform/([yaeioumngptk])qq/$1⁴/
+#    - xform/([yaeioumngptk])q/$1¹/
+#    - xform/([yaeioumngptk])vv/$1⁵/
+#    - xform/([yaeioumngptk])v/$1²/
+#    - xform/([yaeioumngptk])xx/$1⁶/
+#    - xform/([yaeioumngptk])x/$1³/
   preedit_format:    # 需要顯示IPA時preedit_format替換成這段
     - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
-    - xform/([ptk])qq/$1˨/	熱jiːt̚˨
-    - xform/([ptk])q/$1˧/	咽jiːt̚˧
-    - xform/([ptk])v/$1˥/	一jɐt̚
-    - xform/vv/˨˩/
-    - xform/v/˥˥/
-    - xform/xx/˨˦/
-    - xform/x/˧˥/
-    - xform/qq/˨˨/
+    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
+    - xform/([ptk])x/$1˧/	咽jiːt̚˧
+    - xform/([ptk])q/$1˥/	一jɐt̚
+    - xform/qq/˨˩/
     - xform/(^|[ '])q/$1ʔ/
-    - xform/q/˧˧/
+    - xform/q/˥˥/
+    - xform/vv/˨˦/
+    - xform/v/˧˥/
+    - xform/xx/˨˨/
+    - xform/x/˧˧/
     - xform/sl/ɬ/
     - xform/([PTK])$/$1]$2/	入jɐp̚
     - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ

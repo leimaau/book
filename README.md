@@ -4,6 +4,8 @@
 
 <p align="right">著者：LeiMaau(狸猫)</p>
 
+打开网页缓慢时的备用地址：[**这里**](https://leimaau.gitee.io/book/)或[**这里**](https://leimaau.gitbooks.io/nnbh/content/)
+
 <!--
 ![](http://wx3.sinaimg.cn/large/69144085ly1g26zm69o4hj21hc0u0qv5.jpg)
 -->
@@ -11,6 +13,3 @@
 ![](https://s2.ax1x.com/2020/02/15/1xUU6U.jpg)
 
 【西蒙·斯塔伦海格 (Simon Stålenhag)-《电幻国度》(The Electric State)】
-
-打开网页缓慢时的备用地址：[**这里**](https://leimaau.gitee.io/book/)
-

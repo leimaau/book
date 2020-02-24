@@ -13,7 +13,7 @@
 * 2009年陈海伦、林亦《粤语平话土话方音字汇》 | 记音质量： ★★★☆☆ 三颗星
 * 2009年张菁雅《桂南平话语音比较研究》，数据来源：[豆丁](https://www.docin.com/p-865350392.html)  |  记音质量： ★★★☆☆ 三颗星
 
-南宁话在线查询网：[**这里**](https://leimaau.gitee.io/leimaau-webdict2/)。
+狸猫的网络词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.gitee.io/leimaau-webdict2/)。
 
 ## 网络资料
 

@@ -168,10 +168,10 @@
 	<td><span style="font-size:2em;">eu</span><br/>[ɛːu/eu/Eu]<br/>猫</td>
 	<td><span style="font-size:2em;">em</span><br/>[ɛːm/em/Em]<br/>钳</td>
 	<td><span style="font-size:2em;">en</span><br/>[ɛːn/en/En]<br/>扁</td>
-	<td><span style="font-size:2em;">ing</span><br/>[eŋ]<br/>平</td>
+	<td><span style="font-size:2em;">iang</span><br/>[iɐŋ/Eŋ]<br/>长*</td>
 	<td><span style="font-size:2em;">ep</span><br/>[ɛːp̚/ep̚/Ep̚]<br/>夹</td>
 	<td><span style="font-size:2em;">et</span><br/>[ɛːt̚/et̚/Et̚]<br/>挖</td>
-	<td><span style="font-size:2em;">ik</span><br/>[ek̚/ʅk̚]<br/>逼</td>
+	<td><span style="font-size:2em;">iak</span><br/>[iɐk̚/Ek̚]<br/>白*</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">o</span><br/>[o/ɔː]<br/>多</td>
@@ -190,10 +190,10 @@
 	<td><span style="font-size:2em;">iu</span><br/>[iːu]<br/>标</td>
 	<td><span style="font-size:2em;">im</span><br/>[iːm]<br/>尖</td>
 	<td><span style="font-size:2em;">in</span><br/>[iːn]<br/>片</td>
-	<td><span style="font-size:2em;">iang</span><br/>[iɐŋ/Eŋ]<br/>长*</td>
+	<td><span style="font-size:2em;">ing</span><br/>[eŋ]<br/>平</td>
 	<td><span style="font-size:2em;">ip</span><br/>[iːp̚]<br/>贴</td>
 	<td><span style="font-size:2em;">it</span><br/>[iːt̚]<br/>必</td>
-	<td><span style="font-size:2em;">iak</span><br/>[iɐk̚/Ek̚]<br/>白*</td>
+	<td><span style="font-size:2em;">ik</span><br/>[ek̚/ʅk̚]<br/>逼</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">u</span><br/>[uː]<br/>步</td>

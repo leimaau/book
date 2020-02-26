@@ -236,6 +236,8 @@
 
 ## 输入方案说明
 
+狸猫的在线词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.gitee.io/leimaau-webdict2/)
+
 南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping)
 
 1.打字时，用拼音方案所无的三个拉丁字母q v x标注声调，单击表示平上去的阴调，双击为平上去的阳调。

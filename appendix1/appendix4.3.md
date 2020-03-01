@@ -4,7 +4,7 @@
 
 对于熟悉python的读者，这里提供一个可以标注粤拼和IPA的python脚本，灵感来源于[这里](https://github.com/laubonghaudoi/poem_auto_tag)，笔者对其作了重写以适用于本文，并使用了jieba分词和opencc工具使其注音更准确，此处感谢原作者[刘邦后代](https://github.com/laubonghaudoi)。
 
-本项目的源码下载地址：[**下载地址**](https://github.com/leimaau/pythonTools)，脚本代码在`pythopnTools/SignArticle`文件夹中。
+本项目的源码下载地址：[**下载地址**](https://github.com/leimaau/pythonTools)，脚本代码在`pythopnTools/SignArticle`文件夹中。如果需要在线标注也可以使用[**Leimaau‘s Webdict 2.0**](https://leimaau.gitee.io/leimaau-webdict2/)。
 
 input.txt放需要标注的歌词，output.txt为输出的标注结果，执行SignArticle.py中的代码即可：
 

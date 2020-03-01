@@ -1,4 +1,4 @@
-# [Nanning Dialect Booklet | 南宁话小册子](https://leimaau.github.io/book/)
+# [Nanning Dialect Booklet | 南宁白话小册子](https://leimaau.github.io/book/)
 
 [![Build Status](https://travis-ci.org/leimaau/book.svg?branch=master)](https://travis-ci.org/leimaau/book) ![npm](https://img.shields.io/npm/v/npm.svg) ![GitHub](https://img.shields.io/github/license/leimaau/book.svg)
 

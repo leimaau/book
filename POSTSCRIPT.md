@@ -11,8 +11,7 @@ QQ邮箱：leimaau@qq.com
 
 ** 致谢 **
 
-[中州韵輸入法引擎](https://rime.im/) | [潮语输入法](https://kahaani.github.io/gatian/index.html) | [sgalal](https://github.com/sgalal) | [劉邦後代](https://github.com/laubonghaudoi)
-
+[潮语拼音教程](https://kahaani.github.io/gatian/index.html)
 
 ![](http://wx4.sinaimg.cn/mw690/007k96OPly4fy9jedl7l4j30u00u0tf9.jpg)
 

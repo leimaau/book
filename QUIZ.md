@@ -2,7 +2,7 @@
 
 ---
 
-<quiz name="Dialect Quiz">
+<quiz name="Nanning Dialect Quiz">
     <question>
         <p>1.选出下列字读音全部相同的一项（10分）</p>
         <answer>承、澄（澄清）、成（几成）</answer>

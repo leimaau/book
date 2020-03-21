@@ -1,6 +1,6 @@
 # 后记
 
-本册子作者简介：Leimaau（狸猫），91年南宁老城区人，爱好音乐、看剧、Algebraic geometry，目标冲刺GTM52。
+本册子作者简介：Leimaau（狸猫），91年南宁老城区人，爱好音乐、看剧、Algebraic geometry。
 
 科普文章，内容凌乱，稍有不足，读者体谅。
 

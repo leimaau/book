@@ -5,9 +5,14 @@
 
 在民国二十二年（即1933年）的《广西各县概况》中已经描述了邕宁县（现在的南宁市）及周边的方言格局，「城市居民，多操白话，官话，各区邻村，则平话，僮语为最通行」。
 
+<!--
 ![](https://s2.ax1x.com/2019/10/30/K53Pt1.png)
-
 ![](https://s2.ax1x.com/2019/10/30/K53CkR.png)
+-->
+
+![](https://leimaau.gitee.io/data-store/historyData/mangwok.png)
+
+![](https://leimaau.gitee.io/data-store/historyData/mangwok2.png)
 
 ## 论文资料
 
@@ -17,25 +22,28 @@
 
 <!--
 ![](http://img9.jiwu.com/jiwu_news_pics/20151029/1445856124100_000.jpg)
+![](https://s2.ax1x.com/2019/10/30/K53LEd.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K53LEd.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/junggong.jpg)
 
 【南宁邕江】
 
 <!--
 ![](http://img9.jiwu.com/jiwu_news_pics/20151029/1445857204913_000.jpg)
+![](https://s2.ax1x.com/2019/10/30/K53x8P.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K53x8P.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/suitaapgoek.jpg)
 
 【水塔脚】
 
 <!--
 ![](http://img9.jiwu.com/jiwu_news_pics/20151029/1445856515821_000.jpg)
+![](https://s2.ax1x.com/2019/10/30/K53X4I.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K53X4I.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/junggongbak.jpg)
 
 【邕江北岸】
 
@@ -59,25 +67,28 @@
 
 <!--
 ![](http://img.mp.itc.cn/upload/20170407/c2f11eabb5134db6ae690e54d9202045_th.jpeg)
+![](https://s2.ax1x.com/2019/10/30/K58Sv8.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K58Sv8.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/hingningluj_30.jpg)
 
 【30年代兴宁路】
 
 <!--
 ![](http://img9.jiwu.com/jiwu_news_pics/20151029/1445856606639_000.jpg)
+![](https://s2.ax1x.com/2019/10/30/K53vCt.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K53vCt.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/daklinglu.jpg)
 
 【1932年修建的德邻路落成典礼（今解放路）】
 
 <!--
 ![](http://img9.jiwu.com/jiwu_news_pics/20151029/1445856856219_000.jpg)
+![](https://s2.ax1x.com/2019/10/30/K53zgf.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K53zgf.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/mansanglu.jpg)
 
 【30年代当阳街民生路交通亭】
 
@@ -101,25 +112,28 @@
 
 <!--
 ![](http://img.mp.itc.cn/upload/20170407/c59761292e2a405c88afa95910335cb8_th.jpeg)
+![](https://s2.ax1x.com/2019/10/30/K5GWSx.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K5GWSx.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/zungwaa.jpg)
 
 【上世纪30年代中华大戏院】
 
 <!--
 ![](http://img.mp.itc.cn/upload/20170407/0f614c4a61cf421dbd069ceee2ea9ff5_th.jpeg)
+![](https://s2.ax1x.com/2019/10/30/K53bHH.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K53bHH.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/mongfolau.jpg)
 
 【50年代旧望火楼】
 
 <!--
 ![](http://img9.jiwu.com/jiwu_news_pics/20151029/1445865620045_000.jpg)
+![](https://s2.ax1x.com/2019/10/30/K589KS.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K589KS.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/gwokhing.jpg)
 
 【1964年兴宁路上庆国庆】
 
@@ -149,17 +163,19 @@
 
 <!--
 ![](http://5b0988e595225.cdn.sohucs.com/images/20181127/78766c58daea4278b1edf72243fa28c8.jpeg)
+![](https://s2.ax1x.com/2019/10/30/K537uD.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K537uD.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/buhanggaai.jpg)
 
 【上世纪90年代改造前的步行街】
 
 <!--
 ![](http://5b0988e595225.cdn.sohucs.com/images/20181127/26ca8ed89c36440dbb0abd9377350859.jpeg)
+![](https://s2.ax1x.com/2019/10/30/K53ojO.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K53ojO.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/gaaifonglu.jpg)
 
 【1997年的解放路】
 
@@ -171,29 +187,32 @@
 
 <!--
 ![](http://www.51555.net/home/uploads/allimg/100329/224K1I09-0.jpg)
+![](https://s2.ax1x.com/2019/10/30/K53OUA.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K53OUA.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/slanwui.jpg)
 
 【新会书院】
 
 <!--
 ![](http://www.gxdsw.cn/manage/UploadFiles/201592516146262.jpg)
+![](https://s2.ax1x.com/2019/10/30/K58CDg.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K58CDg.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/jyutdung.jpg)
 
 【粤东会馆】
 
 <!--
 ![](https://n.sinaimg.cn/translate/616/w850h566/20181211/yX6Y-hprknvu2345457.jpg)
-
 ![](https://n.sinaimg.cn/translate/616/w850h566/20181211/862i-hprknvu2345527.jpg)
+![](https://s2.ax1x.com/2019/10/30/K58FEj.jpg)
+![](https://s2.ax1x.com/2019/10/30/K53HDe.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/30/K58FEj.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/hingningluj.jpg)
 
-![](https://s2.ax1x.com/2019/10/30/K53HDe.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/hingningluj2.jpg)
 
 【现在的兴宁路】
 

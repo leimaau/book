@@ -6,9 +6,10 @@
 
 <!--
 ![](https://wx3.sinaimg.cn/large/69144085ly1g8d4wejo0sj20m50vs7bk.jpg)
+![](https://s2.ax1x.com/2019/10/29/Kgzd5F.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/29/Kgzd5F.jpg)
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_gbh.jpg)
 
 书中所描述的广州话音系与现今的广州话有些差异，根据相关论文研究，用现代的IPA将书中描述的广州音转写如下：
 
@@ -41,21 +42,32 @@ y yn yt
 
 <!--
 ![](https://wx1.sinaimg.cn/large/69144085ly1g8d4w92pyrj20j30swtb2.jpg)
+![](https://s2.ax1x.com/2019/10/29/KgzYD0.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/29/KgzYD0.jpg)
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_jj.jpg)
 
 1946年岑麟祥在其《广州音系概述》中也描述了广州话的西关音塞擦音、擦音多读[ts tsʰ s]。
 
+<!--
 ![](https://s2.ax1x.com/2019/10/30/K5QQhV.png)
-
 ![](https://s2.ax1x.com/2019/10/30/K5QMt0.png)
+-->
+
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_gz.png)
+
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_gz2.png)
 
 2004年施其生在其《一百年前广州话的阴平调》论文中谈到，其考查了1912年《How to speak Cantonese 怎样学广州话》54页的一段对话，西关音的「子、词、斯」正是读[tsɿ tsʰɿ sɿ]。
 
+<!--
 ![](https://s2.ax1x.com/2019/10/31/KoqvWT.png)
-
 ![](https://s2.ax1x.com/2019/10/31/KoqzSU.png)
+-->
+
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_si.png)
+
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_si2.png)
 
 **参考资料：**
 
@@ -65,21 +77,22 @@ y yn yt
 
 <!--
 ![](https://wx4.sinaimg.cn/large/69144085ly1g8d6ghwqewj20xu0l016k.jpg)
-
 ![](https://wx1.sinaimg.cn/large/69144085ly1g8d6gf0b0dj20vt08ldk7.jpg)
-
 ![](https://wx4.sinaimg.cn/large/69144085ly1g8d6gc2it4j20w608z438.jpg)
-
 ![](https://wx3.sinaimg.cn/large/69144085ly1g8d6g91mc8j20w50f8ti6.jpg)
+![](https://s2.ax1x.com/2019/10/29/Kgz0C4.jpg)
+![](https://s2.ax1x.com/2019/10/29/KgzUET.jpg)
+![](https://s2.ax1x.com/2019/10/29/KgztbV.jpg)
+![](https://s2.ax1x.com/2019/10/29/KgzaUU.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/29/Kgz0C4.jpg)
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_makwan.jpg)
 
-![](https://s2.ax1x.com/2019/10/29/KgzUET.jpg)
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_makwan2.jpg)
 
-![](https://s2.ax1x.com/2019/10/29/KgztbV.jpg)
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_makwan3.jpg)
 
-![](https://s2.ax1x.com/2019/10/29/KgzaUU.jpg)
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_makwan4.jpg)
 
 **参考资料：**
 
@@ -94,9 +107,10 @@ y yn yt
 
 <!--
 ![](https://wx3.sinaimg.cn/large/69144085ly1g8eaqutxbfj20pa12fn9z.jpg)
+![](https://s2.ax1x.com/2019/10/29/KgzyK1.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/29/KgzyK1.jpg)
+![](https://leimaau.gitee.io/data-store/historyData/saigwaan_jyutkek.jpg)
 
 **更多参考资料：**
 

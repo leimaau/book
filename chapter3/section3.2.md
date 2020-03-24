@@ -58,9 +58,10 @@
 
 <!--
 ![《江湖尺牘分韻撮要合集》第一卷第五十七䈎](http://ytenx.org/static/img/KrungGhoTchiekDukPyonYonhTsuatQjeuhGhopDzip/volume1/57.jpg)
+![《江湖尺牘分韻撮要合集》第一卷第五十七䈎](https://s2.ax1x.com/2019/10/31/KIdQJg.jpg)
 -->
 
-![《江湖尺牘分韻撮要合集》第一卷第五十七䈎](https://s2.ax1x.com/2019/10/31/KIdQJg.jpg)
+![](https://leimaau.gitee.io/data-store/historyData/fanwan.jpg)
 
 ## 清代粤语至现代粤语的变化
 
@@ -84,27 +85,51 @@
 
 当时用的还是「拧ning1」，而不是「拎ling1」。
 
+<!--
 ![](https://s2.ax1x.com/2019/11/09/MeE2Hf.png)
+-->
+
+![](https://leimaau.gitee.io/data-store/historyData/jing_ning.png)
 
 助词用的是「唨」而不是「咗」，「阻」为庄组字，「左」为精组字。
 
+<!--
 ![](https://s2.ax1x.com/2019/11/09/MeEcut.png)
+-->
+
+![](https://leimaau.gitee.io/data-store/historyData/jing_zo.png)
 
 「粒」还是读nap1[nɐp̚˥]。
 
+<!--
 ![](https://s2.ax1x.com/2019/11/09/MeEh4g.png)
+-->
+
+![](https://leimaau.gitee.io/data-store/historyData/jing_nap.png)
 
 「你抽不抽烟」说的是「你食烟唔食」，而不是「你食唔食烟」。
 
+<!--
 ![](https://s2.ax1x.com/2019/11/09/MeEWE8.png)
+-->
+
+![](https://leimaau.gitee.io/data-store/historyData/jing_sik.png)
 
 「你小时候有吸过烟吗」说的是「你细个个时有食烟仔冇呢」，而不是「你细个嗰时有冇食过烟仔」。
 
+<!--
 ![](https://s2.ax1x.com/2019/11/09/MeEfUS.png)
+-->
+
+![](https://leimaau.gitee.io/data-store/historyData/jing_jin.png)
 
 「有没有火车去呢」说的是「有火车去冇呢」，而不是「有冇火车去呢」。
 
+<!--
 ![](https://s2.ax1x.com/2019/11/09/MeEgDP.png)
+-->
+
+![](https://leimaau.gitee.io/data-store/historyData/jing_mune.png)
 
 **更多参考资料：**
 

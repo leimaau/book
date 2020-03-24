@@ -10,8 +10,9 @@
 
 <!--
 ![](https://wx3.sinaimg.cn/large/69144085ly1g8d4vz8vygj20go0m9mzp.jpg)
+![](https://s2.ax1x.com/2019/10/29/KgxO39.jpg)
 -->
 
-![](https://s2.ax1x.com/2019/10/29/KgxO39.jpg)
+![](https://leimaau.gitee.io/data-store/nanningPic/wuizin.jpg)
 
 【会展中心夜景】

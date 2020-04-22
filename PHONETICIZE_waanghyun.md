@@ -236,6 +236,7 @@
 
 2.旧式粤拼将上阴入、下阴入和阳入分别用数字7、8、9表示，例如：忽fat7、发faat8、佛fat9，在不引起误解的情况下可以沿用旧的标调方式。
 
+狸猫的在线词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 
 ## 注音举例
 

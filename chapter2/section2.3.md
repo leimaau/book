@@ -10,7 +10,7 @@
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fyw7lbnygdj20o215b7aa.jpg)
 
-关于各个字所对应的页码数据可以在[**此处查询**](https://leimaau.gitee.io/leimaau-webdict2/)，根据笔者的校对，需要注意的是以下这些字：
+关于各个字所对应的页码数据可以在[**狸猫的在线词典**](https://leimaau.github.io/leimaau-webdict2/)中查询，根据笔者的校对，需要注意的是以下这些字：
 
 %accordion%列表%accordion%
 

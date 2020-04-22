@@ -10,7 +10,7 @@ QQ邮箱：leimaau@qq.com
 
 zhihu：[狸猫](https://www.zhihu.com/people/si-tuo-bu-ke-si)
 
-狸猫的在线词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.gitee.io/leimaau-webdict2/)
+狸猫的在线词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 
 ——LeiMaau(狸猫) 2018.07.27
 

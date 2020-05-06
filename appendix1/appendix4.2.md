@@ -281,11 +281,11 @@ translator:
 #    - xform/([ptk])q/$1˥/	一jɐt̚
 #    - xform/qq/˨˩/
 #    - xform/(^|[ '])q/$1ʔ/
-#    - xform/q/˥˥/
+#    - xform/q/˥/
 #    - xform/vv/˨˦/
 #    - xform/v/˧˥/
-#    - xform/xx/˨˨/
-#    - xform/x/˧˧/
+#    - xform/xx/˨/
+#    - xform/x/˧/
 #    - xform/sl/ɬ/
 #    - xform/([PTK])$/$1]$2/	入jɐp̚
 #    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
@@ -385,11 +385,11 @@ translator:
     - xform/([ptk])q/$1˥/	一jɐt̚
     - xform/qq/˨˩/
     - xform/(^|[ '])q/$1ʔ/
-    - xform/q/˥˥/
+    - xform/q/˥/
     - xform/vv/˨˦/
     - xform/v/˧˥/
-    - xform/xx/˨˨/
-    - xform/x/˧˧/
+    - xform/xx/˨/
+    - xform/x/˧/
     - xform/sl/ɬ/
     - xform/([PTK])$/$1]$2/	入jɐp̚
     - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ

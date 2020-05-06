@@ -13,8 +13,10 @@
 * 2009年陈海伦、林亦《粤语平话土话方音字汇》 | 记音质量： ★★★☆☆ 三颗星
 * 2009年张菁雅《桂南平话语音比较研究》，数据来源：[豆丁](https://www.docin.com/p-865350392.html)  |  记音质量： ★★★☆☆ 三颗星
 * 2019年郭必之《语言接触视角下的南宁粤语语法》.中华书局出版.2019-10.
+* 2019年濱田武志《中国方言系統論: 漢語系諸語の分岐と粤語の成立》.東京大学出版会.2019-4.
+* de Sousa, Hilário. forthcoming. A grammar of Nánníng Pínghuà. Berlin: De Gruyter Mouton.
 
-狸猫的在线词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.gitee.io/leimaau-webdict2/)
+狸猫的在线词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 
 ## 网络资料
 
@@ -48,12 +50,14 @@
 * 2003年黎曙光《广西粤方言比较音韵研究》
 * 2004年詹伯慧《广州话正音字典》
 * 2004年广东省地方史志编纂委员会《广东省志(方言志)》
+* 2004年彭小川《粤语论稿》
 * 2005年陈小雄《地道广州话用语》
 * 2006年班弨《论汉语中的台语底层》
 * 2009年郑作广《广西汉语珍惜方言语音研究》
 * 2010年欧阳觉亚、周无忌、饶秉才《广州话俗语词典》
 * 2010年徐杰舜、何月华《城中小村的“前世今生”》
-* 徐杰舜平话人书系《平话人印象》、《平话人图像》、《平话人变迁》和《平话人与客家人比较》
+* 2010年《第14界粤方言国际学术研讨会论文集》
+* 2008年徐杰舜平话人书系《平话人印象》、《平话人图像》、《平话人变迁》和《平话人与客家人比较》
 * 2011年陈卫强《广州地区粤方言语音研究》
 * 2011年刘玉萍《实用粤语播音主持语言基础教程》
 * 2015年洪琪、洪珏《邕州老戏——邕剧》
@@ -66,6 +70,7 @@
 %accordion%列表%accordion%
 
 * 王力.两粤音说.《清华大学学报(自然科学版)》.1928-06-15.
+* 梁振仕.桂南粤语说略.《中国语文》.1984年第3期.
 * 白宛如.广州话本字考.《方言》.1980-09-30.
 * 白宛如.南宁白话的[ɬai]与广州话的比较.《方言》.1985-07-02.
 * 杨焕典; 梁振仕; 李谱英; 刘村汉.广西的汉语方言（稿）.《方言》.1985-10-01.
@@ -146,6 +151,7 @@
 * 黄薇.南宁市汉语方言和壮语接触研究.吉林大学硕士论文.2018-05-01.
 * 董文会.南宁白话与南宁亭子平话的词汇计量比较.《桂林师范高等专科学校学报》.2015-10-15.
 * 黄阳.南宁粤语的助词“晒”.《方言》.2016-11-24.
+* 郭必之(Bit-Chee Kwok).從虞支兩韻「特字」看粵方言跟古江東方言的聯繫.香港中文大學.2004. 
 * 覃远雄.南宁白话的“捱”字句.《桂林师范高等专科学校学报》.2011-07-15.
 * 覃远雄; 黄昭艳.南宁心圩平话语音特点讨论.《钦州学院学报》.2018-06-20.
 * 覃远雄.南宁心圩平话语音系统.《钦州学院学报》.2018-02-20.
@@ -181,6 +187,7 @@
 * 黎曙光.南宁白话、平话声母系统比较研究.《广西民族学院学报(哲学社会科学版)》.2005-12-30.
 * 黎曙光.南宁市白话、平话韵母系统比较研究.《广西民族学院学报(哲学社会科学版)》.2006-08-15.
 * 李怡.南宁白话古语词研究.北方民族大学硕士论文.2017-05-11.
+* 侯兴泉.粤语咸山开一主元音的今读类型及其成因.《方言》.2017-05-24.
 * 封家骞.南宁白话中的古词语初探.《广西大学学报(哲学社会科学版)》.1982-05-01.
 * 封家骞.南宁平话、白话词汇成分之比较.《广西广播电视大学学报》.2001-12-29.
 * 利明慧.南宁文化的“粤化”及其移民背景.《黑龙江史志》.2008-07-08.
@@ -225,6 +232,21 @@
 
 %/accordion%
 
+
+### 外文论文
+
+%accordion%列表%accordion%
+
+* 辻伸久.華南・西江水系流域の中国語方言 : 広西粤語イニシャルと粤語祖語.1976.
+* 辻伸久.《广西粤语比较音韵论》.1980 (Tsuji, Nobuhisa. Comparative phonology of Gunagxi Yue dialects. 1980.)
+* 辻伸久.南寧平話字音記略 (檜谷昭彦 佐藤一郎 両教授 退任記念論文集).1993.
+* de Sousa, Hilário. 2017. Pínghuà 平話 Dialects. In Sybesma, Rint & Behr, Wolfgang & Gu, Yueguo & Handel, Zev & Huang, C.-T. James & Myers, James (eds.), Encyclopedia of Chinese language and linguistics, vol. 3, 425–431. Leiden: Brill.
+* de Sousa, Hilário. 2015a. Language contact in Nanning: Nanning Pinghua and Nanning Cantonese. In Chappell, Hilary (ed.), Diversity in Sinitic languages, 157–189. Oxford: Oxford University Press.
+* de Sousa, Hilário & Langella, François & Enfield, N.J. 2015. Temperature terms in Lao, Southern Zhuang, Southern Pinghua and Cantonese. In Koptjevskaja-Tamm, Maria (ed.), Linguistics of temperature (Typological studies in language 107), 594–638. Amsterdam: John Benjamins.
+* de Sousa, Hilário (蘇沙). 2013a. Nánníng Shàngyáo Pínghuà de yīxiē míngcí duǎnyǔ xiànxiàng duìbǐ yánjiū (南宁上尧平话的一些名词短语现象对比研究) [Comparative study on some noun phrase phenomena in Nanning Shangyao Pinghua]. In Liú, Dānqīng (刘丹青) & Zhōu, Léi (周磊) & Xuē, Cáidé (薛才德) (eds.), Hànyǔ fāngyán yǔfǎ yánjiū de xīnshìjiǎo — Dìwǔjiè Hànyǔ Fāngyán Yǔfǎ Guǒjì Xuéshù Yántǎohuì lùnwénjí (汉语方言语法研究的新视角 — 第五届汉语方言语法国际学术研讨会论文集) [New viewpoints on the studies of the grammar of Chinese dialects — Proceedings of the Fifth International Academic Conference on the Grammar of Chinese Dialects], 141–160. Shanghai: Shanghai Education Publishing House.
+* Bit-Chee, Kwok & Chin, Andy & Tsou, Benjamin. (2011). Poly-functionality of the preverbal "acquire" in the Nanning Yue dialect of Chinese: An areal perspective. Bulletin of the School of Oriental and African Studies. 74. 119 - 137. 10.1017/S0041977X10000431. 
+
+%/accordion%
 
 <!--
 ## 有声资料

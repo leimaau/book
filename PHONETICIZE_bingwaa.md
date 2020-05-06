@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-- 零声母不用字母作标记，如「亚」只拼作aa3[aː˥˥]。
+- 零声母不用字母作标记，如「亚」只拼作aa3[aː˥]。
 - nj[ȵ]为龈腭音，sl[ɬ]为清齿龈边擦音。
 - 包括零声母在内声母共有22个。
 
@@ -107,14 +107,14 @@
   <tr>
 	<td><span style="font-size:2em;">阴</span></td>
 	<td><span style="font-size:2em;">si1</span> [ʃiː˥˧/siː˥˧] 诗</td>
-	<td><span style="font-size:2em;">si2</span> [ɬiː˧˧] 死</td>
-	<td><span style="font-size:2em;">si3</span> [ʃiː˥˥/siː˥˥] 世</td>
+	<td><span style="font-size:2em;">si2</span> [ɬiː˧] 死</td>
+	<td><span style="font-size:2em;">si3</span> [ʃiː˥/siː˥] 世</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">阳</span></td>
 	<td><span style="font-size:2em;">si4</span> [ʃiː˨˩/siː˨˩] 时</td>
 	<td><span style="font-size:2em;">si5</span> [ʃiː˨˦/siː˨˦] 市</td>
-	<td><span style="font-size:2em;">si6</span> [ʃiː˨˨/siː˨˨] 是</td>
+	<td><span style="font-size:2em;">si6</span> [ʃiː˨/siː˨] 是</td>
   </tr>
 </table>
 

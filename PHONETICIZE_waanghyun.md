@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-- 零声母不用字母作标记，如「亚」只拼作aa3[aː˧˧]。
+- 零声母不用字母作标记，如「亚」只拼作aa3[aː˧]。
 - nj[ȵ]为龈腭音，sl[ɬ]为清齿龈边擦音。
 - 横县白话古喻母字的声母今大多读h[h]，如：雨hyu5[hyː˨˦]。
 - 包括零声母在内声母共有22个。
@@ -104,15 +104,15 @@
   </tr>
   <tr>
 	<td><span style="font-size:2em;">阴</span></td>
-	<td><span style="font-size:2em;">fan1</span> [fɐn˥˥] 分</td>
+	<td><span style="font-size:2em;">fan1</span> [fɐn˥] 分</td>
 	<td><span style="font-size:2em;">fan2</span> [fɐn˧˥] 粉</td>
-	<td><span style="font-size:2em;">fan3</span> [fɐn˧˧] 训</td>
+	<td><span style="font-size:2em;">fan3</span> [fɐn˧] 训</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">阳</span></td>
 	<td><span style="font-size:2em;">fan4</span> [fɐn˨˩] 焚</td>
 	<td><span style="font-size:2em;">fan5</span> [fɐn˨˦] 愤</td>
-	<td><span style="font-size:2em;">fan6</span> [fɐn˨˨] 份</td>
+	<td><span style="font-size:2em;">fan6</span> [fɐn˨] 份</td>
   </tr>
 </table>
 
@@ -246,103 +246,103 @@
 > 
 > ** cing4 fi1 dak1 ji5 - jyu4 cing4 hing3 **
 > 
-> ** [t͡ʃʰɪŋ˨˩ fiː˥˥ tɐk̚˥ jiː˨˦ - jyː˨˩ t͡ʃʰɪŋ˨˩ hɪŋ˧˧] **
+> ** [t͡ʃʰɪŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦ - jyː˨˩ t͡ʃʰɪŋ˨˩ hɪŋ˧] **
 > 
 > 难以忘记初次见你
 > 
 > naan4 ji5 mong4 gi3 co1 cy3 gin3 ni5
 > 
-> [naːn˨˩ jiː˨˦ mɔːŋ˨˩ kiː˧˧ t͡ʃʰɔː˥˥ t͡sʰɿ˧˧ kiːn˧˧ niː˨˦]
+> [naːn˨˩ jiː˨˦ mɔːŋ˨˩ kiː˧ t͡ʃʰɔː˥ t͡sʰɿ˧ kiːn˧ niː˨˦]
 > 
 > 一双迷人的眼睛
 > 
 > jat1 soeng1 mai4 njan4 dik1 ngen5 zing1
 > 
-> [jɐt̚˥ ʃœːŋ˥˥ mɐi˨˩ ȵɐn˨˩ tɪk̚˥ ŋɛːn˨˦ t͡ʃɪŋ˥˥]
+> [jɐt̚˥ ʃœːŋ˥ mɐi˨˩ ȵɐn˨˩ tɪk̚˥ ŋɛːn˨˦ t͡ʃɪŋ˥]
 > 
 > 在我脑海里你的身影
 > 
 > zoi6 ngo5 nou5 hoi2 li5 ni5 dik1 san1 jing2
 > 
-> [t͡ʃɔːi˨˨ ŋɔː˨˦ tɪk̚˥ nou˨˦ hɔːi˧˥ liː˨˦ niː˨˦ tɪk̚˥ ʃɐn˥˥ jɪŋ˧˥]
+> [t͡ʃɔːi˨ ŋɔː˨˦ tɪk̚˥ nou˨˦ hɔːi˧˥ liː˨˦ niː˨˦ tɪk̚˥ ʃɐn˥ jɪŋ˧˥]
 > 
 > 挥散不去
 > 
 > wai1 slaan3 bat1 hyu3
 > 
-> [wɐi˥˥ ɬaːn˧˧ pɐt̚˥ hyː˧˧]
+> [wɐi˥ ɬaːn˧ pɐt̚˥ hyː˧]
 > 
 > 握你的双手感觉你的温柔
 > 
 > ak1 ni5 dik1 soeng1 sau2 gom2 gok3 ni5 dik1 wan1 jau4
 > 
-> [ɐk̚˥ niː˨˦ tɪk̚˥ ʃœːŋ˥˥ ʃɐu˧˥ kɔːm˧˥ kɔːk̚˧ niː˨˦ tɪk̚˥ wɐn˥˥ jɐu˨˩]
+> [ɐk̚˥ niː˨˦ tɪk̚˥ ʃœːŋ˥ ʃɐu˧˥ kɔːm˧˥ kɔːk̚˧ niː˨˦ tɪk̚˥ wɐn˥ jɐu˨˩]
 > 
 > 真的有点透不过气
 > 
 > zan1 dik1 jau5 dim2 tau3 bat1 go3 hi3
 > 
-> [t͡ʃɐn˥˥ tɪk̚˥ jɐu˨˦ tiːm˧˥ tʰɐu˧˧ pɐt̚˥ kɔː˧˧ hiː˧˧]
+> [t͡ʃɐn˥ tɪk̚˥ jɐu˨˦ tiːm˧˥ tʰɐu˧ pɐt̚˥ kɔː˧ hiː˧]
 > 
 > 你的天真 我想珍惜
 > 
 > ni5 dik1 tin1 zan1 ngo5 sloeng2 zan1 slik1
 > 
-> [niː˨˦ tɪk̚˥ tʰiːn˥˥ t͡ʃɐn˥˥ ŋɔː˨˦ ɬœːŋ˧˥ t͡ʃɐn˥˥ ɬɪk̚˥]
+> [niː˨˦ tɪk̚˥ tʰiːn˥ t͡ʃɐn˥ ŋɔː˨˦ ɬœːŋ˧˥ t͡ʃɐn˥ ɬɪk̚˥]
 > 
 > 看到你受委屈我会伤心 哦
 > 
 > hon3 dou3 ni5 sau6 wai2 wat1 ngo5 hui5 soeng1 slam1 o4
 > 
-> [hɔːn˧˧ touː˧˧ niː˨˦ ʃɐu˨˨ wɐi˧˥ wɐt̚˥ ŋɔː˨˦ huːi˨˦ ʃœːŋ˥˥ ɬɐm˥˥ ɔː˨˩]
+> [hɔːn˧ touː˧ niː˨˦ ʃɐu˨ wɐi˧˥ wɐt̚˥ ŋɔː˨˦ huːi˨˦ ʃœːŋ˥ ɬɐm˥ ɔː˨˩]
 > 
 > 只怕我自己会爱上你
 > 
 > zi2 paa3 ngo5 zy6 gi2 hui5 oi3 soeng5 ni5
 > 
-> [t͡ʃiː˧˥ pʰaː˧˧ ŋɔː˨˦ t͡sɿ˨˨ kiː˧˥ huːi˨˦ ɔːi˧˧ ʃœːŋ˨˦ niː˨˦]
+> [t͡ʃiː˧˥ pʰaː˧ ŋɔː˨˦ t͡sɿ˨ kiː˧˥ huːi˨˦ ɔːi˧ ʃœːŋ˨˦ niː˨˦]
 > 
 > 不敢让自己靠得太近
 > 
 > bat1 gom2 joeng6 zy6 gi2 kou3 dak1 taai3 kan5
 > 
-> [pɐt̚˥ kɔːm˧˥ jœːŋ˨˨ t͡sɿ˨˨ kiː˧˥ kʰou˧˧ tɐk̚˥ tʰaːi˧˧ kʰɐn˨˦]
+> [pɐt̚˥ kɔːm˧˥ jœːŋ˨ t͡sɿ˨ kiː˧˥ kʰou˧ tɐk̚˥ tʰaːi˧ kʰɐn˨˦]
 > 
 > 怕我没什么能够给你
 > 
 > paa3 ngo5 mut6 sam6 mo1 nang4 gau3 kap1 ni5
 > 
-> [pʰaː˧˧ ŋɔː˨˦ muːt̚˨ ʃɐm˨˨ mɔː˥˥ nɐŋ˨˩ kɐu˧˧ kʰɐp̚˥ niː˨˦]
+> [pʰaː˧ ŋɔː˨˦ muːt̚˨ ʃɐm˨ mɔː˥ nɐŋ˨˩ kɐu˧ kʰɐp̚˥ niː˨˦]
 > 
 > 爱你也需要很大的勇气
 > 
 > oi3 ni5 jaa5 slyu1 jiu3 han2 daai6 dik1 jung5 hi3
 > 
-> [ɔːi˧˧ niː˨˦ jaː˨˦ ɬyː˥˥ jiːu˧˧ hɐn˧˥ taːi˨˨ tɪk̚˥ jʊŋ˨˦ hiː˧˧]
+> [ɔːi˧ niː˨˦ jaː˨˦ ɬyː˥ jiːu˧ hɐn˧˥ taːi˨ tɪk̚˥ jʊŋ˨˦ hiː˧]
 > 
 > 只怕我自己会爱上你
 > 
 > zi2 paa3 ngo5 zy6 gi2 hui5 oi3 soeng5 ni5
 > 
-> [t͡ʃiː˧˥ pʰaː˧˧ ŋɔː˨˦ t͡sɿ˨˨ kiː˧˥ huːi˨˦ ɔːi˧˧ ʃœːŋ˨˦ niː˨˦]
+> [t͡ʃiː˧˥ pʰaː˧ ŋɔː˨˦ t͡sɿ˨ kiː˧˥ huːi˨˦ ɔːi˧ ʃœːŋ˨˦ niː˨˦]
 > 
 > 也许有天会情不自禁
 > 
 > jaa5 hyu2 jau5 tin1 hui5 cing4 bat1 zy6 gam3
 > 
-> [jaː˨˦ hyː˧˥ jɐu˨˦ tʰiːn˥˥ huːi˨˦ t͡ʃʰɪŋ˨˩ pɐt̚˥ t͡sɿ˨˨ kɐm˧˧]
+> [jaː˨˦ hyː˧˥ jɐu˨˦ tʰiːn˥ huːi˨˦ t͡ʃʰɪŋ˨˩ pɐt̚˥ t͡sɿ˨ kɐm˧]
 > 
 > 想念只让自己苦了自己
 > 
 > sloeng2 nim6 zi2 joeng6 zy6 gi2 fu2 liu5 zy6 gi2
 > 
-> [ɬœːŋ˧˥ niːm˨˨ t͡ʃiː˧˥ jœːŋ˨˨ t͡sɿ˨˨ kiː˧˥ fuː˧˥ liːu˨˦ t͡sɿ˨˨ kiː˧˥]
+> [ɬœːŋ˧˥ niːm˨ t͡ʃiː˧˥ jœːŋ˨ t͡sɿ˨ kiː˧˥ fuː˧˥ liːu˨˦ t͡sɿ˨ kiː˧˥]
 > 
 > 爱上你是我情非得已
 > 
 > oi3 soeng6 ni5 si6 ngo5 cing4 fi1 dak1 ji5
 > 
-> [ɔːi˧˧ ʃœːŋ˨˨ niː˨˦ ʃiː˨˨ ŋɔː˨˦ t͡ʃʰɪŋ˨˩ fiː˥˥ tɐk̚˥ jiː˨˦]
+> [ɔːi˧ ʃœːŋ˨ niː˨˦ ʃiː˨ ŋɔː˨˦ t͡ʃʰɪŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦]
 > 
 > X 2（重复两遍）
 > 
@@ -350,79 +350,79 @@
 > 
 > sam6 mo1 jyun4 jan1
 > 
-> [ʃɐm˨˨ mɔː˥˥ jyːn˨˩ jɐn˥˥]
+> [ʃɐm˨ mɔː˥ jyːn˨˩ jɐn˥]
 > 
 > 我竟然又会遇见你
 > 
 > ngo5 ging3 jin4 jau6 hui5 njyu6 gin3 ni5
 > 
-> [ŋɔː˨˦ kɪŋ˧˧ jiːn˨˩ jɐu˨˨ huːi˨˦ ȵyː˨˨ kiːn˧˧ niː˨˦]
+> [ŋɔː˨˦ kɪŋ˧ jiːn˨˩ jɐu˨ huːi˨˦ ȵyː˨ kiːn˧ niː˨˦]
 > 
 > 我真的真的不愿意
 > 
 > ngo5 zan1 dik1 zan1 dik1 bat1 jyun6 ji3
 > 
-> [ŋɔː˨˦ t͡ʃɐn˥˥ tɪk̚˥ t͡ʃɐn˥˥ tɪk̚˥ pɐt̚˥ jyːn˨˨ jiː˧˧]
+> [ŋɔː˨˦ t͡ʃɐn˥ tɪk̚˥ t͡ʃɐn˥ tɪk̚˥ pɐt̚˥ jyːn˨ jiː˧]
 > 
 > 就这样陷入爱的陷阱 哦
 > 
 > zau6 ze5 joeng6 hom4 jap6 oi3 dik1 hom4 zeng2 o4
 > 
-> [t͡ʃɐu˨˨ t͡ʃɛː˨˦ jœːŋ˨˨ hɔːm˨˩ jɐp̚˨ ɔːi˧˧ tɪk̚˥ hɔːm˨˩ t͡ʃɛːŋ˧˥ ɔː˨˩]
+> [t͡ʃɐu˨ t͡ʃɛː˨˦ jœːŋ˨ hɔːm˨˩ jɐp̚˨ ɔːi˧ tɪk̚˥ hɔːm˨˩ t͡ʃɛːŋ˧˥ ɔː˨˩]
 > 
 > 只怕我自己会爱上你
 > 
 > zi2 paa3 ngo5 zy6 gi2 hui5 oi3 soeng5 ni5
 > 
-> [t͡ʃiː˧˥ pʰaː˧˧ ŋɔː˨˦ t͡sɿ˨˨ kiː˧˥ huːi˨˦ ɔːi˧˧ ʃœːŋ˨˦ niː˨˦]
+> [t͡ʃiː˧˥ pʰaː˧ ŋɔː˨˦ t͡sɿ˨ kiː˧˥ huːi˨˦ ɔːi˧ ʃœːŋ˨˦ niː˨˦]
 > 
 > 不敢让自己靠得太近
 > 
 > bat1 gom2 joeng6 zy6 gi2 kou3 dak1 taai3 kan5
 > 
-> [pɐt̚˥ kɔːm˧˥ jœːŋ˨˨ t͡sɿ˨˨ kiː˧˥ kʰou˧˧ tɐk̚˥ tʰaːi˧˧ kʰɐn˨˦]
+> [pɐt̚˥ kɔːm˧˥ jœːŋ˨ t͡sɿ˨ kiː˧˥ kʰou˧ tɐk̚˥ tʰaːi˧ kʰɐn˨˦]
 > 
 > 怕我没什么能够给你
 > 
 > paa3 ngo5 mut6 sam6 mo1 nang4 gau3 kap1 ni5
 > 
-> [pʰaː˧˧ ŋɔː˨˦ muːt̚˨ ʃɐm˨˨ mɔː˥˥ nɐŋ˨˩ kɐu˧˧ kʰɐp̚˥ niː˨˦]
+> [pʰaː˧ ŋɔː˨˦ muːt̚˨ ʃɐm˨ mɔː˥ nɐŋ˨˩ kɐu˧ kʰɐp̚˥ niː˨˦]
 > 
 > 爱你也需要很大的勇气
 > 
 > oi3 ni5 jaa5 slyu1 jiu3 han2 daai6 dik1 jung5 hi3
 > 
-> [ɔːi˧˧ niː˨˦ jaː˨˦ ɬyː˥˥ jiːu˧˧ hɐn˧˥ taːi˨˨ tɪk̚˥ jʊŋ˨˦ hiː˧˧]
+> [ɔːi˧ niː˨˦ jaː˨˦ ɬyː˥ jiːu˧ hɐn˧˥ taːi˨ tɪk̚˥ jʊŋ˨˦ hiː˧]
 > 
 > 只怕我自己会爱上你
 > 
 > zi2 paa3 ngo5 zy6 gi2 hui5 oi3 soeng5 ni5
 > 
-> [t͡ʃiː˧˥ pʰaː˧˧ ŋɔː˨˦ t͡sɿ˨˨ kiː˧˥ huːi˨˦ ɔːi˧˧ ʃœːŋ˨˦ niː˨˦]
+> [t͡ʃiː˧˥ pʰaː˧ ŋɔː˨˦ t͡sɿ˨ kiː˧˥ huːi˨˦ ɔːi˧ ʃœːŋ˨˦ niː˨˦]
 > 
 > 也许有天会情不自禁
 > 
 > jaa5 hyu2 jau5 tin1 hui5 cing4 bat1 zy6 gam3
 > 
-> [jaː˨˦ hyː˧˥ jɐu˨˦ tʰiːn˥˥ huːi˨˦ t͡ʃʰɪŋ˨˩ pɐt̚˥ t͡sɿ˨˨ kɐm˧˧]
+> [jaː˨˦ hyː˧˥ jɐu˨˦ tʰiːn˥ huːi˨˦ t͡ʃʰɪŋ˨˩ pɐt̚˥ t͡sɿ˨ kɐm˧]
 > 
 > 想念只让自己苦了自己
 > 
 > sloeng2 nim6 zi2 joeng6 zy6 gi2 fu2 liu5 zy6 gi2
 > 
-> [ɬœːŋ˧˥ niːm˨˨ t͡ʃiː˧˥ jœːŋ˨˨ t͡sɿ˨˨ kiː˧˥ fuː˧˥ liːu˨˦ t͡sɿ˨˨ kiː˧˥]
+> [ɬœːŋ˧˥ niːm˨ t͡ʃiː˧˥ jœːŋ˨ t͡sɿ˨ kiː˧˥ fuː˧˥ liːu˨˦ t͡sɿ˨ kiː˧˥]
 > 
 > 爱上你是我情非得已
 > 
 > oi3 soeng6 ni5 si6 ngo5 cing4 fi1 dak1 ji5
 > 
-> [ɔːi˧˧ ʃœːŋ˨˨ niː˨˦ ʃiː˨˨ ŋɔː˨˦ t͡ʃʰɪŋ˨˩ fiː˥˥ tɐk̚˥ jiː˨˦]
+> [ɔːi˧ ʃœːŋ˨ niː˨˦ ʃiː˨ ŋɔː˨˦ t͡ʃʰɪŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦]
 > 
 > 爱上你是我情非得已
 > 
 > oi3 soeng6 ni5 si6 ngo5 cing4 fi1 dak1 ji5
 > 
-> [ɔːi˧˧ ʃœːŋ˨˨ niː˨˦ ʃiː˨˨ ŋɔː˨˦ t͡ʃʰɪŋ˨˩ fiː˥˥ tɐk̚˥ jiː˨˦]
+> [ɔːi˧ ʃœːŋ˨ niː˨˦ ʃiː˨ ŋɔː˨˦ t͡ʃʰɪŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦]
 
 
 **参考资料：**

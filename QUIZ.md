@@ -10,7 +10,7 @@
         <answer>认、仍、迎</answer>
         <answer>豉、是、时</answer>
         <answer>龄、令、零</answer>
-        <explanation>承sing4[ʃɪŋ˨˩]、澄（澄清）cing4[t͡ʃʰɪŋ˨˩]、成（几成）cing4[t͡ʃʰɪŋ˨˩]<br/>城、丞、成（成功）sing4[ʃɪŋ˨˩]<br/>认jing6[jɪŋ˨˨]、仍jing4[jɪŋ˨˩]、迎jing4[jɪŋ˨˩]<br/>豉si6[ʃiː˨˨]、是si6[ʃiː˨˨]、时si4[ʃiː˨˩]<br/>龄ling4[lɪŋ˨˩]、令ling6[lɪŋ˨˨]、零ling4[lɪŋ˨˩]</explanation>
+        <explanation>承sing4[ʃɪŋ˨˩]、澄（澄清）cing4[t͡ʃʰɪŋ˨˩]、成（几成）cing4[t͡ʃʰɪŋ˨˩]<br/>城、丞、成（成功）sing4[ʃɪŋ˨˩]<br/>认jing6[jɪŋ˨]、仍jing4[jɪŋ˨˩]、迎jing4[jɪŋ˨˩]<br/>豉si6[ʃiː˨]、是si6[ʃiː˨]、时si4[ʃiː˨˩]<br/>龄ling4[lɪŋ˨˩]、令ling6[lɪŋ˨]、零ling4[lɪŋ˨˩]</explanation>
     </question>
     <question>
         <p>2.下列选项哪两个字分别为不读边擦音的心母字和读边擦音的非心母字？（10分）</p>
@@ -19,7 +19,7 @@
 		<answer>死、腥</answer>
 		<answer>识、撕</answer>
 		<answer>斜、射</answer>
-        <explanation>赛（心母）soi3[ʃɔːi˧˧]、傻（生母）slo4[ɬɔː˨˩]<br/>史（生母）sai2[ʃɐi˧˥]、肖（心母）ciu3[t͡ʃʰiːu˧˧]<br/>死（心母）sli2[ɬiː˧˥]、腥（心母）sleng1[ɬɛːŋ˥˥]<br/>识（书母）sik1[ʃɪk̚˥]、撕（心母）si1[ʃiː˥˥]<br/>斜（邪母）ce4[t͡ʃʰɛː˨˩]、射（船母）se6[ʃɛː˨˨]</explanation>
+        <explanation>赛（心母）soi3[ʃɔːi˧]、傻（生母）slo4[ɬɔː˨˩]<br/>史（生母）sai2[ʃɐi˧˥]、肖（心母）ciu3[t͡ʃʰiːu˧]<br/>死（心母）sli2[ɬiː˧˥]、腥（心母）sleng1[ɬɛːŋ˥]<br/>识（书母）sik1[ʃɪk̚˥]、撕（心母）si1[ʃiː˥]<br/>斜（邪母）ce4[t͡ʃʰɛː˨˩]、射（船母）se6[ʃɛː˨]</explanation>
     </question>
     <question>
         <p>3.请选出下列字的习惯读法中声母与声调都符合中古音至南宁白话演变规律的一项（10分）</p>
@@ -28,16 +28,16 @@
         <answer>伟、玮、卉</answer>
 		<answer correct>习、集、及</answer>
 		<answer>扭、纽、朽</answer>
-        <explanation>沼（章母去声）ziu1[t͡ʃiːu˥˥]、诏（章母去声）ziu3[t͡ʃiːu˧˧]或ziu1[t͡ʃiːu˥˥]、昭（章母平声）ciu1[t͡ʃʰiːu˥˥]<br/>购（见母去声）kau3[kʰɐu˧˧]、构（见母去声）kau3[kʰɐu˧˧]、灸（见母去声）kau3[kʰɐu˧˧]<br/>伟（云母上声）wai2[wɐi˧˥]、玮（云母上声）wai2[wɐi˧˥]、卉（晓母上声）wai2[wɐi˧˥]<br/>习（邪母入声）zap6[t͡ʃɐp̚˨]、集（从母入声）zap6[t͡ʃɐp̚˨]、及（群母入声）gap6[kɐp̚˨]<br/>扭（娘母上声）nau2[nɐu˧˥]、纽（娘母上声）nau2[nɐu˧˥]、朽（晓母上声）nau2[nɐu˧˥]</explanation>
+        <explanation>沼（章母去声）ziu1[t͡ʃiːu˥]、诏（章母去声）ziu3[t͡ʃiːu˧]或ziu1[t͡ʃiːu˥]、昭（章母平声）ciu1[t͡ʃʰiːu˥]<br/>购（见母去声）kau3[kʰɐu˧]、构（见母去声）kau3[kʰɐu˧]、灸（见母去声）kau3[kʰɐu˧]<br/>伟（云母上声）wai2[wɐi˧˥]、玮（云母上声）wai2[wɐi˧˥]、卉（晓母上声）wai2[wɐi˧˥]<br/>习（邪母入声）zap6[t͡ʃɐp̚˨]、集（从母入声）zap6[t͡ʃɐp̚˨]、及（群母入声）gap6[kɐp̚˨]<br/>扭（娘母上声）nau2[nɐu˧˥]、纽（娘母上声）nau2[nɐu˧˥]、朽（晓母上声）nau2[nɐu˧˥]</explanation>
     </question>
     <question>
         <p>4.「虣」字《广韵》薄报切，推导南宁白话应读（10分）</p>
         <answer>mu5[muː˨˦]</answer>
         <answer>fu2[fuː˧˥]</answer>
         <answer>bu2[puː˧˥]</answer>
-        <answer>bu3[puː˧˧]</answer>
-        <answer correct>bu6[puː˨˨]</answer>
-        <explanation>「薄」字中古並母，「报」字中古效摄开口一等豪韵去声，因此「虣」字中古並母效摄开口一等豪韵去声。按中古音至现代南宁白话的演化规律，古效开一豪韵今读[u]，古全浊声母去声今读阳去，古全浊声母清化，今读塞音塞擦音平、上送气，去、入不送气，所以读bu6[puː˨˨]</explanation>
+        <answer>bu3[puː˧]</answer>
+        <answer correct>bu6[puː˨]</answer>
+        <explanation>「薄」字中古並母，「报」字中古效摄开口一等豪韵去声，因此「虣」字中古並母效摄开口一等豪韵去声。按中古音至现代南宁白话的演化规律，古效开一豪韵今读[u]，古全浊声母去声今读阳去，古全浊声母清化，今读塞音塞擦音平、上送气，去、入不送气，所以读bu6[puː˨]</explanation>
     </question>
     <question multiple>
         <p>5.（多选）下列选项哪些字不具有或较少读梗摄开口二等字的文读音？（10分）</p>
@@ -67,7 +67,7 @@
         <explanation>笮，《广韵》侧伯切，又迫也<br/>迮，《广韵》侧伯切，迫迮<br/>矺，《广韵》陟革切，磓也<br/>碛，《广韵》七迹切，砂碛《说文》水陼有石者<br/>常见的韵尾变化有凡韵字「凡帆范犯泛法乏」和一个侵韵字「品」，咸深摄混入臻摄，而混入梗摄入声字的例子未见，孤证难立，更重要的是「砸」是个晚起字（《王力古汉语字典》）</explanation>
     </question>
     <question multiple>
-        <p>8.（多选）体标记「嗮」slaai3[ɬaːi˧˧]具有以下哪些语法功能？（10分）</p>
+        <p>8.（多选）体标记「嗮」slaai3[ɬaːi˧]具有以下哪些语法功能？（10分）</p>
         <answer correct>完毕义副词</answer>
         <answer correct>已然体标记</answer>
         <answer correct>完成体标记</answer>
@@ -79,122 +79,122 @@
         <p>9.按顺序分别选出「揼、抌、髧、沊、扽、趸、撉、墩、撴、蹾」这十字的义项（10分）</p>
         <answer>
             <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option correct>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option correct>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
             <option correct>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
             <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option correct>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option correct>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
             <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option correct>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
             <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option correct>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option correct>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
             <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option correct>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
             <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option correct>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option correct>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
             <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option correct>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option correct>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
             <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option correct>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option correct>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
             <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥˥]：拖延、浪费，～时间</option>
+            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
-            <option>dam3[tɐm˧˧]：垂下，头发长到～落膊头</option>
-            <option>dan3[tɐn˧˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧˧]</option>
-            <option correct>dan3[tɐn˧˧]：猛地放下，易碎品不可往地上～</option>
-            <option>dan1[tɐn˥˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
+            <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
+            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
+            <option correct>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
+            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
     </question>

@@ -87,12 +87,12 @@
 
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
-	<td><span style="font-size:2em;">ng</span> [ŋ̩] 五*</td>
+	<td><span style="font-size:2em;">ng</span> [ŋ̍] 五*</td>
 	<td><span style="font-size:2em;">oe</span> [œː/øː] 而尔*</td>
   </tr>
 </table>
 
-- 老派[ŋ]只作声母，新派可自成音节[ŋ̩]，例如「五」老派ngu5[ŋu˨˦]、新派ng5[ŋ˨˦]。
+- 老派[ŋ]只作声母，新派可自成音节[ŋ̍]，例如「五」老派ngu5[ŋu˨˦]、新派ng5[ŋ˨˦]。
 - 「而」文读ji4[jiː˨˩]、白读oe4[œː˨˩]，「尔」文读nji5[ȵiː˨˦]、白读oe5[œː˨˦]。
 
 ## 字调
@@ -232,7 +232,7 @@
 
 - ot[ot̚]作韵尾的大多为有音无字的口语词，例如「嘬（吮吸）」zot3[tsot̚˥]。
 - 微母逢遇、臻两摄读[f]为老派，读[m]为新派，例如「武」老派fu5[fuː˨˦]、新派mu5[muː˨˦]。
-- 南宁平话有iang[iɐŋ]和iak[iɐk̚]两韵，可分别以eng和ek替代，包括自成音节ng[ŋ̩]在内，韵母共有49个。
+- 南宁平话有iang[iɐŋ]和iak[iɐk̚]两韵，可分别以eng和ek替代，包括自成音节ng[ŋ̍]在内，韵母共有49个。
 
 
 ## 拼音方案说明
@@ -243,7 +243,7 @@
 
 ## 输入方案说明
 
-狸猫的在线词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
+狸猫的在线词典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 
 南宁（亭子）平话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping)
 

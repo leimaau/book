@@ -88,7 +88,7 @@
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
 	<td><span style="font-size:2em;">m</span> [m̩] 唔</td>
-	<td><span style="font-size:2em;">ng</span> [ŋ̩] 吴</td>
+	<td><span style="font-size:2em;">ng</span> [ŋ̍] 吴</td>
   </tr>
 </table>
 
@@ -236,7 +236,7 @@
 
 ## 输入方案说明
 
-狸猫的在线词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
+狸猫的在线词典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 
 南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping)
 

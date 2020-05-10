@@ -275,7 +275,7 @@ translator:
     - xform/([yaeioumngptk])xx/$1⁶/
     - xform/([yaeioumngptk])x/$1³/
 #  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
-#    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
+#    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̍
 #    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
 #    - xform/([ptk])x/$1˧/	咽jiːt̚˧
 #    - xform/([ptk])q/$1˥/	一jɐt̚
@@ -379,7 +379,7 @@ translator:
 #    - xform/([yaeioumngptk])xx/$1⁶/
 #    - xform/([yaeioumngptk])x/$1³/
   preedit_format:    # 需要顯示IPA時preedit_format替換成這段
-    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
+    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̍
     - xform/([ptk])xx/$1˨/	熱jiːt̚˨
     - xform/([ptk])x/$1˧/	咽jiːt̚˧
     - xform/([ptk])q/$1˥/	一jɐt̚

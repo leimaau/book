@@ -16,7 +16,7 @@
 * 2019年濱田武志《中国方言系統論: 漢語系諸語の分岐と粤語の成立》.東京大学出版会.2019-4.
 * de Sousa, Hilário. forthcoming. A grammar of Nánníng Pínghuà. Berlin: De Gruyter Mouton.
 
-狸猫的在线词典：[**Leimaau‘s Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
+狸猫的在线词典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 
 ## 网络资料
 

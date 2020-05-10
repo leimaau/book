@@ -9,7 +9,7 @@
 ![](https://s2.ax1x.com/2020/02/25/3YizKe.jpg)
 -->
 
-![](https://leimaau.gitee.io/data-store/jpg/The Electric State.jpg)
+![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/jpg/The Electric State.jpg)
 
 【西蒙·斯塔伦海格 (Simon Stålenhag)-《电幻国度》(The Electric State)】
 

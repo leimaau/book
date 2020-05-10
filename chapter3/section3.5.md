@@ -9,8 +9,8 @@
 ![](https://s2.ax1x.com/2019/10/29/KgzD29.jpg)
 -->
 
-![](https://leimaau.gitee.io/data-store/historyData/saamkapdai.jpg)
-![](https://leimaau.gitee.io/data-store/historyData/saamkapdai2.jpg)
+![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saamkapdai.jpg)
+![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saamkapdai2.jpg)
 
 **参考资料：**
 
@@ -23,7 +23,7 @@
 ![](https://s2.ax1x.com/2019/10/29/Kgz6Dx.jpg)
 -->
 
-![](https://leimaau.gitee.io/data-store/historyData/saamkapdai3.jpg)
+![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saamkapdai3.jpg)
 
 **参考资料：**
 
@@ -36,7 +36,7 @@
 ![](https://s2.ax1x.com/2019/10/29/KgzrvR.jpg)
 -->
 
-![](https://leimaau.gitee.io/data-store/historyData/saamkapdai4.jpg)
+![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saamkapdai4.jpg)
 
 **参考资料：**
 

@@ -2,7 +2,7 @@
 
 ## 工具说明
 
-对于熟悉python的读者，这里提供一个大致可以由中古音推导方音工具，推导的结果最好由人工再次审核。
+对于熟悉python的读者，这里提供一个大致可以由中古音推导方音工具，推导的结果最好由人工再次审核。本程序是个简易工具，非常粗略，只适用本方言不作适用其他，需要手工核对解决具体的推导问题。如果需要在线推导也可以使用[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/) (**推荐**)。
 
 本项目的源码下载地址：[**下载地址**](https://github.com/leimaau/pythonTools)，脚本代码在`pythopnTools/InferDialect`文件夹中。
 

@@ -232,6 +232,7 @@
 
 - ot[ot̚]作韵尾的大多为有音无字的口语词，例如「嘬（吮吸）」zot3[tsot̚˥]。
 - 微母逢遇、臻两摄读[f]为老派，读[m]为新派，例如「武」老派fu5[fuː˨˦]、新派mu5[muː˨˦]。
+- 老派遇合一读o[o]，果合一读u[u]。
 - 南宁平话有iang[iɐŋ]和iak[iɐk̚]两韵，可分别以eng和ek替代，包括自成音节ng[ŋ̍]在内，韵母共有49个。
 
 
@@ -259,570 +260,519 @@
 
 > [!EXAMPLE]
 > 
-> ** 你爱我像谁-张卫健 **
+> ** 清水-光良 **
 > 
-> ni5 aai3 ngo5 ziang6 sui4 - ziang1 wai6 gin6
+> cing1 sui2 - gong1 liang4
 > 
-> [ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21 - tʃiɐŋ53 wɐi22 kin22]
+> [t͡ʃʰeŋ˥˧ ʃuːi˧˧ - koŋ˥˧ liɐŋ˨˩]
 > 
-> 我什么都没有
+> 在每个悄悄细雨的深宵
 > 
-> ngo5 sam6 mo1 du1 mut5 jau5
+> zaai6 mui5 go3 ciu1 ciu1 slai3 jyu5 dik2 sam1 sliu1
 > 
-> [ŋo24 ʃɐm22 mo53 tu53 mut24 jɐu24]
+> [t͡ʃaːi˨˨ muːi˨˦ ko˥˥ t͡ʃʰiːu˥˧ t͡ʃʰiːu˥˧ ɬɐi˥˥ jyː˨˦ tek̚˧ ʃɐm˥˧ ɬiːu˥˧]
 > 
-> 只是有一点吵
+> 棉被里互送温暖
 > 
-> zi2 si6 jau5 at2 dim2 caau2
+> min4 bi5 li5 hu6 sloeng3 wan1 nun5
 > 
-> [tʃi33 ʃi22 jɐu24 ɐt3 tim33 tʃʰau33]
+> [miːn˨˩ piː˨˦ liː˨˦ huː˨˨ ɬœːŋ˥˥ wɐn˥˧ nuːn˨˦]
 > 
-> 如果你感到寂寞
+> 为你买我已看过的影碟
 > 
-> jyu4 go2 ni5 gaam2 daau3 zik6 moek5
+> wai6 ni5 maai5 ngo5 ji5 haan3 gu3 dik2 ing2 dip6
 > 
-> [jy21 ko33 ni24 kam33 tau55 tʃek2 mœk24]
+> [wɐi˨˨ niː˨˦ maːi˨˦ ŋo˨˦ jiː˨˦ haːn˥˥ kuː˥˥ tek̚˧ eŋ˧˧ tiːp̚˨]
 > 
-> 我带给你热闹
+> 行遍这都市
 > 
-> ngo5 daai3 kap2 ni5 njit5 naau6
+> hiang4 pin3 ze5 du1 si5
 > 
-> [ŋo24 tai55 kʰɐp3 ni24 ȵit24 nau22]
+> [hiɐŋ˨˩ pʰiːn˥˥ t͡ʃe˨˦ tuː˥˧ ʃiː˨˦]
 > 
-> 为你绕一绕
+> 能好好相爱非难事
 > 
-> wai6 ni5 jiu5 at2 jiu5
+> nang4 haau2 haau2 sliang1 aai3 fi1 naan6 sai6
 > 
-> [wɐi22 ni24 jiu24 ɐt3 jiu24]
+> [nɐŋ˨˩ haːu˧˧ haːu˧˧ ɬiɐŋ˥˧ aːi˥˥ fiː˥˧ naːn˨˨ ʃɐi˨˨]
 > 
-> 没有什么大不了
+> 从细节中兑现
 > 
-> mut5 jau5 sam6 mo1 daai6 bat2 liu5
+> zoeng4 slai3 zit2 zoeng1 dui3 jyun6
 > 
-> [mut24 jɐu24 ʃɐm22 mo53 tai22 pɐt3 liu24]
+> [t͡ʃœːŋ˨˩ ɬɐi˥˥ t͡ʃiːt̚˧ t͡ʃœːŋ˥˧ tuːi˥˥ jyːn˨˨]
 > 
-> 却可以让你微笑
+> 情似细水 会流的远
 > 
-> kiak2 ko2 ji5 ngiang6 ni5 mi4 sliu3
+> zing4 zi3 slai3 sui2 wai6 lau4 dik2 jyun5
 > 
-> [kʰiɐk3 kʰo33 ji24 ŋiɐŋ22 ni24 mi21 ɬiu55]
+> [t͡ʃeŋ˨˩ t͡ʃiː˥˥ ɬɐi˥˥ ʃuːi˧˧ wɐi˨˨ lɐu˨˩ tek̚˧ jyːn˨˦]
 > 
-> 其实我很烦恼
+> 每朝早都共你吻一遍
 > 
-> gi4 sat6 ngo5 han2 faan4 naau5
+> mui5 ziu1 zaau2 du1 goeng6 ni5 man5 at2 pin3
 > 
-> [ki21 ʃɐt2 ŋo24 hɐn33 fan21 nau24]
+> [muːi˨˦ t͡ʃiːu˥˧ t͡ʃaːu˧˧ tuː˥˧ kœːŋ˨˨ niː˨˦ mɐn˨˦ ɐt̚˧ pʰiːn˥˥]
 > 
-> 只是你看不到
+> 多清谈 都心醉 爱情是清水
 > 
-> zi2 si6 ni5 haan3 bat2 daau3
+> do1 cing1 daam4 du1 slam1 zui3 aai3 zing4 si6 cing1 sui2
 > 
-> [tʃi33 ʃi22 ni24 han55 pɐt3 tau55]
+> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ tuː˥˧ ɬɐm˥˧ t͡ʃuːi˥˥ aːi˥˥ t͡ʃeŋ˨˩ ʃiː˨˨ t͡ʃʰeŋ˥˧ ʃuːi˧˧]
 > 
-> 如果我也不开心
+> 吹不散 敲不碎 我们是一对
 > 
-> jyu4 go2 ngo5 je5 bat2 haai1 slam1
+> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
 > 
-> [jy21 ko33 ŋo24 je24 pɐt3 hai53 ɬɐm53]
+> [t͡ʃʰuːi˥˧ pɐt̚˧ ɬaːn˥˥ haːu˥˧ pɐt̚˧ ɬuːi˥˥ ŋo˨˦ muːn˨˩ ʃiː˨˨ ɐt̚˧ tuːi˥˥]
 > 
-> 怕你转身就逃
+> 谈情热烈像烟花 难烧到八十岁
 > 
-> paa3 ni5 zyun2 san1 zau6 daau4
+> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
 > 
-> [pʰa55 ni24 tʃyn33 ʃɐn53 tʃɐu22 tau21]
+> [taːm˨˩ t͡ʃeŋ˨˩ ȵiːt̚˨˦ lyːt̚˨˦ t͡ʃiɐŋ˨˨ jyːn˥˧ waː˥˧ naːn˨˩ ʃiːu˥˧ taːu˥˥ paːt̚˧ ʃɐp̚˨ ɬuːi˥˥]
 > 
-> 爱上一个人
+> 我宁愿爱似清水
 > 
-> aai3 sang6 at2 go3 njan4
+> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
 > 
-> [ai55 ʃɐŋ22 ɐt3 ko55 ȵɐn21]
+> [ŋo˨˦ neŋ˨˩ jyːn˨˨ aːi˥˥ t͡ʃiː˥˥ t͡ʃʰeŋ˥˧ ʃuːi˧˧]
 > 
-> 一定要让他相信
+> 多清谈 多琐碎 也甜在心里
 > 
-> at2 ding6 jiu3 ngiang6 taa1 sliang1 slan3
+> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
 > 
-> [ɐt3 teŋ22 jiu55 ŋiɐŋ22 tʰa53 ɬiɐŋ53 ɬɐn55]
+> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧˧ ɬuːi˥˥ je˨˦ tiːm˨˩ t͡ʃaːi˨˨ ɬɐm˥˧ liː˨˦]
 > 
-> 这世界多么美好
+> 天空里 深海里 我们亦一对
 > 
-> ze5 si3 gaai3 do1 mo1 mai5 haau2
+> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
 > 
-> [tʃe24 ʃi55 kai55 to53 mo53 mɐi24 hau33]
+> [tʰiːn˥˧ hœːŋ˥˧ liː˨˦ ʃɐm˥˧ haːi˧˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ɐt̚˧ tuːi˥˥]
 > 
-> 对每个人
+> 情人是活命的水 能输进血液里
 > 
-> dui3 mui5 go3 njan4
+> zing4 njan4 si6 wat6 ming6 dik2 sui2 nang4 syu1 zan3 hyut2 jik5 li5
 > 
-> [tui55 mui24 ko55 ȵɐn21]
+> [t͡ʃeŋ˨˩ ȵɐn˨˩ ʃiː˨˨ wɐt̚˨ meŋ˨˨ tek̚˧ ʃuːi˧˧ nɐŋ˨˩ ʃyː˥˧ t͡ʃɐn˥˥ hyːt̚˧ jek̚˨˦ liː˨˦]
 > 
-> 都说还好
+> 那纯净哪可失去
 > 
-> du1 syut2 waan4 haau2
+> naa6 san4 zing6 naa2 ko2 sat2 hyu3
 > 
-> [tu53 ʃyt3 wan21 hau33]
+> [naː˨˨ ʃɐn˨˩ t͡ʃeŋ˨˨ naː˧˧ kʰo˧˧ ʃɐt̚˧ hyː˥˥]
 > 
-> 我的心 我的情 你不需要明了
+> 寒冷要会替你盖起风褛
 > 
-> ngo5 dik2 slam1  ngo5 dik2 zing4  ni5 bat2 slyu1 jiu3 ming4 liu4
+> haan4 liang5 jiu3 wai6 tai3 ni5 gaai3 hi2 foeng1 lau1
 > 
-> [ŋo24 tek3 ɬɐm53  ŋo24 tek3 tʃeŋ21  ni24 pɐt3 ɬy53 jiu55 meŋ21 liu21]
+> [haːn˨˩ liɐŋ˨˦ jiːu˥˥ wɐi˨˨ tʰɐi˥˥ niː˨˦ kaːi˥˥ hiː˧˧ fœːŋ˥˧ lɐu˥˧]
 > 
-> 只要我对你好
+> 行过马路要牵手
 > 
-> zi2 jiu3 ngo5 dui3 ni5 haau2
+> hiang4 gu3 maa5 lu6 jiu3 hyun1 sau2
 > 
-> [tʃi33 jiu55 ŋo24 tui55 ni24 hau33]
+> [hiɐŋ˨˩ kuː˥˥ maː˨˦ luː˨˨ jiːu˥˥ hyːn˥˧ ʃɐu˧˧]
 > 
-> 这样的温柔 你要不要
+> 年老了你我亦退休之后
 > 
-> ze5 jiang6 dik2 wan1 jau4  ni5 jiu3 bat2 jiu3
+> nin4 laau5 liu5 ni5 ngo5 jik5 tui3 jau1 zi1 hau6
 > 
-> [tʃe24 jiɐŋ22 tek3 wɐn53 jɐu21  ni24 jiu55 pɐt3 jiu55]
+> [niːn˨˩ laːu˨˦ liːu˨˦ niː˨˦ ŋo˨˦ jek̚˨˦ tʰuːi˥˥ jɐu˥˧ t͡ʃiː˥˧ hɐu˨˨]
 > 
-> 其实 你爱我像谁
+> 游遍这地球
 > 
-> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> jau4 pin3 ze5 di6 gau4
 > 
-> [ki21 ʃɐt2  ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21]
+> [jɐu˨˩ pʰiːn˥˥ t͡ʃe˨˦ tiː˨˨ kɐu˨˩]
 > 
-> 扮演什么角色我都会
+> 能好好相爱非难事
 > 
-> baan6 jin2 sam6 mo1 gaak2 sik2 ngo5 du1 wai6
+> nang4 haau2 haau2 sliang1 aai3 fi1 naan6 sai6
 > 
-> [pan22 jin33 ʃɐm22 mo53 kak3 ʃek3 ŋo24 tu53 wɐi22]
+> [nɐŋ˨˩ haːu˧˧ haːu˧˧ ɬiɐŋ˥˧ aːi˥˥ fiː˥˧ naːn˨˨ ʃɐi˨˨]
 > 
-> 快不快乐我无所谓
+> 从细节中兑现
 > 
-> waai3 bat2 waai3 laak5 ngo5 mu4 slo2 wai6
+> zoeng4 slai3 zit2 zoeng1 dui3 jyun6
 > 
-> [wai55 pɐt3 wai55 lak24 ŋo24 mu21 ɬo33 wɐi22]
+> [t͡ʃœːŋ˨˩ ɬɐi˥˥ t͡ʃiːt̚˧ t͡ʃœːŋ˥˧ tuːi˥˥ jyːn˨˨]
 > 
-> 为了你开心 我忘记了累不累
+> 情似细水 会流的远
 > 
-> wai6 liu5 ni5 haai1 slam1  ngo5 mong4 gi3 liu5 lui6 bat2 lui6
+> zing4 zi3 slai3 sui2 wai6 lau4 dik2 jyun5
 > 
-> [wɐi22 liu24 ni24 hai53 ɬɐm53  ŋo24 moŋ21 ki55 liu24 lui22 pɐt3 lui22]
 > 
-> 其实 你爱我像谁
+> [t͡ʃeŋ˨˩ t͡ʃiː˥˥ ɬɐi˥˥ ʃuːi˧˧ wɐi˨˨ lɐu˨˩ tek̚˧ jyːn˨˦]
 > 
-> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> 每朝早都共你吻一遍
 > 
-> [ki21 ʃɐt2  ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21]
+> mui5 ziu1 zaau2 du1 goeng6 ni5 man5 at2 pin3
 > 
-> 任何的表情 我都能给
 > 
-> njam6 ho4 dik2 biu2 zing4  ngo5 du1 nang4 kap2
+> [muːi˨˦ t͡ʃiːu˥˧ t͡ʃaːu˧˧ tuː˥˧ kœːŋ˨˨ niː˨˦ mɐn˨˦ ɐt̚˧ pʰiːn˥˥]
 > 
-> [ȵɐm22 ho21 tek3 piu33 tʃeŋ21  ŋo24 tu53 nɐŋ21 kʰɐp3]
+> 多清谈 都心醉 爱情是清水
 > 
-> Woo
+> do1 cing1 daam4 du1 slam1 zui3 aai3 zing4 si6 cing1 sui2
 > 
-> 在你身上学会 流眼泪
 > 
-> zaai6 ni5 san1 sang6 haak6 wai6  lau4 njaan5 lui6
+> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ tuː˥˧ ɬɐm˥˧ t͡ʃuːi˥˥ aːi˥˥ t͡ʃeŋ˨˩ ʃiː˨˨ t͡ʃʰeŋ˥˧ ʃuːi˧˧]
 > 
-> [tʃai22 ni24 ʃɐn53 ʃɐŋ22 hak2 wɐi22  lɐu21 ȵan24 lui22]
+> 吹不散 敲不碎 我们是一对
 > 
-> 其实我很烦恼
+> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
 > 
-> gi4 sat6 ngo5 han2 faan4 naau5
 > 
-> [ki21 ʃɐt2 ŋo24 hɐn33 fan21 nau24]
+> [t͡ʃʰuːi˥˧ pɐt̚˧ ɬaːn˥˥ haːu˥˧ pɐt̚˧ ɬuːi˥˥ ŋo˨˦ muːn˨˩ ʃiː˨˨ ɐt̚˧ tuːi˥˥]
 > 
-> 只是你看不到
+> 谈情热烈像烟花 难烧到八十岁
 > 
-> zi2 si6 ni5 haan3 bat2 daau3
+> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
 > 
-> [tʃi33 ʃi22 ni24 han55 pɐt3 tau55]
 > 
-> 如果我也不开心
+> [taːm˨˩ t͡ʃeŋ˨˩ ȵiːt̚˨˦ lyːt̚˨˦ t͡ʃiɐŋ˨˨ jyːn˥˧ waː˥˧ naːn˨˩ ʃiːu˥˧ taːu˥˥ paːt̚˧ ʃɐp̚˨ ɬuːi˥˥]
 > 
-> jyu4 go2 ngo5 je5 bat2 haai1 slam1
+> 我宁愿爱似清水
 > 
-> [jy21 ko33 ŋo24 je24 pɐt3 hai53 ɬɐm53]
+> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
 > 
-> 怕你转身就逃
 > 
-> paa3 ni5 zyun2 san1 zau6 daau4
+> [ŋo˨˦ neŋ˨˩ jyːn˨˨ aːi˥˥ t͡ʃiː˥˥ t͡ʃʰeŋ˥˧ ʃuːi˧˧]
 > 
-> [pʰa55 ni24 tʃyn33 ʃɐn53 tʃɐu22 tau21]
+> 多清谈 多琐碎 也甜在心里
 > 
-> 爱上一个人
+> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
 > 
-> aai3 sang6 at2 go3 njan4
 > 
-> [ai55 ʃɐŋ22 ɐt3 ko55 ȵɐn21]
+> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧˧ ɬuːi˥˥ je˨˦ tiːm˨˩ t͡ʃaːi˨˨ ɬɐm˥˧ liː˨˦]
 > 
-> 一定要让他相信
+> 天空里 深海里 我们亦一对
 > 
-> at2 ding6 jiu3 ngiang6 taa1 sliang1 slan3
+> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
 > 
-> [ɐt3 teŋ22 jiu55 ŋiɐŋ22 tʰa53 ɬiɐŋ53 ɬɐn55]
 > 
-> 这世界多么美好
+> [tʰiːn˥˧ hœːŋ˥˧ liː˨˦ ʃɐm˥˧ haːi˧˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ɐt̚˧ tuːi˥˥]
 > 
-> ze5 si3 gaai3 do1 mo1 mai5 haau2
+> 情人是活命的水 能输进血液里
 > 
-> [tʃe24 ʃi55 kai55 to53 mo53 mɐi24 hau33]
+> zing4 njan4 si6 wat6 ming6 dik2 sui2 nang4 syu1 zan3 hyut2 jik5 li5
 > 
-> 对每个人
 > 
-> dui3 mui5 go3 njan4
+> [t͡ʃeŋ˨˩ ȵɐn˨˩ ʃiː˨˨ wɐt̚˨ meŋ˨˨ tek̚˧ ʃuːi˧˧ nɐŋ˨˩ ʃyː˥˧ t͡ʃɐn˥˥ hyːt̚˧ jek̚˨˦ liː˨˦]
 > 
-> [tui55 mui24 ko55 ȵɐn21]
+> 那纯净哪可失去
 > 
-> 都说还好
+> naa6 san4 zing6 naa2 ko2 sat2 hyu3
 > 
-> du1 syut2 waan4 haau2
 > 
-> [tu53 ʃyt3 wan21 hau33]
+> [naː˨˨ ʃɐn˨˩ t͡ʃeŋ˨˨ naː˧˧ kʰo˧˧ ʃɐt̚˧ hyː˥˥]
 > 
-> 我的心 我的情 你不需要明了
+> 猜到你心一句 透明像清水
 > 
-> ngo5 dik2 slam1  ngo5 dik2 zing4  ni5 bat2 slyu1 jiu3 ming4 liu4
+> caai1 daau3 ni5 slam1 at2 gyu3 tau3 ming4 ziang6 cing1 sui2
 > 
-> [ŋo24 tek3 ɬɐm53  ŋo24 tek3 tʃeŋ21  ni24 pɐt3 ɬy53 jiu55 meŋ21 liu21]
+> [t͡ʃʰaːi˥˧ taːu˥˥ niː˨˦ ɬɐm˥˧ ɐt̚˧ kyː˥˥ tʰɐu˥˥ meŋ˨˩ t͡ʃiɐŋ˨˨ t͡ʃʰeŋ˥˧ ʃuːi˧˧]
 > 
-> 只要我对你好
+> 吹不散 敲不碎 我们是一对
 > 
-> zi2 jiu3 ngo5 dui3 ni5 haau2
+> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
 > 
-> [tʃi33 jiu55 ŋo24 tui55 ni24 hau33]
 > 
-> 这样的温柔 你要不要
+> [t͡ʃʰuːi˥˧ pɐt̚˧ ɬaːn˥˥ haːu˥˧ pɐt̚˧ ɬuːi˥˥ ŋo˨˦ muːn˨˩ ʃiː˨˨ ɐt̚˧ tuːi˥˥]
 > 
-> ze5 jiang6 dik2 wan1 jau4  ni5 jiu3 bat2 jiu3
+> 谈情热烈像烟花 难烧到八十岁
 > 
-> [tʃe24 jiɐŋ22 tek3 wɐn53 jɐu21  ni24 jiu55 pɐt3 jiu55]
+> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
 > 
-> 其实 你爱我像谁
 > 
-> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> [taːm˨˩ t͡ʃeŋ˨˩ ȵiːt̚˨˦ lyːt̚˨˦ t͡ʃiɐŋ˨˨ jyːn˥˧ waː˥˧ naːn˨˩ ʃiːu˥˧ taːu˥˥ paːt̚˧ ʃɐp̚˨ ɬuːi˥˥]
 > 
-> [ki21 ʃɐt2  ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21]
+> 我宁愿爱似清水
 > 
-> 扮演什么角色我都会
+> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
 > 
-> baan6 jin2 sam6 mo1 gaak2 sik2 ngo5 du1 wai6
 > 
-> [pan22 jin33 ʃɐm22 mo53 kak3 ʃek3 ŋo24 tu53 wɐi22]
+> [ŋo˨˦ neŋ˨˩ jyːn˨˨ aːi˥˥ t͡ʃiː˥˥ t͡ʃʰeŋ˥˧ ʃuːi˧˧]
 > 
-> 快不快乐我无所谓
+> 多清谈 多琐碎 也甜在心里
 > 
-> waai3 bat2 waai3 laak5 ngo5 mu4 slo2 wai6
+> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
 > 
-> [wai55 pɐt3 wai55 lak24 ŋo24 mu21 ɬo33 wɐi22]
 > 
-> 为了你开心 我忘记了累不累
+> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧˧ ɬuːi˥˥ je˨˦ tiːm˨˩ t͡ʃaːi˨˨ ɬɐm˥˧ liː˨˦]
 > 
-> wai6 liu5 ni5 haai1 slam1  ngo5 mong4 gi3 liu5 lui6 bat2 lui6
+> 天空里 深海里 我们亦一对
 > 
-> [wɐi22 liu24 ni24 hai53 ɬɐm53  ŋo24 moŋ21 ki55 liu24 lui22 pɐt3 lui22]
+> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
 > 
-> 其实 你爱我像谁
 > 
-> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> [tʰiːn˥˧ hœːŋ˥˧ liː˨˦ ʃɐm˥˧ haːi˧˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ɐt̚˧ tuːi˥˥]
 > 
-> [ki21 ʃɐt2  ni24 ai55 ŋo24 tʃiɐŋ22 ʃui21]
+> 如年迈步伐太累 回忆也当乐趣
 > 
-> 任何的表情 我都能给
+> jyu4 nin4 maai6 bu6 faat6 taai3 lui6 wai4 ik2 je5 daang1 laak5 cyu3
 > 
-> njam6 ho4 dik2 biu2 zing4  ngo5 du1 nang4 kap2
+> [jyː˨˩ niːn˨˩ maːi˨˨ puː˨˨ faːt̚˨ tʰaːi˥˥ luːi˨˨ wɐi˨˩ ek̚˧ je˨˦ taːŋ˥˧ laːk̚˨˦ t͡ʃʰyː˥˥]
 > 
-> [ȵɐm22 ho21 tek3 piu33 tʃeŋ21  ŋo24 tu53 nɐŋ21 kʰɐp3]
+> 你常在我的心里 这甜蜜永不失去
 > 
-> Woo
+> ni5 siang4 zaai6 ngo5 dik2 slam1 li5 ze5 dim4 mat5 wing5 bat2 sat2 hyu3
 > 
-> 在你身上学会流眼泪
-> 
-> zaai6 ni5 san1 sang6 haak6 wai6 lau4 njaan5 lui6
-> 
-> [tʃai22 ni24 ʃɐn53 ʃɐŋ22 hak2 wɐi22 lɐu21 ȵan24 lui22]
+> [niː˨˦ ʃiɐŋ˨˩ t͡ʃaːi˨˨ ŋo˨˦ tek̚˧ ɬɐm˥˧ liː˨˦ t͡ʃe˨˦ tiːm˨˩ mɐt̚˨˦ weŋ˨˦ pɐt̚˧ ʃɐt̚˧ hyː˥˥]
+
 
 
 ### 《南宁平话词典》版IPA
 
 > [!EXAMPLE]
 > 
-> ** 你爱我像谁-张卫健 **
+> ** 清水-光良 **
 > 
-> ni5 aai3 ngo5 ziang6 sui4 - ziang1 wai6 gin6
+> cing1 sui2 - gong1 liang4
 > 
-> [ni24 ai55 ŋo24 tsiɐŋ22 sui21 - tsiɐŋ53 βəi22 kin22]
+> [t͡sʰeŋ˥˧ suːi˧˧ - koŋ˥˧ liɐŋ˨˩]
 > 
-> 我什么都没有
+> 在每个悄悄细雨的深宵
 > 
-> ngo5 sam6 mo1 du1 mut5 jau5
+> zaai6 mui5 go3 ciu1 ciu1 slai3 jyu5 dik2 sam1 sliu1
 > 
-> [ŋo24 səm22 mo53 tu53 mut24 jəu24]
+> [t͡saːi˨˨ muːi˨˦ ko˥˥ t͡sʰiːu˥˧ t͡sʰiːu˥˧ ɬəi˥˥ jyː˨˦ tek̚˧ səm˥˧ ɬiːu˥˧]
 > 
-> 只是有一点吵
+> 棉被里互送温暖
 > 
-> zi2 si6 jau5 at2 dim2 caau2
+> min4 bi5 li5 hu6 sloeng3 wan1 nun5
 > 
-> [tsi33 si22 jəu24 ət3 tim33 tsʰau33]
+> [miːn˨˩ piː˨˦ liː˨˦ huː˨˨ ɬøːŋ˥˥ βən˥˧ nuːn˨˦]
 > 
-> 如果你感到寂寞
+> 为你买我已看过的影碟
 > 
-> jyu4 go2 ni5 gaam2 daau3 zik6 moek5
+> wai6 ni5 maai5 ngo5 ji5 haan3 gu3 dik2 ing2 dip6
 > 
-> [jy21 ko33 ni24 kam33 tau55 tsek2 møk24]
+> [βəi˨˨ niː˨˦ maːi˨˦ ŋo˨˦ jiː˨˦ haːn˥˥ kuː˥˥ tek̚˧ eŋ˧˧ tiːp̚˨]
 > 
-> 我带给你热闹
+> 行遍这都市
 > 
-> ngo5 daai3 kap2 ni5 njit5 naau6
+> hiang4 pin3 ze5 du1 si5
 > 
-> [ŋo24 tai55 kʰəp3 ni24 ɲit24 nau22]
+> [hiɐŋ˨˩ pʰiːn˥˥ t͡se˨˦ tuː˥˧ siː˨˦]
 > 
-> 为你绕一绕
+> 能好好相爱非难事
 > 
-> wai6 ni5 jiu5 at2 jiu5
+> nang4 haau2 haau2 sliang1 aai3 fi1 naan6 sai6
 > 
-> [βəi22 ni24 jiu24 ət3 jiu24]
+> [nəŋ˨˩ haːu˧˧ haːu˧˧ ɬiɐŋ˥˧ aːi˥˥ fiː˥˧ naːn˨˨ səi˨˨]
 > 
-> 没有什么大不了
+> 从细节中兑现
 > 
-> mut5 jau5 sam6 mo1 daai6 bat2 liu5
+> zoeng4 slai3 zit2 zoeng1 dui3 jyun6
 > 
-> [mut24 jəu24 səm22 mo53 tai22 pət3 liu24]
+> [t͡søːŋ˨˩ ɬəi˥˥ t͡siːt̚˧ t͡søːŋ˥˧ tuːi˥˥ jyːn˨˨]
 > 
-> 却可以让你微笑
+> 情似细水 会流的远
 > 
-> kiak2 ko2 ji5 ngiang6 ni5 mi4 sliu3
+> zing4 zi3 slai3 sui2 wai6 lau4 dik2 jyun5
 > 
-> [kʰiɐk3 kʰo33 ji24 ŋiɐŋ22 ni24 mi21 ɬiu55]
+> [t͡seŋ˨˩ t͡siː˥˥ ɬəi˥˥ suːi˧˧ βəi˨˨ ləu˨˩ tek̚˧ jyːn˨˦]
 > 
-> 其实我很烦恼
+> 每朝早都共你吻一遍
 > 
-> gi4 sat6 ngo5 han2 faan4 naau5
+> mui5 ziu1 zaau2 du1 goeng6 ni5 man5 at2 pin3
 > 
-> [ki21 sət2 ŋo24 hən33 fan21 nau24]
+> [muːi˨˦ t͡siːu˥˧ t͡saːu˧˧ tuː˥˧ køːŋ˨˨ niː˨˦ mən˨˦ ət̚˧ pʰiːn˥˥]
 > 
-> 只是你看不到
+> 多清谈 都心醉 爱情是清水
 > 
-> zi2 si6 ni5 haan3 bat2 daau3
+> do1 cing1 daam4 du1 slam1 zui3 aai3 zing4 si6 cing1 sui2
 > 
-> [tsi33 si22 ni24 han55 pət3 tau55]
+> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ tuː˥˧ ɬəm˥˧ t͡suːi˥˥ aːi˥˥ t͡seŋ˨˩ siː˨˨ t͡sʰeŋ˥˧ suːi˧˧]
 > 
-> 如果我也不开心
+> 吹不散 敲不碎 我们是一对
 > 
-> jyu4 go2 ngo5 je5 bat2 haai1 slam1
+> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
 > 
-> [jy21 ko33 ŋo24 je24 pət3 hai53 ɬəm53]
+> [t͡sʰuːi˥˧ pət̚˧ ɬaːn˥˥ haːu˥˧ pət̚˧ ɬuːi˥˥ ŋo˨˦ muːn˨˩ siː˨˨ ət̚˧ tuːi˥˥]
 > 
-> 怕你转身就逃
+> 谈情热烈像烟花 难烧到八十岁
 > 
-> paa3 ni5 zyun2 san1 zau6 daau4
+> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
 > 
-> [pʰa55 ni24 tsyn33 sən53 tsəu22 tau21]
+> [taːm˨˩ t͡seŋ˨˩ ɲiːt̚˨˦ lyːt̚˨˦ t͡siɐŋ˨˨ jyːn˥˧ βaː˥˧ naːn˨˩ siːu˥˧ taːu˥˥ paːt̚˧ səp̚˨ ɬuːi˥˥]
 > 
-> 爱上一个人
+> 我宁愿爱似清水
 > 
-> aai3 sang6 at2 go3 njan4
+> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
 > 
-> [ai55 səŋ22 ət3 ko55 ɲən21]
+> [ŋo˨˦ neŋ˨˩ jyːn˨˨ aːi˥˥ t͡siː˥˥ t͡sʰeŋ˥˧ suːi˧˧]
 > 
-> 一定要让他相信
+> 多清谈 多琐碎 也甜在心里
 > 
-> at2 ding6 jiu3 ngiang6 taa1 sliang1 slan3
+> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
 > 
-> [ət3 teŋ22 jiu55 ŋiɐŋ22 tʰa53 ɬiɐŋ53 ɬən55]
+> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧˧ ɬuːi˥˥ je˨˦ tiːm˨˩ t͡saːi˨˨ ɬəm˥˧ liː˨˦]
 > 
-> 这世界多么美好
+> 天空里 深海里 我们亦一对
 > 
-> ze5 si3 gaai3 do1 mo1 mai5 haau2
+> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
 > 
-> [tse24 si55 kai55 to53 mo53 məi24 hau33]
+> [tʰiːn˥˧ høːŋ˥˧ liː˨˦ səm˥˧ haːi˧˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ət̚˧ tuːi˥˥]
 > 
-> 对每个人
+> 情人是活命的水 能输进血液里
 > 
-> dui3 mui5 go3 njan4
+> zing4 njan4 si6 wat6 ming6 dik2 sui2 nang4 syu1 zan3 hyut2 jik5 li5
 > 
-> [tui55 mui24 ko55 ɲən21]
+> [t͡seŋ˨˩ ɲən˨˩ siː˨˨ βət̚˨ meŋ˨˨ tek̚˧ suːi˧˧ nəŋ˨˩ syː˥˧ t͡sən˥˥ hyːt̚˧ jek̚˨˦ liː˨˦]
 > 
-> 都说还好
+> 那纯净哪可失去
 > 
-> du1 syut2 waan4 haau2
+> naa6 san4 zing6 naa2 ko2 sat2 hyu3
 > 
-> [tu53 syt3 βan21 hau33]
+> [naː˨˨ sən˨˩ t͡seŋ˨˨ naː˧˧ kʰo˧˧ sət̚˧ hyː˥˥]
 > 
-> 我的心 我的情 你不需要明了
+> 寒冷要会替你盖起风褛
 > 
-> ngo5 dik2 slam1  ngo5 dik2 zing4  ni5 bat2 slyu1 jiu3 ming4 liu4
+> haan4 liang5 jiu3 wai6 tai3 ni5 gaai3 hi2 foeng1 lau1
 > 
-> [ŋo24 tek3 ɬəm53  ŋo24 tek3 tseŋ21  ni24 pət3 ɬy53 jiu55 meŋ21 liu21]
+> [haːn˨˩ liɐŋ˨˦ jiːu˥˥ βəi˨˨ tʰəi˥˥ niː˨˦ kaːi˥˥ hiː˧˧ føːŋ˥˧ ləu˥˧]
 > 
-> 只要我对你好
+> 行过马路要牵手
 > 
-> zi2 jiu3 ngo5 dui3 ni5 haau2
+> hiang4 gu3 maa5 lu6 jiu3 hyun1 sau2
 > 
-> [tsi33 jiu55 ŋo24 tui55 ni24 hau33]
+> [hiɐŋ˨˩ kuː˥˥ maː˨˦ luː˨˨ jiːu˥˥ hyːn˥˧ səu˧˧]
 > 
-> 这样的温柔 你要不要
+> 年老了你我亦退休之后
 > 
-> ze5 jiang6 dik2 wan1 jau4  ni5 jiu3 bat2 jiu3
+> nin4 laau5 liu5 ni5 ngo5 jik5 tui3 jau1 zi1 hau6
 > 
-> [tse24 jiɐŋ22 tek3 βən53 jəu21  ni24 jiu55 pət3 jiu55]
+> [niːn˨˩ laːu˨˦ liːu˨˦ niː˨˦ ŋo˨˦ jek̚˨˦ tʰuːi˥˥ jəu˥˧ t͡siː˥˧ həu˨˨]
 > 
-> 其实 你爱我像谁
+> 游遍这地球
 > 
-> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> jau4 pin3 ze5 di6 gau4
 > 
-> [ki21 sət2  ni24 ai55 ŋo24 tsiɐŋ22 sui21]
+> [jəu˨˩ pʰiːn˥˥ t͡se˨˦ tiː˨˨ kəu˨˩]
 > 
-> 扮演什么角色我都会
+> 能好好相爱非难事
 > 
-> baan6 jin2 sam6 mo1 gaak2 sik2 ngo5 du1 wai6
+> nang4 haau2 haau2 sliang1 aai3 fi1 naan6 sai6
 > 
-> [pan22 jin33 səm22 mo53 kak3 sek3 ŋo24 tu53 βəi22]
+> [nəŋ˨˩ haːu˧˧ haːu˧˧ ɬiɐŋ˥˧ aːi˥˥ fiː˥˧ naːn˨˨ səi˨˨]
 > 
-> 快不快乐我无所谓
+> 从细节中兑现
 > 
-> waai3 bat2 waai3 laak5 ngo5 mu4 slo2 wai6
+> zoeng4 slai3 zit2 zoeng1 dui3 jyun6
 > 
-> [βai55 pət3 βai55 lak24 ŋo24 mu21 ɬo33 βəi22]
+> [t͡søːŋ˨˩ ɬəi˥˥ t͡siːt̚˧ t͡søːŋ˥˧ tuːi˥˥ jyːn˨˨]
 > 
-> 为了你开心 我忘记了累不累
+> 情似细水 会流的远
 > 
-> wai6 liu5 ni5 haai1 slam1  ngo5 mong4 gi3 liu5 lui6 bat2 lui6
+> zing4 zi3 slai3 sui2 wai6 lau4 dik2 jyun5
 > 
-> [βəi22 liu24 ni24 hai53 ɬəm53  ŋo24 moŋ21 ki55 liu24 lui22 pət3 lui22]
+> [t͡seŋ˨˩ t͡siː˥˥ ɬəi˥˥ suːi˧˧ βəi˨˨ ləu˨˩ tek̚˧ jyːn˨˦]
 > 
-> 其实 你爱我像谁
+> 每朝早都共你吻一遍
 > 
-> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> mui5 ziu1 zaau2 du1 goeng6 ni5 man5 at2 pin3
 > 
-> [ki21 sət2  ni24 ai55 ŋo24 tsiɐŋ22 sui21]
+> [muːi˨˦ t͡siːu˥˧ t͡saːu˧˧ tuː˥˧ køːŋ˨˨ niː˨˦ mən˨˦ ət̚˧ pʰiːn˥˥]
 > 
-> 任何的表情 我都能给
+> 多清谈 都心醉 爱情是清水
 > 
-> njam6 ho4 dik2 biu2 zing4  ngo5 du1 nang4 kap2
+> do1 cing1 daam4 du1 slam1 zui3 aai3 zing4 si6 cing1 sui2
 > 
-> [ɲəm22 ho21 tek3 piu33 tseŋ21  ŋo24 tu53 nəŋ21 kʰəp3]
+> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ tuː˥˧ ɬəm˥˧ t͡suːi˥˥ aːi˥˥ t͡seŋ˨˩ siː˨˨ t͡sʰeŋ˥˧ suːi˧˧]
 > 
-> Woo
+> 吹不散 敲不碎 我们是一对
 > 
-> 在你身上学会 流眼泪
+> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
 > 
-> zaai6 ni5 san1 sang6 haak6 wai6  lau4 njaan5 lui6
+> [t͡sʰuːi˥˧ pət̚˧ ɬaːn˥˥ haːu˥˧ pət̚˧ ɬuːi˥˥ ŋo˨˦ muːn˨˩ siː˨˨ ət̚˧ tuːi˥˥]
 > 
-> [tsai22 ni24 sən53 səŋ22 hak2 βəi22  ləu21 ɲan24 lui22]
+> 谈情热烈像烟花 难烧到八十岁
 > 
-> 其实我很烦恼
+> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
 > 
-> gi4 sat6 ngo5 han2 faan4 naau5
+> [taːm˨˩ t͡seŋ˨˩ ɲiːt̚˨˦ lyːt̚˨˦ t͡siɐŋ˨˨ jyːn˥˧ βaː˥˧ naːn˨˩ siːu˥˧ taːu˥˥ paːt̚˧ səp̚˨ ɬuːi˥˥]
 > 
-> [ki21 sət2 ŋo24 hən33 fan21 nau24]
+> 我宁愿爱似清水
 > 
-> 只是你看不到
+> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
 > 
-> zi2 si6 ni5 haan3 bat2 daau3
+> [ŋo˨˦ neŋ˨˩ jyːn˨˨ aːi˥˥ t͡siː˥˥ t͡sʰeŋ˥˧ suːi˧˧]
 > 
-> [tsi33 si22 ni24 han55 pət3 tau55]
+> 多清谈 多琐碎 也甜在心里
 > 
-> 如果我也不开心
+> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
 > 
-> jyu4 go2 ngo5 je5 bat2 haai1 slam1
+> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧˧ ɬuːi˥˥ je˨˦ tiːm˨˩ t͡saːi˨˨ ɬəm˥˧ liː˨˦]
 > 
-> [jy21 ko33 ŋo24 je24 pət3 hai53 ɬəm53]
+> 天空里 深海里 我们亦一对
 > 
-> 怕你转身就逃
+> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
 > 
-> paa3 ni5 zyun2 san1 zau6 daau4
+> [tʰiːn˥˧ høːŋ˥˧ liː˨˦ səm˥˧ haːi˧˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ət̚˧ tuːi˥˥]
 > 
-> [pʰa55 ni24 tsyn33 sən53 tsəu22 tau21]
+> 情人是活命的水 能输进血液里
 > 
-> 爱上一个人
+> zing4 njan4 si6 wat6 ming6 dik2 sui2 nang4 syu1 zan3 hyut2 jik5 li5
 > 
-> aai3 sang6 at2 go3 njan4
+> [t͡seŋ˨˩ ɲən˨˩ siː˨˨ βət̚˨ meŋ˨˨ tek̚˧ suːi˧˧ nəŋ˨˩ syː˥˧ t͡sən˥˥ hyːt̚˧ jek̚˨˦ liː˨˦]
 > 
-> [ai55 səŋ22 ət3 ko55 ɲən21]
+> 那纯净哪可失去
 > 
-> 一定要让他相信
+> naa6 san4 zing6 naa2 ko2 sat2 hyu3
 > 
-> at2 ding6 jiu3 ngiang6 taa1 sliang1 slan3
+> [naː˨˨ sən˨˩ t͡seŋ˨˨ naː˧˧ kʰo˧˧ sət̚˧ hyː˥˥]
 > 
-> [ət3 teŋ22 jiu55 ŋiɐŋ22 tʰa53 ɬiɐŋ53 ɬən55]
+> 猜到你心一句 透明像清水
 > 
-> 这世界多么美好
+> caai1 daau3 ni5 slam1 at2 gyu3 tau3 ming4 ziang6 cing1 sui2
 > 
-> ze5 si3 gaai3 do1 mo1 mai5 haau2
+> [t͡sʰaːi˥˧ taːu˥˥ niː˨˦ ɬəm˥˧ ət̚˧ kyː˥˥ tʰəu˥˥ meŋ˨˩ t͡siɐŋ˨˨ t͡sʰeŋ˥˧ suːi˧˧]
 > 
-> [tse24 si55 kai55 to53 mo53 məi24 hau33]
+> 吹不散 敲不碎 我们是一对
 > 
-> 对每个人
+> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
 > 
-> dui3 mui5 go3 njan4
+> [t͡sʰuːi˥˧ pət̚˧ ɬaːn˥˥ haːu˥˧ pət̚˧ ɬuːi˥˥ ŋo˨˦ muːn˨˩ siː˨˨ ət̚˧ tuːi˥˥]
 > 
-> [tui55 mui24 ko55 ɲən21]
+> 谈情热烈像烟花 难烧到八十岁
 > 
-> 都说还好
+> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
 > 
-> du1 syut2 waan4 haau2
+> [taːm˨˩ t͡seŋ˨˩ ɲiːt̚˨˦ lyːt̚˨˦ t͡siɐŋ˨˨ jyːn˥˧ βaː˥˧ naːn˨˩ siːu˥˧ taːu˥˥ paːt̚˧ səp̚˨ ɬuːi˥˥]
 > 
-> [tu53 syt3 βan21 hau33]
+> 我宁愿爱似清水
 > 
-> 我的心 我的情 你不需要明了
+> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
 > 
-> ngo5 dik2 slam1  ngo5 dik2 zing4  ni5 bat2 slyu1 jiu3 ming4 liu4
+> [ŋo˨˦ neŋ˨˩ jyːn˨˨ aːi˥˥ t͡siː˥˥ t͡sʰeŋ˥˧ suːi˧˧]
 > 
-> [ŋo24 tek3 ɬəm53  ŋo24 tek3 tseŋ21  ni24 pət3 ɬy53 jiu55 meŋ21 liu21]
+> 多清谈 多琐碎 也甜在心里
 > 
-> 只要我对你好
+> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
 > 
-> zi2 jiu3 ngo5 dui3 ni5 haau2
+> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧˧ ɬuːi˥˥ je˨˦ tiːm˨˩ t͡saːi˨˨ ɬəm˥˧ liː˨˦]
 > 
-> [tsi33 jiu55 ŋo24 tui55 ni24 hau33]
+> 天空里 深海里 我们亦一对
 > 
-> 这样的温柔 你要不要
+> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
 > 
-> ze5 jiang6 dik2 wan1 jau4  ni5 jiu3 bat2 jiu3
+> [tʰiːn˥˧ høːŋ˥˧ liː˨˦ səm˥˧ haːi˧˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ət̚˧ tuːi˥˥]
 > 
-> [tse24 jiɐŋ22 tek3 βən53 jəu21  ni24 jiu55 pət3 jiu55]
+> 如年迈步伐太累 回忆也当乐趣
 > 
-> 其实 你爱我像谁
+> jyu4 nin4 maai6 bu6 faat6 taai3 lui6 wai4 ik2 je5 daang1 laak5 cyu3
 > 
-> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
+> [jyː˨˩ niːn˨˩ maːi˨˨ puː˨˨ faːt̚˨ tʰaːi˥˥ luːi˨˨ βəi˨˩ ek̚˧ je˨˦ taːŋ˥˧ laːk̚˨˦ t͡sʰyː˥˥]
 > 
-> [ki21 sət2  ni24 ai55 ŋo24 tsiɐŋ22 sui21]
+> 你常在我的心里 这甜蜜永不失去
 > 
-> 扮演什么角色我都会
+> ni5 siang4 zaai6 ngo5 dik2 slam1 li5 ze5 dim4 mat5 wing5 bat2 sat2 hyu3
 > 
-> baan6 jin2 sam6 mo1 gaak2 sik2 ngo5 du1 wai6
-> 
-> [pan22 jin33 səm22 mo53 kak3 sek3 ŋo24 tu53 βəi22]
-> 
-> 快不快乐我无所谓
-> 
-> waai3 bat2 waai3 laak5 ngo5 mu4 slo2 wai6
-> 
-> [βai55 pət3 βai55 lak24 ŋo24 mu21 ɬo33 βəi22]
-> 
-> 为了你开心 我忘记了累不累
-> 
-> wai6 liu5 ni5 haai1 slam1  ngo5 mong4 gi3 liu5 lui6 bat2 lui6
-> 
-> [βəi22 liu24 ni24 hai53 ɬəm53  ŋo24 moŋ21 ki55 liu24 lui22 pət3 lui22]
-> 
-> 其实 你爱我像谁
-> 
-> gi4 sat6  ni5 aai3 ngo5 ziang6 sui4
-> 
-> [ki21 sət2  ni24 ai55 ŋo24 tsiɐŋ22 sui21]
-> 
-> 任何的表情 我都能给
-> 
-> njam6 ho4 dik2 biu2 zing4  ngo5 du1 nang4 kap2
-> 
-> [ɲəm22 ho21 tek3 piu33 tseŋ21  ŋo24 tu53 nəŋ21 kʰəp3]
-> 
-> Woo
-> 
-> 在你身上学会流眼泪
-> 
-> zaai6 ni5 san1 sang6 haak6 wai6 lau4 njaan5 lui6
-> 
-> [tsai22 ni24 sən53 səŋ22 hak2 βəi22 ləu21 ɲan24 lui22]
+> [niː˨˦ siɐŋ˨˩ t͡saːi˨˨ ŋo˨˦ tek̚˧ ɬəm˥˧ liː˨˦ t͡se˨˦ tiːm˨˩ mət̚˨˦ βeŋ˨˦ pət̚˧ sət̚˧ hyː˥˥]
+
 
 
 **参考资料：**

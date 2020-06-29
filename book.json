@@ -48,8 +48,8 @@
 		  }
 		},
         "donate": {
-            "wechat": "https://leimaau.gitee.io/data-store/jpg/weixin.jpg",
-            "alipay": "https://leimaau.gitee.io/data-store/jpg/zhifubao.jpg",
+            "wechat": "https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/jpg/weixin.jpg",
+            "alipay": "https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/jpg/zhifubao.jpg",
             "title": "拿钱去买猫粮，楼下的流浪猫在等我('')ノ",
             "button": "赞赏",
             "alipayText": "支付宝",

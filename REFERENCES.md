@@ -2,6 +2,9 @@
 
 ## 主要参考资料
 
+* 梁振仕.广西粤语的音韵系统.广西大学中文系.1981.
+* 梁振仕.桂南粤语说略.《中国语文》.1984年第3期.
+* 梁振仕.《切韵》系统与南宁音系.《音韵学研究(第二辑)》.中国音韵学研究会.1986.
 * 1994年谢建猷《南宁白话同音字汇》，数据来源：[中国知网](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD9495&filename=FYZA199404006&uid=WEEvREcwSlJHSldRa1FhdXNXa0d1RENHbHhkNnJGRUE3Skg4TzI2TXJDaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSTEtlWitabkZpdmhWcnZOSXpUUmI3S3hGOVhNcTQ5RllvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=) | 记音质量： ★★☆☆☆ 两颗星
 * 1997年杨焕典《南宁话音档》，数据来源：[汉语多功能字库网站](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | 记音质量： ★★★☆☆ 三颗星
 * 1998年广西地方志编纂委员会《广西通志（汉语方言志）》，数据来源：[广西地情资料库](http://lib.gxdqw.com/file-a88-1.html) | 记音质量： ★★★★☆ 四颗星
@@ -20,20 +23,14 @@
 
 ## 网络资料
 
-%accordion%列表%accordion%
-
 [东方语言学](http://www.eastling.org/index.php) | [韵典网](http://ytenx.org/) | [汉典网](http://www.zdic.net/) | [汉语方言学大词典](http://www.fangyanxue.com) | [縱橫碼在線中文字典](https://ckc.eduhk.hk/ckc2/dictionary.php?start=1&lang=b5) | [粤语审音配词字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [黄锡凌《粤音韵汇》电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton/) | [粤语音韵集成电子版](http://humanum.arts.cuhk.edu.hk/Lexis/Canton2/) | [小学堂粤语](http://xiaoxue.iis.sinica.edu.tw/yueyu) | [粤音资料集丛](http://www.jyut.net/) | [現代標準漢語與粵語對照資料庫](http://apps.itsc.cuhk.edu.hk/hanyu/Page/Cover.aspx) | [中国哲学书电子化计划](https://ctext.org/zhs) | [古今文字集成](http://www.ccamc.co/index.php) | [国学大师网](http://www.guoxuedashi.com/) | [汉字资源全息应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index) | [香港语言学学会粤拼词表](http://corpus.ied.edu.hk/JPwordlist/index.php) | [香港小学学习字词表](https://www.edbchinese.hk/lexlist_ch/) | [中英对照香港学校中文学习基础字词](https://www.edbchinese.hk/lexlist_en/) | [电脑用汉字粤语拼音表](http://www.iso10646hk.net/jp/document/download.jsp) | [香港增补字符集](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/download_area/) | [粤拼资料库](http://www.iso10646hk.net/jp/database/index.jsp) | [ISO汉字查询系统](http://glyph.iso10646hk.net/ccs/ccs.jsp?lang=zh_TW) | [开放粤语词典](http://www.kaifangcidian.com/han/yue) | [CC-CANTO](http://cccanto.org/) | [CantoDict](http://www.cantonese.sheik.co.uk/dictionary/words/) | [「數理華聲」科學及數學科詞彙表](https://ckc.eduhk.hk/ckc2/csms.php?csmscode=14180&lang=b5&reset=1) | [中国语言资源保护工程汉语方言用字规范](http://www.moe.edu.cn/s78/A19/A19_gggs/A19_sjhj/201704/t20170405_301845.html) | [粤语字打法大全](http://restools.hanzify.org/other/canchars.htm) | [翡翠粤语歌词](https://www.feitsui.com/) | [语言文字信息管理司](http://www.moe.edu.cn/s78/A19/) | [语保工程采录展示平台](http://expert.jiaxianghua.org/)  |  [中国语言资源保护工程宣传片](http://www.moe.edu.cn/s78/A19/moe_814/201607/t20160721_272527.html) | [语保网](http://www.chinalanguages.org/) | [乡音苑](http://www.phonemica.net/) | [语汇网](http://www.clr.org.cn/) | [复旦大学东亚语言数据中心](http://ccdc.fudan.edu.cn/bases/index.jsp) | [PolyU Corpus of Spoken Chinese](http://wongtaksum.no-ip.info:81/corpus.htm) | [语言文字网](http://www.yywzw.com/jt/feng/index.html) | [语料库在线](http://corpus.zhonghuayuwen.org/index.aspx)
 
-%/accordion%
 
 ## 重点参考文献
 
 ### 出版书籍
 
-%accordion%列表%accordion%
-
 * 1980年高华年《广州方言研究》
-* 1981年梁振仕《广西粤语的音韵系统》
 * 1989年广西壮族自治区少数民族古籍整理出版规划领导小组《古壮字字典》
 * [1990年广州市地方志编纂委员会《广州市志(方言志)》](http://www.gzsdfz.org.cn/dfz/main.jsp?type=1&id=17)
 * 1984年中国音韵学研究会《音韵学研究(第一辑)》中华书局
@@ -66,11 +63,8 @@
 * 2015年洪琪、洪珏《邕州老戏——邕剧》
 * 2016年余瑾《广西平话研究》
 
-%/accordion%
 
 ### 知网论文
-
-%accordion%列表%accordion%
 
 * 王力.两粤音说.《清华大学学报(自然科学版)》.1928-06-15.
 * 梁振仕.桂南粤语说略.《中国语文》.1984年第3期.
@@ -232,13 +226,11 @@
 * 莫思敏.横县白话语音研究.广西大学硕士论文.2019-06-01.
 * 封红羽.广西汉壮方言否定词对比研究.广西大学硕士论文.2019-06-01.
 * 覃东生; 覃凤余.广西汉、壮语方言的方式助词和取舍助词.《中国语文》.2018-09-10.
-
-%/accordion%
+* 吕嵩崧.壮语德靖土语近指指示词的演变——基于语言接触的视角.《广西师范大学学报(哲学社会科学版)》.2019-07-15.
 
 
 ### 外文论文
 
-%accordion%列表%accordion%
 
 * 辻伸久.華南・西江水系流域の中国語方言 : 広西粤語イニシャルと粤語祖語.1976.
 * 辻伸久.《广西粤语比较音韵论》.1980 (Tsuji, Nobuhisa. Comparative phonology of Gunagxi Yue dialects. 1980.)
@@ -259,9 +251,8 @@
 * 2013 Language contact in the Guangxi Region: On the evolution of the postverbal 晒in the Nanning Yue, paper presented in the Annual Research Forum of the Linguistic Society of Hong Kong (ARF), Hong Kong Polytechnic University, Hong Kong, 7-8 Dec. 2013. (In Chinese.《广西的语言接触情况—以南宁粤语助词“晒”的演变为例》，香港语言学会年会，香港理工大学，2013年12月7日—8日)
 * 2012 A new look on the origin of the attributive markers in Zhuang, paper presented at the 22nd Annual Meeting of the Southeast Asian Linguistic Society (SEALS22), Agay, France, 30 May-4 Jun. 2012. (In Chinese.《壮语定语标记来源新探》，第22届国际东南亚语言学会年会，法国·阿盖，2012年5月30日—6月4日)
 * 2012 The development of the aspectual function of ‘saai33’ in Nanning Yue, paper presented at the 17th International Conference on Yue Dialects, Jinan University, Guangzhou, 8-9 Dec. 2012. (In Chinese. 《南宁粤语多功能语素“晒”体貌标记功能的发展》，第17届国际粤方言研讨会，暨南大学，中国·广州，2012年12月8日—9日)
-* Synchronic Variation, Grammaticalization and Language Contact:The Development of the FINISH Morphemes in the Yue-Chinese and the Zhuang Languages in the Guangxi Region. City University of Hong Kong. Download via：PDF《共时变异、语法化与语言接触：论南宁粤语及壮语中“完毕”语素的演变》，香港城市大学中文及历史学系博士毕业论文，中国·香港，2014年8月）
+* Synchronic Variation, Grammaticalization and Language Contact:The Development of the FINISH Morphemes in the Yue-Chinese and the Zhuang Languages in the Guangxi Region. City University of Hong Kong. 《共时变异、语法化与语言接触：论南宁粤语及壮语中“完毕”语素的演变》，香港城市大学中文及历史学系博士毕业论文，中国·香港，2014年8月）
 
-%/accordion%
 
 <!--
 ## 有声资料

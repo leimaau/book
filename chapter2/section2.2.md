@@ -388,7 +388,7 @@
 籴 |	籴dik6/tɪk̚˨/ |	籴dek6/tɛːk̚˨/
 炙 |	炙zik1/t͡ʃɪk̚˥/、炙zik3/t͡ʃɪk̚˧/ |	炙zik3/t͡sɪk̚˧/、炙zek3/t͡sɛːk̚˧/
 赤 |	赤cik1/t͡ʃʰɪk̚˥/ |	赤cik3/t͡sʰɪk̚˧/、赤cek3/t͡sʰɛːk̚˧/
-吃 |	吃hik1/hɪk̚˥/、hek3/hɛːk̚˧/ |	吃hek3/hɛːk̚˧/
+吃 |	吃hik1/hɪk̚˥/、吃hek3/hɛːk̚˧/ |	吃hek3/hɛːk̚˧/
 郑 |	郑zing6/t͡ʃɪŋ˨/ |	郑zeng6/t͡sɛːŋ˨/
 井 |	井zing2/t͡ʃɪŋ˧˥/、井zeng2/t͡ʃɛːŋ˧˥/ |	井zeng2/t͡sɛːŋ˧˥/
 缚 |	缚fuk6/fʊk̚˨/、缚bok3/pɔːk̚˧/ |	缚bok3/pɔːk̚˧/

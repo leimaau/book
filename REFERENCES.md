@@ -36,6 +36,9 @@
 * 1981年梁振仕《广西粤语的音韵系统》
 * 1989年广西壮族自治区少数民族古籍整理出版规划领导小组《古壮字字典》
 * [1990年广州市地方志编纂委员会《广州市志(方言志)》](http://www.gzsdfz.org.cn/dfz/main.jsp?type=1&id=17)
+* 1984年中国音韵学研究会《音韵学研究(第一辑)》中华书局
+* 1986年中国音韵学研究会《音韵学研究(第二辑)》中华书局
+* 1986年中国音韵学研究会《音韵学研究(第二辑)》中华书局
 * 1995年邕宁县地方志编纂委员会《邕宁县志》
 * 1997年覃远雄、韦树关、卞成林《南宁平话词典》
 * 1997年麦耘、谭步云《实用广州话分类词典》
@@ -245,6 +248,18 @@
 * de Sousa, Hilário & Langella, François & Enfield, N.J. 2015. Temperature terms in Lao, Southern Zhuang, Southern Pinghua and Cantonese. In Koptjevskaja-Tamm, Maria (ed.), Linguistics of temperature (Typological studies in language 107), 594–638. Amsterdam: John Benjamins.
 * de Sousa, Hilário (蘇沙). 2013a. Nánníng Shàngyáo Pínghuà de yīxiē míngcí duǎnyǔ xiànxiàng duìbǐ yánjiū (南宁上尧平话的一些名词短语现象对比研究) [Comparative study on some noun phrase phenomena in Nanning Shangyao Pinghua]. In Liú, Dānqīng (刘丹青) & Zhōu, Léi (周磊) & Xuē, Cáidé (薛才德) (eds.), Hànyǔ fāngyán yǔfǎ yánjiū de xīnshìjiǎo — Dìwǔjiè Hànyǔ Fāngyán Yǔfǎ Guǒjì Xuéshù Yántǎohuì lùnwénjí (汉语方言语法研究的新视角 — 第五届汉语方言语法国际学术研讨会论文集) [New viewpoints on the studies of the grammar of Chinese dialects — Proceedings of the Fifth International Academic Conference on the Grammar of Chinese Dialects], 141–160. Shanghai: Shanghai Education Publishing House.
 * Bit-Chee, Kwok & Chin, Andy & Tsou, Benjamin. (2011). Poly-functionality of the preverbal "acquire" in the Nanning Yue dialect of Chinese: An areal perspective. Bulletin of the School of Oriental and African Studies. 74. 119 - 137. 10.1017/S0041977X10000431. 
+* (1) Huang, Yang黄阳. 2016. Reflecting on the grammatical property of the post-verbal morpheme ‘ɬai33’ in the Nanning Yue dialect, Fangyan (In Chinese. 《也谈南宁粤语的助词“晒”》，《方言》 第4期) [CSSCI]
+* (2) Huang, Yang黄阳 & Bit-Chee Kwok郭必之. 2014. Polygrammaticalization of the ‘FINISH’ verbs in the Zhuang language, Minzu Yuwen 1:21-32. (In Chinese. 壮语方言“完毕”动词的多向语法化模式，《民族语文》第1期) [ERIH & CSSCI] 
+* (3) Huang. Yang黄阳 & Bit-Chee Kwok郭必之. 2013. Diffusions of the manner particles in Chinese dialects and Tai-Kadai languages of Guangxi: Their origins, processes and implications. In Gang Peng & Feng Shi (eds.), Eastward Flows the Great Rivers: Festschrift in Honor of Professor William S-Y. Wang on his 80 th Birthday, 521-540. Hong Kong: City University of Hong Kong Press (In Chinese. 方式助词在广西汉语方言和壮侗语中的扩散：源头、过程及启示，载《大江东去：王士元教授八十岁贺寿论文集》，香港：香港城市大学出版社)
+* (4) Qin, Fengyu覃凤余 & Yang Huang黄阳. 2010. The characteristic of the double negators in the Zhuang language revised, Minzu Yuwen 1. (In Chinese. 也谈壮语否定词的语序，《民族语文》第1期) [ERIH & CSSCI] 
+* (5) Huang, Yang黄阳 & Bo Chen程博. 2010. The multi-functions of the locatives in the Jingxi Zhuang, Journal of Baise College 2. (In Chinese. 靖西壮语的方所系统，《百色学院学报》第2期)
+* 2016 Areal grammaticalization and linguistic area: Where should the Guangxi Region go? Paper presented at the 2nd International Conference on Grammaticalization Theory and Data, Rouen, France, 25-27 April. 2016. (In Chinese.《区域语法化与语言区域：广西语言区域路在何方？》，第2届语法化理论与语料研究国际研讨会，法国·鲁昂，2016年4月25日—27日)
+* 2015 《区域扩散与语言接触：“完结、周遍”语素在广西境内语言中的功能演变》，第2届语类型学国际学术研讨会（暨2015中国社会科学院社会科学论坛），中国·南昌大学，2015年10月16日—20日。 :26816WBR10，Duration 年限 2016-2017)。
+* 2015 Polyfunctionality of the postverbal aspect marker: The case of ‘FINISH’ and its variants in the Zhuang, paper presented at the 25th Annual Meeting of the Southeast Asian Linguistic Society (SEALS25), Payap University, Chiang Mai, Thailand, 27-29 May. 2015. (In Chinese.《体标记的多功能性—浅谈壮语中“完结”动词及其功能变异》，第25届国际东南亚语言学会年会，西北大学，泰国·清迈，2015年5月27日—29日)
+* 2013 Language contact in the Guangxi Region: On the evolution of the postverbal 晒in the Nanning Yue, paper presented in the Annual Research Forum of the Linguistic Society of Hong Kong (ARF), Hong Kong Polytechnic University, Hong Kong, 7-8 Dec. 2013. (In Chinese.《广西的语言接触情况—以南宁粤语助词“晒”的演变为例》，香港语言学会年会，香港理工大学，2013年12月7日—8日)
+* 2012 A new look on the origin of the attributive markers in Zhuang, paper presented at the 22nd Annual Meeting of the Southeast Asian Linguistic Society (SEALS22), Agay, France, 30 May-4 Jun. 2012. (In Chinese.《壮语定语标记来源新探》，第22届国际东南亚语言学会年会，法国·阿盖，2012年5月30日—6月4日)
+* 2012 The development of the aspectual function of ‘saai33’ in Nanning Yue, paper presented at the 17th International Conference on Yue Dialects, Jinan University, Guangzhou, 8-9 Dec. 2012. (In Chinese. 《南宁粤语多功能语素“晒”体貌标记功能的发展》，第17届国际粤方言研讨会，暨南大学，中国·广州，2012年12月8日—9日)
+* Synchronic Variation, Grammaticalization and Language Contact:The Development of the FINISH Morphemes in the Yue-Chinese and the Zhuang Languages in the Guangxi Region. City University of Hong Kong. Download via：PDF《共时变异、语法化与语言接触：论南宁粤语及壮语中“完毕”语素的演变》，香港城市大学中文及历史学系博士毕业论文，中国·香港，2014年8月）
 
 %/accordion%
 

@@ -52,7 +52,7 @@
   <tr>
 	<td><span style="font-size:2em;">aa</span> [aː] 沙</td>
 	<td><span style="font-size:2em;">a</span> [ɐ/ə] 新</td>
-	<td><span style="font-size:2em;">e</span> [e/E] 些</td>
+	<td><span style="font-size:2em;">e</span> [ɛː/e/E] 些</td>
 	<td><span style="font-size:2em;">o</span> [o] 多光国</td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@
 	<td><span style="font-size:2em;">ak</span><br/>[ɐk̚/ək̚]<br/>得</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">e</span><br/>[e/E]<br/>车</td>
+	<td><span style="font-size:2em;">e</span><br/>[ɛː/e/E]<br/>车</td>
 	<td></td>
 	<td><span style="font-size:2em;">eu</span><br/>[ɛːu/eu/Eu]<br/>猫</td>
 	<td><span style="font-size:2em;">em</span><br/>[ɛːm/em/Em]<br/>钳</td>
@@ -179,10 +179,10 @@
 	<td></td>
 	<td></td>
 	<td><span style="font-size:2em;">on</span><br/>[on]<br/>存</td>
-	<td><span style="font-size:2em;">ong</span><br/>[oŋ]<br/>王</td>
+	<td></td>
 	<td></td>
 	<td><span style="font-size:2em;">ot</span><br/>[ot̚]<br/>嘬*</td>
-	<td><span style="font-size:2em;">ok</span><br/>[ok̚/ɷk̚]<br/>国</td>
+	<td></td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">i</span><br/>[iː]<br/>皮</td>
@@ -201,10 +201,10 @@
 	<td></td>
 	<td></td>
 	<td><span style="font-size:2em;">un</span><br/>[uːn]<br/>般</td>
-	<td></td>
+	<td><span style="font-size:2em;">ung</span><br/>[oŋ/uŋ]<br/>王</td>
 	<td></td>
 	<td><span style="font-size:2em;">ut</span><br/>[uːt̚]<br/>阔</td>
-	<td></td>
+	<td><span style="font-size:2em;">uk</span><br/>[ok̚/ɷk̚/uk̚]<br/>国</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">yu</span><br/>[yː]<br/>朱</td>
@@ -233,7 +233,7 @@
 - ot[ot̚]作韵尾的大多为有音无字的口语词，例如「嘬（吮吸）」zot3[tsot̚˥]。
 - 微母逢遇、臻两摄读[f]为老派，读[m]为新派，例如「武」老派fu5[fuː˨˦]、新派mu5[muː˨˦]。
 - 老派遇合一读o[o]，果合一读u[u]。
-- 南宁平话有iang[iɐŋ]和iak[iɐk̚]两韵，可分别以eng和ek替代，包括自成音节ng[ŋ̍]在内，韵母共有49个。
+- 南宁平话有iang[iɐŋ]和iak[iɐk̚]两韵，现在一般已读eng[ɛːŋ]和ek[ɛːk̚]，包括自成音节ng[ŋ̍]在内，韵母共有49个。
 
 
 ## 拼音方案说明
@@ -262,7 +262,7 @@
 > 
 > ** 清水-光良 **
 > 
-> cing1 sui2 - gong1 liang4
+> cing1 sui2 - gung1 liang4
 > 
 > [t͡ʃʰeŋ˥˧ ʃuːi˧˧ - koŋ˥˧ liɐŋ˨˩]
 > 
@@ -529,7 +529,7 @@
 > 
 > ** 清水-光良 **
 > 
-> cing1 sui2 - gong1 liang4
+> cing1 sui2 - gung1 liang4
 > 
 > [t͡sʰeŋ˥˧ suːi˧˧ - koŋ˥˧ liɐŋ˨˩]
 > 

@@ -14,7 +14,7 @@
 
 ![goldendict](http://wx4.sinaimg.cn/large/69144085ly1g1hmu1xe2jj210e0je784.jpg)
 
-南宁白话字词典mdx与mdd文件下载地址：[**下载地址**](https://github.com/leimaau/dictionary)
+南宁白话字词典mdx与mdd文件下载地址：[**下载地址**](https://github.com/leimaau/dict-store)
 
 狸猫的在线词典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 

@@ -23,8 +23,6 @@
 * [4.附录一 自制工具](appendix1/README.md)
     * [4.1 南宁白话字词典](appendix1/appendix4.1.md)
     * [4.2 南宁白话输入方案](appendix1/appendix4.2.md)
-    * [4.3 文本注音工具](appendix1/appendix4.3.md)
-    * [4.4 由中古音推导方音工具](appendix1/appendix4.4.md)
 * [5.附录二 相关资讯](appendix2/README.md)
     * [5.1 刘丹青：差别化政策是语言保护工作的迫切要务](appendix2/appendix5.1.md)
     * [5.2 张振兴：《广西汉语方言重点研究丛书》序](appendix2/appendix5.2.md)

@@ -135,7 +135,7 @@
 
 - 共有6个调号，以1-6表示，声调标在音节后。
 - 具体调值：阴平[53]、阳平[21]、阴上[33]、阳上[24]、阴去[55]、阳去[22]、上阴入[55]、下阴入[33]、上阳入[24]、下阳入[22]，包括入声在内声调共有10个。
-- 上阴入辖字较少，大多可能为从白话或壮语借入的口语词。
+- 上阴入辖字较少，大多为从白话借入的口语词。
 
 ## 韵母字例
 
@@ -168,10 +168,10 @@
 	<td><span style="font-size:2em;">eu</span><br/>[ɛːu/eu/Eu]<br/>猫</td>
 	<td><span style="font-size:2em;">em</span><br/>[ɛːm/em/Em]<br/>钳</td>
 	<td><span style="font-size:2em;">en</span><br/>[ɛːn/en/En]<br/>扁</td>
-	<td><span style="font-size:2em;">iang</span><br/>[iɐŋ/Eŋ]<br/>长*</td>
+	<td><span style="font-size:2em;">iang</span><br/>[iɐŋ/Eŋ/ɛːŋ]<br/>长*</td>
 	<td><span style="font-size:2em;">ep</span><br/>[ɛːp̚/ep̚/Ep̚]<br/>夹</td>
 	<td><span style="font-size:2em;">et</span><br/>[ɛːt̚/et̚/Et̚]<br/>挖</td>
-	<td><span style="font-size:2em;">iak</span><br/>[iɐk̚/Ek̚]<br/>白*</td>
+	<td><span style="font-size:2em;">iak</span><br/>[iɐk̚/Ek̚/ɛːk̚]<br/>白*</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">o</span><br/>[o/ɔː]<br/>多</td>

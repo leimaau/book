@@ -67,8 +67,10 @@
 * 2008年徐杰舜平话人书系《平话人印象》、《平话人图像》、《平话人变迁》和《平话人与客家人比较》
 * 2011年陈卫强《广州地区粤方言语音研究》
 * 2011年刘玉萍《实用粤语播音主持语言基础教程》
+* 2014年卢小群，李蓝主编；韩琳，杨吉春副主编《汉语方言时体问题新探索》
 * 2015年洪琪、洪珏《邕州老戏——邕剧》
 * 2016年余瑾《广西平话研究》
+* 2018年伍和忠《广西汉语方言体范畴调查与研究》
 
 
 ### 知网论文
@@ -248,6 +250,9 @@
 * 郑伟.古壮字的汉字借音声旁与中古后期的韵母演变	.《中国文字研究》.2017-12-31.	
 * 郑伟.方块壮字的汉字借音声旁与中古韵图的内外转.《古汉语研究》.2018-01-15.
 * 潘红交; 韦景云.借音壮字阴声韵母和中古汉语韵母关系研究.《钦州学院学报》.2017-08-20.
+* 林亦.广西粤方言的完成体和已然体标记.出自卢小群，李蓝主编；韩琳，杨吉春副主编《汉语方言时体问题新探索》，中央民族大学出版社，2014年，pp.157-166.
+* 伍和忠.广西粤方言“完成体”的表达形式.《广西师范学院学报(哲学社会科学版)》.2014-11-25.
+* 王桂亮.汉语方言完成体标记比较研究.华中师范大学博士论文.2014-05-01.
 
 
 ### 外文论文
@@ -274,26 +279,3 @@
 * 2012 The development of the aspectual function of ‘saai33’ in Nanning Yue, paper presented at the 17th International Conference on Yue Dialects, Jinan University, Guangzhou, 8-9 Dec. 2012. (In Chinese. 《南宁粤语多功能语素“晒”体貌标记功能的发展》，第17届国际粤方言研讨会，暨南大学，中国·广州，2012年12月8日—9日)
 * Synchronic Variation, Grammaticalization and Language Contact:The Development of the FINISH Morphemes in the Yue-Chinese and the Zhuang Languages in the Guangxi Region. City University of Hong Kong. 《共时变异、语法化与语言接触：论南宁粤语及壮语中“完毕”语素的演变》，香港城市大学中文及历史学系博士毕业论文，中国·香港，2014年8月）
 
-
-<!--
-## 有声资料
-
-暂不开放。
-
-%accordion%列表%accordion%
-
-以下是我选取的有声资料，至于网络一些恶搞视频完全不予收录。
-
-那些恶搞视频的作者既没有正确的语言观也没有方言保护意识，同时也拉低了公众的品味，大众审美的恶俗化他们是要负相当大的责任的，恶搞视频通常夹杂了许多其他的口音，使得年轻一代人无法树立正确的语言观，也不愿意学习方言，方言的保护便更加困难，外地人更是通过这些完全不地道的恶搞视频来了解一个地方的文化。
-
-以下收录较为正规的口语化的视频，以正视听，但是不可避免有些视频较为低俗，这是受到语料资源有限的限制，不可避免。正确的语言观是学习一门语言的声韵调，学会粤语拼音，传播正确的有文献来源的知识，写规范字，用规范粤拼，说清楚字词的正确出处。
-
-这一点广东地区的官方媒体做得非常不错，广东许多媒体人都会粤语拼音，经过正音训练，甚至会国际音标，比如羊城网的媒体，这些媒体能使用较为规范的字，用正规的粤拼来传播知识，谈到粤语知识有出处有根据，许多粤语播音主持人都经过严格和正规的训练，例如刘玉萍《实用粤语播音主持语言基础教程》就是粤语播音必不可少的教材。
-
-而南宁地区的许多媒体连粤拼是什么都不知道，科普就更不用说，地方自媒体更是俗之又俗，文化水平低下，可以说这些自媒体或公众号名义上好像是传播南宁文化，其实从一开始这些人就是南宁文化的破坏者。
-
-
-[广西壮族自治区语言资源保护工作纪实](https://v.qq.com/x/page/x0628ej02ra.html) | [北风同热头](https://www.bilibili.com/audio/au749077) | [2018年南宁白话发音人陈万春拜年](http://v.youku.com/v_show/id_XMzQwMjQ0MjQ3Mg%3D%3D.html?sharefrom=iphone&sharekey=acab580f469d8e12678177536bef6d990) | [2018年南宁白话发音人李晓东拜年](http://v.youku.com/v_show/id_XMzQwMjQzODU2MA%3D%3D.html?sharefrom=iphone&sharekey=76d74b69a1e09807c38b0cd5eb28b44e8) | [《九叔》吴建新作品 第四届中国纪录片学院奖入围片](https://www.iqiyi.com/v_19rrlm83ow.html) | [南宁金狮巷纪录片](https://www.bilibili.com/video/av12069625/?from=search&seid=9700533023424659169) | [中国传统水墨动画《邕城记》](http://www.iqiyi.com/w_19rtgjieq5.html) | [照相馆 关平222](http://t.cn/E7aLDzp?m=4294382531985543&u=2154274767) | [南宁金牌红娘——庞姐](http://n.miaopai.com/media/lQiD9UKRBekOnArL-Kwr5mSPfrs0gLj0) | [花灯父子](http://n.miaopai.com/media/EtqyHDv3xOXjgp2W0uvvfeV~mi-4gJjZ) | [三津渡口摆渡人(平话)](http://n.miaopai.com/media/kpYjyTVb4tdpD8GssbLuMedB6lEdP7Th) |[南宁平话朗诵岳飞《满江红》](https://v.youku.com/v_show/id_XMTg3ODA2OTQyNA==.html?spm=a2h0k.11417342.soresults.dtitle) | [南宁平话朗诵《七步诗》](https://v.youku.com/v_show/id_XMTY0NTUzNjY2OA==.html?spm=a2hzp.8244740.0.0) | [平话——一门有故事的南宁方言](https://v.youku.com/v_show/id_XMTY0NTI3NzU5Mg==.html?spm=a2h0j.11185381.listitem_page1.5!5~A) | [扬美古镇 平话文化穿越千年](https://v.youku.com/v_show/id_XMTY0NTI3NjA0NA==.html?spm=a2h0j.11185381.listitem_page1.5!6~A) | [大师私厨](https://weibo.com/tv/v/GanRfB22X?fid=1034:1b1ebbcbe75828a708fb4d1ac8fcf6b0) | [南宁【原创贺岁档】《妈妈的菜谱》白话版预告片](http://new-play.tudou.com/v/123405664.html?spm=a2h28.8313471.fl.dlink_1_3&f=50313177) | [南宁方言之一下廓街官话](http://new-play.tudou.com/v/548855485.html) | [南宁粤曲「粤来粤味」](http://www.iqiyi.com/w_19rwdn8hg5.html) | [南宁白话童谣《水街美味》](https://v.qq.com/x/page/y0502lwb8d3.html) | [带你领略老水街的白话童谣！是否还能唤起南宁人成长的记忆呢？](https://v.qq.com/x/page/e05674yi7rz.html) | [收集南宁白话童谣传唱浓浓“南宁滋味”](http://video.tudou.com/v/XMjIwMzQ0MTMyOA%3D%3D.html) | [讲得少感觉“土”南宁白话面临困境](http://video.tudou.com/v/XMjE5NjM1MTA4NA%3D%3D.html?spm=a2h0k.8191414.5FPAwDXPP8U.A) | [讲地道南宁话 老南宁有感情](http://new-play.tudou.com/v/546826692.html) | [南宁11位普通市民入围白话平话声音数据库](http://video.tudou.com/v/XMjIwMzQ0MTA5Ng%3D%3D.html?spm=a2h0k.8191414.Vpcyr1zfHIA.A) | [谁的方言说得标准 南宁语言建档确定11 人](http://new-play.tudou.com/v/550927975.html) | [南宁白话为什么这样难说出口](http://new-play.tudou.com/v/701584805.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2) | [《街知巷闻》-电视节目关于南宁白话的讨论](http://v.youku.com/v_show/id_XOTgzNjQyNjQ%3D.html) | [《街知巷闻》讲古仔](https://v.qq.com/x/page/m0369cvyamg.html?new=1) | [当方言遇上Hip Hop，瞬间觉得南宁潮爆了 \| 喜号](http://www.iqiyi.com/w_19rsycmvvl.html) | [《水街》PNC](http://v.youku.com/v_show/id_XMTI3NTkxMDg3Mg%3D%3D.html) | [MV新锐榜 PNC现场演唱《南城老友》](https://v.qq.com/x/page/s03178x51xd.html?new=1) | [《南宁歌谣》房少强 黄蔚靖（MV）](http://v.youku.com/v_show/id_XMTcyNTM4NTIwMA%3D%3D.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2) | [寻味南宁 手搓粉虫 清香韧软](https://weibo.com/tv/v/FBhNbmQsB?fid=1034:9360c85c55891434d7500d73911100b3) | [邕剧（上集）](http://www.nntv.cn/v/zlsnn/2017-2-17/1487300061970.shtml) | [《唱响邕剧》](http://my.tv.sohu.com/pl/9028935/80845296.shtml) | [走近邕剧 了解邕剧（上）](http://new-play.tudou.com/v/548110243.html) | [《邕州古韵 》广西非物质文化遗产](http://my.tv.sohu.com/us/240471285/77592187.shtml) | [《邕城桂戏》广西非物质文化遗产](http://my.tv.sohu.com/pl/9028935/77043395.shtml) | [《五色真军器纪录片》广西非物质文化遗产-系列影片-邕剧](http://v.youku.com/v_show/id_XODEzMjY2MTE2.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
-
-%/accordion%
--->

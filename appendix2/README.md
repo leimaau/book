@@ -6,6 +6,8 @@
 
 5.3 羊城晚报：推普的“南宁”现象
 
+5.4 广西的汉语言文字学研究
+
 <!--
 ![](https://wx1.sinaimg.cn/large/69144085ly1g8d4wrs685j21980p8u0x.jpg)
 ![](https://s2.ax1x.com/2019/10/29/Kgxxnx.jpg)

@@ -13,4 +13,8 @@
 
 【西蒙·斯塔伦海格 (Simon Stålenhag)-《电幻国度》(The Electric State)】
 
-打开网页缓慢时的备用地址：[**这里**](https://leimaau.gitee.io/book/)或[**这里**](https://leimaau.gitbooks.io/nnbh/content/)
+打开网页缓慢时的备用地址：[**这里**](https://leimaau.gitee.io/book/)
+
+<!--
+[**这里**](https://leimaau.gitbooks.io/nnbh/content/)
+-->

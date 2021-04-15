@@ -20,11 +20,13 @@
 
 ![杨焕典《现代汉语方言音库》](http://wx2.sinaimg.cn/mw690/69144085ly1g3urlee5qvj208f0c63ym.jpg) ![广西疍家话语音研究](http://wx4.sinaimg.cn/mw690/69144085ly1g3urlhivpdj208x0c63z3.jpg)
 
+![郭必之《语言接触视角下的南宁粤语语法》](https://z3.ax1x.com/2021/04/15/c2ZtHS.jpg) ![余瑾等《广西平话研究》](https://z3.ax1x.com/2021/04/15/c2ZUAg.jpg)
+
 ![梁振仕《切韵系统与南宁音系》](http://wx1.sinaimg.cn/mw690/69144085ly1g3urlgymhvj20ai0c2afq.jpg) ![梁振仕《广西粤语的音韵系统》](http://wx2.sinaimg.cn/mw690/69144085ly1g3urlfvyg7j209q0c2jw4.jpg)
 
 ![贺州语言博物馆-亭子平话同音字表](http://wx3.sinaimg.cn/mw690/69144085ly1g3urlfhp3xj20u0140n08.jpg) ![贺州语言博物馆-南宁白话同音字表](http://wx3.sinaimg.cn/mw690/69144085ly1g3urlezasvj20u01400v0.jpg)
 
 ## 主要参考网站
 
-[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [小学堂网站](http://xiaoxue.iis.sinica.edu.tw/) | [广西地情资料库](http://www.gxdfz.org.cn/gdtz/#floor_gxtz) | [广西通志-汉语方言志](http://lib.gxdqw.com/file-a88-1.html)
+[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [汉典](https://www.zdic.net/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [小学堂](http://xiaoxue.iis.sinica.edu.tw/) | [广西地情资料库](http://www.gxdfz.org.cn/gdtz/#floor_gxtz) | [广西通志-汉语方言志](http://szfzg.gxdfz.org.cn/review/toReview?dbID=4&dbName=GXFZGLOCALCHRONICLES&sysID=111)
 

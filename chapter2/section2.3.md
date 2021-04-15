@@ -4,7 +4,7 @@
 
 ### 字音查询
 
-字音查询建议参看权威的[《广西通志(汉语方言志)》](http://lib.gxdqw.com/file-a88-1.html)，在第五篇的广西汉语方言字音对照中可以查询常用字的字音，记音质量很好，少部分字音可能出现录入错误，网页上需要调整缩小比例大约60%阅览会较舒适。
+字音查询建议参看权威的[《广西通志(汉语方言志)》](http://szfzg.gxdfz.org.cn/review/toReview?dbID=4&dbName=GXFZGLOCALCHRONICLES&sysID=111)，在第五篇的广西汉语方言字音对照中可以查询常用字的字音，记音质量很好，少部分字音可能出现录入错误，网页上需要调整缩小比例大约60%阅览会较舒适。
 
 ![](http://wx3.sinaimg.cn/large/69144085gy1fyw7latcozj21h10pe0xs.jpg)
 

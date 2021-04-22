@@ -10,7 +10,7 @@
         <answer>认、仍、迎</answer>
         <answer>豉、是、时</answer>
         <answer>龄、令、零</answer>
-        <explanation>承sing4[ʃɪŋ˨˩]、澄（澄清）cing4[t͡ʃʰɪŋ˨˩]、成（几成）cing4[t͡ʃʰɪŋ˨˩]<br/>城、丞、成（成功）sing4[ʃɪŋ˨˩]<br/>认jing6[jɪŋ˨]、仍jing4[jɪŋ˨˩]、迎jing4[jɪŋ˨˩]<br/>豉si6[ʃiː˨]、是si6[ʃiː˨]、时si4[ʃiː˨˩]<br/>龄ling4[lɪŋ˨˩]、令ling6[lɪŋ˨]、零ling4[lɪŋ˨˩]</explanation>
+        <explanation>承sing4[ʃeŋ˨˩]、澄（澄清）cing4[t͡ʃʰeŋ˨˩]、成（几成）cing4[t͡ʃʰeŋ˨˩]<br/>城、丞、成（成功）sing4[ʃeŋ˨˩]<br/>认jing6[jeŋ˨]、仍jing4[jeŋ˨˩]、迎jing4[jeŋ˨˩]<br/>豉si6[ʃiː˨]、是si6[ʃiː˨]、时si4[ʃiː˨˩]<br/>龄ling4[leŋ˨˩]、令ling6[leŋ˨]、零ling4[leŋ˨˩]</explanation>
     </question>
     <question>
         <p>2.下列选项哪两个字分别为不读边擦音的心母字和读边擦音的非心母字？（10分）</p>
@@ -19,7 +19,7 @@
 		<answer>死、腥</answer>
 		<answer>识、撕</answer>
 		<answer>斜、射</answer>
-        <explanation>赛（心母）soi3[ʃɔːi˧]、傻（生母）slo4[ɬɔː˨˩]<br/>史（生母）sai2[ʃɐi˧˥]、肖（心母）ciu3[t͡ʃʰiːu˧]<br/>死（心母）sli2[ɬiː˧˥]、腥（心母）sleng1[ɬɛːŋ˥]<br/>识（书母）sik1[ʃɪk̚˥]、撕（心母）si1[ʃiː˥]<br/>斜（邪母）ce4[t͡ʃʰɛː˨˩]、射（船母）se6[ʃɛː˨]</explanation>
+        <explanation>赛（心母）soi3[ʃɔːi˧]、傻（生母）slo4[ɬɔː˨˩]<br/>史（生母）sai2[ʃɐi˧˥]、肖（心母）ciu3[t͡ʃʰiːu˧]<br/>死（心母）sli2[ɬiː˧˥]、腥（心母）sleng1[ɬɛːŋ˥]<br/>识（书母）sik1[ʃek̚˥]、撕（心母）si1[ʃiː˥]<br/>斜（邪母）ce4[t͡ʃʰɛː˨˩]、射（船母）se6[ʃɛː˨]</explanation>
     </question>
     <question>
         <p>3.请选出下列字的习惯读法中声母与声调都符合中古音至南宁白话演变规律的一项（10分）</p>

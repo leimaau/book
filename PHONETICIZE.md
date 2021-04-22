@@ -40,9 +40,9 @@
   </tr>
 </table>
 
-- 零声母不用字母作标记，如「亚」只拼作aa3[aː˧]。
+- 零声母不用字母作标记，如「亚」只拼作aa3[aː˧]。零声母前一般都有喉塞音[ʔ]，为简便起见，[ʔ]一律省去。
 - sl[ɬ]为清齿龈边擦音，也有人读齿间清擦音[θ]，参见2017年《南宁市城北区志》。而/kʷ/ /kʷʰ/ /w/ 更接近 [kᶹ] [kᶹʰ] [ʋ]，参见1984年王庚年《广西粤语区的俄语语音教学》，其中提到南宁/w/的实际音值为唇齿半元音[ʋ]。
-- 包括零声母在内声母共有21个。零声母前一般都有喉塞音[ʔ]，为简便起见，[ʔ]一律省去。
+- 包括零声母在内声母共有21个。
 
 ## 韵腹
 
@@ -186,10 +186,10 @@
 	<td><span style="font-size:2em;">iu</span><br/>[iːu]<br/>娇</td>
 	<td><span style="font-size:2em;">im</span><br/>[iːm]<br/>剑</td>
 	<td><span style="font-size:2em;">in</span><br/>[iːn]<br/>见</td>
-	<td><span style="font-size:2em;">ing</span><br/>[ɪŋ/eŋ]<br/>经</td>
+	<td><span style="font-size:2em;">ing</span><br/>[eŋ/ɪŋ]<br/>经</td>
 	<td><span style="font-size:2em;">ip</span><br/>[iːp̚]<br/>劫</td>
 	<td><span style="font-size:2em;">it</span><br/>[iːt̚]<br/>结</td>
-	<td><span style="font-size:2em;">ik</span><br/>[ɪk̚/ek̚]<br/>激</td>
+	<td><span style="font-size:2em;">ik</span><br/>[ek̚/ɪk̚]<br/>激</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">u</span><br/>[uː]<br/>夫</td>
@@ -249,8 +249,6 @@
 
 3.输入方案中提示音转为IPA可在preedit_format处开启，PC上按Ctrl+Enter可将提示音上屏，按Ctrl+Shift+Enter可将候选项上屏。
 
-4.为了初学者方便快速学习，输入法的IPA与书面材料稍有不同，ing/ek主元音使用/ɪ/，与/e/音位变体。
-
 ## 注音举例
 
 > [!EXAMPLE]
@@ -259,13 +257,13 @@
 > 
 > faa1 gaai1 dik1 lau4 sling1 - li5 hak1 kan4
 > 
-> [faː˥ kaːi˥ tɪk̚˥ lɐu˨˩ ɬɪŋ˥ - liː˨˦ hɐk̚˥ kʰɐn˨˩]
+> [faː˥ kaːi˥ tek̚˥ lɐu˨˩ ɬeŋ˥ - liː˨˦ hɐk̚˥ kʰɐn˨˩]
 > 
 > 六岁的我这里散步
 > 
 > luk6 slui3 dik1 ngo5 ze5 li5 slaan3 bu6
 > 
-> [lʊk̚˨ ɬuːi˧ tɪk̚˥ ŋɔː˨˦ t͡ʃɛː˨˦ liː˨˦ ɬaːn˧ puː˨]
+> [lʊk̚˨ ɬuːi˧ tek̚˥ ŋɔː˨˦ t͡ʃɛː˨˦ liː˨˦ ɬaːn˧ puː˨]
 > 
 > 雪白球鞋总乱舞
 > 
@@ -315,61 +313,61 @@
 > 
 > jiu4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
 > 
-> [jiːu˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬɪŋ˥]
+> [jiːu˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
 > 
 > 夜风之下共行像畅泳
 > 
 > je6 fung1 zi1 haa6 gung6 hang4 zoeng6 coeng3 wing5
 > 
-> [jɛː˨ fʊŋ˥ t͡ʃiː˥ haː˨ kʊŋ˨ hɐŋ˨˩ t͡ʃœːŋ˨ t͡ʃʰœːŋ˧ wɪŋ˨˦]
+> [jɛː˨ fʊŋ˥ t͡ʃiː˥ haː˨ kʊŋ˨ hɐŋ˨˩ t͡ʃœːŋ˨ t͡ʃʰœːŋ˧ weŋ˨˦]
 > 
 > 只因今晚你是我心情
 > 
 > zi2 jan1 gam1 maan5 ni5 si6 ngo5 slam1 cing4
 > 
-> [t͡ʃiː˧˥ jɐn˥ kɐm˥ maːn˨˦ niː˨˦ ʃiː˨ ŋɔː˨˦ ɬɐm˥ t͡ʃʰɪŋ˨˩]
+> [t͡ʃiː˧˥ jɐn˥ kɐm˥ maːn˨˦ niː˨˦ ʃiː˨ ŋɔː˨˦ ɬɐm˥ t͡ʃʰeŋ˨˩]
 > 
 > 平凡夜市也是灿烂布景
 > 
 > ping4 faan4 je6 si5 jaa5 si6 caan3 laan6 bu3 ging2
 > 
-> [pʰɪŋ˨˩ faːn˨˩ jɛː˨ ʃiː˨˦ jaː˨˦ ʃiː˨ t͡ʃʰaːn˧ laːn˨ puː˧ kɪŋ˧˥]
+> [pʰeŋ˨˩ faːn˨˩ jɛː˨ ʃiː˨˦ jaː˨˦ ʃiː˨ t͡ʃʰaːn˧ laːn˨ puː˧ keŋ˧˥]
 > 
 > 重看这街灯光如流星
 > 
 > cung4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
 > 
-> [t͡ʃʰʊŋ˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬɪŋ˥]
+> [t͡ʃʰʊŋ˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
 > 
 > 熟悉街道上重拾记认
 > 
 > suk6 slat1 gaai1 du6 soeng6 cung4 sap6 gi3 jing6
 > 
-> [ʃʊk̚˨ ɬɐt̚˥ kaːi˥ tuː˨ ʃœːŋ˨ t͡ʃʰʊŋ˨˩ ʃɐp̚˨ kiː˧ jɪŋ˨]
+> [ʃʊk̚˨ ɬɐt̚˥ kaːi˥ tuː˨ ʃœːŋ˨ t͡ʃʰʊŋ˨˩ ʃɐp̚˨ kiː˧ jeŋ˨]
 > 
 > 一起翻看昨日有过心情
 > 
 > jat1 hi2 faan1 hon3 zok6 jat6 jau5 go3 slam1 cing4
 > 
-> [jɐt̚˥ hiː˧˥ faːn˥ hɔːn˧ t͡ʃɔːk̚˨ jɐt̚˨ jɐu˨˦ kɔː˧ ɬɐm˥ t͡ʃʰɪŋ˨˩]
+> [jɐt̚˥ hiː˧˥ faːn˥ hɔːn˧ t͡ʃɔːk̚˨ jɐt̚˨ jɐu˨˦ kɔː˧ ɬɐm˥ t͡ʃʰeŋ˨˩]
 > 
 > 童年事你要逐一倾听
 > 
 > tung4 nin4 si6 ni5 jiu3 zuk6 jat1 king1 ting1
 > 
-> [tʰʊŋ˨˩ niːn˨˩ ʃiː˨ niː˨˦ jiːu˧ t͡ʃʊk̚˨ jɐt̚˥ kʰɪŋ˥ tʰɪŋ˥]
+> [tʰʊŋ˨˩ niːn˨˩ ʃiː˨ niː˨˦ jiːu˧ t͡ʃʊk̚˨ jɐt̚˥ kʰeŋ˥ tʰeŋ˥]
 > 
 > 十岁的我搬到对岸
 > 
 > sap6 slui3 dik1 ngo5 bun1 du3 dui3 ngon6
 > 
-> [ʃɐp̚˨ ɬuːi˧ tɪk̚˥ ŋɔː˨˦ puːn˥ tuː˧ tuːi˧ ŋɔːn˨]
+> [ʃɐp̚˨ ɬuːi˧ tek̚˥ ŋɔː˨˦ puːn˥ tuː˧ tuːi˧ ŋɔːn˨]
 > 
 > 印象模糊的地方
 > 
 > jan3 zoeng6 mo1 wu4 dik1 di6 fong1
 > 
-> [jɐn˧ t͡ʃœːŋ˨ mɔː˥ wuː˨˩ tɪk̚˥ tiː˨ fɔːŋ˥]
+> [jɐn˧ t͡ʃœːŋ˨ mɔː˥ wuː˨˩ tek̚˥ tiː˨ fɔːŋ˥]
 > 
 > 我有新世界躺在新床
 > 
@@ -393,7 +391,7 @@
 > 
 > sliu2 faan3 taan1 dong3 pui3 soeng5 sing1 long6
 > 
-> [ɬiːu˧˥ faːn˧ tʰaːn˥ tɔːŋ˧ pʰuːi˧ ʃœːŋ˨˦ ʃɪŋ˥ lɔːŋ˨]
+> [ɬiːu˧˥ faːn˧ tʰaːn˥ tɔːŋ˧ pʰuːi˧ ʃœːŋ˨˦ ʃeŋ˥ lɔːŋ˨]
 > 
 > 沿路再看这是天堂
 > 
@@ -413,49 +411,49 @@
 > 
 > jiu4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
 > 
-> [jiːu˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬɪŋ˥]
+> [jiːu˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
 > 
 > 夜风之下共行像畅泳
 > 
 > je6 fung1 zi1 haa6 gung6 hang4 zoeng6 coeng3 wing5
 > 
-> [jɛː˨ fʊŋ˥ t͡ʃiː˥ haː˨ kʊŋ˨ hɐŋ˨˩ t͡ʃœːŋ˨ t͡ʃʰœːŋ˧ wɪŋ˨˦]
+> [jɛː˨ fʊŋ˥ t͡ʃiː˥ haː˨ kʊŋ˨ hɐŋ˨˩ t͡ʃœːŋ˨ t͡ʃʰœːŋ˧ weŋ˨˦]
 > 
 > 只因今晚你是我心情
 > 
 > zi2 jan1 gam1 maan5 ni5 si6 ngo5 slam1 cing4
 > 
-> [t͡ʃiː˧˥ jɐn˥ kɐm˥ maːn˨˦ niː˨˦ ʃiː˨ ŋɔː˨˦ ɬɐm˥ t͡ʃʰɪŋ˨˩]
+> [t͡ʃiː˧˥ jɐn˥ kɐm˥ maːn˨˦ niː˨˦ ʃiː˨ ŋɔː˨˦ ɬɐm˥ t͡ʃʰeŋ˨˩]
 > 
 > 平凡夜市也是灿烂布景
 > 
 > ping4 faan4 je6 si5 jaa5 si6 caan3 laan6 bu3 ging2
 > 
-> [pʰɪŋ˨˩ faːn˨˩ jɛː˨ ʃiː˨˦ jaː˨˦ ʃiː˨ t͡ʃʰaːn˧ laːn˨ puː˧ kɪŋ˧˥]
+> [pʰeŋ˨˩ faːn˨˩ jɛː˨ ʃiː˨˦ jaː˨˦ ʃiː˨ t͡ʃʰaːn˧ laːn˨ puː˧ keŋ˧˥]
 > 
 > 重看这街灯光如流星
 > 
 > cung4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
 > 
-> [t͡ʃʰʊŋ˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬɪŋ˥]
+> [t͡ʃʰʊŋ˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
 > 
 > 熟悉街道上重拾记认
 > 
 > suk6 slat1 gaai1 du6 soeng6 cung4 sap6 gi3 jing6
 > 
-> [ʃʊk̚˨ ɬɐt̚˥ kaːi˥ tuː˨ ʃœːŋ˨ t͡ʃʰʊŋ˨˩ ʃɐp̚˨ kiː˧ jɪŋ˨]
+> [ʃʊk̚˨ ɬɐt̚˥ kaːi˥ tuː˨ ʃœːŋ˨ t͡ʃʰʊŋ˨˩ ʃɐp̚˨ kiː˧ jeŋ˨]
 > 
 > 一起翻看昨日有过心情
 > 
 > jat1 hi2 faan1 hon3 zok6 jat6 jau5 go3 slam1 cing4
 > 
-> [jɐt̚˥ hiː˧˥ faːn˥ hɔːn˧ t͡ʃɔːk̚˨ jɐt̚˨ jɐu˨˦ kɔː˧ ɬɐm˥ t͡ʃʰɪŋ˨˩]
+> [jɐt̚˥ hiː˧˥ faːn˥ hɔːn˧ t͡ʃɔːk̚˨ jɐt̚˨ jɐu˨˦ kɔː˧ ɬɐm˥ t͡ʃʰeŋ˨˩]
 > 
 > 童年事你要逐一倾听
 > 
 > tung4 nin4 si6 ni5 jiu3 zuk6 jat1 king1 ting1
 > 
-> [tʰʊŋ˨˩ niːn˨˩ ʃiː˨ niː˨˦ jiːu˧ t͡ʃʊk̚˨ jɐt̚˥ kʰɪŋ˥ tʰɪŋ˥]
+> [tʰʊŋ˨˩ niːn˨˩ ʃiː˨ niː˨˦ jiːu˧ t͡ʃʊk̚˨ jɐt̚˥ kʰeŋ˥ tʰeŋ˥]
 > 
 > 这里太好 yeah
 > 
@@ -467,13 +465,13 @@
 > 
 > jik6 jau5 go3 ngo5 tung4 waa6 gok3 du6
 > 
-> [jɪk̚˨ jɐu˨˦ kɔː˧ ŋɔː˨˦ tʰʊŋ˨˩ waː˨ kɔːk̚˧ tuː˨]
+> [jek̚˨ jɐu˨˦ kɔː˧ ŋɔː˨˦ tʰʊŋ˨˩ waː˨ kɔːk̚˧ tuː˨]
 > 
 > 沿途仍只得老店铺
 > 
 > jyun4 tu4 jing4 zi2 dak1 lu5 dim3 pu3
 > 
-> [jyːn˨˩ tʰuː˨˩ jɪŋ˨˩ t͡ʃiː˧˥ tɐk̚˥ luː˨˦ tiːm˧ pʰuː˧]
+> [jyːn˨˩ tʰuː˨˩ jeŋ˨˩ t͡ʃiː˧˥ tɐk̚˥ luː˨˦ tiːm˧ pʰuː˧]
 > 
 > 没花园都有你待我好
 > 
@@ -487,53 +485,53 @@
 > 
 > jiu4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
 > 
-> [jiːu˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬɪŋ˥]
+> [jiːu˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
 > 
 > 夜风之下共行像畅泳
 > 
 > je6 fung1 zi1 haa6 gung6 hang4 zoeng6 coeng3 wing5
 > 
-> [jɛː˨ fʊŋ˥ t͡ʃiː˥ haː˨ kʊŋ˨ hɐŋ˨˩ t͡ʃœːŋ˨ t͡ʃʰœːŋ˧ wɪŋ˨˦]
+> [jɛː˨ fʊŋ˥ t͡ʃiː˥ haː˨ kʊŋ˨ hɐŋ˨˩ t͡ʃœːŋ˨ t͡ʃʰœːŋ˧ weŋ˨˦]
 > 
 > 只因今晚你是我心情
 > 
 > zi2 jan1 gam1 maan5 ni5 si6 ngo5 slam1 cing4
 > 
-> [t͡ʃiː˧˥ jɐn˥ kɐm˥ maːn˨˦ niː˨˦ ʃiː˨ ŋɔː˨˦ ɬɐm˥ t͡ʃʰɪŋ˨˩]
+> [t͡ʃiː˧˥ jɐn˥ kɐm˥ maːn˨˦ niː˨˦ ʃiː˨ ŋɔː˨˦ ɬɐm˥ t͡ʃʰeŋ˨˩]
 > 
 > 平凡夜市也是灿烂街景
 > 
 > ping4 faan4 je6 si5 jaa5 si6 caan3 laan6 gaai1 ging2
 > 
-> [pʰɪŋ˨˩ faːn˨˩ jɛː˨ ʃiː˨˦ jaː˨˦ ʃiː˨ t͡ʃʰaːn˧ laːn˨ kaːi˥ kɪŋ˧˥]
+> [pʰeŋ˨˩ faːn˨˩ jɛː˨ ʃiː˨˦ jaː˨˦ ʃiː˨ t͡ʃʰaːn˧ laːn˨ kaːi˥ keŋ˧˥]
 > 
 > 重看这街灯光如流星
 > 
 > cung4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
 > 
-> [t͡ʃʰʊŋ˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬɪŋ˥]
+> [t͡ʃʰʊŋ˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
 > 
 > 熟悉街道上重拾记认
 > 
 > suk6 slat1 gaai1 du6 soeng6 cung4 sap6 gi3 jing6
 > 
-> [ʃʊk̚˨ ɬɐt̚˥ kaːi˥ tuː˨ ʃœːŋ˨ t͡ʃʰʊŋ˨˩ ʃɐp̚˨ kiː˧ jɪŋ˨]
+> [ʃʊk̚˨ ɬɐt̚˥ kaːi˥ tuː˨ ʃœːŋ˨ t͡ʃʰʊŋ˨˩ ʃɐp̚˨ kiː˧ jeŋ˨]
 > 
 > 一起翻看昨日有过心情
 > 
 > jat1 hi2 faan1 hon3 zok6 jat6 jau5 go3 slam1 cing4
 > 
-> [jɐt̚˥ hiː˧˥ faːn˥ hɔːn˧ t͡ʃɔːk̚˨ jɐt̚˨ jɐu˨˦ kɔː˧ ɬɐm˥ t͡ʃʰɪŋ˨˩]
+> [jɐt̚˥ hiː˧˥ faːn˥ hɔːn˧ t͡ʃɔːk̚˨ jɐt̚˨ jɐu˨˦ kɔː˧ ɬɐm˥ t͡ʃʰeŋ˨˩]
 > 
 > 童年事你要逐一倾听
 > 
 > tung4 nin4 si6 ni5 jiu3 zuk6 jat1 king1 ting1
 > 
-> [tʰʊŋ˨˩ niːn˨˩ ʃiː˨ niː˨˦ jiːu˧ t͡ʃʊk̚˨ jɐt̚˥ kʰɪŋ˥ tʰɪŋ˥]
+> [tʰʊŋ˨˩ niːn˨˩ ʃiː˨ niː˨˦ jiːu˧ t͡ʃʊk̚˨ jɐt̚˥ kʰeŋ˥ tʰeŋ˥]
 > 
 > 人潮未察觉什么风景
 > 
 > jan4 ciu4 mi6 caat3 gok3 sam6 mo1 fung1 ging2
 > 
-> [jɐn˨˩ t͡ʃʰiːu˨˩ miː˨ t͡ʃʰaːt̚˧ kɔːk̚˧ ʃɐm˨ mɔː˥ fʊŋ˥ kɪŋ˧˥]
+> [jɐn˨˩ t͡ʃʰiːu˨˩ miː˨ t͡ʃʰaːt̚˧ kɔːk̚˧ ʃɐm˨ mɔː˥ fʊŋ˥ keŋ˧˥]
 

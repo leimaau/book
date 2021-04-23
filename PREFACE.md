@@ -28,5 +28,5 @@
 
 ## 主要参考网站
 
-[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [汉典](https://www.zdic.net/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [小学堂](http://xiaoxue.iis.sinica.edu.tw/) | [广西地情资料库](http://www.gxdfz.org.cn/gdtz/#floor_gxtz) | [广西通志-汉语方言志](http://szfzg.gxdfz.org.cn/review/toReview?dbID=4&dbName=GXFZGLOCALCHRONICLES&sysID=111)
+[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [汉典](https://www.zdic.net/) | [汉语多功能字库](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | [小学堂](http://xiaoxue.iis.sinica.edu.tw/) | [广西地情资料库](http://www.gxdfz.org.cn/gdtz/#floor_gxtz) | [广西通志·汉语方言志](http://szfzg.gxdfz.org.cn/review/toReview?dbID=4&dbName=GXFZGLOCALCHRONICLES&sysID=111)
 

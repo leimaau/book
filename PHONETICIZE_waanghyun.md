@@ -185,10 +185,10 @@
 	<td><span style="font-size:2em;">iu</span><br/>[iːu]<br/>娇</td>
 	<td><span style="font-size:2em;">im</span><br/>[iːm]<br/>剑</td>
 	<td><span style="font-size:2em;">in</span><br/>[iːn]<br/>见</td>
-	<td><span style="font-size:2em;">ing</span><br/>[ɪŋ/eŋ]<br/>经</td>
+	<td><span style="font-size:2em;">ing</span><br/>[eŋ/ɪŋ]<br/>经</td>
 	<td><span style="font-size:2em;">ip</span><br/>[iːp̚]<br/>劫</td>
 	<td><span style="font-size:2em;">it</span><br/>[iːt̚]<br/>结</td>
-	<td><span style="font-size:2em;">ik</span><br/>[ɪk̚/ek̚]<br/>激</td>
+	<td><span style="font-size:2em;">ik</span><br/>[ek̚/ɪk̚]<br/>激</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">u</span><br/>[uː]<br/>夫</td>
@@ -246,7 +246,7 @@
 > 
 > ** cing4 fi1 dak1 ji5 - jyu4 cing4 hing3 **
 > 
-> ** [t͡ʃʰɪŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦ - jyː˨˩ t͡ʃʰɪŋ˨˩ hɪŋ˧] **
+> ** [t͡ʃʰeŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦ - jyː˨˩ t͡ʃʰeŋ˨˩ heŋ˧] **
 > 
 > 难以忘记初次见你
 > 
@@ -258,13 +258,13 @@
 > 
 > jat1 soeng1 mai4 njan4 dik1 ngen5 zing1
 > 
-> [jɐt̚˥ ʃœːŋ˥ mɐi˨˩ ȵɐn˨˩ tɪk̚˥ ŋɛːn˨˦ t͡ʃɪŋ˥]
+> [jɐt̚˥ ʃœːŋ˥ mɐi˨˩ ȵɐn˨˩ tek̚˥ ŋɛːn˨˦ t͡ʃeŋ˥]
 > 
 > 在我脑海里你的身影
 > 
 > zoi6 ngo5 nou5 hoi2 li5 ni5 dik1 san1 jing2
 > 
-> [t͡ʃɔːi˨ ŋɔː˨˦ tɪk̚˥ nou˨˦ hɔːi˧˥ liː˨˦ niː˨˦ tɪk̚˥ ʃɐn˥ jɪŋ˧˥]
+> [t͡ʃɔːi˨ ŋɔː˨˦ tek̚˥ nou˨˦ hɔːi˧˥ liː˨˦ niː˨˦ tek̚˥ ʃɐn˥ jeŋ˧˥]
 > 
 > 挥散不去
 > 
@@ -276,19 +276,19 @@
 > 
 > ak1 ni5 dik1 soeng1 sau2 gom2 gok3 ni5 dik1 wan1 jau4
 > 
-> [ɐk̚˥ niː˨˦ tɪk̚˥ ʃœːŋ˥ ʃɐu˧˥ kɔːm˧˥ kɔːk̚˧ niː˨˦ tɪk̚˥ wɐn˥ jɐu˨˩]
+> [ɐk̚˥ niː˨˦ tek̚˥ ʃœːŋ˥ ʃɐu˧˥ kɔːm˧˥ kɔːk̚˧ niː˨˦ tek̚˥ wɐn˥ jɐu˨˩]
 > 
 > 真的有点透不过气
 > 
 > zan1 dik1 jau5 dim2 tau3 bat1 go3 hi3
 > 
-> [t͡ʃɐn˥ tɪk̚˥ jɐu˨˦ tiːm˧˥ tʰɐu˧ pɐt̚˥ kɔː˧ hiː˧]
+> [t͡ʃɐn˥ tek̚˥ jɐu˨˦ tiːm˧˥ tʰɐu˧ pɐt̚˥ kɔː˧ hiː˧]
 > 
 > 你的天真 我想珍惜
 > 
 > ni5 dik1 tin1 zan1 ngo5 sloeng2 zan1 slik1
 > 
-> [niː˨˦ tɪk̚˥ tʰiːn˥ t͡ʃɐn˥ ŋɔː˨˦ ɬœːŋ˧˥ t͡ʃɐn˥ ɬɪk̚˥]
+> [niː˨˦ tek̚˥ tʰiːn˥ t͡ʃɐn˥ ŋɔː˨˦ ɬœːŋ˧˥ t͡ʃɐn˥ ɬek̚˥]
 > 
 > 看到你受委屈我会伤心 哦
 > 
@@ -318,7 +318,7 @@
 > 
 > oi3 ni5 jaa5 slyu1 jiu3 han2 daai6 dik1 jung5 hi3
 > 
-> [ɔːi˧ niː˨˦ jaː˨˦ ɬyː˥ jiːu˧ hɐn˧˥ taːi˨ tɪk̚˥ jʊŋ˨˦ hiː˧]
+> [ɔːi˧ niː˨˦ jaː˨˦ ɬyː˥ jiːu˧ hɐn˧˥ taːi˨ tek̚˥ jʊŋ˨˦ hiː˧]
 > 
 > 只怕我自己会爱上你
 > 
@@ -330,7 +330,7 @@
 > 
 > jaa5 hyu2 jau5 tin1 hui5 cing4 bat1 zy6 gam3
 > 
-> [jaː˨˦ hyː˧˥ jɐu˨˦ tʰiːn˥ huːi˨˦ t͡ʃʰɪŋ˨˩ pɐt̚˥ t͡sɿ˨ kɐm˧]
+> [jaː˨˦ hyː˧˥ jɐu˨˦ tʰiːn˥ huːi˨˦ t͡ʃʰeŋ˨˩ pɐt̚˥ t͡sɿ˨ kɐm˧]
 > 
 > 想念只让自己苦了自己
 > 
@@ -342,7 +342,7 @@
 > 
 > oi3 soeng6 ni5 si6 ngo5 cing4 fi1 dak1 ji5
 > 
-> [ɔːi˧ ʃœːŋ˨ niː˨˦ ʃiː˨ ŋɔː˨˦ t͡ʃʰɪŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦]
+> [ɔːi˧ ʃœːŋ˨ niː˨˦ ʃiː˨ ŋɔː˨˦ t͡ʃʰeŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦]
 > 
 > X 2（重复两遍）
 > 
@@ -356,19 +356,19 @@
 > 
 > ngo5 ging3 jin4 jau6 hui5 njyu6 gin3 ni5
 > 
-> [ŋɔː˨˦ kɪŋ˧ jiːn˨˩ jɐu˨ huːi˨˦ ȵyː˨ kiːn˧ niː˨˦]
+> [ŋɔː˨˦ keŋ˧ jiːn˨˩ jɐu˨ huːi˨˦ ȵyː˨ kiːn˧ niː˨˦]
 > 
 > 我真的真的不愿意
 > 
 > ngo5 zan1 dik1 zan1 dik1 bat1 jyun6 ji3
 > 
-> [ŋɔː˨˦ t͡ʃɐn˥ tɪk̚˥ t͡ʃɐn˥ tɪk̚˥ pɐt̚˥ jyːn˨ jiː˧]
+> [ŋɔː˨˦ t͡ʃɐn˥ tek̚˥ t͡ʃɐn˥ tek̚˥ pɐt̚˥ jyːn˨ jiː˧]
 > 
 > 就这样陷入爱的陷阱 哦
 > 
 > zau6 ze5 joeng6 hom4 jap6 oi3 dik1 hom4 zeng2 o4
 > 
-> [t͡ʃɐu˨ t͡ʃɛː˨˦ jœːŋ˨ hɔːm˨˩ jɐp̚˨ ɔːi˧ tɪk̚˥ hɔːm˨˩ t͡ʃɛːŋ˧˥ ɔː˨˩]
+> [t͡ʃɐu˨ t͡ʃɛː˨˦ jœːŋ˨ hɔːm˨˩ jɐp̚˨ ɔːi˧ tek̚˥ hɔːm˨˩ t͡ʃɛːŋ˧˥ ɔː˨˩]
 > 
 > 只怕我自己会爱上你
 > 
@@ -392,7 +392,7 @@
 > 
 > oi3 ni5 jaa5 slyu1 jiu3 han2 daai6 dik1 jung5 hi3
 > 
-> [ɔːi˧ niː˨˦ jaː˨˦ ɬyː˥ jiːu˧ hɐn˧˥ taːi˨ tɪk̚˥ jʊŋ˨˦ hiː˧]
+> [ɔːi˧ niː˨˦ jaː˨˦ ɬyː˥ jiːu˧ hɐn˧˥ taːi˨ tek̚˥ jʊŋ˨˦ hiː˧]
 > 
 > 只怕我自己会爱上你
 > 
@@ -404,7 +404,7 @@
 > 
 > jaa5 hyu2 jau5 tin1 hui5 cing4 bat1 zy6 gam3
 > 
-> [jaː˨˦ hyː˧˥ jɐu˨˦ tʰiːn˥ huːi˨˦ t͡ʃʰɪŋ˨˩ pɐt̚˥ t͡sɿ˨ kɐm˧]
+> [jaː˨˦ hyː˧˥ jɐu˨˦ tʰiːn˥ huːi˨˦ t͡ʃʰeŋ˨˩ pɐt̚˥ t͡sɿ˨ kɐm˧]
 > 
 > 想念只让自己苦了自己
 > 
@@ -416,13 +416,13 @@
 > 
 > oi3 soeng6 ni5 si6 ngo5 cing4 fi1 dak1 ji5
 > 
-> [ɔːi˧ ʃœːŋ˨ niː˨˦ ʃiː˨ ŋɔː˨˦ t͡ʃʰɪŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦]
+> [ɔːi˧ ʃœːŋ˨ niː˨˦ ʃiː˨ ŋɔː˨˦ t͡ʃʰeŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦]
 > 
 > 爱上你是我情非得已
 > 
 > oi3 soeng6 ni5 si6 ngo5 cing4 fi1 dak1 ji5
 > 
-> [ɔːi˧ ʃœːŋ˨ niː˨˦ ʃiː˨ ŋɔː˨˦ t͡ʃʰɪŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦]
+> [ɔːi˧ ʃœːŋ˨ niː˨˦ ʃiː˨ ŋɔː˨˦ t͡ʃʰeŋ˨˩ fiː˥ tɐk̚˥ jiː˨˦]
 
 
 **参考资料：**

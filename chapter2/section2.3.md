@@ -405,84 +405,153 @@ C-->|韵尾变化|H(掝fit1<抽打>)
 #### 动词后缀
 
 食喳喳 sik6 zaa4 zaa4[ʃek̚ t͡ʃaː˨˩ t͡ʃaː˨˩]——拼命地吃，吃的场面很大。
+
 咬㗱㗱 ngeu5 zap6 zap6[ŋɛːu˨˦ t͡ʃɐp̚˨ t͡ʃɐp̚˨]——咂着嘴啃。
+
 咬硞硞 ngeu5 kuk1 kuk1[ŋɛːu˨˦ kʰʊk̚˥ kʰʊk̚˥]——咬硬东西貌。
+
 拍卟卟 paak3 bap6 bap6[pʰaːk̚˧ pɐp̚˨ pɐp̚˨]——「卟卟」地拍。
+
 打噌噌 daa2 zang4 zang4[taː˧˥ t͡ʃɐŋ˨˩ t͡ʃɐŋ˨˩]——纷纷乱打之貌。
+
 吆喳喳 eu1 jaa1 jaa1[ɛːu˥ jaː˥ jaː˥]——乱嚷嚷。（或写作「吆呀呀、吆吔吔」）
+
 吆呱呱 eu1 gwe4 gwe4[ɛːu˥ kʷɛː˨˩ kʷɛː˨˩]——叫喳喳。（或写作「吆𠺌𠺌」）
+
 吆喳喳 eu1 zaa4 zaa4[ɛːu˥ t͡ʃaː˨˩ t͡ʃaː˨˩]——纷乱地叫。
+
 吆哟哟 eu1 jo1 jo1[ɛːu˥ jɔː˥ jɔː˥]——「哟哟」地叫。
+
 吆呱呱 eu1 gwaa4 gwaa4[ɛːu˥ kʷaː˨˩ kʷaː˨˩]——乱叫喊。
+
 吆聒聒 eu1 gwet1 gwet1[ɛːu˥ kʷɛːt̚˥ kʷɛːt̚˥]——尖叫。
+
 笑嗟嗟 sliu3 ze4 ze4[ɬiːu˧ t͡ʃɛː˨˩ t͡ʃɛː˨˩]——笑嘻嘻。
+
 笑砳砳 sliu3 kok1 kok1[ɬiːu˧ kʰɔːk̚˥ kʰɔːk̚˥]——笑哈哈。
+
 笑吟吟 sliu3 jam1 jam1[ɬiːu˧ jɐm˥ jɐm˥]——笑咪咪。（应是「吟」的变调）
+
 哭呀呀 huk1 ngaa1 ngaa1[hʊk̚˥ ŋaː˥ ŋaː˥]——大声哭。
+
 哭霅霅 huk1 slap6 slap6[hʊk̚˥ ɬɐp̚˨ ɬɐp̚˨]——小声哭。
+
 哭呀呀 huk1 nge1 nge1[hʊk̚˥ ŋɛː˥ ŋɛː˥]——小孩子哭。
+
 坐坺潵 co5 paat6 slaat6[t͡ʃʰɔː˨˦ pʰaːt̚˨ ɬaːt̚˨]——象一滩泥似地坐着。（或写作「坐跋躠」）
+
 睡坺潵 sui6 paat6 slaat6[ʃuːi˨ pʰaːt̚˨ ɬaːt̚˨]——睡像极难看地睡着。（或写作「睡跋躠」）
+
 睡迾迾 sui6 laat6 laat6[ʃuːi˨ laːt̚˨ laːt̚˨]——成排地躺下。（或写作「睡列列」）
+
 走趖趖 zau2 zo4 zo4[t͡ʃɐu˧˥ t͡ʃɔː˨˩ t͡ʃɔː˨˩]——许多人急走。
+
 趯喳喳 dek3 zaa4 zaa4[tɛːk̚˧ t͡ʃaː˨˩ t͡ʃaː˨˩]——纷乱地四处跑。
+
 行趿趿 haang4 slap6 slap6[haːŋ˨˩ ɬɐp̚˨ ɬɐp̚˨]——溜溜哒哒地走。（或写作「行靸靸」）
+
 拖趿趿 to1 slap6 slap6[tʰɔː˥ ɬɐp̚˨ ɬɐp̚˨]——不利索的拖走。（或写作「拖靸靸」）
+
 徛戆戆 ki5 ngang6 ngang6[kʰiː˨˦ ŋɐŋ˨ ŋɐŋ˨]——直直地站着。
+
 跌䂵緪 dit3 gung4 gang4[tiːt̚˧ kʊŋ˨˩ kɐŋ˨˩]——「卟通」地倒下。（或写作「跌䂵縆」）
+
 𠳺娑娑 lan3 slo4 slo4[lɐn˧ ɬɔː˨˩ ɬɔː˨˩]——纷纷落下貌。
+
 崩趖趖 bang1 zo4 zo4[pɐŋ˥ t͡ʃɔː˨˩ t͡ʃɔː˨˩]——房屋纷纷倒塌貌。
+
 吊儾儾 diu3 naang3 naang3[tiːu˧ naːŋ˧ naːŋ˧]——吊在半中腰貌。（原文误作[tiu33 nuŋ33 naŋ33]）
+
 拜霅霅 baai3 slap6 slap6[paːi˧ ɬɐp̚˨ ɬɐp̚˨]——虔诚地拜。
 
 补充：
 
 䂵䂵声 gung4 gung4 seng1[kʊŋ˨˩ kʊŋ˨˩ ʃɛːŋ˥]——轰轰响。
+
 响䂵䂵 hoeng2 kung1 kung1[hœːŋ˧˥ kʰʊŋ˥ kʰʊŋ˥]——咚咚响。
+
 滚趖趖 gwan2 zo4 zo4[kʷɐn˧˥ t͡ʃɔː˨˩ t͡ʃɔː˨˩]——热闹貌。
+
 滚趖趖 gwan2 so4 so4[kʷɐn˧˥ ʃɔː˨˩ ʃɔː˨˩]——水沸腾声。
+
 
 #### 形容词后缀
 
 红艳艳 hung4 jem1 jem1[hʊŋ˥ jɛːm˥ jɛːm˥]——红艳艳。
+
 红咚咚 hung4 dung1 dung1[hʊŋ˨˩ tʊŋ˥ tʊŋ˥]——红彤彤。
+
 红叮叮 hung4 ding1 ding1[hʊŋ˨˩ teŋ˥ teŋ˥]——血红血红的。
+
 黄黚黚 wong4 gam4 gam4[wɔːŋ˨˩ kɐm˨˩ kɐm˨˩]——暗黄。
+
 黄锃锃 wong4 saang3 saang3[wɔːŋ˨˩ ʃaːŋ˧ ʃaːŋ˧]——黄灿灿。
+
 黄𫄪𫄪 wong4 song3 song3[wɔːŋ˨˩ ʃɔːŋ˧ ʃɔːŋ˧]——金黄色。
+
 黄黚黚 wong4 gem4 gem4[wɔːŋ˨˩ kɛːm˨˩ kɛːm˨˩]——一般的黄。
+
 绿嗷嗷 luk6 ngaau3 ngaau3[lʊk̚˨ ŋaːu˧ ŋaːu˧]——绿油油。
+
 青啤啤 ceng1 bi1 bi1[t͡ʃʰɛːŋ˥ piː˥ piː˥]——青得很。
+
 青嗷嗷 ceng1 ngaau3 ngaau3[t͡ʃʰɛːŋ˥ ŋaːu˧ ŋaːu˧]——青得发亮。
+
 黑嘛嘛 hak1 maa1 maa1[hɐk̚˥ maː˥ maː˥]——很黑。
+
 白𡁶𡁶 baak6 zet6 zet6[paːk̚˨ t͡ʃɛːt̚˨ t͡ʃɛːt̚˨]——惨白惨白的。
+
 白宿宿 baak6 sluk1 sluk1[paːk̚˨ ɬʊk̚˥ ɬʊk̚˥]——雪白。
+
 矮黕黕 ai2 dam2 dam2[ɐi˧˥ tɐm˧˥ tɐm˧˥]——很矮。
+
 矮𦛠𦛠 ai2 net1 net1[ɐi˧˥ nɛːt̚˥ nɛːt̚˥]——矮得可怜。
+
 高㗂㗂 gu1 slang4 slang4[kuː˥ ɬɐŋ˨˩ ɬɐŋ˨˩]——很高。
+
 高嫋嫋 gu1 neu4 neu4[kuː˥ nɛːu˨˩ nɛːu˨˩]——高得很单薄。（或写作「高袅袅、高仦仦」）
+
 肥腯腯 fi4 tan4 tan4[fiː˨˩ tʰɐn˨˩ tʰɐn˨˩]——肥得很累赘。
+
 肥臑臑 fi4 no1 no1[fiː˨˩ nɔː˥ nɔː˥]——胖乎乎。
+
 瘦蜢躿 sau3 meng2 keng2[ʃɐu˧ mɛːŋ˧˥ kʰɛːŋ˧˥]——瘦得很难看。
+
 瘦掹铿 sau3 mang1 kang1[ʃɐu˧ mɐŋ˥ kʰɐŋ˥]——很瘦。（或写作「瘦擝铿」）
+
 瘦𤹍𤹍 sau3 nang1 nang1[ʃɐu˧ nɐŋ˥ nɐŋ˥]——瘦得可怜。
+
 奀丁丁 ngan1 ding1 ding1[ŋɐn˥ teŋ˥ teŋ˥]——瘦弱到了极点。
+
 痴戆戆 ci1 ngang1 ngang1[t͡ʃʰiː˥ ŋɐŋ˥ ŋɐŋ˥]——疯疯癫癫的样子。（古壮字有「⿰呆艮」）
+
 傻戆戆 slo4 ngang1 ngang1[ɬɔː˨˩ ŋɐŋ˥ ŋɐŋ˥]——傻乎乎。
+
 聋𠾴𠾴 lung4 baang1 baang1[lʊŋ˨˩ paːŋ˥ paːŋ˥]——聋得什么也听不见。（或写作「聋乓乓」）
+
 盲寻寻 maang4 slam4 slam4[maːŋ˨˩ ɬɐm˨˩ ɬɐm˨˩]——盲目乱来。（古壮字有「⿰笨審」，但本字为「寻」，参见余瑾《广西平话研究》P266）
+
 哑𠸂𠸂 aa2 dat6 dat6[aː˧˥ tɐt̚˨ tɐt̚˨]——哑口无言、无话可说。
+
 跛趿趿 bai1 slap6 slap6[pɐi˥ ɬɐp̚˨ ɬɐp̚˨]——瘸得很。（或写作「跛靸靸」）
+
 干翘翘 gon1 keu1 keu1[kɔːn˥ kʰɛːu˥ kʰɛːu˥]——干燥得很。
+
 干擘擘 gon1 maak3 maak3[kɔːn˥ maːk̚˧ maːk̚˧]——干得没有一点光泽。
+
 湿霅霅 sap1 slap6 slap6[ʃɐp̚˥ ɬɐp̚˨ ɬɐp̚˨]——湿淋淋的。
+
 粈𪙛𪙛 neu1 nak6 nak6[nɛːu˥ nɐk̚˨ nɐk̚˨]——粘得很。
+
 热坺坺 jit6 baat6 baat6[jiːt̚˨ paːt̚˨ paːt̚˨]——热得很。
 
 补充：
 
 烟嗷嗷 jin1 ngaau3 ngaau3[jiːn˥ ŋaːu˧ ŋaːu˧]——烟尘滚滚。
+
 毛㗂㗂 mu4 slang4 slang4[muː˨˩ ɬɐŋ˨˩ ɬɐŋ˨˩]——毛茸茸。
+
 懵㗂㗂 mung2 slang4 slang4[mʊŋ˧˥ ɬɐŋ˨˩ ɬɐŋ˨˩]——糊糊涂涂。
+
 戆居居 ngong3 gyu1 gyu1[ŋɔːŋ˧ kyː˥ kyː˥]——笨头笨脑。（「戆」南宁读阴去，不同于广州的阳去）
 

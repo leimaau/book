@@ -38,7 +38,7 @@
 
 南宁亭子平话的声韵调系统可以参见[**这里**](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)。
 
-### 亭子平话新老派
+### 新老派
 
 综合各种资料，亭子平话的新老派主要体现在以下几点，略述下老变新：
 

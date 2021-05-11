@@ -10,7 +10,7 @@
 * [2.第二章 基础知识](chapter2/README.md)
     * [2.1 南宁白话拼音方案](chapter2/section2.1.md)
     * [2.2 与广州话的区别](chapter2/section2.2.md)
-    * [2.3 字词查询、异读现象](chapter2/section2.3.md)
+    * [2.3 字词查询、异读现象和语气词](chapter2/section2.3.md)
     * [2.4 语言接触、普化音](chapter2/section2.4.md)
     * [2.5 南宁地区粤语口音差异](chapter2/section2.5.md)
     * [2.6 本字与正字、粤语的现代化](chapter2/section2.6.md)

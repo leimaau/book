@@ -104,15 +104,15 @@
   </tr>
   <tr>
 	<td><span style="font-size:2em;">阴</span></td>
-	<td><span style="font-size:2em;">fan1</span> [fɐn˥] 分</td>
-	<td><span style="font-size:2em;">fan2</span> [fɐn˧˥] 粉</td>
-	<td><span style="font-size:2em;">fan3</span> [fɐn˧] 训</td>
+	<td><span style="font-size:2em;">fu1</span> [fuː˥] 肤</td>
+	<td><span style="font-size:2em;">fu2</span> [fuː˧˥] 苦</td>
+	<td><span style="font-size:2em;">fu3</span> [fuː˧] 裤</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">阳</span></td>
-	<td><span style="font-size:2em;">fan4</span> [fɐn˨˩] 焚</td>
-	<td><span style="font-size:2em;">fan5</span> [fɐn˨˦] 愤</td>
-	<td><span style="font-size:2em;">fan6</span> [fɐn˨] 份</td>
+	<td><span style="font-size:2em;">fu4</span> [fuː˨˩] 扶</td>
+	<td><span style="font-size:2em;">fu5</span> [fuː˨˦] 妇</td>
+	<td><span style="font-size:2em;">fu6</span> [fuː˨] 附</td>
   </tr>
 </table>
 

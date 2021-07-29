@@ -13,7 +13,7 @@
     * [2.3 异读现象、语气词和叠音后缀](chapter2/section2.3.md)
     * [2.4 语言接触](chapter2/section2.4.md)
     * [2.5 南宁地区粤语口音差异](chapter2/section2.5.md)
-    * [2.6 本字与正字、粤语的现代化](chapter2/section2.6.md)
+    * [2.6 粤语的现代化](chapter2/section2.6.md)
 * [3.第三章 扩展知识](chapter3/README.md)
     * [3.1 粤语正音运动](chapter3/section3.1.md)
     * [3.2 清代粤语](chapter3/section3.2.md)

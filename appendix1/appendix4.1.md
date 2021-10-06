@@ -12,6 +12,10 @@
 
 ![深蓝词典](http://wx1.sinaimg.cn/large/69144085ly1g1hoka0yh3j20ag0ik0uu.jpg)
 
+**汉字音典APP**
+
+这是osfans开发的手机应用，下载安装使用更方便，[**此处*](https://www.coolapk.com/apk/com.osfans.mcpdict)下载。
+
 ## PC端
 
 **客户端**

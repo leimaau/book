@@ -41,5 +41,6 @@
 * [邕州官话拼音方案〔下郭街〕](PHONETICIZE_yongzou.md)
 * [南宁白话小测验](QUIZ.md)
 * [参考资料](REFERENCES.md)
+* [常见问题解答](QANDA.md)
 * [后记](POSTSCRIPT.md)
 

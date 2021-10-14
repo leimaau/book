@@ -24,6 +24,7 @@
     * [4.1 南宁白话字词典](appendix1/appendix4.1.md)
     * [4.2 南宁白话输入方案](appendix1/appendix4.2.md)
     * [4.3 南宁话与中古音系比较表](appendix1/appendix4.3.md)
+    * [4.3 南宁话常用口语字表](appendix1/appendix4.4.md)
 * [5.附录二 相关资讯](appendix2/README.md)
     * [5.1 刘丹青：差别化政策是语言保护工作的迫切要务](appendix2/appendix5.1.md)
     * [5.2 张振兴：《广西汉语方言重点研究丛书》序](appendix2/appendix5.2.md)
@@ -40,7 +41,7 @@
 * [横县平话拼音方案〔县城音〕](PHONETICIZE_waanghyun_pw.md)
 * [邕州官话拼音方案〔下郭街〕](PHONETICIZE_yongzou.md)
 * [南宁白话小测验](QUIZ.md)
-* [参考资料](REFERENCES.md)
 * [常见问题解答](QANDA.md)
+* [参考资料](REFERENCES.md)
 * [后记](POSTSCRIPT.md)
 

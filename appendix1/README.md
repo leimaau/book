@@ -6,6 +6,8 @@
 
 4.3 南宁话与中古音系比较表
 
+4.4 南宁话常用口语字表
+
 <!--
 ![](https://wx3.sinaimg.cn/large/69144085ly1g8d4vz8vygj20go0m9mzp.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgxO39.jpg)

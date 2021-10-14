@@ -14,7 +14,7 @@
 
 **汉字音典APP**
 
-这是osfans开发的手机应用，下载安装使用更方便，[**此处*](https://www.coolapk.com/apk/com.osfans.mcpdict)下载。
+这是osfans开发的手机应用，下载安装使用更方便，[**此处**](https://www.coolapk.com/apk/com.osfans.mcpdict)下载。
 
 ## PC端
 
@@ -23,6 +23,10 @@
 ![goldendict](http://wx4.sinaimg.cn/large/69144085ly1g1hmu1xe2jj210e0je784.jpg)
 
 南宁白话字词典mdx与mdd文件下载地址：[**下载地址**](https://github.com/leimaau/dict-store)
+
+## 电子档
+
+可参看[南宁话单字音快速查询手册](https://github.com/leimaau/Nanning-Dialect-Manual)，原文tsv版。
 
 **网页端**
 

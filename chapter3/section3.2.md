@@ -1,10 +1,12 @@
-# 清代粤语
+# 清代粤语和原始粤语
+
+## 清代粤语
 
 > 《分韻撮要》是記載清初粵語語音的韻書，現存最早的版本是1782年的《江湖尺牘分韻撮要合集》。《分韻撮要》分三十三韻部，每個韻部內小韻按照陰平、陽平、陰上、陽上、陰去、陽去、陰入、陽入排列，小韻有字義但無反切。《分韻撮要》的作者和具體成書年代均不詳，但可以確定的是此書記錄的語音系統不早於明末清初。--[《韵典网》](http://ytenx.org/)
 
 1856年美國人Williams, S. Wells根據《江湖尺牘分韻撮要合集》刻本出版了《英華分韵撮要》，它是一部按韻部編排的漢英字典，每個漢字除了有英文釋義外，還分別記錄的粵語和官話的拼寫。現存的版本由洛杉磯大學圖書館收藏。
 
-## 聲母系統
+### 聲母系統
 
 《分韻撮要》原書按韻部排列，韻部內分小韻，絕大多數小韻無反切，故其聲母系統只能從韻部內小韻音位對立來考證。韻典網《分韻撮要》聲母系統由poem整理，主要方法爲從廣韻正向推演和現代粵語反向溯源，並參考了論文「清初的粵語音系——《分韻撮要》的聲韻系統」，共擬二十四聲母，分六類。其中「見」「古」、「溪」「困」爲開口與合口的對立，由於粵語除牙音以外無介音，故將牙音開合口擬爲兩個聲母。「亞」、「以」、「云」同爲零聲母，「以」「云」用於區分細音和合口。
 
@@ -17,7 +19,7 @@
 照知 |	照 穿 審
 以日 |	亞 以 云 日
 
-## 韻母系統
+### 韻母系統
 由於粵語介音普遍消失，韻部即大體等同於韻目，從三十三韻部內分出舒聲韻母和入聲韻母以後，即得五十韻母。
 
 韻部 | 舒聲 | 入聲
@@ -63,7 +65,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/fanwan.jpg)
 
-## 清代粤语至现代粤语的变化
+### 清代粤语至现代粤语的变化
 
 关于清代粤语至现代粤语的变化可以参看[2013年罗言发《澳门粤语音系的历史变迁及其成因》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFD1214&filename=1013208914.nh&v=MDcyMjV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlpPZHBGeUhoVUwzQlZGMjZIYkc0RnRqTnE1RWJQSVI4ZVgxTHU=)的博士论文。
 
@@ -79,7 +81,7 @@
 
 笔者在相关文献基础上制作的[**《分韵撮要》输入方案**](https://github.com/leimaau/old-Cantonese)。
 
-## 用字与文法特点
+### 用字与文法特点
 
 我们来看下1931年著者不详的《英粤通语》，这是一份民国时期的粤语教材，了解其用字与文法。该份资料的音系保有师韵，分精照，豪模韵裂化。
 
@@ -170,3 +172,14 @@
 > 竹越美奈子.早期粤语口语中的语体.《南开语言学刊》.2016-03-31.
 
 > 金桂桃.近两百年来广州方言正反问句的发展演变.《语言科学》.2018-01-01.
+
+## 原始粤语
+
+所谓**原始粤语**指的是所有现代粤方言被推定的祖先，它具备了派生现代各种次方言的条件。原始粤语的构拟是目前学界的一个热点，相关的研究在一些专著中有所阐述，例如国际粤方言研讨会论文集，另一些研究论文并未发布或发表于外网之中，MoCoy(1966)、辻伸久(Tsuji 1980)和余霭芹(Yue-Hashimoto 1972,2000,2002)等学者都构拟过原始粤语的音韵系统。
+
+目前网上所见较新的构拟结果是2009年由KAREN HUANG所发表的[A RECONSTRUCTION OF PROTO-YUE VOWELS](http://www.ling.hawaii.edu/research/WorkingPapers/wp-karenhuang.pdf)一文，可以从中一窥其对原始粤语元音的构拟过程。而关于原始粤语的语法构拟可以于[郭必之《原始粤语怎么样表达动作/状态的完成?》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=YYDF201501003&v=MzA5MTFNcm85Rlo0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mWk9kcEZ5SGdWYi9MUERUUGFMRzRIOVQ=)一文了解。
+
+![](http://wx2.sinaimg.cn/large/69144085ly1g14tsqpge5j20ol0xddno.jpg)
+
+![](http://wx3.sinaimg.cn/large/69144085ly1g14tsr4xp8j20ou0xg44h.jpg)
+

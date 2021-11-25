@@ -210,20 +210,22 @@
 捂 | 揞am2[ɐm˧˥] | 搕ap1[ɐp̚˥]
 踫 | 扻ham2[hɐm˧˥] | 磕hap1[hɐp̚˥]
 宽 | 宽fun1[fuːn˥] | 阔fut3[fuːt̚˧]
-用力扯 | 扽dan1[tɐn˥] | 𢴈daat3[taːt̚˧]
+用力扯 | 撉dan1[tɐn˥] | 𢴈daat3[taːt̚˧]
 盖上 | 冚kam2[kʰɐm˧˥] | 扱kap1[kʰɐp̚˥]
 揭开 | 搴kin2[kʰiːn˧˥] | 揭kit3[kʰiːt̚˧]
 放 | 趸dan2[tɐn˧˥] | 𠱂dat1[tɐt̚˥]
 下垂 | 髧dam3[tɐm˧] | 耷dap1[tɐp̚˥]
 硬/软 | 坚gin1[kiːn˥]（坚硬） | 渴git6[kiːt̚˨]（［粥］很稠，《广韵》渠列切，水尽也）
-困住 | 屈wat1[wɐt̚˥]（踡缩，憋在家） | 韫wan3[wɐn˧]（困住，囚禁）
+困住 | 屈wat1[wɐt̚˥]（踡缩，憋在家） | 困wan3[wɐn˧]（困住，囚禁）
 湿透 | 淰nam6[nɐm˨]（熟睡，湿透，洇） | 𣲷nap6[nɐp̚˨]（潮湿）
 松软 | 腍nam4[nɐm˨˩]（烂熟） | 𥹉nap6[nɐp̚˨]（黏糊）
 话多 | 吟ngam4[ŋɐm˨˩]（啰嗦） | 噏ngap1（胡说）
 揽取 | 揽laam2[laːm˧˥] | 擸laap3[laːp̚˧]（聚敛）
 驱赶 | 抨paang5[pʰaːŋ˨˦] | 拍paak3[pʰaːk̚˧]
 框 | 框kwaang1[kʷʰaːŋ˥] | 𡃈kwaak3[kʷʰaːk̚˧]
-干瘪貌 | 干掹mang3[mɐŋ˧]掹mang3[mɐŋ˧] | 干擘maak3[maːk̚˧]擘maak3[maːk̚˧]
+干瘪貌 | 干绷mang3[mɐŋ˧]绷mang3[mɐŋ˧] | 干擘maak3[maːk̚˧]擘maak3[maːk̚˧]
+瘦貌 | 瘦蜢mang1[mɐŋ˥]躿kang1[kʰɐŋ˥] | 瘦嚜mak1[mɐk̚˥]喀kak1[kʰɐk̚˥]
+瘦貌 | 瘦蜢meng2[mɛːŋ˧˥]躿keng2[kʰɛːŋ˧˥] | 瘦嚜mek1[mɛːk̚˥]喀kek1[kʰɛːk̚˥]
 
 **更多研究参见：**
 
@@ -527,9 +529,9 @@ C-->|韵尾变化|H(掝fit1<抽打>)
 
 瘦蜢躿 sau3 meng2 keng2[ʃɐu˧ mɛːŋ˧˥ kʰɛːŋ˧˥]——瘦得很难看。
 
-瘦掹铿 sau3 mang1 kang1[ʃɐu˧ mɐŋ˥ kʰɐŋ˥]——很瘦。（或写作「瘦擝铿、瘦蜢躿」）
+瘦掹铿 sau3 mang1 kang1[ʃɐu˧ mɐŋ˥ kʰɐŋ˥]——很瘦。（或写作「瘦擝铿、瘦蜢躿、瘦绷铿」）
 
-瘦蜢躿 sau3 mang1 kang1[ʃɐu˧ mɐŋ˥ kʰɐŋ˥]——很瘦。（或写作「瘦掹铿、瘦擝铿」）
+瘦蜢躿 sau3 mang1 kang1[ʃɐu˧ mɐŋ˥ kʰɐŋ˥]——很瘦。（或写作「瘦掹铿、瘦擝铿、瘦绷铿」）
 
 瘦𤹍𤹍 sau3 nang1 nang1[ʃɐu˧ nɐŋ˥ nɐŋ˥]——瘦得可怜。
 

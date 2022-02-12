@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-- 零声母不用字母作标记，如「亚」只拼作aa3[aː˥]。零声母前一般都有喉塞音[ʔ]，为简便起见，[ʔ]一律省去。为了避免零声母[∅]与喉塞音[ʔ]符号的混用，如有文献用[∅i]表示[ji]，用[ʔi]表示[ʔi]，但有些文献又用[∅i]表示[ʔi]，用[ji]表示[ji]。此处统一ji[ji]表示[ji]，i[∅i]表示i[ʔi]，只使用零声母[∅]（等价于喉塞音[ʔ]）标记，因为其实真正能发零声母的情况极少，可以等价为喉塞音。
+- 零声母不用字母作标记，如「亚」只拼作aa3[aː˥]。零声母前一般都有喉塞音[ʔ]，为简便起见，[ʔ]一律省去。为了避免零声母[∅]与喉塞音[ʔ]符号的混用，如有文献用[∅i]表示[ji]，用[ʔi]表示[ʔi]，但有些文献又用[∅i]表示[ʔi]，用[ji]表示[ji]。此处统一ji[ji]表示[ji]，i[∅i]表示i[ʔi]，只使用零声母[∅]（等价于喉塞音[ʔ]）标记，因为从音系上此处实际音值的喉塞音可以等价为零声母。
 - nj[ȵ]为龈腭音，sl[ɬ]为清齿龈边擦音。
 - 包括零声母在内声母共有22个。
 
@@ -259,523 +259,67 @@
 
 ## 注音举例
 
-### 《广西通志·汉语方言志》版IPA
-
 > [!EXAMPLE]
 > 
-> ** 清水-光良 **
+> [mo⁵³ wai⁵⁵ wa⁵⁵ tʃeŋ²¹ tʃy²² tʃʰyt³ ki⁵⁵ ki²² ɬɐt² tek³ ki⁵³ pun³³ kʰai⁵⁵ nim²²]
 > 
-> cing1 sui2 - gung1 liang4
+> mo1 waai3 waa3 zing4 zyu6 cyut2 gi3 gi6 slat6 dik2 gi1 bun2 kaai3 nim6
 > 
-> [t͡ʃʰeŋ˥˧ ʃuːi˧ - koŋ˥˧ liɐŋ˨˩]
+> ** 模块化程序设计技术的基本概念 **
 > 
-> 在每个悄悄细雨的深宵
+> [mo⁵³ wai⁵⁵ wa⁵⁵ tʃeŋ²¹ tʃy²² tʃʰyt³ ki⁵⁵ ki²² ɬɐt² ʃi²² 20 ʃi⁵⁵ ki³³ 60 nin²¹ tai²² tʃʰɐt³ jyn²² tek³ ∅ɐt³ tʃœŋ³³ kyt³ kʰɐu⁵⁵ wa⁵⁵ tʃeŋ²¹ tʃy²² tʃʰyt³ ki⁵⁵ ki²² ɬɐt²。kai⁵³ ki²² ɬɐt² ʃi²² ki⁵³]
 > 
-> zaai6 mui5 go3 ciu1 ciu1 slai3 jyu5 dik2 sam1 sliu1
+> mo1 waai3 waa3 zing4 zyu6 cyut2 gi3 gi6 slat6 si6 20 si3 gi2 60 nin4 daai6 cat2 jyun6 dik2 at2 zoeng2 gyut2 kau3 waa3 zing4 zyu6 cyut2 gi3 gi6 slat6。gaai1 gi6 slat6 si6 gi1
 > 
-> [t͡ʃaːi˨ muːi˨˦ ko˥ t͡ʃʰiːu˥˧ t͡ʃʰiːu˥˧ ɬɐi˥ jyː˨˦ tek̚˧ ʃɐm˥˧ ɬiːu˥˧]
+> 模块化程序设计技术是 20 世纪 60 年代出现的一种结构化程序设计技术。该技术是基
 > 
-> 棉被里互送温暖
+> [jy⁵³ “fɐn⁵³ kai³³” ho²¹ “mo⁵³ wai⁵⁵ wa⁵⁵” jyn²¹ tʃɐk³ lai²¹ hœŋ⁵⁵ tʃi⁵⁵ tai²² heŋ²¹ ȵyn²⁴ kyn²² tek³ fœk³ tʃap² tu²²。wɐi²² ʃɐi³³ OS ky²² jɐu²⁴ kau⁵⁵ tʃʰeŋ⁵³ ɬek³ tek³ kyt³ kʰɐu⁵⁵，OS]
 > 
-> min4 bi5 li5 hu6 sloeng3 wan1 nun5
+> jyu1 “fan1 gaai2” ho4 “mo1 waai3 waa3” jyun4 zak2 laai4 hoeng3 zi3 daai6 hing4 njyun5 gyun6 dik2 foek2 zaap6 du6。wai6 sai2 OS gyu6 jau5 gaau3 cing1 slik2 dik2 gyut2 kau3，OS
 > 
-> [miːn˨˩ piː˨˦ liː˨˦ huː˨ ɬœːŋ˥ wɐn˥˧ nuːn˨˦]
+> 于“分解”和“模块化”原则来控制大型软件的复杂度。为使 OS 具有较清晰的结构，OS
 > 
-> 为你买我已看过的影碟
+> [pɐt³ tʃai⁵⁵ ʃi²² jɐu²¹ tʃœŋ⁵⁵ to⁵³ tek³ ku⁵⁵ tʃeŋ²¹ tʃek² tʃip³ kʰɐu⁵⁵ ʃeŋ²¹，ji²¹ ʃi²² tʃiɐŋ⁵³ OS ∅an⁵⁵ ki²¹ kœŋ⁵³ nɐŋ²¹ tʃeŋ⁵³ ɬɐm⁵³ ti²² wak² fɐn⁵³ wɐi²¹ jiɐk²⁴ kan⁵³ ko⁵⁵ ky²² jɐu²⁴ ∅ɐt³ teŋ²² tœk² lɐp²⁴ ɬeŋ⁵⁵ ho²¹]
 > 
-> wai6 ni5 maai5 ngo5 ji5 haan3 gu3 dik2 ing2 dip6
+> bat2 zaai3 si6 jau4 zoeng3 do1 dik2 gu3 zing4 zik6 zip2 kau3 sing4，ji4 si6 ziang1 OS aan3 gi4 goeng1 nang4 zing1 slam1 di6 waak6 fan1 wai4 jiak5 gaan1 go3 gyu6 jau5 at2 ding6 doek6 lap5 sling3 ho4
 > 
-> [wɐi˨ niː˨˦ maːi˨˦ ŋo˨˦ jiː˨˦ haːn˥ kuː˥ tek̚˧ eŋ˧ tiːp̚˨]
+> 不再是由众多的过程直接构成，而是将 OS 按其功能精心地划分为若干个具有一定独立性和
 > 
-> 行遍这都市
+> [tai²² ɬiu³³ tek³ mo⁵³ wai⁵⁵；mui²⁴ ko⁵⁵ mo⁵³ wai⁵⁵ ky²² jɐu²⁴ mɐu²⁴ foŋ⁵³ min²² tek³ kun³³ li²⁴ kœŋ⁵³ nɐŋ²¹，jy²¹ tʃɐn⁵⁵ tʃeŋ²¹ kun³³ li²⁴ mo⁵³ wai⁵⁵、tʃon²¹ tʃy²¹ hi⁵⁵ kun³³ li²⁴ mo⁵³ wai⁵⁵、I/O tʃʰyt³]
 > 
-> hiang4 pin3 ze5 du1 si5
+> daai6 sliu2 dik2 mo1 waai3；mui5 go3 mo1 waai3 gyu6 jau5 mau5 fung1 min6 dik2 gun2 li5 goeng1 nang4，jyu4 zan3 zing4 gun2 li5 mo1 waai3、zon4 zyu4 hi3 gun2 li5 mo1 waai3、I/O cyut2
 > 
-> [hiɐŋ˨˩ pʰiːn˥ t͡ʃe˨˦ tuː˥˧ ʃiː˨˦]
+> 大小的模块；每个模块具有某方面的管理功能，如进程管理模块、存储器管理模块、I/O 设
 > 
-> 能好好相爱非难事
+> [pi²² kun³³ li²⁴ mo⁵³ wai⁵⁵ tɐŋ³³，peŋ²² tʃi³³ ɬɐi⁵⁵ ti²² kʷʰɐi⁵³ teŋ²² hau³³ kak³ mo⁵³ wai⁵⁵ kan⁵³ tek³ tʃip³ hɐu³³，ʃɐi³³ kak³ mo⁵³ wai⁵⁵ tʃi⁵³ kan⁵³ nɐŋ²¹ tʰœŋ⁵³ ku⁵⁵ kai⁵³ tʃip³ hɐu³³ ʃɐt² jyn²² kau⁵³ hu²²。]
 > 
-> nang4 haau2 haau2 sliang1 aai3 fi1 naan6 sai6
+> bi6 gun2 li5 mo1 waai3 dang2，bing6 zi2 slai3 di6 kwai1 ding6 haau2 gaak2 mo1 waai3 gaan1 dik2 zip2 hau2，sai2 gaak2 mo1 waai3 zi1 gaan1 nang4 toeng1 gu3 gaai1 zip2 hau2 sat6 jyun6 gaau1 hu6。
 > 
-> [nɐŋ˨˩ haːu˧ haːu˧ ɬiɐŋ˥˧ aːi˥ fiː˥˧ naːn˨ ʃɐi˨]
+> 备管理模块等，并仔细地规定好各模块间的接口，使各模块之间能通过该接口实现交互。
 > 
-> 从细节中兑现
+> [jyn²¹ hɐu²²，tʃai⁵⁵ tʃɐn⁵⁵ ∅ɐt³ pu²² tʃiɐŋ⁵³ kak³ mo⁵³ wai⁵⁵ ɬɐi⁵⁵ fɐn⁵³ wɐi²¹ jiɐk²⁴ kan⁵³ ko⁵⁵ ky²² jɐu²⁴ ∅ɐt³ teŋ²² kœŋ⁵³ nɐŋ²¹ tek³ tʃi³³ mo⁵³ wai⁵⁵，jy²¹ pa³³ tʃɐn⁵⁵ tʃeŋ²¹ kun³³ li²⁴ mo⁵³ wai⁵⁵ jɐu²² fɐn⁵³ wɐi²¹]
 > 
-> zoeng4 slai3 zit2 zoeng1 dui3 jyun6
+> jyun4 hau6，zaai3 zan3 at2 bu6 ziang1 gaak2 mo1 waai3 slai3 fan1 wai4 jiak5 gaan1 go3 gyu6 jau5 at2 ding6 goeng1 nang4 dik2 zi2 mo1 waai3，jyu4 baa2 zan3 zing4 gun2 li5 mo1 waai3 jau6 fan1 wai4
 > 
-> [t͡ʃœːŋ˨˩ ɬɐi˥ t͡ʃiːt̚˧ t͡ʃœːŋ˥˧ tuːi˥ jyːn˨]
+> 然后，再进一步将各模块细分为若干个具有一定功能的子模块，如把进程管理模块又分为
 > 
-> 情似细水 会流的远
+> [tʃɐn⁵⁵ tʃeŋ²¹ hœŋ⁵⁵ tʃi⁵⁵、tʃɐn⁵⁵ tʃeŋ²¹ tœŋ²¹ pu²² tɐŋ³³ tʃi³³ mo⁵³ wai⁵⁵，tœŋ²¹ jiɐŋ²² je²⁴ jiu⁵⁵ kʷʰɐi⁵³ teŋ²² hau³³ kak³ tʃi³³ mo⁵³ wai⁵⁵ tʃi⁵³ kan⁵³ tek³ tʃip³ hɐu³³。jiɐk²⁴ tʃi³³ mo⁵³ wai⁵⁵ kau⁵⁵ tai²² ʃi²¹，]
 > 
-> zing4 zi3 slai3 sui2 wai6 lau4 dik2 jyun5
+> zan3 zing4 hoeng3 zi3、zan3 zing4 doeng4 bu6 dang2 zi2 mo1 waai3，doeng4 jiang6 je5 jiu3 kwai1 ding6 haau2 gaak2 zi2 mo1 waai3 zi1 gaan1 dik2 zip2 hau2。jiak5 zi2 mo1 waai3 gaau3 daai6 si4，
 > 
-> [t͡ʃeŋ˨˩ t͡ʃiː˥ ɬɐi˥ ʃuːi˧ wɐi˨ lɐu˨˩ tek̚˧ jyːn˨˦]
+> 进程控制、进程同步等子模块，同样也要规定好各子模块之间的接口。若子模块较大时，
 > 
-> 每朝早都共你吻一遍
+> [kʰo³³ tʃai⁵⁵ tʃɐn⁵⁵ ∅ɐt³ pu²² tʃiɐŋ⁵³ tʰa⁵³ ɬɐi⁵⁵ fɐn⁵³。ŋo²⁴ mun²¹ pa³³ tʃe²⁴ tʃœŋ³³ tʃʰyt³ ki⁵⁵ foŋ⁵³ fat³ tʃʰeŋ⁵³ wɐi²¹ mo⁵³ wai⁵⁵ ― tʃip³ hɐu³³ fat³，jɐu²¹ tʃʰi³³ kʰɐu⁵⁵ ʃeŋ²¹ tek³ tʃʰau⁵³ tʃak³ hɐi²² tʰœŋ³³ tʃɐu²² ʃi²²]
 > 
-> mui5 ziu1 zaau2 du1 goeng6 ni5 man5 at2 pin3
+> ko2 zaai3 zan3 at2 bu6 ziang1 taa1 slai3 fan1。ngo5 mun4 baa2 ze5 zoeng2 cyut2 gi3 fung1 faat2 cing1 wai4 mo1 waai3 ― zip2 hau2 faat2，jau4 ci2 kau3 sing4 dik2 caau1 zaak2 hai6 toeng2 zau6 si6
 > 
-> [muːi˨˦ t͡ʃiːu˥˧ t͡ʃaːu˧ tuː˥˧ kœːŋ˨ niː˨˦ mɐn˨˦ ɐt̚˧ pʰiːn˥]
+> 可再进一步将它细分。我们把这种设计方法称为模块 ― 接口法，由此构成的操作系统就是
 > 
-> 多清谈 都心醉 爱情是清水
+> [ky²² jɐu²⁴ mo⁵³ wai⁵⁵ wa⁵⁵ kyt³ kʰɐu⁵⁵ tek³ tʃʰau⁵³ tʃak³ hɐi²² tʰœŋ³³。]
 > 
-> do1 cing1 daam4 du1 slam1 zui3 aai3 zing4 si6 cing1 sui2
+> gyu6 jau5 mo1 waai3 waa3 gyut2 kau3 dik2 caau1 zaak2 hai6 toeng2。
 > 
-> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ tuː˥˧ ɬɐm˥˧ t͡ʃuːi˥ aːi˥ t͡ʃeŋ˨˩ ʃiː˨ t͡ʃʰeŋ˥˧ ʃuːi˧]
-> 
-> 吹不散 敲不碎 我们是一对
-> 
-> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
-> 
-> [t͡ʃʰuːi˥˧ pɐt̚˧ ɬaːn˥ haːu˥˧ pɐt̚˧ ɬuːi˥ ŋo˨˦ muːn˨˩ ʃiː˨ ɐt̚˧ tuːi˥]
-> 
-> 谈情热烈像烟花 难烧到八十岁
-> 
-> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
-> 
-> [taːm˨˩ t͡ʃeŋ˨˩ ȵiːt̚˨˦ lyːt̚˨˦ t͡ʃiɐŋ˨ jyːn˥˧ waː˥˧ naːn˨˩ ʃiːu˥˧ taːu˥ paːt̚˧ ʃɐp̚˨ ɬuːi˥]
-> 
-> 我宁愿爱似清水
-> 
-> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
-> 
-> [ŋo˨˦ neŋ˨˩ jyːn˨ aːi˥ t͡ʃiː˥ t͡ʃʰeŋ˥˧ ʃuːi˧]
-> 
-> 多清谈 多琐碎 也甜在心里
-> 
-> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
-> 
-> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧ ɬuːi˥ je˨˦ tiːm˨˩ t͡ʃaːi˨ ɬɐm˥˧ liː˨˦]
-> 
-> 天空里 深海里 我们亦一对
-> 
-> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
-> 
-> [tʰiːn˥˧ hœːŋ˥˧ liː˨˦ ʃɐm˥˧ haːi˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ɐt̚˧ tuːi˥]
-> 
-> 情人是活命的水 能输进血液里
-> 
-> zing4 njan4 si6 wat6 ming6 dik2 sui2 nang4 syu1 zan3 hyut2 jik5 li5
-> 
-> [t͡ʃeŋ˨˩ ȵɐn˨˩ ʃiː˨ wɐt̚˨ meŋ˨ tek̚˧ ʃuːi˧ nɐŋ˨˩ ʃyː˥˧ t͡ʃɐn˥ hyːt̚˧ jek̚˨˦ liː˨˦]
-> 
-> 那纯净哪可失去
-> 
-> naa6 san4 zing6 naa2 ko2 sat2 hyu3
-> 
-> [naː˨ ʃɐn˨˩ t͡ʃeŋ˨ naː˧ kʰo˧ ʃɐt̚˧ hyː˥]
-> 
-> 寒冷要会替你盖起风褛
-> 
-> haan4 liang5 jiu3 wai6 tai3 ni5 gaai3 hi2 foeng1 lau1
-> 
-> [haːn˨˩ liɐŋ˨˦ jiːu˥ wɐi˨ tʰɐi˥ niː˨˦ kaːi˥ hiː˧ fœːŋ˥˧ lɐu˥˧]
-> 
-> 行过马路要牵手
-> 
-> hiang4 gu3 maa5 lu6 jiu3 hyun1 sau2
-> 
-> [hiɐŋ˨˩ kuː˥ maː˨˦ luː˨ jiːu˥ hyːn˥˧ ʃɐu˧]
-> 
-> 年老了你我亦退休之后
-> 
-> nin4 laau5 liu5 ni5 ngo5 jik5 tui3 jau1 zi1 hau6
-> 
-> [niːn˨˩ laːu˨˦ liːu˨˦ niː˨˦ ŋo˨˦ jek̚˨˦ tʰuːi˥ jɐu˥˧ t͡ʃiː˥˧ hɐu˨]
-> 
-> 游遍这地球
-> 
-> jau4 pin3 ze5 di6 gau4
-> 
-> [jɐu˨˩ pʰiːn˥ t͡ʃe˨˦ tiː˨ kɐu˨˩]
-> 
-> 能好好相爱非难事
-> 
-> nang4 haau2 haau2 sliang1 aai3 fi1 naan6 sai6
-> 
-> [nɐŋ˨˩ haːu˧ haːu˧ ɬiɐŋ˥˧ aːi˥ fiː˥˧ naːn˨ ʃɐi˨]
-> 
-> 从细节中兑现
-> 
-> zoeng4 slai3 zit2 zoeng1 dui3 jyun6
-> 
-> [t͡ʃœːŋ˨˩ ɬɐi˥ t͡ʃiːt̚˧ t͡ʃœːŋ˥˧ tuːi˥ jyːn˨]
-> 
-> 情似细水 会流的远
-> 
-> zing4 zi3 slai3 sui2 wai6 lau4 dik2 jyun5
-> 
-> 
-> [t͡ʃeŋ˨˩ t͡ʃiː˥ ɬɐi˥ ʃuːi˧ wɐi˨ lɐu˨˩ tek̚˧ jyːn˨˦]
-> 
-> 每朝早都共你吻一遍
-> 
-> mui5 ziu1 zaau2 du1 goeng6 ni5 man5 at2 pin3
-> 
-> 
-> [muːi˨˦ t͡ʃiːu˥˧ t͡ʃaːu˧ tuː˥˧ kœːŋ˨ niː˨˦ mɐn˨˦ ɐt̚˧ pʰiːn˥]
-> 
-> 多清谈 都心醉 爱情是清水
-> 
-> do1 cing1 daam4 du1 slam1 zui3 aai3 zing4 si6 cing1 sui2
-> 
-> 
-> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ tuː˥˧ ɬɐm˥˧ t͡ʃuːi˥ aːi˥ t͡ʃeŋ˨˩ ʃiː˨ t͡ʃʰeŋ˥˧ ʃuːi˧]
-> 
-> 吹不散 敲不碎 我们是一对
-> 
-> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
-> 
-> 
-> [t͡ʃʰuːi˥˧ pɐt̚˧ ɬaːn˥ haːu˥˧ pɐt̚˧ ɬuːi˥ ŋo˨˦ muːn˨˩ ʃiː˨ ɐt̚˧ tuːi˥]
-> 
-> 谈情热烈像烟花 难烧到八十岁
-> 
-> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
-> 
-> 
-> [taːm˨˩ t͡ʃeŋ˨˩ ȵiːt̚˨˦ lyːt̚˨˦ t͡ʃiɐŋ˨ jyːn˥˧ waː˥˧ naːn˨˩ ʃiːu˥˧ taːu˥ paːt̚˧ ʃɐp̚˨ ɬuːi˥]
-> 
-> 我宁愿爱似清水
-> 
-> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
-> 
-> 
-> [ŋo˨˦ neŋ˨˩ jyːn˨ aːi˥ t͡ʃiː˥ t͡ʃʰeŋ˥˧ ʃuːi˧]
-> 
-> 多清谈 多琐碎 也甜在心里
-> 
-> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
-> 
-> 
-> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧ ɬuːi˥ je˨˦ tiːm˨˩ t͡ʃaːi˨ ɬɐm˥˧ liː˨˦]
-> 
-> 天空里 深海里 我们亦一对
-> 
-> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
-> 
-> 
-> [tʰiːn˥˧ hœːŋ˥˧ liː˨˦ ʃɐm˥˧ haːi˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ɐt̚˧ tuːi˥]
-> 
-> 情人是活命的水 能输进血液里
-> 
-> zing4 njan4 si6 wat6 ming6 dik2 sui2 nang4 syu1 zan3 hyut2 jik5 li5
-> 
-> 
-> [t͡ʃeŋ˨˩ ȵɐn˨˩ ʃiː˨ wɐt̚˨ meŋ˨ tek̚˧ ʃuːi˧ nɐŋ˨˩ ʃyː˥˧ t͡ʃɐn˥ hyːt̚˧ jek̚˨˦ liː˨˦]
-> 
-> 那纯净哪可失去
-> 
-> naa6 san4 zing6 naa2 ko2 sat2 hyu3
-> 
-> 
-> [naː˨ ʃɐn˨˩ t͡ʃeŋ˨ naː˧ kʰo˧ ʃɐt̚˧ hyː˥]
-> 
-> 猜到你心一句 透明像清水
-> 
-> caai1 daau3 ni5 slam1 at2 gyu3 tau3 ming4 ziang6 cing1 sui2
-> 
-> [t͡ʃʰaːi˥˧ taːu˥ niː˨˦ ɬɐm˥˧ ɐt̚˧ kyː˥ tʰɐu˥ meŋ˨˩ t͡ʃiɐŋ˨ t͡ʃʰeŋ˥˧ ʃuːi˧]
-> 
-> 吹不散 敲不碎 我们是一对
-> 
-> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
-> 
-> 
-> [t͡ʃʰuːi˥˧ pɐt̚˧ ɬaːn˥ haːu˥˧ pɐt̚˧ ɬuːi˥ ŋo˨˦ muːn˨˩ ʃiː˨ ɐt̚˧ tuːi˥]
-> 
-> 谈情热烈像烟花 难烧到八十岁
-> 
-> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
-> 
-> 
-> [taːm˨˩ t͡ʃeŋ˨˩ ȵiːt̚˨˦ lyːt̚˨˦ t͡ʃiɐŋ˨ jyːn˥˧ waː˥˧ naːn˨˩ ʃiːu˥˧ taːu˥ paːt̚˧ ʃɐp̚˨ ɬuːi˥]
-> 
-> 我宁愿爱似清水
-> 
-> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
-> 
-> 
-> [ŋo˨˦ neŋ˨˩ jyːn˨ aːi˥ t͡ʃiː˥ t͡ʃʰeŋ˥˧ ʃuːi˧]
-> 
-> 多清谈 多琐碎 也甜在心里
-> 
-> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
-> 
-> 
-> [to˥˧ t͡ʃʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧ ɬuːi˥ je˨˦ tiːm˨˩ t͡ʃaːi˨ ɬɐm˥˧ liː˨˦]
-> 
-> 天空里 深海里 我们亦一对
-> 
-> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
-> 
-> 
-> [tʰiːn˥˧ hœːŋ˥˧ liː˨˦ ʃɐm˥˧ haːi˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ɐt̚˧ tuːi˥]
-> 
-> 如年迈步伐太累 回忆也当乐趣
-> 
-> jyu4 nin4 maai6 bu6 faat6 taai3 lui6 wai4 ik2 je5 daang1 laak5 cyu3
-> 
-> [jyː˨˩ niːn˨˩ maːi˨ puː˨ faːt̚˨ tʰaːi˥ luːi˨ wɐi˨˩ ek̚˧ je˨˦ taːŋ˥˧ laːk̚˨˦ t͡ʃʰyː˥]
-> 
-> 你常在我的心里 这甜蜜永不失去
-> 
-> ni5 siang4 zaai6 ngo5 dik2 slam1 li5 ze5 dim4 mat5 wing5 bat2 sat2 hyu3
-> 
-> [niː˨˦ ʃiɐŋ˨˩ t͡ʃaːi˨ ŋo˨˦ tek̚˧ ɬɐm˥˧ liː˨˦ t͡ʃe˨˦ tiːm˨˩ mɐt̚˨˦ weŋ˨˦ pɐt̚˧ ʃɐt̚˧ hyː˥]
-
-
-
-### 《南宁平话词典》版IPA
-
-> [!EXAMPLE]
-> 
-> ** 清水-光良 **
-> 
-> cing1 sui2 - gung1 liang4
-> 
-> [t͡sʰeŋ˥˧ suːi˧ - koŋ˥˧ liɐŋ˨˩]
-> 
-> 在每个悄悄细雨的深宵
-> 
-> zaai6 mui5 go3 ciu1 ciu1 slai3 jyu5 dik2 sam1 sliu1
-> 
-> [t͡saːi˨ muːi˨˦ ko˥ t͡sʰiːu˥˧ t͡sʰiːu˥˧ ɬəi˥ jyː˨˦ tek̚˧ səm˥˧ ɬiːu˥˧]
-> 
-> 棉被里互送温暖
-> 
-> min4 bi5 li5 hu6 sloeng3 wan1 nun5
-> 
-> [miːn˨˩ piː˨˦ liː˨˦ huː˨ ɬøːŋ˥ βən˥˧ nuːn˨˦]
-> 
-> 为你买我已看过的影碟
-> 
-> wai6 ni5 maai5 ngo5 ji5 haan3 gu3 dik2 ing2 dip6
-> 
-> [βəi˨ niː˨˦ maːi˨˦ ŋo˨˦ jiː˨˦ haːn˥ kuː˥ tek̚˧ eŋ˧ tiːp̚˨]
-> 
-> 行遍这都市
-> 
-> hiang4 pin3 ze5 du1 si5
-> 
-> [hiɐŋ˨˩ pʰiːn˥ t͡se˨˦ tuː˥˧ siː˨˦]
-> 
-> 能好好相爱非难事
-> 
-> nang4 haau2 haau2 sliang1 aai3 fi1 naan6 sai6
-> 
-> [nəŋ˨˩ haːu˧ haːu˧ ɬiɐŋ˥˧ aːi˥ fiː˥˧ naːn˨ səi˨]
-> 
-> 从细节中兑现
-> 
-> zoeng4 slai3 zit2 zoeng1 dui3 jyun6
-> 
-> [t͡søːŋ˨˩ ɬəi˥ t͡siːt̚˧ t͡søːŋ˥˧ tuːi˥ jyːn˨]
-> 
-> 情似细水 会流的远
-> 
-> zing4 zi3 slai3 sui2 wai6 lau4 dik2 jyun5
-> 
-> [t͡seŋ˨˩ t͡siː˥ ɬəi˥ suːi˧ βəi˨ ləu˨˩ tek̚˧ jyːn˨˦]
-> 
-> 每朝早都共你吻一遍
-> 
-> mui5 ziu1 zaau2 du1 goeng6 ni5 man5 at2 pin3
-> 
-> [muːi˨˦ t͡siːu˥˧ t͡saːu˧ tuː˥˧ køːŋ˨ niː˨˦ mən˨˦ ət̚˧ pʰiːn˥]
-> 
-> 多清谈 都心醉 爱情是清水
-> 
-> do1 cing1 daam4 du1 slam1 zui3 aai3 zing4 si6 cing1 sui2
-> 
-> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ tuː˥˧ ɬəm˥˧ t͡suːi˥ aːi˥ t͡seŋ˨˩ siː˨ t͡sʰeŋ˥˧ suːi˧]
-> 
-> 吹不散 敲不碎 我们是一对
-> 
-> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
-> 
-> [t͡sʰuːi˥˧ pət̚˧ ɬaːn˥ haːu˥˧ pət̚˧ ɬuːi˥ ŋo˨˦ muːn˨˩ siː˨ ət̚˧ tuːi˥]
-> 
-> 谈情热烈像烟花 难烧到八十岁
-> 
-> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
-> 
-> [taːm˨˩ t͡seŋ˨˩ ɲiːt̚˨˦ lyːt̚˨˦ t͡siɐŋ˨ jyːn˥˧ βaː˥˧ naːn˨˩ siːu˥˧ taːu˥ paːt̚˧ səp̚˨ ɬuːi˥]
-> 
-> 我宁愿爱似清水
-> 
-> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
-> 
-> [ŋo˨˦ neŋ˨˩ jyːn˨ aːi˥ t͡siː˥ t͡sʰeŋ˥˧ suːi˧]
-> 
-> 多清谈 多琐碎 也甜在心里
-> 
-> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
-> 
-> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧ ɬuːi˥ je˨˦ tiːm˨˩ t͡saːi˨ ɬəm˥˧ liː˨˦]
-> 
-> 天空里 深海里 我们亦一对
-> 
-> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
-> 
-> [tʰiːn˥˧ høːŋ˥˧ liː˨˦ səm˥˧ haːi˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ət̚˧ tuːi˥]
-> 
-> 情人是活命的水 能输进血液里
-> 
-> zing4 njan4 si6 wat6 ming6 dik2 sui2 nang4 syu1 zan3 hyut2 jik5 li5
-> 
-> [t͡seŋ˨˩ ɲən˨˩ siː˨ βət̚˨ meŋ˨ tek̚˧ suːi˧ nəŋ˨˩ syː˥˧ t͡sən˥ hyːt̚˧ jek̚˨˦ liː˨˦]
-> 
-> 那纯净哪可失去
-> 
-> naa6 san4 zing6 naa2 ko2 sat2 hyu3
-> 
-> [naː˨ sən˨˩ t͡seŋ˨ naː˧ kʰo˧ sət̚˧ hyː˥]
-> 
-> 寒冷要会替你盖起风褛
-> 
-> haan4 liang5 jiu3 wai6 tai3 ni5 gaai3 hi2 foeng1 lau1
-> 
-> [haːn˨˩ liɐŋ˨˦ jiːu˥ βəi˨ tʰəi˥ niː˨˦ kaːi˥ hiː˧ føːŋ˥˧ ləu˥˧]
-> 
-> 行过马路要牵手
-> 
-> hiang4 gu3 maa5 lu6 jiu3 hyun1 sau2
-> 
-> [hiɐŋ˨˩ kuː˥ maː˨˦ luː˨ jiːu˥ hyːn˥˧ səu˧]
-> 
-> 年老了你我亦退休之后
-> 
-> nin4 laau5 liu5 ni5 ngo5 jik5 tui3 jau1 zi1 hau6
-> 
-> [niːn˨˩ laːu˨˦ liːu˨˦ niː˨˦ ŋo˨˦ jek̚˨˦ tʰuːi˥ jəu˥˧ t͡siː˥˧ həu˨]
-> 
-> 游遍这地球
-> 
-> jau4 pin3 ze5 di6 gau4
-> 
-> [jəu˨˩ pʰiːn˥ t͡se˨˦ tiː˨ kəu˨˩]
-> 
-> 能好好相爱非难事
-> 
-> nang4 haau2 haau2 sliang1 aai3 fi1 naan6 sai6
-> 
-> [nəŋ˨˩ haːu˧ haːu˧ ɬiɐŋ˥˧ aːi˥ fiː˥˧ naːn˨ səi˨]
-> 
-> 从细节中兑现
-> 
-> zoeng4 slai3 zit2 zoeng1 dui3 jyun6
-> 
-> [t͡søːŋ˨˩ ɬəi˥ t͡siːt̚˧ t͡søːŋ˥˧ tuːi˥ jyːn˨]
-> 
-> 情似细水 会流的远
-> 
-> zing4 zi3 slai3 sui2 wai6 lau4 dik2 jyun5
-> 
-> [t͡seŋ˨˩ t͡siː˥ ɬəi˥ suːi˧ βəi˨ ləu˨˩ tek̚˧ jyːn˨˦]
-> 
-> 每朝早都共你吻一遍
-> 
-> mui5 ziu1 zaau2 du1 goeng6 ni5 man5 at2 pin3
-> 
-> [muːi˨˦ t͡siːu˥˧ t͡saːu˧ tuː˥˧ køːŋ˨ niː˨˦ mən˨˦ ət̚˧ pʰiːn˥]
-> 
-> 多清谈 都心醉 爱情是清水
-> 
-> do1 cing1 daam4 du1 slam1 zui3 aai3 zing4 si6 cing1 sui2
-> 
-> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ tuː˥˧ ɬəm˥˧ t͡suːi˥ aːi˥ t͡seŋ˨˩ siː˨ t͡sʰeŋ˥˧ suːi˧]
-> 
-> 吹不散 敲不碎 我们是一对
-> 
-> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
-> 
-> [t͡sʰuːi˥˧ pət̚˧ ɬaːn˥ haːu˥˧ pət̚˧ ɬuːi˥ ŋo˨˦ muːn˨˩ siː˨ ət̚˧ tuːi˥]
-> 
-> 谈情热烈像烟花 难烧到八十岁
-> 
-> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
-> 
-> [taːm˨˩ t͡seŋ˨˩ ɲiːt̚˨˦ lyːt̚˨˦ t͡siɐŋ˨ jyːn˥˧ βaː˥˧ naːn˨˩ siːu˥˧ taːu˥ paːt̚˧ səp̚˨ ɬuːi˥]
-> 
-> 我宁愿爱似清水
-> 
-> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
-> 
-> [ŋo˨˦ neŋ˨˩ jyːn˨ aːi˥ t͡siː˥ t͡sʰeŋ˥˧ suːi˧]
-> 
-> 多清谈 多琐碎 也甜在心里
-> 
-> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
-> 
-> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧ ɬuːi˥ je˨˦ tiːm˨˩ t͡saːi˨ ɬəm˥˧ liː˨˦]
-> 
-> 天空里 深海里 我们亦一对
-> 
-> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
-> 
-> [tʰiːn˥˧ høːŋ˥˧ liː˨˦ səm˥˧ haːi˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ət̚˧ tuːi˥]
-> 
-> 情人是活命的水 能输进血液里
-> 
-> zing4 njan4 si6 wat6 ming6 dik2 sui2 nang4 syu1 zan3 hyut2 jik5 li5
-> 
-> [t͡seŋ˨˩ ɲən˨˩ siː˨ βət̚˨ meŋ˨ tek̚˧ suːi˧ nəŋ˨˩ syː˥˧ t͡sən˥ hyːt̚˧ jek̚˨˦ liː˨˦]
-> 
-> 那纯净哪可失去
-> 
-> naa6 san4 zing6 naa2 ko2 sat2 hyu3
-> 
-> [naː˨ sən˨˩ t͡seŋ˨ naː˧ kʰo˧ sət̚˧ hyː˥]
-> 
-> 猜到你心一句 透明像清水
-> 
-> caai1 daau3 ni5 slam1 at2 gyu3 tau3 ming4 ziang6 cing1 sui2
-> 
-> [t͡sʰaːi˥˧ taːu˥ niː˨˦ ɬəm˥˧ ət̚˧ kyː˥ tʰəu˥ meŋ˨˩ t͡siɐŋ˨ t͡sʰeŋ˥˧ suːi˧]
-> 
-> 吹不散 敲不碎 我们是一对
-> 
-> cui1 bat2 slaan3 haau1 bat2 slui3 ngo5 mun4 si6 at2 dui3
-> 
-> [t͡sʰuːi˥˧ pət̚˧ ɬaːn˥ haːu˥˧ pət̚˧ ɬuːi˥ ŋo˨˦ muːn˨˩ siː˨ ət̚˧ tuːi˥]
-> 
-> 谈情热烈像烟花 难烧到八十岁
-> 
-> daam4 zing4 njit5 lyut5 ziang6 jyun1 waa1 naan4 siu1 daau3 baat2 sap6 slui3
-> 
-> [taːm˨˩ t͡seŋ˨˩ ɲiːt̚˨˦ lyːt̚˨˦ t͡siɐŋ˨ jyːn˥˧ βaː˥˧ naːn˨˩ siːu˥˧ taːu˥ paːt̚˧ səp̚˨ ɬuːi˥]
-> 
-> 我宁愿爱似清水
-> 
-> ngo5 ning4 jyun6 aai3 zi3 cing1 sui2
-> 
-> [ŋo˨˦ neŋ˨˩ jyːn˨ aːi˥ t͡siː˥ t͡sʰeŋ˥˧ suːi˧]
-> 
-> 多清谈 多琐碎 也甜在心里
-> 
-> do1 cing1 daam4 do1 slu2 slui3 je5 dim4 zaai6 slam1 li5
-> 
-> [to˥˧ t͡sʰeŋ˥˧ taːm˨˩ to˥˧ ɬuː˧ ɬuːi˥ je˨˦ tiːm˨˩ t͡saːi˨ ɬəm˥˧ liː˨˦]
-> 
-> 天空里 深海里 我们亦一对
-> 
-> tin1 hoeng1 li5 sam1 haai2 li5 ngo5 mun4 jik5 at2 dui3
-> 
-> [tʰiːn˥˧ høːŋ˥˧ liː˨˦ səm˥˧ haːi˧ liː˨˦ ŋo˨˦ muːn˨˩ jek̚˨˦ ət̚˧ tuːi˥]
-> 
-> 如年迈步伐太累 回忆也当乐趣
-> 
-> jyu4 nin4 maai6 bu6 faat6 taai3 lui6 wai4 ik2 je5 daang1 laak5 cyu3
-> 
-> [jyː˨˩ niːn˨˩ maːi˨ puː˨ faːt̚˨ tʰaːi˥ luːi˨ βəi˨˩ ek̚˧ je˨˦ taːŋ˥˧ laːk̚˨˦ t͡sʰyː˥]
-> 
-> 你常在我的心里 这甜蜜永不失去
-> 
-> ni5 siang4 zaai6 ngo5 dik2 slam1 li5 ze5 dim4 mat5 wing5 bat2 sat2 hyu3
-> 
-> [niː˨˦ siɐŋ˨˩ t͡saːi˨ ŋo˨˦ tek̚˧ ɬəm˥˧ liː˨˦ t͡se˨˦ tiːm˨˩ mət̚˨˦ βeŋ˨˦ pət̚˧ sət̚˧ hyː˥]
-
+> 具有模块化结构的操作系统。
 
 
 **参考资料：**

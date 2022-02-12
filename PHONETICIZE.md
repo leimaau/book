@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-- 零声母不用字母作标记，如「亚」只拼作aa3[aː˧]。零声母前一般都有喉塞音[ʔ]，为简便起见，[ʔ]一律省去。为了避免零声母[∅]与喉塞音[ʔ]符号的混用，如有文献用[∅u]表示[wu]，用[ʔu]表示[ʔu]，但有些文献又用[∅u]表示[ʔu]，用[wu]表示[wu]。此处统一wu[wu]表示[wu]，u[∅u]表示u[ʔu]，只使用零声母[∅]（等价于喉塞音[ʔ]）标记，因为其实真正能发零声母的情况极少，可以等价为喉塞音。
+- 零声母不用字母作标记，如「亚」只拼作aa3[aː˧]。零声母前一般都有喉塞音[ʔ]，为简便起见，[ʔ]一律省去。为了避免零声母[∅]与喉塞音[ʔ]符号的混用，如有文献用[∅u]表示[wu]，用[ʔu]表示[ʔu]，但有些文献又用[∅u]表示[ʔu]，用[wu]表示[wu]。此处统一wu[wu]表示[wu]，u[∅u]表示u[ʔu]，只使用零声母[∅]（等价于喉塞音[ʔ]）标记，因为从音系上此处实际音值的喉塞音可以等价为零声母。
 - sl[ɬ]为清齿龈边擦音，也有人读齿间清擦音[θ]，参见2017年《南宁市城北区志》。而/kʷ/ /kʷʰ/ /w/ 更接近 [kᶹ] [kᶹʰ] [ʋ]，参见1984年王庚年《广西粤语区的俄语语音教学》，其中提到南宁/w/的实际音值为唇齿半元音[ʋ]。
 - 包括零声母在内声母共有21个。
 
@@ -254,285 +254,50 @@
 
 > [!EXAMPLE]
 > 
-> ** 花街的流星-李克勤 **
+> [hy⁵⁵ ni²⁴ tʃʰyn²¹ tʃʰy²¹ hi³³ ki²² ʃɐt²]
 > 
-> faa1 gaai1 dik1 lau4 sling1 - li5 hak1 kan4
+> hyu1 ni5 cyun4 cyu4 hi3 gi6 sat6
 > 
-> [faː˥ kaːi˥ tek̚˥ lɐu˨˩ ɬeŋ˥ - liː˨˦ hɐk̚˥ kʰɐn˨˩]
+> ** 虚拟存储器技术 **
 > 
-> 六岁的我这里散步
+> [tʃɔi²² tan⁵⁵ tu²² tʃʰeŋ²¹ tʃy²² wan²¹ keŋ³⁵ ha²²，tʃʰy³⁵ li²⁴ ki⁵⁵ wui²² jɐu²⁴ hɐn³⁵ tɔ⁵⁵ hʊŋ⁵⁵ hɛn²¹ ʃi²¹ kɛn⁵⁵，nui²² tʃʰyn²¹ ja²⁴ wui²² jɐu²⁴ hɐn³⁵ tɔ⁵⁵ hʊŋ⁵⁵ hɛn²¹ hʊŋ⁵⁵ kɛn⁵⁵，hin³⁵ jin²¹，tʃɛ²⁴]
 > 
-> luk6 slui3 dik1 ngo5 ze5 li5 slaan3 bu6
+> zoi6 daan1 du6 cing4 zyu6 waan4 ging2 haa6，cyu2 li5 gi1 wui6 jau5 han2 do1 hung1 hen4 si4 gen1，nui6 cyun4 jaa5 wui6 jau5 han2 do1 hung1 hen4 hung1 gen1，hin2 jin4，ze5
 > 
-> [lʊk̚˨ ɬuːi˧ tek̚˥ ŋɔː˨˦ t͡ʃɛː˨˦ liː˨˦ ɬaːn˧ puː˨]
+> 在单道程序环境下，处理机会有很多空闲时间，内存也会有很多空闲空间，显然，这
 > 
-> 雪白球鞋总乱舞
+> [wui²² ʃɐi³⁵ tʃʰy³⁵ li²⁴ ki⁵⁵ wɔ²¹ nui²² tʃʰyn²¹ tek⁵ hau²² lɐt² tɐi⁵⁵ ha²²。jy²¹ kɔ³⁵ ʃyt³ ʃi²¹ fɐn⁵⁵ fʊk⁵ jʊŋ²² ki²² ʃɐt² ʃi²² li²² jʊŋ²² tʃʰy³⁵ li²⁴ ki⁵⁵ tek⁵ hʊŋ⁵⁵ hɛn²¹ ʃi²¹ kɛn⁵⁵ lɔi²¹ wɐn²² hɐŋ²¹ kʰi²¹ tʰa⁵⁵]
 > 
-> slyut3 baak6 kau4 haai6 zung2 lyun6 mu5
+> wui6 sai2 cyu2 li5 gi1 wo4 nui6 cyun4 dik1 haau6 lat6 dai1 haa6。jyu4 go2 syut3 si4 fan1 fuk1 jung6 gi6 sat6 si6 li6 jung6 cyu2 li5 gi1 dik1 hung1 hen4 si4 gen1 loi4 wan6 hang4 ki4 taa1
 > 
-> [ɬyːt˧ paːk̚˨ kʰɐu˨˩ haːi˨˩ t͡ʃʊŋ˧˥ lyːn˨ muː˨˦]
+> 会使处理机和内存的效率低下。如果说时分复用技术是利用处理机的空闲时间来运行其它
 > 
-> 我幼小眼里街灯很高
+> [tek⁵ tʃʰeŋ²¹ tʃy²²，ʃɐi³⁵ tʃʰy³⁵ li²⁴ ki⁵⁵ tek⁵ li²² jʊŋ²² lɐt² tɐk⁵ ji²⁴ tʰɐi²¹ ku⁵⁵，na²⁴ mɔ⁵⁵ hʊŋ⁵⁵ fɐn⁵⁵ fʊk⁵ jʊŋ²² tʃɐk⁵ ʃi²² li²² jʊŋ²² tʃʰyn²¹ tʃʰy²¹ hi³³ tek⁵ hʊŋ⁵⁵ hɛn²¹ hʊŋ⁵⁵ kɛn⁵⁵ lɔi²¹ tʃʰyn²¹ fɔŋ³³ kʰi²¹]
 > 
-> ngo5 jau3 sliu2 ngen5 li5 gaai1 dang1 han2 gu1
+> dik1 cing4 zyu6，sai2 cyu2 li5 gi1 dik1 li6 jung6 lat6 dak1 ji5 tai4 gu1，naa5 mo1 hung1 fan1 fuk1 jung6 zak1 si6 li6 jung6 cyun4 cyu4 hi3 dik1 hung1 hen4 hung1 gen1 loi4 cyun4 fong3 ki4
 > 
-> [ŋɔː˨˦ jɐu˧ ɬiːu˧˥ ŋɛːn˨˦ liː˨˦ kaːi˥ tɐŋ˥ hɐn˧˥ kuː˥]
+> 的程序，使处理机的利用率得以提高，那么空分复用则是利用存储器的空闲空间来存放其
 > 
-> 我要增高
+> [tʰa⁵⁵ tek⁵ tʃʰeŋ²¹ tʃy²²，ji²⁴ tʰɐi²¹ ku⁵⁵ nui²² tʃʰyn²¹ tek⁵ li²² jʊŋ²² lɐt²。]
 > 
-> ngo5 jiu3 zang1 gu1
+> taa1 dik1 cing4 zyu6，ji5 tai4 gu1 nui6 cyun4 dik1 li6 jung6 lat6。
 > 
-> [ŋɔː˨˦ jiːu˧ t͡ʃɐŋ˥ kuː˥]
+> 它的程序，以提高内存的利用率。
 > 
-> 现在我跟你路过这街道旁
+> [tan²² ʃi²²，tan⁵⁵ ʃɐn²¹ tek⁵ hʊŋ⁵⁵ fɐn⁵⁵ fʊk⁵ jʊŋ²² tʃʰyn²¹ tʃʰy²¹ hi³³ tʃi³⁵ nɐŋ²¹ tʰɐi²¹ ku⁵⁵ nui²² tʃʰyn²¹ tek⁵ li²² jʊŋ²² lɐt²，peŋ²² pɐt⁵ nɐŋ²¹ ʃɐt² jin²² tʃɔi²² lɔ²¹ tʃʰɐp⁵ ʃœŋ²² kʰɔŋ³³ tai²² tʃʰyn²¹ tʃʰy²¹]
 > 
-> jin6 zoi6 ngo5 gan1 ni5 lu6 go3 ze5 gaai1 du6 pong4
+> daan6 si6，daan1 san4 dik1 hung1 fan1 fuk1 jung6 cyun4 cyu4 hi3 zi2 nang4 tai4 gu1 nui6 cyun4 dik1 li6 jung6 lat6，bing6 bat1 nang4 sat6 jin6 zoi6 lo4 cap1 soeng6 kong3 daai6 cyun4 cyu4
 > 
-> [jiːn˨ t͡ʃɔːi˨ ŋɔː˨˦ kɐn˥ niː˨˦ luː˨ kɔː˧ t͡ʃɛː˨˦ kaːi˥ tuː˨ pʰɔːŋ˨˩]
+> 但是，单纯的空分复用存储器只能提高内存的利用率，并不能实现在逻辑上扩大存储
 > 
-> 小贩摊档始终密布
+> [hi³³ jʊŋ²¹ lœŋ²² tek⁵ kʊŋ⁵⁵ nɐŋ²¹，pit⁵ ɬy⁵⁵ jɐn²⁴ jɐp² hy⁵⁵ ni²⁴ tʃʰyn²¹ tʃʰy²¹ ki²² ʃɐt² tʃʰɔi²¹ nɐŋ²¹ tat² tu³³ tʃʰi³⁵ mʊk² ti²²。ji²¹ hy⁵⁵ ni²⁴ tʃʰyn²¹ tʃʰy²¹ ki²² ʃɐt² tʃɔi²² pun³⁵ tʃɐt⁵ ʃœŋ²² tʃɐu²² ʃi²² ʃɐi³⁵]
 > 
-> sliu2 faan3 taan1 dong3 ci2 zung1 mat6 bu3
+> hi3 jung4 loeng6 dik1 gung1 nang4，bit1 slyu1 jan5 jap6 hyu1 ni5 cyun4 cyu4 gi6 sat6 coi4 nang4 daat6 du3 ci2 muk6 di6。ji4 hyu1 ni5 cyun4 cyu4 gi6 sat6 zoi6 bun2 zat1 soeng6 zau6 si6 sai2
 > 
-> [ɬiːu˧˥ faːn˧ tʰaːn˥ tɔːŋ˧ t͡ʃʰiː˧˥ t͡ʃʊŋ˥ mɐt̚˨ puː˧]
+> 器容量的功能，必须引入虚拟存储技术才能达到此目地。而虚拟存储技术在本质上就是使
 > 
-> 沿路看到这八阵图
+> [nui²² tʃʰyn²¹ fɐn⁵⁵ ʃi²¹ fʊk⁵ jʊŋ²²。tʰa⁵⁵ hɔ³⁵ ji²⁴ ʃɐi³⁵ jɐt⁵ tu²² tʃʰeŋ²¹ tʃy²² tʰʊŋ⁵⁵ kɔ³³ ʃi²¹ fɐn⁵⁵ fʊk⁵ jʊŋ²² fɔŋ⁵⁵ ʃek⁵，tʃɔi²² jyn²⁴ ɬiu³⁵ jy⁵⁵ tʰa⁵⁵ tek⁵ nui²² tʃʰyn²¹ hʊŋ⁵⁵ kɛn⁵⁵ tʃʊŋ⁵⁵ wɐn²² hɐŋ²¹。]
 > 
-> jyun4 lu6 hon3 du3 ze5 bet3 zan6 tu4
+> nui6 cyun4 fan1 si4 fuk1 jung6。taa1 ho2 ji5 sai2 jat1 du6 cing4 zyu6 tung1 go3 si4 fan1 fuk1 jung6 fong1 sik1，zoi6 jyun5 sliu2 jyu1 taa1 dik1 nui6 cyun4 hung1 gen1 zung1 wan6 hang4。
 > 
-> [jyːn˨˩ luː˨ hɔːn˧ tuː˧ t͡ʃɛː˨˦ pɛːt̚˧ t͡ʃɐn˨ tʰuː˨˩]
-> 
-> 从前没有你未发现最好
-> 
-> cung4 cin4 mut6 jau5 ni5 mi6 faat3 jin6 zui3 hu2
-> 
-> [t͡ʃʰʊŋ˨˩ t͡ʃʰiːn˨˩ muːt̚˨ jɐu˨˦ niː˨˦ miː˨ faːt̚˧ jiːn˨ t͡ʃuːi˧ huː˧˥]
-> 
-> woo..ooh
-> 
-> 遥看这街灯光如流星
-> 
-> jiu4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
-> 
-> [jiːu˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
-> 
-> 夜风之下共行像畅泳
-> 
-> je6 fung1 zi1 haa6 gung6 hang4 zoeng6 coeng3 wing5
-> 
-> [jɛː˨ fʊŋ˥ t͡ʃiː˥ haː˨ kʊŋ˨ hɐŋ˨˩ t͡ʃœːŋ˨ t͡ʃʰœːŋ˧ weŋ˨˦]
-> 
-> 只因今晚你是我心情
-> 
-> zi2 jan1 gam1 maan5 ni5 si6 ngo5 slam1 cing4
-> 
-> [t͡ʃiː˧˥ jɐn˥ kɐm˥ maːn˨˦ niː˨˦ ʃiː˨ ŋɔː˨˦ ɬɐm˥ t͡ʃʰeŋ˨˩]
-> 
-> 平凡夜市也是灿烂布景
-> 
-> ping4 faan4 je6 si5 jaa5 si6 caan3 laan6 bu3 ging2
-> 
-> [pʰeŋ˨˩ faːn˨˩ jɛː˨ ʃiː˨˦ jaː˨˦ ʃiː˨ t͡ʃʰaːn˧ laːn˨ puː˧ keŋ˧˥]
-> 
-> 重看这街灯光如流星
-> 
-> cung4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
-> 
-> [t͡ʃʰʊŋ˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
-> 
-> 熟悉街道上重拾记认
-> 
-> suk6 slat1 gaai1 du6 soeng6 cung4 sap6 gi3 jing6
-> 
-> [ʃʊk̚˨ ɬɐt̚˥ kaːi˥ tuː˨ ʃœːŋ˨ t͡ʃʰʊŋ˨˩ ʃɐp̚˨ kiː˧ jeŋ˨]
-> 
-> 一起翻看昨日有过心情
-> 
-> jat1 hi2 faan1 hon3 zok6 jat6 jau5 go3 slam1 cing4
-> 
-> [jɐt̚˥ hiː˧˥ faːn˥ hɔːn˧ t͡ʃɔːk̚˨ jɐt̚˨ jɐu˨˦ kɔː˧ ɬɐm˥ t͡ʃʰeŋ˨˩]
-> 
-> 童年事你要逐一倾听
-> 
-> tung4 nin4 si6 ni5 jiu3 zuk6 jat1 king1 ting1
-> 
-> [tʰʊŋ˨˩ niːn˨˩ ʃiː˨ niː˨˦ jiːu˧ t͡ʃʊk̚˨ jɐt̚˥ kʰeŋ˥ tʰeŋ˥]
-> 
-> 十岁的我搬到对岸
-> 
-> sap6 slui3 dik1 ngo5 bun1 du3 dui3 ngon6
-> 
-> [ʃɐp̚˨ ɬuːi˧ tek̚˥ ŋɔː˨˦ puːn˥ tuː˧ tuːi˧ ŋɔːn˨]
-> 
-> 印象模糊的地方
-> 
-> jan3 zoeng6 mo1 wu4 dik1 di6 fong1
-> 
-> [jɐn˧ t͡ʃœːŋ˨ mɔː˥ wuː˨˩ tek̚˥ tiː˨ fɔːŋ˥]
-> 
-> 我有新世界躺在新床
-> 
-> ngo5 jau5 slan1 sai3 gaai3 tong2 zoi6 slan1 cong4
-> 
-> [ŋɔː˨˦ jɐu˨˦ ɬɐn˥ ʃɐi˧ kaːi˧ tʰɔːŋ˧˥ t͡ʃɔːi˨ ɬɐn˥ t͡ʃʰɔːŋ˨˩]
-> 
-> 再见街坊
-> 
-> zoi3 gin3 gaai1 fong1
-> 
-> [t͡ʃɔːi˧ kiːn˧ kaːi˥ fɔːŋ˥]
-> 
-> 现在我跟你路过这街道旁
-> 
-> jin6 zoi6 ngo5 gan1 ni5 lu6 go3 ze5 gaai1 du6 pong4
-> 
-> [jiːn˨ t͡ʃɔːi˨ ŋɔː˨˦ kɐn˥ niː˨˦ luː˨ kɔː˧ t͡ʃɛː˨˦ kaːi˥ tuː˨ pʰɔːŋ˨˩]
-> 
-> 小贩摊档配上声浪
-> 
-> sliu2 faan3 taan1 dong3 pui3 soeng5 sing1 long6
-> 
-> [ɬiːu˧˥ faːn˧ tʰaːn˥ tɔːŋ˧ pʰuːi˧ ʃœːŋ˨˦ ʃeŋ˥ lɔːŋ˨]
-> 
-> 沿路再看这是天堂
-> 
-> jyun4 lu6 zoi3 hon3 ze5 si6 tin1 tong4
-> 
-> [jyːn˨˩ luː˨ t͡ʃɔːi˧ hɔːn˧ t͡ʃɛː˨˦ ʃiː˨ tʰiːn˥ tʰɔːŋ˨˩]
-> 
-> 从前没有你未发现最光
-> 
-> cung4 cin4 mut6 jau5 ni5 mi6 faat3 jin6 zui3 gong1
-> 
-> [t͡ʃʰʊŋ˨˩ t͡ʃʰiːn˨˩ muːt̚˨ jɐu˨˦ niː˨˦ miː˨ faːt̚˧ jiːn˨ t͡ʃuːi˧ kɔːŋ˥]
-> 
-> woo..ooh
-> 
-> 遥看这街灯光如流星
-> 
-> jiu4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
-> 
-> [jiːu˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
-> 
-> 夜风之下共行像畅泳
-> 
-> je6 fung1 zi1 haa6 gung6 hang4 zoeng6 coeng3 wing5
-> 
-> [jɛː˨ fʊŋ˥ t͡ʃiː˥ haː˨ kʊŋ˨ hɐŋ˨˩ t͡ʃœːŋ˨ t͡ʃʰœːŋ˧ weŋ˨˦]
-> 
-> 只因今晚你是我心情
-> 
-> zi2 jan1 gam1 maan5 ni5 si6 ngo5 slam1 cing4
-> 
-> [t͡ʃiː˧˥ jɐn˥ kɐm˥ maːn˨˦ niː˨˦ ʃiː˨ ŋɔː˨˦ ɬɐm˥ t͡ʃʰeŋ˨˩]
-> 
-> 平凡夜市也是灿烂布景
-> 
-> ping4 faan4 je6 si5 jaa5 si6 caan3 laan6 bu3 ging2
-> 
-> [pʰeŋ˨˩ faːn˨˩ jɛː˨ ʃiː˨˦ jaː˨˦ ʃiː˨ t͡ʃʰaːn˧ laːn˨ puː˧ keŋ˧˥]
-> 
-> 重看这街灯光如流星
-> 
-> cung4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
-> 
-> [t͡ʃʰʊŋ˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
-> 
-> 熟悉街道上重拾记认
-> 
-> suk6 slat1 gaai1 du6 soeng6 cung4 sap6 gi3 jing6
-> 
-> [ʃʊk̚˨ ɬɐt̚˥ kaːi˥ tuː˨ ʃœːŋ˨ t͡ʃʰʊŋ˨˩ ʃɐp̚˨ kiː˧ jeŋ˨]
-> 
-> 一起翻看昨日有过心情
-> 
-> jat1 hi2 faan1 hon3 zok6 jat6 jau5 go3 slam1 cing4
-> 
-> [jɐt̚˥ hiː˧˥ faːn˥ hɔːn˧ t͡ʃɔːk̚˨ jɐt̚˨ jɐu˨˦ kɔː˧ ɬɐm˥ t͡ʃʰeŋ˨˩]
-> 
-> 童年事你要逐一倾听
-> 
-> tung4 nin4 si6 ni5 jiu3 zuk6 jat1 king1 ting1
-> 
-> [tʰʊŋ˨˩ niːn˨˩ ʃiː˨ niː˨˦ jiːu˧ t͡ʃʊk̚˨ jɐt̚˥ kʰeŋ˥ tʰeŋ˥]
-> 
-> 这里太好 yeah
-> 
-> ze5 li5 taai3 hu2
-> 
-> [t͡ʃɛː˨˦ liː˨˦ tʰaːi˧ huː˧˥]
-> 
-> 亦有过我童话国度
-> 
-> jik6 jau5 go3 ngo5 tung4 waa6 gok3 du6
-> 
-> [jek̚˨ jɐu˨˦ kɔː˧ ŋɔː˨˦ tʰʊŋ˨˩ waː˨ kɔːk̚˧ tuː˨]
-> 
-> 沿途仍只得老店铺
-> 
-> jyun4 tu4 jing4 zi2 dak1 lu5 dim3 pu3
-> 
-> [jyːn˨˩ tʰuː˨˩ jeŋ˨˩ t͡ʃiː˧˥ tɐk̚˥ luː˨˦ tiːm˧ pʰuː˧]
-> 
-> 没花园都有你待我好
-> 
-> mut6 faa1 jyun4 du1 jau5 ni5 doi6 ngo5 hu2
-> 
-> [muːt̚˨ faː˥ jyːn˨˩ tuː˥ jɐu˨˦ niː˨˦ tɔːi˨ ŋɔː˨˦ huː˧˥]
-> 
-> woo..ooh
-> 
-> 遥看这街灯光如流星
-> 
-> jiu4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
-> 
-> [jiːu˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
-> 
-> 夜风之下共行像畅泳
-> 
-> je6 fung1 zi1 haa6 gung6 hang4 zoeng6 coeng3 wing5
-> 
-> [jɛː˨ fʊŋ˥ t͡ʃiː˥ haː˨ kʊŋ˨ hɐŋ˨˩ t͡ʃœːŋ˨ t͡ʃʰœːŋ˧ weŋ˨˦]
-> 
-> 只因今晚你是我心情
-> 
-> zi2 jan1 gam1 maan5 ni5 si6 ngo5 slam1 cing4
-> 
-> [t͡ʃiː˧˥ jɐn˥ kɐm˥ maːn˨˦ niː˨˦ ʃiː˨ ŋɔː˨˦ ɬɐm˥ t͡ʃʰeŋ˨˩]
-> 
-> 平凡夜市也是灿烂街景
-> 
-> ping4 faan4 je6 si5 jaa5 si6 caan3 laan6 gaai1 ging2
-> 
-> [pʰeŋ˨˩ faːn˨˩ jɛː˨ ʃiː˨˦ jaː˨˦ ʃiː˨ t͡ʃʰaːn˧ laːn˨ kaːi˥ keŋ˧˥]
-> 
-> 重看这街灯光如流星
-> 
-> cung4 hon3 ze5 gaai1 dang1 gong1 jyu4 lau4 sling1
-> 
-> [t͡ʃʰʊŋ˨˩ hɔːn˧ t͡ʃɛː˨˦ kaːi˥ tɐŋ˥ kɔːŋ˥ jyː˨˩ lɐu˨˩ ɬeŋ˥]
-> 
-> 熟悉街道上重拾记认
-> 
-> suk6 slat1 gaai1 du6 soeng6 cung4 sap6 gi3 jing6
-> 
-> [ʃʊk̚˨ ɬɐt̚˥ kaːi˥ tuː˨ ʃœːŋ˨ t͡ʃʰʊŋ˨˩ ʃɐp̚˨ kiː˧ jeŋ˨]
-> 
-> 一起翻看昨日有过心情
-> 
-> jat1 hi2 faan1 hon3 zok6 jat6 jau5 go3 slam1 cing4
-> 
-> [jɐt̚˥ hiː˧˥ faːn˥ hɔːn˧ t͡ʃɔːk̚˨ jɐt̚˨ jɐu˨˦ kɔː˧ ɬɐm˥ t͡ʃʰeŋ˨˩]
-> 
-> 童年事你要逐一倾听
-> 
-> tung4 nin4 si6 ni5 jiu3 zuk6 jat1 king1 ting1
-> 
-> [tʰʊŋ˨˩ niːn˨˩ ʃiː˨ niː˨˦ jiːu˧ t͡ʃʊk̚˨ jɐt̚˥ kʰeŋ˥ tʰeŋ˥]
-> 
-> 人潮未察觉什么风景
-> 
-> jan4 ciu4 mi6 caat3 gok3 sam6 mo1 fung1 ging2
-> 
-> [jɐn˨˩ t͡ʃʰiːu˨˩ miː˨ t͡ʃʰaːt̚˧ kɔːk̚˧ ʃɐm˨ mɔː˥ fʊŋ˥ keŋ˧˥]
-
+> 内存分时复用。它可以使一道程序通过时分复用方式，在远小于它的内存空间中运行。

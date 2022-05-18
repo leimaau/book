@@ -17,6 +17,6 @@
 ![](https://s2.ax1x.com/2019/10/29/KgxXcR.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/ngaislat.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/ngaislat.jpg)
 
 【广西文化艺术中心】

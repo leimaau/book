@@ -9,7 +9,7 @@
 ![](https://s2.ax1x.com/2019/10/29/Kgzd5F.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_gbh.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_gbh.jpg)
 
 书中所描述的广州话音系与现今的广州话有些差异，根据相关论文研究，用现代的IPA将书中描述的广州音转写如下：
 
@@ -45,7 +45,7 @@ y yn yt
 ![](https://s2.ax1x.com/2019/10/29/KgzYD0.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_jj.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_jj.jpg)
 
 1946年岑麟祥在其《广州音系概述》中也描述了广州话的西关音塞擦音、擦音多读[ts tsʰ s]。
 
@@ -54,9 +54,9 @@ y yn yt
 ![](https://s2.ax1x.com/2019/10/30/K5QMt0.png)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_gz.png)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_gz.png)
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_gz2.png)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_gz2.png)
 
 2004年施其生在其《一百年前广州话的阴平调》论文中谈到，其考查了1912年《How to speak Cantonese 怎样学广州话》54页的一段对话，西关音的「子、词、斯」正是读[tsɿ tsʰɿ sɿ]。
 
@@ -65,9 +65,9 @@ y yn yt
 ![](https://s2.ax1x.com/2019/10/31/KoqzSU.png)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_si.png)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_si.png)
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_si2.png)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_si2.png)
 
 **参考资料：**
 
@@ -86,13 +86,13 @@ y yn yt
 ![](https://s2.ax1x.com/2019/10/29/KgzaUU.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_makwan.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_makwan.jpg)
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_makwan2.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_makwan2.jpg)
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_makwan3.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_makwan3.jpg)
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_makwan4.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_makwan4.jpg)
 
 **参考资料：**
 
@@ -110,7 +110,7 @@ y yn yt
 ![](https://s2.ax1x.com/2019/10/29/KgzyK1.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saigwaan_jyutkek.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saigwaan_jyutkek.jpg)
 
 **更多参考资料：**
 
@@ -135,8 +135,8 @@ y yn yt
 ![](https://s2.ax1x.com/2019/10/29/KgzD29.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saamkapdai.jpg)
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saamkapdai2.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saamkapdai.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saamkapdai2.jpg)
 
 **参考资料：**
 
@@ -149,7 +149,7 @@ y yn yt
 ![](https://s2.ax1x.com/2019/10/29/Kgz6Dx.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saamkapdai3.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saamkapdai3.jpg)
 
 **参考资料：**
 
@@ -162,7 +162,7 @@ y yn yt
 ![](https://s2.ax1x.com/2019/10/29/KgzrvR.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/saamkapdai4.jpg)
+![](https://leimaau.github.io/CDN/data-store/historyData/saamkapdai4.jpg)
 
 **参考资料：**
 

@@ -10,9 +10,9 @@
 ![](https://s2.ax1x.com/2019/10/30/K53CkR.png)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/mangwok.png)
+![](https://leimaau.github.io/CDN/data-store/historyData/mangwok.png)
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/historyData/mangwok2.png)
+![](https://leimaau.github.io/CDN/data-store/historyData/mangwok2.png)
 
 ## 论文资料
 
@@ -25,7 +25,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K53LEd.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/junggong.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/junggong.jpg)
 
 【南宁邕江】
 
@@ -34,7 +34,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K53x8P.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/suitaapgoek.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/suitaapgoek.jpg)
 
 【水塔脚】
 
@@ -43,7 +43,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K53X4I.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/junggongbak.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/junggongbak.jpg)
 
 【邕江北岸】
 
@@ -70,7 +70,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K58Sv8.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/hingningluj_30.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/hingningluj_30.jpg)
 
 【30年代兴宁路】
 
@@ -79,7 +79,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K53vCt.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/daklinglu.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/daklinglu.jpg)
 
 【1932年修建的德邻路落成典礼（今解放路）】
 
@@ -88,7 +88,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K53zgf.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/mansanglu.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/mansanglu.jpg)
 
 【30年代民生路交通亭】
 
@@ -115,7 +115,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K5GWSx.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/zungwaa.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/zungwaa.jpg)
 
 【上世纪30年代中华大戏院】
 
@@ -124,7 +124,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K53bHH.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/mongfolau.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/mongfolau.jpg)
 
 【50年代旧望火楼】
 
@@ -133,7 +133,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K589KS.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/gwokhing.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/gwokhing.jpg)
 
 【1964年兴宁路上庆国庆】
 
@@ -166,7 +166,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K537uD.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/buhanggaai.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/buhanggaai.jpg)
 
 【90年代的步行街】
 
@@ -175,7 +175,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K53ojO.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/gaaifonglu.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/gaaifonglu.jpg)
 
 【1997年的解放路】
 
@@ -190,7 +190,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K53OUA.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/slanwui.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/slanwui.jpg)
 
 【新会书院】
 
@@ -199,7 +199,7 @@
 ![](https://s2.ax1x.com/2019/10/30/K58CDg.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/jyutdung.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/jyutdung.jpg)
 
 【粤东会馆】
 
@@ -210,9 +210,9 @@
 ![](https://s2.ax1x.com/2019/10/30/K53HDe.jpg)
 -->
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/hingningluj.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/hingningluj.jpg)
 
-![](https://cdn.jsdelivr.net/gh/leimaau/CDN@latest/data-store/nanningPic/hingningluj2.jpg)
+![](https://leimaau.github.io/CDN/data-store/nanningPic/hingningluj2.jpg)
 
 【现在的兴宁路】
 

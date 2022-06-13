@@ -12,7 +12,7 @@
 
 QQ邮箱：leimaau@qq.com
 
-狸猫的在线辞典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
+狸猫的在线辞典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)〔新版[**Leimaau's Webdict 3.0**](https://leimaau-webdict3.vercel.app/)已上线〕
 
 ——LeiMaau(狸猫) 2018.07.27
 

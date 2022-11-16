@@ -13,6 +13,7 @@ before_install:
 
 # 依赖安装
 install:
+  - npm install -g npm
   - npm install gitbook-cli -g
   # 安装 gitbook 插件
   - gitbook install

@@ -23,7 +23,3 @@ QQ邮箱：leimaau@qq.com
 ** 版权 **
 
 全本电子书版权归作者LeiMaau(狸猫)所有
-
-![](http://wx4.sinaimg.cn/mw690/007k96OPly4fy9jedl7l4j30u00u0tf9.jpg)
-
-【唐山路鸳鸯楼】

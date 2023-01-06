@@ -6,7 +6,6 @@
     * [1.1 南宁白话的历史](chapter1/section1.1.md)
     * [1.2 国际音标与粤语拼音](chapter1/section1.2.md)
     * [1.3 音韵学基础](chapter1/section1.3.md)
-    * [1.4 中国语言地图集选摘](chapter1/section1.4.md)
 * [2.第二章 基础知识](chapter2/README.md)
     * [2.1 南宁白话拼音方案](chapter2/section2.1.md)
     * [2.2 与广州话的区别](chapter2/section2.2.md)

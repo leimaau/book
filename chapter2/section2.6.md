@@ -38,21 +38,7 @@
 
 ### **举例3**
 
-下面这篇语料出自1997年杨焕典《南宁话音档》的「北风跟太阳」，分别用官话白话文与粤语白话文来书写，[**此处**](https://www.bilibili.com/audio/au749077)给出用南宁白话来直读粤语白话文的例子。
-
-%accordion%列表%accordion%
-
-![](http://wx4.sinaimg.cn/mw690/69144085ly1g1pehmo29bj20gw08h3yt.jpg)
-
-![](http://wx3.sinaimg.cn/mw690/69144085ly1g1pehn5cxyj20h607aq3a.jpg)
-
-![](http://wx3.sinaimg.cn/mw690/69144085ly1g1pehlczbej20i20mv3zn.jpg)
-
-![](http://wx4.sinaimg.cn/mw690/69144085ly1g1pehlswmtj20hr0tojt9.jpg)
-
-![](http://wx2.sinaimg.cn/mw690/69144085ly1g1pehma3dlj20gn0kzjsh.jpg)
-
-%/accordion%
+1997年杨焕典《南宁话音档》给出一篇语料「北风跟太阳」，该书配套有林亦的录音，使用音读来读粤语白话文，有兴趣的读者可自寻。另外，现代的语保工程采录平台亦可使用。
 
 ### 如何看待读书音
 
@@ -255,32 +241,6 @@
 * [张群显、包睿舜《以汉字书写粤语》](https://www.jstor.org/stable/pdf/23826053.pdf?seq=1#page_scan_tab_contents)
 
 在[2011年邓小琴《粤方言书面化及其历史演变研究》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2016&filename=1016004514.nh&v=MjM5MzJGQ3JsVXJyS1ZGMjZHTE80R3RUTnE1RWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlkrWnU=)的论文中归纳了一份很完整的字表可以作为参考。
-
-%accordion%列表%accordion%
-
-![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocaaybt7j20sr18tjxs.jpg)
-
-![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocabwgyoj20so19dtfb.jpg)
-
-![](http://wx3.sinaimg.cn/mw690/69144085ly1g1ocacaomwj20ry19m7au.jpg)
-
-![](http://wx1.sinaimg.cn/mw690/69144085ly1g1ocacq3n3j20s91967ae.jpg)
-
-![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocado037j20sh18t0z1.jpg)
-
-![](http://wx2.sinaimg.cn/mw690/69144085ly1g1ocae998vj20s71957b5.jpg)
-
-![](http://wx2.sinaimg.cn/mw690/69144085ly1g1ocaes7ddj20sf197jy0.jpg)
-
-![](http://wx1.sinaimg.cn/mw690/69144085ly1g1ocai6m2wj20s9192agl.jpg)
-
-![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocaiw4psj20t41957aw.jpg)
-
-![](http://wx3.sinaimg.cn/mw690/69144085ly1g1ocajb6acj20s3195tey.jpg)
-
-![](http://wx4.sinaimg.cn/mw690/69144085ly1g1ocajo1mqj20s60ohn0p.jpg)
-
-%/accordion%
 
 ## 粤语的现代化
 

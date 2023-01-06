@@ -5,7 +5,6 @@
 <p align="right">著者：LeiMaau(狸猫)</p>
 
 <!--
-![](http://wx3.sinaimg.cn/large/69144085ly1g26zm69o4hj21hc0u0qv5.jpg)
 ![](https://s2.ax1x.com/2020/02/25/3YizKe.jpg)
 -->
 

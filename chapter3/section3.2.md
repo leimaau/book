@@ -69,16 +69,6 @@
 
 关于清代粤语至现代粤语的变化可以参看[2013年罗言发《澳门粤语音系的历史变迁及其成因》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFD1214&filename=1013208914.nh&v=MDcyMjV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlpPZHBGeUhoVUwzQlZGMjZIYkc0RnRqTnE1RWJQSVI4ZVgxTHU=)的博士论文。
 
-![](http://wx1.sinaimg.cn/large/69144085gy1fxg0csvgpdj219e0lp40i.jpg)
-
-![](http://wx2.sinaimg.cn/large/69144085gy1fxg0ctbuwcj210n0npdi1.jpg)
-
-![](http://wx4.sinaimg.cn/large/69144085gy1fxg0ctyrxej210o0mpgnj.jpg)
-
-![](http://wx3.sinaimg.cn/large/69144085gy1fxg0cuhnwqj210n0nhtb7.jpg)
-
-![](http://wx1.sinaimg.cn/large/69144085gy1fxg0cvmr3oj210o0nfq3g.jpg)
-
 笔者在相关文献基础上制作的[**《分韵撮要》输入方案**](https://github.com/leimaau/old-Cantonese)。
 
 ### 用字与文法特点
@@ -179,7 +169,4 @@
 
 目前网上所见较新的构拟结果是2009年由KAREN HUANG所发表的[A RECONSTRUCTION OF PROTO-YUE VOWELS](http://www.ling.hawaii.edu/research/WorkingPapers/wp-karenhuang.pdf)一文，可以从中一窥其对原始粤语元音的构拟过程。而关于原始粤语的语法构拟可以于[郭必之《原始粤语怎么样表达动作/状态的完成?》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=YYDF201501003&v=MzA5MTFNcm85Rlo0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mWk9kcEZ5SGdWYi9MUERUUGFMRzRIOVQ=)一文了解。
 
-![](http://wx2.sinaimg.cn/large/69144085ly1g14tsqpge5j20ol0xddno.jpg)
-
-![](http://wx3.sinaimg.cn/large/69144085ly1g14tsr4xp8j20ou0xg44h.jpg)
-
+读者有兴趣也可以自己构拟自己认为的原始粤语。笔者对此只是简单介绍，为读者提供一个初步了解，有兴趣的读者可进一步深入。

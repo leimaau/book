@@ -5,7 +5,6 @@
 目前已知可能描述广州西关音较早的文献为高本汉的《中国音韵学研究》，该书法文原本1915年至1926年分四次出版，中文译本在1940年初版，虽然该书并没有直接提到西关音，但后来的译者赵元任在注释中却提及了这点（1937年王力《中国音韵学(下册)》P368）。
 
 <!--
-![](https://wx3.sinaimg.cn/large/69144085ly1g8d4wejo0sj20m50vs7bk.jpg)
 ![](https://s2.ax1x.com/2019/10/29/Kgzd5F.jpg)
 -->
 
@@ -41,7 +40,6 @@ y yn yt
 而在1941年黄锡凌《粤音韵汇》中也提到了西关音。
 
 <!--
-![](https://wx1.sinaimg.cn/large/69144085ly1g8d4w92pyrj20j30swtb2.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgzYD0.jpg)
 -->
 
@@ -76,10 +74,6 @@ y yn yt
 2016年麦耘在其论文《汉语方言中的舌叶元音和兼舌叶元音》中对西关音的舌尖元音作了详细描述。
 
 <!--
-![](https://wx4.sinaimg.cn/large/69144085ly1g8d6ghwqewj20xu0l016k.jpg)
-![](https://wx1.sinaimg.cn/large/69144085ly1g8d6gf0b0dj20vt08ldk7.jpg)
-![](https://wx4.sinaimg.cn/large/69144085ly1g8d6gc2it4j20w608z438.jpg)
-![](https://wx3.sinaimg.cn/large/69144085ly1g8d6g91mc8j20w50f8ti6.jpg)
 ![](https://s2.ax1x.com/2019/10/29/Kgz0C4.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgzUET.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgztbV.jpg)
@@ -106,7 +100,6 @@ y yn yt
 这个隐藏在粤剧中的早期官话曾经学界在研究材料不足时以为是桂柳官话，但是近年随着对官话和粤剧的研究深入，发现这个官话可能是接近桂柳话的一种官话，例如2006年抢救性发掘的邕州官话就具有这种官话的特点。邕州官话不止对白话、平话有过影响，对壮语也有影响，例如靖西壮语中的新借词来源应来源于邕州官话，参看吕嵩崧《靖西壮语中汉语新借词的来源及部分语音特点》。
 
 <!--
-![](https://wx3.sinaimg.cn/large/69144085ly1g8eaqutxbfj20pa12fn9z.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgzyK1.jpg)
 -->
 
@@ -129,8 +122,6 @@ y yn yt
 **三及第**是流行於省港澳一种独特的文体，晚清时即有这方面的作品出现。但它的形成过程，可以追溯到明末清初的说唱文学。所谓三及第，即由文言文、白话文、广州话所组合而成的文体。
 
 <!--
-![](https://wx4.sinaimg.cn/large/69144085ly1g8e8spow1uj20ki0vw0vn.jpg)
-![](https://wx3.sinaimg.cn/large/69144085ly1g8e8std7m3j20lw0yo0zg.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgzB8J.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgzD29.jpg)
 -->
@@ -145,7 +136,6 @@ y yn yt
 ----------
 
 <!--
-![](https://wx1.sinaimg.cn/large/69144085ly1g8e8swyzzvj20me0y4qcv.jpg)
 ![](https://s2.ax1x.com/2019/10/29/Kgz6Dx.jpg)
 -->
 
@@ -158,7 +148,6 @@ y yn yt
 ----------
 
 <!--
-![](https://wx2.sinaimg.cn/large/69144085ly1g8e8sm7tmyj20pe12caqx.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgzrvR.jpg)
 -->
 

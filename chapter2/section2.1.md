@@ -1,34 +1,252 @@
 # 南宁白话拼音方案
 
-## 南宁白话语音
-
-%accordion%列表%accordion%
-
-![](http://wx3.sinaimg.cn/large/69144085gy1fyw8zci0edj20o30w3wli.jpg)
-
-![](http://wx1.sinaimg.cn/large/69144085gy1fyw8zd5xtkj20np0e2gne.jpg)
-
-%/accordion%
-
-**参考资料：**
-
-> [《广西通志(汉语方言志)》](http://lib.gxdqw.com/file-a88-1.html)第一篇 第一章。
-
-## 南宁白话拼音方案
+## 南宁白话简介
 
 南宁白话属于汉藏语系汉语族粤语支的**邕浔片**，同时也是邕浔粤语的典型代表，1985年杨焕典《广西的汉语方言(稿)》将南宁白话划分为邕浔片，1991年余霭芹《粤语方言分区问题初探》将南宁白话划分为广府片，2002年侯精一《现代汉语方言概论》将南宁白话划分为桂南片，其来源于《中国大百科全书·语言文字卷》中粤方言条目及詹伯慧《汉语方言及方言调查》第三章粤方言一节，2007年谢建猷《广西汉语方言研究》对两广统一考虑将南宁白话划为高阳片，2009年国际会议上发表且2015年《中国方言学报》收录的谢建猷和张宗的文章《人工统计与计算机计量对广西汉语方言分区结果对比》对2007年书中的分区用计算机统计再次进行了研究给出了同一结果。此外，2007年刘村汉《广西粤语的分片》、 2007年谢建猷《广西粤语刍论》、2007年伍魏《粤语》也对广西粤方言的分片做过研究。但这些旧分区方式都有一些问题，为了解决这些问题，目前最新的研究成果是在2016年林亦《广西的粤方言》中将南宁白话划为**沿江白话片**，广西粤语区分为两个层次四个方言片，即沿江白话片、勾漏片、钦廉片、桂南平话片。勾漏片、钦廉片、桂南平话片属广西粤方言的第一层次，沿江白话片为第二层次。到了2020年唐七元《广西汉语方言概要》第二章第1节中沿袭了2016年的这一分法，但稍有改进，关于广西粤语区的划分问题具体可参阅前述原书和论文，为了讨论方便，使用旧分区的邕浔片概念亦可。
 
-从历史来源看南宁白话是明清时期以来由广东移民入桂经商、从政逐渐形成的（全广西的所有汉语方言相对于少数民族语言来说基本都是移民形成，只是移民时间上有早晚的层次，而广西粤语较新的研究按入桂早晚粗略分两个层次，再下分四个方言片，参阅前述资料），南宁白话相比广州话的主要区别是多出一个边擦音，其几乎来源于中古汉语的心母，现今保持着心审相分，[i]韵、[u]韵和[y]韵不裂化的格局，以及有效咸山摄二等字主元音高化的现象。南宁白话有新老派之分，新派口音更接近广州话，而老派口音有分韵音系的师韵和津韵，在止开三的支脂之三韵中区分精与知庄章，南宁白话保留了许多早期广府粤语的特点。
+从历史来源看南宁白话是明清时期以来由广东移民入桂经商、从政逐渐形成的（全广西的所有汉语方言相对于少数民族语言来说基本都是移民形成，只是移民时间上有早晚的层次，而广西粤语较新的研究按入桂早晚粗略分两个层次，再下分四个方言片，参阅前述资料），南宁白话相比广州话的主要区别是多出一个边擦音，其几乎来源于中古汉语的心母，现今保持着心母书母相分，[i]韵、[u]韵和[y]韵不裂化的格局，以及有效咸山摄二等字主元音高化的现象。南宁白话有新老派之分，新派口音更接近广州话，而老派口音有分韵音系的师韵和津韵，在止开三的支脂之三韵中区分精与知庄章，南宁白话保留了许多早期广府粤语的特点。
 
 南宁白话的音系中声母共21个，韵母共54个，声调共9个。根据香港语言学会的粤语拼音方案稍加改编即可得到南宁白话的拼音方案，制定拼音方案的过程中也得到了许多网友的帮助。笔者原先舌尖音[ts tsʰ s]与舌尖前不圆唇元音[ɿ]相拼时参考台湾通用拼音设置为zih、cih、sih，经过讨论后改成了吴语拼音式的zy、cy、sy。
 
-![](http://wx4.sinaimg.cn/large/69144085gy1fytrsm8v1zj20w20f9wh6.jpg)
+## 南宁白话拼音方案
 
-![](http://wx1.sinaimg.cn/large/69144085ly1fzjcsx0r97j20vz0i6dhz.jpg)
+### 声母
 
-![](http://wx3.sinaimg.cn/large/69144085gy1fytrsn3xfhj20w004oaav.jpg)
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+	<td><span style="font-size:2em;">b</span> [p] 波</td>
+	<td><span style="font-size:2em;">p</span> [pʰ] 破</td>
+	<td><span style="font-size:2em;">m</span> [m] 摸</td>
+	<td><span style="font-size:2em;">f</span> [f] 科</td>
+	<td></td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">d</span> [t] 多</td>
+	<td><span style="font-size:2em;">t</span> [tʰ] 拖</td>
+	<td><span style="font-size:2em;">n</span> [n] 挪</td>
+	<td><span style="font-size:2em;">sl</span> [ɬ] 锁</td>
+	<td><span style="font-size:2em;">l</span> [l] 罗</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">g</span> [k] 家</td>
+	<td><span style="font-size:2em;">k</span> [kʰ] 卡</td>
+	<td><span style="font-size:2em;">ng</span> [ŋ] 牙</td>
+	<td><span style="font-size:2em;">h</span> [h] 虾</td>
+	<td></td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">gw</span> [kʷ] 瓜</td>
+	<td><span style="font-size:2em;">kw</span> [kʷʰ] 夸</td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">w</span> [w] 蛙</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">z</span> [tʃ/ts] 资</td>
+	<td><span style="font-size:2em;">c</span> [tʃʰ/tsʰ] 雌</td>
+	<td></td>
+	<td><span style="font-size:2em;">s</span> [ʃ/s] 思</td>
+	<td><span style="font-size:2em;">j</span> [j] 衣</td>
+  </tr>
+</table>
 
-![](http://wx1.sinaimg.cn/large/69144085gy1fytrsnislij20w004rdg0.jpg)
+- 零声母不用字母作标记，如「亚」只拼作aa3[aː˧]。零声母前一般都有喉塞音[ʔ]，为简便起见，[ʔ]一律省去。为了避免零声母[∅]与喉塞音[ʔ]符号的混用，如有文献用[∅u]表示[wu]，用[ʔu]表示[ʔu]，但有些文献又用[∅u]表示[ʔu]，用[wu]表示[wu]。此处统一wu[wu]表示[wu]，u[∅u]表示u[ʔu]，只使用零声母[∅]（等价于喉塞音[ʔ]）标记，因为从音系上此处实际音值的喉塞音可以等价为零声母。
+- sl[ɬ]为清齿龈边擦音，也有人读齿间清擦音[θ]，参见2017年《南宁市城北区志》。而/kʷ/ /kʷʰ/ /w/ 更接近 [kᶹ] [kᶹʰ] [ʋ]，参见1984年王庚年《广西粤语区的俄语语音教学》，其中提到南宁/w/的实际音值为唇齿半元音[ʋ]。
+- 包括零声母在内声母共有21个。
+
+### 韵腹
+
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+	<td><span style="font-size:2em;">aa</span> [aː] 沙</td>
+	<td><span style="font-size:2em;">a</span> [ɐ] 新</td>
+	<td><span style="font-size:2em;">e</span> [ɛː] 些声</td>
+	<td><span style="font-size:2em;">o</span> [ɔː] 疏康</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">i</span> [iː/ɪ/e] 诗星识</td>
+	<td><span style="font-size:2em;">u</span> [uː/ʊ/o] 夫风福</td>
+	<td><span style="font-size:2em;">yu</span> [yː] 书</td>
+	<td><span style="font-size:2em;">oe</span> [œː] 靴</td>
+  </tr>
+</table>
+
+- [œ]的实际音值舌位在[œ]和[ø]之间，参见2017年《南宁市城北区志》。
+- 特殊地，语气词可以单独使用a[ɐ/ə]，例如「嗮」的语音弱化：嗮slaai3[ɬaːi˧]->嗮laai3[laːi˧]->嘞laa3[laː˧]->嘞la3[lɐ˧]->嘞la3[lə˧]->嘞a3[ə˧]->嘞a2[ə˧˥]。
+
+### 韵尾
+
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+	<td><span style="font-size:2em;">p</span> [-p̚] 湿</td>
+	<td><span style="font-size:2em;">t</span> [-t̚] 失</td>
+	<td><span style="font-size:2em;">k</span> [-k̚] 塞</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">m</span> [-m] 心</td>
+	<td><span style="font-size:2em;">n</span> [-n] 新</td>
+	<td><span style="font-size:2em;">ng</span> [-ŋ] 生</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">y</span> [ɿ] 师*</td>
+	<td><span style="font-size:2em;">i</span> [i] 西</td>
+	<td><span style="font-size:2em;">u</span> [u] 收</td>
+  </tr>
+</table>
+
+- y[ɿ]为老派口音中的舌尖前元音，只与齿龈辅音z[ts]、c[tsʰ]、s[s]相拼，新派不存。
+
+### 鼻音单独成韵
+
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+	<td><span style="font-size:2em;">m</span> [m̩] 唔</td>
+	<td><span style="font-size:2em;">ng</span> [ŋ̍] 吴</td>
+  </tr>
+</table>
+
+### 字调
+
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+	<td></td>
+	<td><span style="font-size:2em;">平</span></td>
+	<td><span style="font-size:2em;">上</span></td>
+	<td><span style="font-size:2em;">去</span></td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">阴</span></td>
+	<td><span style="font-size:2em;">fu1</span> [fuː˥] 肤</td>
+	<td><span style="font-size:2em;">fu2</span> [fuː˧˥] 苦</td>
+	<td><span style="font-size:2em;">fu3</span> [fuː˧] 裤</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">阳</span></td>
+	<td><span style="font-size:2em;">fu4</span> [fuː˨˩] 扶</td>
+	<td><span style="font-size:2em;">fu5</span> [fuː˨˦] 妇</td>
+	<td><span style="font-size:2em;">fu6</span> [fuː˨] 附</td>
+  </tr>
+</table>
+
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+	<td><span style="font-size:2em;">上阴入</span></td>
+	<td><span style="font-size:2em;">下阴入</span></td>
+	<td><span style="font-size:2em;">阳入</span></td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">fat1</span> [fɐt̚˥] 忽</td>
+	<td><span style="font-size:2em;">faat3</span> [faːt̚˧] 发</td>
+	<td><span style="font-size:2em;">fat6</span> [fɐt̚˨] 佛</td>
+  </tr>
+</table>
+
+- 共有6个调号，以1-6表示，声调标在音节后。
+- 具体调值：阴平[55]、阳平[21]、阴上[35]、阳上[24]、阴去[33]、阳去[22]、上阴入[55]、下阴入[33]、阳入[22]，包括入声在内声调共有9个。
+
+### 韵母字例
+
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+	<td><span style="font-size:2em;">aa</span><br/>[aː]<br/>渣</td>
+	<td><span style="font-size:2em;">aai</span><br/>[aːi]<br/>斋</td>
+	<td><span style="font-size:2em;">aau</span><br/>[aːu]<br/>嘲</td>
+	<td><span style="font-size:2em;">aam</span><br/>[aːm]<br/>站</td>
+	<td><span style="font-size:2em;">aan</span><br/>[aːn]<br/>赞</td>
+	<td><span style="font-size:2em;">aang</span><br/>[aːŋ]<br/>争</td>
+	<td><span style="font-size:2em;">aap</span><br/>[aːp̚]<br/>杂</td>
+	<td><span style="font-size:2em;">aat</span><br/>[aːt̚]<br/>扎</td>
+	<td><span style="font-size:2em;">aak</span><br/>[aːk̚]<br/>责</td>
+  </tr>
+  <tr>
+	<td></td>
+	<td><span style="font-size:2em;">ai</span><br/>[ɐi]<br/>制</td>
+	<td><span style="font-size:2em;">au</span><br/>[ɐu]<br/>周</td>
+	<td><span style="font-size:2em;">am</span><br/>[ɐm]<br/>针</td>
+	<td><span style="font-size:2em;">an</span><br/>[ɐn]<br/>珍</td>
+	<td><span style="font-size:2em;">ang</span><br/>[ɐŋ]<br/>增</td>
+	<td><span style="font-size:2em;">ap</span><br/>[ɐp̚]<br/>汁</td>
+	<td><span style="font-size:2em;">at</span><br/>[ɐt̚]<br/>质</td>
+	<td><span style="font-size:2em;">ak</span><br/>[ɐk̚]<br/>侧</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">e</span><br/>[ɛː]<br/>些</td>
+	<td></td>
+	<td><span style="font-size:2em;">eu</span><br/>[ɛːu]<br/>交</td>
+	<td><span style="font-size:2em;">em</span><br/>[ɛːm]<br/>减</td>
+	<td><span style="font-size:2em;">en</span><br/>[ɛːn]<br/>间</td>
+	<td><span style="font-size:2em;">eng</span><br/>[ɛːŋ]<br/>病</td>
+	<td><span style="font-size:2em;">ep</span><br/>[ɛːp̚]<br/>夹</td>
+	<td><span style="font-size:2em;">et</span><br/>[ɛːt̚]<br/>八</td>
+	<td><span style="font-size:2em;">ek</span><br/>[ɛːk̚]<br/>石</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">o</span><br/>[ɔː]<br/>可</td>
+	<td><span style="font-size:2em;">oi</span><br/>[ɔːi]<br/>开</td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">on</span><br/>[ɔːn]<br/>韩</td>
+	<td><span style="font-size:2em;">ong</span><br/>[ɔːŋ]<br/>康</td>
+	<td></td>
+	<td><span style="font-size:2em;">ot</span><br/>[ɔːt̚]<br/>喝</td>
+	<td><span style="font-size:2em;">ok</span><br/>[ɔːk̚]<br/>学</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">i</span><br/>[iː]<br/>机</td>
+	<td></td>
+	<td><span style="font-size:2em;">iu</span><br/>[iːu]<br/>娇</td>
+	<td><span style="font-size:2em;">im</span><br/>[iːm]<br/>剑</td>
+	<td><span style="font-size:2em;">in</span><br/>[iːn]<br/>见</td>
+	<td><span style="font-size:2em;">ing</span><br/>[eŋ/ɪŋ]<br/>经</td>
+	<td><span style="font-size:2em;">ip</span><br/>[iːp̚]<br/>劫</td>
+	<td><span style="font-size:2em;">it</span><br/>[iːt̚]<br/>结</td>
+	<td><span style="font-size:2em;">ik</span><br/>[ek̚/ɪk̚]<br/>激</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">u</span><br/>[uː]<br/>夫</td>
+	<td><span style="font-size:2em;">ui</span><br/>[uːi]<br/>灰</td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">un</span><br/>[uːn]<br/>欢</td>
+	<td><span style="font-size:2em;">ung</span><br/>[ʊŋ/oŋ]<br/>风</td>
+	<td></td>
+	<td><span style="font-size:2em;">ut</span><br/>[uːt̚]<br/>阔</td>
+	<td><span style="font-size:2em;">uk</span><br/>[ʊk̚/ok̚]<br/>福</td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">yu</span><br/>[yː]<br/>朱</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">yun</span><br/>[yːn]<br/>专</td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">yut</span><br/>[yːt̚]<br/>决</td>
+	<td></td>
+  </tr>
+  <tr>
+	<td><span style="font-size:2em;">oe</span><br/>[œː]<br/>靴</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span style="font-size:2em;">oeng</span><br/>[œːŋ]<br/>香</td>
+	<td></td>
+	<td><span style="font-size:2em;">oet</span><br/>[œːt̚]<br/>哕*</td>
+	<td><span style="font-size:2em;">oek</span><br/>[œːk̚]<br/>脚</td>
+  </tr>
+</table>
+
+- 「哕oet6」为模仿呕吐声的拟声词，类似地还有表示亲吻的「咄doet1、㰵zoet1」，表示气喘的「吷hoet6」，若不包括这类拟声词，则韵母共有54个（包括鼻音单独成韵）。
+- oe[œː]作韵尾除了「靴」字，还在一些口语字「朵doe2」、「噘goe1、噘doe1」、「撅goe1」、「㗾hoe4」、「吙hoe1」中存在。
+- [ɛːu]的实际读音是[ɛⁱu]，即[ɛ]和[u]之间有一个流音[i]，参见2017年《南宁市城北区志》。
+
+
+### 拼音方案说明
+
+1.本方案是在1992年香港语言学学会创制的[粤拼](https://www.lshk.org/jyutping)基础上改编而成。
+
+2.旧式粤拼将上阴入、下阴入和阳入分别用数字7、8、9表示，例如：忽fat7、发faat8、佛fat9，在不引起误解的情况下可以沿用旧的标调方式。
 
 为了方便初学者学习，简化版的拼音方案可以参见[**这里**](https://leimaau.github.io/book/PHONETICIZE.html)。
 
@@ -152,13 +370,19 @@
 
 > 林亦.从粤方言的字音看中古庄组在三等韵中的特殊性.北部湾大学学报.2020-01-20.
 
+> 1998年广西地方志编纂委员会《广西通志·汉语方言志》.
+
 ## 邕浔片有关
 
-![杨焕典、梁振仕、李谱英、刘村汉.广西的汉语方言(稿).《方言》.1985-10-01.](http://wx1.sinaimg.cn/large/69144085gy1fyx8xjankwj210a0knmzd.jpg)
+有一些旧的材料可供参考，读者可自己网上查询，比如：
 
-![麦耘.从粤语的产生和发展看汉语方言形成的模式.《方言》.2009-08-24.](http://wx4.sinaimg.cn/large/69144085ly1g3qgqfve4nj20ow06u75h.jpg)
+1.杨焕典、梁振仕、李谱英、刘村汉.广西的汉语方言(稿).《方言》.1985-10-01.
 
-![麦耘.粤方言的音韵特征——兼谈方言区分的一些问题.《方言》.2011-11-24.](http://wx2.sinaimg.cn/large/69144085ly1g3qgqg9kgtj20us0lzdis.jpg)
+2.麦耘.从粤语的产生和发展看汉语方言形成的模式.《方言》.2009-08-24.
+
+3.麦耘.粤方言的音韵特征——兼谈方言区分的一些问题.《方言》.2011-11-24.
+
+笔者认为方言分区现阶段并没有什么用，不具有实际意义，如果非要分区，随着现代科技发展，不必手工分区，完全可以计算机自动分区，前提是有庞大的数据库，还有一个重要的前提是「粤语」这一名词要重新定义，借用现代数学的公理化方法是完全可以的，有了这两个前提就可以用现代统计学对整个粤语或者整个中国方言重新分区，这只能留给后人了。
 
 **更多参考资料：**
 

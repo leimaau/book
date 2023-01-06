@@ -13,7 +13,6 @@
 2.6 粤语的现代化
 
 <!--
-![](https://wx1.sinaimg.cn/large/69144085ly1g8d4xflodaj215o0q47u0.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgxXcR.jpg)
 -->
 

@@ -13,7 +13,6 @@
 4.6 南宁话可能的古壮字借词表
 
 <!--
-![](https://wx3.sinaimg.cn/large/69144085ly1g8d4vz8vygj20go0m9mzp.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgxO39.jpg)
 -->
 

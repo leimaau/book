@@ -3,7 +3,6 @@
 ## 基础教材
 
 <!--
-![](https://wx3.sinaimg.cn/large/69144085ly1g8d542m1a1j207p0av3yh.jpg)
 ![](https://s2.ax1x.com/2019/10/29/Kgz9AO.jpg)
 -->
 
@@ -14,7 +13,6 @@
 [武汉大学音韵学教程（万献初）](https://www.bilibili.com/video/av11834886?from=search&seid=7959427735466072071) | [中古汉语语音教程](https://www.bilibili.com/video/av187189?from=search&seid=1354186176496294159) | [胡安顺《音韵学通论》](https://book.douban.com/subject/1121971/)
 
 <!--
-![](https://wx3.sinaimg.cn/large/69144085ly1g8d53yf8vwj208i0c074c.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgxzB6.jpg)
 -->
 
@@ -24,7 +22,6 @@
 第二版据1955年7月第一版增订重排，增加了一些字，也酌量删去若干不常用的字。新一版据科学出版社第二版第四次印刷纸型重印，改正“摹、综腙”三字的位置，重排书后所附的音标及其他符号。
 
 <!--
-![](https://wx4.sinaimg.cn/large/69144085ly1g8d54c2ignj208c0c93yh.jpg)
 ![](https://s2.ax1x.com/2019/10/29/KgzSHK.jpg)
 -->
 

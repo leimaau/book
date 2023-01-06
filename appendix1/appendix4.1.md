@@ -1,16 +1,16 @@
 # 南宁白话字词典
 
-以下工具皆为笔者为方便数据处理所作，其中移动端和PC客户端的安装需要有一定的计算机操作能力，网页端的使用稍微简便一些。
+以下工具皆为开源词典，其中移动端和PC客户端的安装需要有一定的计算机操作能力，网页端的使用稍微简便一些。
 
 ## 移动端
 
 **欧路词典**
 
-![欧路词典](http://wx2.sinaimg.cn/large/69144085ly1g1hok9fkoyj20ag0ikta2.jpg)
+[欧路词典下载官方网站](https://www.eudic.net/v4/en/app/eudic)，其提供桌面版和手机版下载，mdx与mdd文件见下面。
 
 **深蓝词典**
 
-![深蓝词典](http://wx1.sinaimg.cn/large/69144085ly1g1hoka0yh3j20ag0ik0uu.jpg)
+[深蓝词典下载官方网站](https://www.ssdlsoft.com/tag/bluedict)，其只提供安卓版下载，mdx与mdd文件见下面。
 
 **汉字音典APP**
 
@@ -20,9 +20,13 @@
 
 **客户端**
 
-![goldendict](http://wx4.sinaimg.cn/large/69144085ly1g1hmu1xe2jj210e0je784.jpg)
+[GoldenDict 下载官方网站](http://www.goldendict.org/)。
 
-南宁白话字词典mdx与mdd文件下载地址：[**下载地址**](https://github.com/leimaau/dict-store)
+[GoldenDict 的下载、安装、使用](https://www.pdawiki.com/forum/thread-14072-1-1.html?_dsign=e137944d)。
+
+## mdx与mdd文件
+
+南宁白话字词典mdx与mdd文件下载地址：[**下载地址**](https://github.com/leimaau/dict-store)，附带[开源词典安装简易指南](https://github.com/leimaau/dict-store/wiki)。
 
 ## 电子档
 

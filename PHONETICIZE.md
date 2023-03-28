@@ -54,15 +54,15 @@
 	<td><span style="font-size:2em;">o</span> [ɔː] 疏康</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">i</span> [iː/ɪ/e] 诗星识</td>
-	<td><span style="font-size:2em;">u</span> [uː/ʊ/o] 夫风福</td>
+	<td><span style="font-size:2em;">i</span> [iː/e/ɪ] 诗星识</td>
+	<td><span style="font-size:2em;">u</span> [uː/o/ʊ] 夫风福</td>
 	<td><span style="font-size:2em;">yu</span> [yː] 书</td>
 	<td><span style="font-size:2em;">oe</span> [œː] 靴</td>
   </tr>
 </table>
 
 - [œ]的实际音值舌位在[œ]和[ø]之间，参见2017年《南宁市城北区志》。
-- 特殊地，语气词可以单独使用a[ɐ/ə]，例如「嗮」的语音弱化：嗮slaai3[ɬaːi˧]->嗮laai3[laːi˧]->嘞laa3[laː˧]->嘞la3[lɐ˧]->嘞la3[lə˧]->嘞a3[ə˧]->嘞a2[ə˧˥]。
+- 特殊地，语气词可以单独使用a[ɐ/ə]，例如「喇」的语音弱化：喇laa3[laː˧]->嘞la3[lɐ˧/lə˧] 或 喇laa3[laː˧]->啊aa3[a˧]->啊a3[ɐ˧/ə˧]。
 
 ## 韵尾
 
@@ -198,10 +198,10 @@
 	<td></td>
 	<td></td>
 	<td><span style="font-size:2em;">un</span><br/>[uːn]<br/>欢</td>
-	<td><span style="font-size:2em;">ung</span><br/>[ʊŋ/oŋ]<br/>风</td>
+	<td><span style="font-size:2em;">ung</span><br/>[oŋ/ʊŋ]<br/>风</td>
 	<td></td>
 	<td><span style="font-size:2em;">ut</span><br/>[uːt̚]<br/>阔</td>
-	<td><span style="font-size:2em;">uk</span><br/>[ʊk̚/ok̚]<br/>福</td>
+	<td><span style="font-size:2em;">uk</span><br/>[ok̚/ʊk̚]<br/>福</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">yu</span><br/>[yː]<br/>朱</td>

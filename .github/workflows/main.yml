@@ -1,0 +1,50 @@
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.7.0]
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Cache Node.js
+      uses: actions/cache@v2
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/.nvmrc') }}
+        restore-keys: ${{ runner.os }}-node-
+
+    - name: Use Node.js version ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+
+    - name: Install dependencies and build GitBook
+      run: |
+        npm install graceful-fs@latest --save &&
+        npm install gitbook-cli -g &&
+        npm install gitbook-plugin-lightbox &&
+        npm install gitbook-plugin-quiz &&
+        gitbook install &&
+        gitbook build . ./build &&
+        touch ./build/README.md
+
+    - name: Deploy to GitHub Pages
+      if: success()
+      # needs: build
+      uses: peaceiris/actions-gh-pages@v4.2.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build
+        publish_branch: gh-pages

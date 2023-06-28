@@ -23,7 +23,6 @@
     * [4.3 南宁话与中古音系比较表](appendix1/appendix4.3.md)
     * [4.4 南宁话常用口语字表](appendix1/appendix4.4.md)
     * [4.5 南宁话常用字本字表](appendix1/appendix4.5.md)
-    * [4.6 南宁话可能的古壮字借词表](appendix1/appendix4.6.md)
 * [5.附录二 相关资讯](appendix2/README.md)
     * [5.1 刘丹青：差别化政策是语言保护工作的迫切要务](appendix2/appendix5.1.md)
     * [5.2 张振兴：《广西汉语方言重点研究丛书》序](appendix2/appendix5.2.md)

@@ -67,7 +67,7 @@
 
 ### 清代粤语至现代粤语的变化
 
-关于清代粤语至现代粤语的变化可以参看[2013年罗言发《澳门粤语音系的历史变迁及其成因》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFD1214&filename=1013208914.nh&v=MDcyMjV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlpPZHBGeUhoVUwzQlZGMjZIYkc0RnRqTnE1RWJQSVI4ZVgxTHU=)的博士论文。
+关于清代粤语至现代粤语的变化可以参看[2013年罗言发《澳门粤语音系的历史变迁及其成因》](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFD1214&filename=1013208914.nh&v=MDcyMjV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlpPZHBGeUhoVUwzQlZGMjZIYkc0RnRqTnE1RWJQSVI4ZVgxTHU=)的博士论文。分韵撮要有许多的版本，关于分韵撮要的版本及音系可参看2020年岑尧昊《〈分韵撮要〉版本与音系新论》，值得注意的是，里面提到《分韵撮要》在早期（民国至近代）曾经是不受学者重视的，反而到了现当代（1990-）才开始愈加受学者的关注，特别是与现当代粤方言比较和发掘更多清朝传教士文献后，发现《分韵撮要》所反映的是明末清初粤语的音系，由此其对粤语的历史研究意义也就愈加的突显。
 
 笔者在相关文献基础上制作的[**《分韵撮要》输入方案**](https://github.com/leimaau/old-Cantonese)。
 

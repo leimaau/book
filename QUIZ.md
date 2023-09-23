@@ -78,123 +78,123 @@
     <question>
         <p>9.按顺序分别选出「揼、抌、髧、沊、扽、趸、撉、墩、撴、蹾」这十字的义项（10分）</p>
         <answer>
-            <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option correct>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option correct>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：击，以拳触人</option>
+            <option>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
-            <option correct>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option correct>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：击，以拳触人</option>
+            <option>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
-            <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option correct>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：击，以拳触人</option>
+            <option>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
-            <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option correct>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：击，以拳触人</option>
+            <option>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
-            <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option correct>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：击，以拳触人</option>
+            <option>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
-            <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：击，以拳触人</option>
+            <option>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option correct>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
-            <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option correct>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option correct>dan1[tɐn˥]：击，以拳触人</option>
+            <option>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
-            <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：击，以拳触人</option>
+            <option>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option correct>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option correct>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
-            <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：击，以拳触人</option>
+            <option>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option correct>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
         <answer>
-            <option>dam2[tɐm˧˥]：扔，～石仔；捶，～心口</option>
-            <option>dam1[tɐm˥]：拖延、浪费，～时间</option>
+            <option>dam2[tɐm˧˥]：扔，～石头；捶，～心口</option>
+            <option>dam1[tɐm˥]：〈本地〉以头撞；〈香港〉拖延、浪费，～时间</option>
             <option>dam2[tɐm˧˥]：落水声，～一声落水</option>
             <option>dam3[tɐm˧]：垂下，头发长到～落膊头</option>
             <option>dan3[tɐn˧]：颠簸，坐车尾好～；震动，～下衣服</option>
-            <option>dan1[tɐn˥]：击，以拳触人；猛地放下，又音dan3[tɐn˧]</option>
-            <option correct>dan3[tɐn˧]：猛地放下，易碎品不可往地上～</option>
+            <option>dan1[tɐn˥]：击，以拳触人</option>
+            <option correct>dan1[tɐn˥]：蹲下；猛地放下</option>
             <option>dan1[tɐn˥]：揪、拽，伸手把他～住</option>
-            <option>dan1[tɐn˥]，白读dan2[tɐn˧˥]：根基、底座，桥～</option>
+            <option>dan1[tɐn˥]：～布、石～；白读dan2[tɐn˧˥]：根基、底座，桥～</option>
             <option>dan2[tɐn˧˥]：放，～低行李</option>
         </answer>
     </question>

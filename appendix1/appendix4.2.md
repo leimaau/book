@@ -8,7 +8,7 @@
 
 ![演示gif](https://s2.ax1x.com/2019/05/14/Eo2OyR.gif)
 
-南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping) | 安装及使用方法：[**汉语方言拼音输入**](https://www.hanhngiox.net/)
+南宁白话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping)
 
 **注：** 新的改版称为「南宁话输入方案」，新的版本包括了南宁平话输入方案，统一至一起称「南宁话」。
 

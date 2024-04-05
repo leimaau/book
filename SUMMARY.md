@@ -31,7 +31,6 @@
 	* [5.6 李连进：东南方言的三种演变模型：裂变、触变与同变——以广西方言为例](appendix2/appendix5.6.md)
 * [南宁白话拼音方案〔市区音〕](PHONETICIZE.md)
 * [南宁平话拼音方案〔亭子音〕](PHONETICIZE_bingwaa.md)
-* [横县白话拼音方案〔县城音〕](PHONETICIZE_waanghyun.md)
 * [邕州官话拼音方案〔下郭街〕](PHONETICIZE_yongzou.md)
 * [南宁白话小测验](QUIZ.md)
 * [常见问题解答](QANDA.md)

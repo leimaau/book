@@ -28,6 +28,10 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
+        
+    - name: Fix graceful-fs issue
+      run: |
+        npm install graceful-fs@latest --save
 
     - name: Install dependencies and build GitBook
       run: |
@@ -46,7 +50,3 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
         publish_branch: gh-pages
-        
-    - name: Fix graceful-fs issue
-      run: |
-        npm install graceful-fs@latest --save

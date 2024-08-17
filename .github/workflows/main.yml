@@ -11,7 +11,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [10.7.0]
+        node-version: [20.x]
 
     steps:
     - name: Checkout code
@@ -46,3 +46,7 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
         publish_branch: gh-pages
+        
+    - name: Fix graceful-fs issue
+      run: |
+        npm install graceful-fs@latest --save

@@ -14,7 +14,7 @@
 
 **汉字音典APP**
 
-这是osfans开发的手机应用，下载安装使用更方便，[**此处**](https://www.coolapk.com/apk/com.osfans.mcpdict)下载。
+这是osfans开发的手机应用，下载安装使用更方便，[**此处**](https://github.com/osfans/MCPDict)下载。
 
 ## PC端
 

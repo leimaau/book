@@ -11,7 +11,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [12.x]
+        node-version: [18.x]
 
     steps:
     - name: Checkout code
@@ -26,13 +26,13 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Install GitBook CLI
-      run: npm install gitbook-cli -g
+    - name: Install Honkit
+      run: npm install honkit -g
 
-    - name: Build GitBook
+    - name: Build Documentation
       run: |
-        gitbook install
-        gitbook build . ./build
+        honkit install
+        honkit build . ./build
         touch ./build/README.md
 
     - name: Deploy to GitHub Pages

@@ -1,0 +1,13 @@
+{
+  "name": "gitbook-project",
+  "version": "1.0.0",
+  "description": "GitBook project with CI/CD",
+  "scripts": {
+    "build": "gitbook build . ./build",
+    "serve": "gitbook serve"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-lightbox": "^1.2.0"
+  }
+} 

@@ -1,13 +1,13 @@
 {
-  "name": "gitbook-project",
+  "name": "honkit-project",
   "version": "1.0.0",
-  "description": "GitBook project with CI/CD",
+  "description": "Honkit project with CI/CD",
   "scripts": {
-    "build": "gitbook build . ./build",
-    "serve": "gitbook serve"
+    "build": "honkit build . ./build",
+    "serve": "honkit serve"
   },
   "devDependencies": {
-    "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-lightbox": "^1.2.0"
+    "gitbook-plugin-quiz": "^0.3.0",
+    "honkit": "^4.0.0"
   }
-} 
+}

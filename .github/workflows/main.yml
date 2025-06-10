@@ -31,7 +31,6 @@ jobs:
 
     - name: Build Documentation
       run: |
-        honkit install
         honkit build . ./build
         touch ./build/README.md
 

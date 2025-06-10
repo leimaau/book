@@ -4,46 +4,47 @@
     "author": "leimaau",
     "language": "zh-hans",
     "plugins": [
-        "-lunr",
-        "-search",
-        "search-plus",
+	    "-lunr",
+		"-search",
+		"search-plus",
         "page-toc-button",
-        "back-to-top-button",
-        "-sharing",
-        "sharing-plus",
-        "flexible-alerts",
-        "splitter",
-        "expandable-chapters",
-        "github-buttons",
-        "page-footer-ex",
-        "theme-comscore",
-        "accordion",
-        "quiz@latest",
-        "mermaid-full@latest",
-        "donate@latest"
+		"back-to-top-button",
+		"-sharing",
+		"sharing-plus",
+		"flexible-alerts",
+		"splitter",
+		"expandable-chapters",
+		"github-buttons",
+		"page-footer-ex",
+		"theme-comscore",
+		"accordion",
+		"quiz",
+		"mermaid-full@>=0.5.1",
+		"donate"
     ],
+	
     "pluginsConfig": {
-        "page-toc-button": {
-            "maxTocDepth": 4,
-            "minTocSize": 2
-        },
-        "github-buttons": {
-            "buttons": [{
-                "user": "leimaau",
-                "repo": "book",
-                "type": "star",
-                "size": "small",
-                "count": true
-            }]
-        },
-        "flexible-alerts": {
-            "style": "flat",
-            "example": {
-                "label": "Example",
-                "icon": "fa fa-file-text",
-                "className": "info"
-            }
-        },
+		"page-toc-button": {
+			"maxTocDepth": 4,
+			"minTocSize": 2
+		},
+		"github-buttons": {
+		  "buttons": [{
+			"user": "leimaau",
+			"repo": "book",
+			"type": "star",
+			"size": "small",
+			"count": true
+		  }]
+		},
+		"flexible-alerts": {
+		  "style": "flat",
+		  "example": {
+			"label": "Example",
+			"icon": "fa fa-file-text",
+			"className": "info"
+		  }
+		},
         "donate": {
             "wechat": "https://leimaau.github.io/CDN/data-store/jpg/weixin.jpg",
             "alipay": "https://leimaau.github.io/CDN/data-store/jpg/zhifubao.jpg",
@@ -52,12 +53,12 @@
             "alipayText": "支付宝",
             "wechatText": "微信"
         },
-        "page-footer-ex": {
-            "copyright": "[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) By [leimaau](https://github.com/leimaau)，使用[知识共享 署名-非商业性使用-禁止演绎 4.0协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)发布",
-            "markdown": true,
-            "update_label": "",
-            "update_format": "<i>YYYY-MM-DD</i>"
-        },
+		"page-footer-ex": {
+		  "copyright": "[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) By [leimaau](https://github.com/leimaau)，使用[知识共享 署名-非商业性使用-禁止演绎 4.0协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)发布",
+		  "markdown": true,
+		  "update_label": "",
+		  "update_format": "<i>YYYY-MM-DD</i>"
+		},
         "quiz": {
             "labels": {
                 "check": "提交答案",
@@ -75,24 +76,24 @@
             }
         },
         "sharing": {
-            "douban": true,
-            "facebook": false,
-            "google": false,
-            "hatenaBookmark": false,
-            "instapaper": false,
-            "line": false,
-            "linkedin": false,
-            "messenger": false,
-            "pocket": false,
-            "qq": true,
-            "qzone": true,
-            "stumbleupon": false,
-            "twitter": false,
-            "viber": false,
-            "vk": false,
-            "weibo": true,
-            "whatsapp": false,
-            "all": ["facebook","twitter", "google","hatenaBookmark"]
+           "douban": true,
+           "facebook": false,
+           "google": false,
+           "hatenaBookmark": false,
+           "instapaper": false,
+           "line": false,
+           "linkedin": false,
+           "messenger": false,
+           "pocket": false,
+           "qq": true,
+           "qzone": true,
+           "stumbleupon": false,
+           "twitter": false,
+           "viber": false,
+           "vk": false,
+           "weibo": true,
+           "whatsapp": false,
+           "all": ["facebook","twitter", "google","hatenaBookmark"]
         }
-    }
+	}
 }

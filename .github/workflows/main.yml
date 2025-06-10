@@ -11,27 +11,32 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [18.x]
+        node-version: [10.7.0]
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Cache Node.js
+      uses: actions/cache@v3
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/.nvmrc') }}
+        restore-keys: ${{ runner.os }}-node-
+
+    - name: Use Node.js version ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-        cache: 'npm'
 
-    - name: Install dependencies
-      run: npm install
-
-    - name: Install Honkit
-      run: npm install honkit -g
-
-    - name: Build Documentation
+    - name: Install dependencies and build GitBook
       run: |
-        honkit build . ./build
+        npm install graceful-fs@latest --save &&
+        npm install gitbook-cli -g &&
+        npm install gitbook-plugin-lightbox &&
+        npm install gitbook-plugin-quiz &&
+        gitbook install &&
+        gitbook build . ./build &&
         touch ./build/README.md
 
     - name: Deploy to GitHub Pages

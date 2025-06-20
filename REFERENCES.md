@@ -26,7 +26,7 @@
 * 2020年唐七元《广西汉语方言概要》.世界图书出版公司.2020-11.
 * de Sousa, Hilário. forthcoming. A grammar of Nánníng Pínghuà. Berlin: De Gruyter Mouton.
 
-狸猫的在线辞典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)〔新版[**Leimaau's Webdict 3.0**](https://leimaau-webdict3.vercel.app/)已上线 | [**备用地址**](https://tranquil-tulumba-4026d9.netlify.app/)〕
+狸猫的在线辞典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 
 笔者自己写的简略文章及对一些文献资料整理的PDF版：[这里](https://www.doc88.com/3b79df35c2a3e180e9ce8b08e82be65c)，包括入门手册、字典、词典、文献重制版等等，随时间版本会更新。
 

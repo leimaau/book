@@ -4,21 +4,29 @@
 
 ## 移动端
 
-**欧路词典**
-
-[欧路词典下载官方网站](https://www.eudic.net/v4/en/app/eudic)，其提供桌面版和手机版下载，mdx与mdd文件见下面。
-
-**深蓝词典**
-
-[深蓝词典下载官方网站](https://www.ssdlsoft.com/tag/bluedict)，其只提供安卓版下载，mdx与mdd文件见下面。
-
 **汉字音典APP**
 
 这是osfans开发的手机应用，下载安装使用更方便，[**此处**](https://github.com/osfans/MCPDict)下载。
 
+**欧路词典**
+
+[欧路词典下载官方网站](https://www.eudic.net/v4/en/app/eudic)，其提供桌面版和手机版下载，mdx与mdd文件见下面。
+
+**DictTango**
+
+[DictTango](https://github.com/Jimex/DictTango-Android/releases)，其只提供安卓版下载，mdx与mdd文件见下面。
+
+**bluedict**
+
+[深蓝词典下载官方网站](https://www.ssdlsoft.com/tag/bluedict)，其只提供安卓版下载，mdx与mdd文件见下面。
+
 ## PC端
 
-**客户端**
+**Mdict**
+
+[Mdict官方网站](https://www.mdict.cn/wp/?lang=zh)。
+
+**GoldenDict**
 
 [GoldenDict 下载官方网站](http://www.goldendict.org/)。
 
@@ -32,17 +40,17 @@
 
 可参看[南宁话单字音快速查询手册](https://github.com/leimaau/Nanning-Dialect-Manual)，原文tsv版。
 
-**网页端**
+## 网页端
 
 ![Leimaau's Webdict 2.0](https://z3.ax1x.com/2021/03/23/67aQXV.png)
 
-狸猫的在线辞典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)〔新版[**Leimaau's Webdict 3.0**](https://leimaau-webdict3.vercel.app/)已上线 | [**备用地址**](https://tranquil-tulumba-4026d9.netlify.app/)〕
+狸猫的在线辞典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 
 关于正字问题，本读音表不完全追求本字，有本字最好，没有的使用广泛的俗字也是可以的，对于实在无可考证的字，使用方形符号带粤拼作为占位符，这份字表囊括了原书单字音表部分和同音字汇的所有有音无字的音节，有可考的字都安上了字。这里还要谈谈一份重要的资料，那就是覃远雄等编的《南宁平话词典》，对于南白了解的越深越有一个门坎是不得不过的，一定要了解南宁平话，不了解南宁平话可以说就不能真正了解南宁白话，许多本字在其他资料查不到的情况下，可以在这份资料中查到，白话与平话的共用词甚至超过了80%，这本词典可以直接当作南宁白话词典来看，两者已经是不能分开的了。
 
 你想知道「逻辑」，「程序员」，「挑衅」，「坎坷」，「寻秦记」这些词语用白话怎么读吗，南白与广白有什么区别，文读是怎样的，白读是怎样的，粤拼是什么，ipa又是什么，两者有什么关系，白话与繁简体又有什么关系，查查这份读音表吧。
 
-旧版[狸猫的在线辞典2.0](https://leimaau.github.io/leimaau-webdict2/)中还分别提供了在线转换、在线标注、在线推导、在线分词四个功能。（新版Leimaau's Webdict 3.0目前提供三个功能，自动推导功能废除，因为新版的《广韵》《集韵》已经带有理论音功能）
+[狸猫的在线辞典2.0](https://leimaau.github.io/leimaau-webdict2/)中还分别提供了在线转换、在线标注、在线推导、在线分词四个功能。
 
 ## 音标转换
 

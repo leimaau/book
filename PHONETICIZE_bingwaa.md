@@ -245,7 +245,7 @@
 
 ## 输入方案说明
 
-狸猫的在线辞典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)〔新版[**Leimaau's Webdict 3.0**](https://leimaau-webdict3.vercel.app/)已上线 | [**备用地址**](https://tranquil-tulumba-4026d9.netlify.app/)〕
+狸猫的在线辞典：[**Leimaau's Webdict 2.0**](https://leimaau.github.io/leimaau-webdict2/)
 
 南宁（亭子）平话输入方案：[**下载地址**](https://github.com/leimaau/naamning_jyutping)
 

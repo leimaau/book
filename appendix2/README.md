@@ -17,6 +17,6 @@
 ![](https://s2.ax1x.com/2019/10/29/Kgxxnx.jpg)
 -->
 
-![](https://leimaau.github.io/CDN/data-store/nanningPic/hongjoeng.jpg)
+![](https://polite-cranachan-566a82.netlify.app/data-store/nanningPic/hongjoeng.jpg)
 
 【南宁街道夜景】

@@ -7,7 +7,7 @@
 ![](https://s2.ax1x.com/2019/10/29/K2S6zj.jpg)
 -->
 
-![](https://leimaau.github.io/CDN/data-store/historyData/laudaancing.jpg)
+![](https://polite-cranachan-566a82.netlify.app/data-store/historyData/laudaancing.jpg)
 
 中国是语言资源最丰富的国家，汉语是世界上方言分布最广、方言种类最多样的语言之一。在大规模的调查研究帮助下，包括国家的语言保护工程的支持下，今天是历史上唯一人们有幸能俯瞰汉语方言的宏观概貌并深入了解其丰富细节的时代；与此同时，今天也是我们不幸面临汉语方言最大生存危机的时代。这两者都跟中国的经济快速发展有关。如何面对汉语方言的紧迫生存危机？我们将提出：差别化的语文政策是当前最迫切的要务。
 
@@ -32,7 +32,7 @@
 ![](https://s2.ax1x.com/2019/10/29/K2S2yn.jpg)
 -->
 
-![](https://leimaau.github.io/CDN/data-store/historyData/tunggai_bilai.jpg)
+![](https://polite-cranachan-566a82.netlify.app/data-store/historyData/tunggai_bilai.jpg)
 
 1）体现语言活力的青少年方言能力和使用率断崖式下降，方言代际传承面临断裂。
 
@@ -53,7 +53,7 @@
 ![](https://s2.ax1x.com/2019/10/29/K2SRLq.jpg)
 -->
 
-![](https://leimaau.github.io/CDN/data-store/historyData/tunggai_gunggung.jpg)
+![](https://polite-cranachan-566a82.netlify.app/data-store/historyData/tunggai_gunggung.jpg)
 
 其中在家与长辈交谈说方言的百分比为79，说普通话的只占13.3，两者都说的占7.7。其他四地闽南话百分比在这上下浮动。但是，到2010-2011年，单纯调查泉州中小学生，统计结果显示情况陡变（陈燕玲、林华东2013）：
 
@@ -62,7 +62,7 @@
 ![](https://s2.ax1x.com/2019/10/29/K2SgQs.jpg)
 -->
 
-![](https://leimaau.github.io/CDN/data-store/historyData/tunggai_singhoeng.jpg)
+![](https://polite-cranachan-566a82.netlify.app/data-store/historyData/tunggai_singhoeng.jpg)
 
 城市学生与父母用方言交谈的百分比只有占45，已少于只用普通话的49。与祖父母交谈用方言的高于此数，但也低于所有成年人跟家长说话时的平均数。这一统计已经过去了7-8年，按此趋势，今天使用方言与父母交流的学生一定又显著下跌了。而与同龄人交谈——这是最反映说话人内心真实取舍的环境，因为彼此亲密而平等，不需要迁就对方——用方言的城市学生只有9%，两者兼用的也只有5%，86%的人都只用普通话交际了。试想当这一代人成为家长和社会主体时，还有方言的存活空间吗？
 
@@ -73,7 +73,7 @@
 ![](https://s2.ax1x.com/2019/10/29/K2SyWQ.png)
 -->
 
-![](https://leimaau.github.io/CDN/data-store/historyData/tunggai_zubui.png)
+![](https://polite-cranachan-566a82.netlify.app/data-store/historyData/tunggai_zubui.png)
 
 从表中可见，祖辈和中间辈之间交流基本用苏州话，中间辈跟小孩辈用苏州话的方言交流骤降到65.9%，比他们与上辈交流用苏州话的比例下降近30个百分点。再看邻城无锡，据周元雅（2011）对老城区180名15-35岁无锡人的调查，在和父母交谈一项中，选择无锡话的有147人，选择普通话一项的有13人，其中11人是20岁以下的中学生，25-29岁之间的有2人。可以看出几乎全部20岁以上的人群和父母都选择使用无锡话来交谈，而20岁以下人群中，有37.9%的人使用普通话来和父母交流，用方言的人数下降得极快，从30-35岁的100%，骤降为62.1%。
 
@@ -146,7 +146,7 @@
 ![](https://s2.ax1x.com/2019/10/29/K2Sfe0.jpg)
 -->
 
-![](https://leimaau.github.io/CDN/data-store/historyData/laudaancing2.jpg)
+![](https://polite-cranachan-566a82.netlify.app/data-store/historyData/laudaancing2.jpg)
 
 ** 参考文献 **
 

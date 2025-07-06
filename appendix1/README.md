@@ -12,6 +12,6 @@
 ![](https://s2.ax1x.com/2019/10/29/KgxO39.jpg)
 -->
 
-![](https://leimaau.github.io/CDN/data-store/nanningPic/wuizin.jpg)
+![](https://polite-cranachan-566a82.netlify.app/data-store/nanningPic/wuizin.jpg)
 
 【会展中心夜景】

@@ -28,7 +28,7 @@
         <answer>伟、玮、卉</answer>
 		<answer correct>习、集、及</answer>
 		<answer>扭、纽、朽</answer>
-        <explanation>沼（章母去声）ziu1[t͡ʃiːu˥]、诏（章母去声）ziu3[t͡ʃiːu˧]或ziu1[t͡ʃiːu˥]、昭（章母平声）ciu1[t͡ʃʰiːu˥]<br/>购（见母去声）kau3[kʰɐu˧]、构（见母去声）kau3[kʰɐu˧]、灸（见母去声）kau3[kʰɐu˧]<br/>伟（云母上声）wai2[wɐi˧˥]、玮（云母上声）wai2[wɐi˧˥]、卉（晓母上声）wai2[wɐi˧˥]<br/>习（邪母入声）zap6[t͡ʃɐp̚˨]、集（从母入声）zap6[t͡ʃɐp̚˨]、及（群母入声）gap6[kɐp̚˨]<br/>扭（娘母上声）nau2[nɐu˧˥]、纽（娘母上声）nau2[nɐu˧˥]、朽（晓母上声）nau2[nɐu˧˥]</explanation>
+        <explanation>沼（章母去声）ziu1[t͡ʃiːu˥]、诏（章母去声）ziu1[t͡ʃiːu˥]、昭（章母平声）ciu1[t͡ʃʰiːu˥]<br/>购（见母去声）kau3[kʰɐu˧]、构（见母去声）kau3[kʰɐu˧]、灸（见母去声）kau3[kʰɐu˧]<br/>伟（云母上声）wai2[wɐi˧˥]、玮（云母上声）wai2[wɐi˧˥]、卉（晓母上声）wai2[wɐi˧˥]<br/>习（邪母入声）zap6[t͡ʃɐp̚˨]、集（从母入声）zap6[t͡ʃɐp̚˨]、及（群母入声）gap6[kɐp̚˨]<br/>扭（娘母上声）nau2[nɐu˧˥]、纽（娘母上声）nau2[nɐu˧˥]、朽（晓母上声）nau2[nɐu˧˥]</explanation>
     </question>
     <question>
         <p>4.「虣」字《广韵》薄报切，推导南宁白话应读（10分）</p>

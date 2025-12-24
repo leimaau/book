@@ -10,7 +10,7 @@
 
 **香港语言学学会粤语拼音方案**，简称粤拼（粤拼：jyut6 ping3，粤拼：Jyutping），是由香港语言学学会于1993年制定的粤语罗马化拼音方案。其制定的目的在于以一套简单、合理、易学、易用的粤语语音转写方案来统一社会各界在粤语拼音使用上的混乱情况。这套方案目前得到了香港教育、电脑中文资讯处理等多方面的支持。基于粤拼的拼音输入法也发展得相当成熟，除了香港以外，台湾和日本也有使用此方案的输入系统出售。因此该方案遂成为目前标准化程度最高也是最普遍的一种粤语拼音方案。
 
-[ISHK Jyutping 粤拼](https://www.lshk.org/jyutping) | [Jyutping 粤拼入门](https://jyutping.org/)
+[ISHK Jyutping 粤拼](https://lshk.org/jyutping-scheme/) | [Jyutping 粤拼入门](https://jyutping.org/)
 
 ## 粤语的多种罗马化注音方式
 

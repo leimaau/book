@@ -141,6 +141,7 @@
 
 ## 韵母字例
 
+<div style="overflow-x:auto;">
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
 	<td><span style="font-size:2em;">aa</span><br/>[aː]<br/>爬</td>
@@ -231,6 +232,7 @@
 	<td><span style="font-size:2em;">oek</span><br/>[œːk̚/øːk̚]<br/>木</td>
   </tr>
 </table>
+<div>
 
 - ot[ot̚]作韵尾的大多为口语词，例如「㰵（吮吸）」读zot3[tsot̚˥]、「𦤣（屁声）」读bot6[pot2]或bot5[pot24]等。
 - 微母逢遇、臻两摄读[f]为老派，读[m]为新派，例如「武」老派fu5[fuː˨˦]、新派mu5[muː˨˦]。
@@ -239,7 +241,7 @@
 
 ## 拼音方案说明
 
-1.本方案是在1992年香港语言学学会创制的[粤拼](https://www.lshk.org/jyutping)基础上改编而成。
+1.本方案是在1992年香港语言学学会创制的[粤拼](https://lshk.org/jyutping-scheme/)基础上改编而成。
 
 2.上阴入、下阴入、上阳入和下阳入在不引起误解的时候也可以用数字7、8、9、10表示。
 
@@ -254,8 +256,6 @@
 2.模糊音设置中配置了e(ng|k)可替代ia(ng|k)输入，例如ziang1，可以输入zeng1。其他模糊音与容错设置可参看schema文件。
 
 3.输入方案中提示音转为IPA可在preedit_format处开启，PC上按Ctrl+Enter可将提示音上屏，按Ctrl+Shift+Enter可将候选项上屏。
-
-4.为了初学者方便快速学习，输入法的IPA与书面材料稍有不同，e主元音使用/ɛː/，与/e/音位变体。
 
 ## 注音举例
 

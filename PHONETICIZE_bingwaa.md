@@ -141,7 +141,6 @@
 
 ## 韵母字例
 
-<div style="overflow-x:auto;">
 <table style="width:1px; white-space:nowrap; text-align:center;">
   <tr>
 	<td><span style="font-size:2em;">aa</span><br/>[aː]<br/>爬</td>
@@ -156,28 +155,28 @@
   </tr>
   <tr>
 	<td></td>
-	<td><span style="font-size:2em;">ai</span><br/>[ɐi/əi/Ei]<br/>事</td>
-	<td><span style="font-size:2em;">au</span><br/>[ɐu/əu]<br/>手</td>
-	<td><span style="font-size:2em;">am</span><br/>[ɐm/əm]<br/>针</td>
-	<td><span style="font-size:2em;">an</span><br/>[ɐn/ən]<br/>分</td>
-	<td><span style="font-size:2em;">ang</span><br/>[ɐŋ/əŋ]<br/>朋</td>
-	<td><span style="font-size:2em;">ap</span><br/>[ɐp̚/əp̚]<br/>立</td>
-	<td><span style="font-size:2em;">at</span><br/>[ɐt̚/ət̚]<br/>笔</td>
-	<td><span style="font-size:2em;">ak</span><br/>[ɐk̚/ək̚]<br/>得</td>
+	<td><span style="font-size:2em;">ai</span><br/>[ɐi]<br/>事</td>
+	<td><span style="font-size:2em;">au</span><br/>[ɐu]<br/>手</td>
+	<td><span style="font-size:2em;">am</span><br/>[ɐm]<br/>针</td>
+	<td><span style="font-size:2em;">an</span><br/>[ɐn]<br/>分</td>
+	<td><span style="font-size:2em;">ang</span><br/>[ɐŋ]<br/>朋</td>
+	<td><span style="font-size:2em;">ap</span><br/>[ɐp̚]<br/>立</td>
+	<td><span style="font-size:2em;">at</span><br/>[ɐt̚]<br/>笔</td>
+	<td><span style="font-size:2em;">ak</span><br/>[ɐk̚]<br/>得</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">e</span><br/>[ɛː/e/E]<br/>车</td>
+	<td><span style="font-size:2em;">e</span><br/>[e]<br/>车</td>
 	<td></td>
-	<td><span style="font-size:2em;">eu</span><br/>[ɛːu/eu/Eu]<br/>猫</td>
-	<td><span style="font-size:2em;">em</span><br/>[ɛːm/em/Em]<br/>钳</td>
-	<td><span style="font-size:2em;">en</span><br/>[ɛːn/en/En]<br/>扁</td>
-	<td><span style="font-size:2em;">iang</span><br/>[iɐŋ/Eŋ/ɛːŋ]<br/>长*</td>
-	<td><span style="font-size:2em;">ep</span><br/>[ɛːp̚/ep̚/Ep̚]<br/>夹</td>
-	<td><span style="font-size:2em;">et</span><br/>[ɛːt̚/et̚/Et̚]<br/>挖</td>
-	<td><span style="font-size:2em;">iak</span><br/>[iɐk̚/Ek̚/ɛːk̚]<br/>白*</td>
+	<td><span style="font-size:2em;">eu</span><br/>[ɛːu]<br/>猫</td>
+	<td><span style="font-size:2em;">em</span><br/>[ɛːm]<br/>钳</td>
+	<td><span style="font-size:2em;">en</span><br/>[ɛːn]<br/>扁</td>
+	<td><span style="font-size:2em;">iang</span><br/>[iɐŋ]<br/>长*</td>
+	<td><span style="font-size:2em;">ep</span><br/>[ɛːp̚]<br/>夹</td>
+	<td><span style="font-size:2em;">et</span><br/>[ɛːt̚]<br/>挖</td>
+	<td><span style="font-size:2em;">iak</span><br/>[iɐk̚]<br/>白*</td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">o</span><br/>[o/ɔː]<br/>多</td>
+	<td><span style="font-size:2em;">o</span><br/>[o]<br/>多</td>
 	<td></td>
 	<td></td>
 	<td></td>
@@ -196,7 +195,7 @@
 	<td><span style="font-size:2em;">ing</span><br/>[eŋ]<br/>平</td>
 	<td><span style="font-size:2em;">ip</span><br/>[iːp̚]<br/>贴</td>
 	<td><span style="font-size:2em;">it</span><br/>[iːt̚]<br/>必</td>
-	<td><span style="font-size:2em;">ik</span><br/>[ek̚/ʅk̚]<br/>逼</td>
+	<td><span style="font-size:2em;">ik</span><br/>[ek̚]<br/>逼</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">u</span><br/>[uː]<br/>步</td>
@@ -204,10 +203,10 @@
 	<td></td>
 	<td></td>
 	<td><span style="font-size:2em;">un</span><br/>[uːn]<br/>般</td>
-	<td><span style="font-size:2em;">ung</span><br/>[oŋ/uŋ]<br/>王</td>
+	<td><span style="font-size:2em;">ung</span><br/>[oŋ]<br/>王</td>
 	<td></td>
 	<td><span style="font-size:2em;">ut</span><br/>[uːt̚]<br/>阔</td>
-	<td><span style="font-size:2em;">uk</span><br/>[ok̚/ɷk̚/uk̚]<br/>国</td>
+	<td><span style="font-size:2em;">uk</span><br/>[ok̚]<br/>国</td>
   </tr>
   <tr>
 	<td><span style="font-size:2em;">yu</span><br/>[yː]<br/>朱</td>
@@ -221,18 +220,17 @@
 	<td></td>
   </tr>
   <tr>
-	<td><span style="font-size:2em;">oe</span><br/>[œː/øː]<br/>靴</td>
+	<td><span style="font-size:2em;">oe</span><br/>[œː]<br/>靴</td>
 	<td></td>
 	<td></td>
 	<td></td>
 	<td></td>
-	<td><span style="font-size:2em;">oeng</span><br/>[œːŋ/øːŋ]<br/>冬</td>
+	<td><span style="font-size:2em;">oeng</span><br/>[œːŋ]<br/>冬</td>
 	<td></td>
 	<td></td>
-	<td><span style="font-size:2em;">oek</span><br/>[œːk̚/øːk̚]<br/>木</td>
+	<td><span style="font-size:2em;">oek</span><br/>[œːk̚]<br/>木</td>
   </tr>
 </table>
-<div>
 
 - ot[ot̚]作韵尾的大多为口语词，例如「㰵（吮吸）」读zot3[tsot̚˥]、「𦤣（屁声）」读bot6[pot2]或bot5[pot24]等。
 - 微母逢遇、臻两摄读[f]为老派，读[m]为新派，例如「武」老派fu5[fuː˨˦]、新派mu5[muː˨˦]。

@@ -10,7 +10,7 @@
 * 梁振仕.《切韵》系统与南宁音系.《音韵学研究(第二辑)》.中国音韵学研究会.1986.
 * 1994年谢建猷《南宁白话同音字汇》，数据来源：[中国知网](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD9495&filename=FYZA199404006&uid=WEEvREcwSlJHSldRa1FhdXNXa0d1RENHbHhkNnJGRUE3Skg4TzI2TXJDaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSTEtlWitabkZpdmhWcnZOSXpUUmI3S3hGOVhNcTQ5RllvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=) | 记音质量： ★★☆☆☆ 两颗星
 * 1997年杨焕典《南宁话音档》，数据来源：[汉语多功能字库网站](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) | 记音质量： ★★★☆☆ 三颗星
-* 1998年广西地方志编纂委员会《广西通志（汉语方言志）》，数据来源：[广西地情资料库](http://www.gxdfz.org.cn/gdtz/) | 记音质量： ★★★★☆ 四颗星
+* 1998年广西地方志编纂委员会《广西通志·汉语方言志》，数据来源：[广西地情资料库](http://www.gxdfz.org.cn/gdtz/) | 记音质量： ★★★★☆ 四颗星
 * 2000年李连进《平话音韵研究》，数据来源：[东方语言学](http://www.eastling.org/index.php) | 记音质量： ★★★☆☆ 三颗星
 * 2002年杨焕典《现代汉语方言音库》，数据来源：[现代汉语方言音库](http://ling.cass.cn/xszx/xszx_xscg/xszx_xscg_zzysp/201705/t20170515_3518607.html)  | 记音质量： ★★★☆☆  三颗星
 * 2004年林亦《百年来的东南方音史研究》.南京大学出版社.2004-06.

@@ -254,53 +254,53 @@
 
 > [!EXAMPLE]
 > 
+> ** 虚拟存储器技术 **
+> 
 > [hy⁵⁵ ni²⁴ tʃʰyn²¹ tʃʰy²¹ hi³³ ki²² ʃɐt²]
 > 
 > hyu1 ni5 cyun4 cyu4 hi3 gi6 sat6
 > 
-> ** 虚拟存储器技术 **
+> 在单道程序环境下，处理机会有很多空闲时间，内存也会有很多空闲空间，显然，这
 > 
 > [tʃɔi²² tan⁵⁵ tu²² tʃʰeŋ²¹ tʃy²² wan²¹ keŋ³⁵ ha²²，tʃʰy³⁵ li²⁴ ki⁵⁵ wui²² jɐu²⁴ hɐn³⁵ tɔ⁵⁵ hʊŋ⁵⁵ hɛn²¹ ʃi²¹ kɛn⁵⁵，nui²² tʃʰyn²¹ ja²⁴ wui²² jɐu²⁴ hɐn³⁵ tɔ⁵⁵ hʊŋ⁵⁵ hɛn²¹ hʊŋ⁵⁵ kɛn⁵⁵，hin³⁵ jin²¹，tʃɛ²⁴]
 > 
 > zoi6 daan1 du6 cing4 zyu6 waan4 ging2 haa6，cyu2 li5 gi1 wui6 jau5 han2 do1 hung1 hen4 si4 gen1，nui6 cyun4 jaa5 wui6 jau5 han2 do1 hung1 hen4 hung1 gen1，hin2 jin4，ze5
 > 
-> 在单道程序环境下，处理机会有很多空闲时间，内存也会有很多空闲空间，显然，这
+> 会使处理机和内存的效率低下。如果说时分复用技术是利用处理机的空闲时间来运行其它
 > 
 > [wui²² ʃɐi³⁵ tʃʰy³⁵ li²⁴ ki⁵⁵ wɔ²¹ nui²² tʃʰyn²¹ tek⁵ hau²² lɐt² tɐi⁵⁵ ha²²。jy²¹ kɔ³⁵ ʃyt³ ʃi²¹ fɐn⁵⁵ fʊk⁵ jʊŋ²² ki²² ʃɐt² ʃi²² li²² jʊŋ²² tʃʰy³⁵ li²⁴ ki⁵⁵ tek⁵ hʊŋ⁵⁵ hɛn²¹ ʃi²¹ kɛn⁵⁵ lɔi²¹ wɐn²² hɐŋ²¹ kʰi²¹ tʰa⁵⁵]
 > 
 > wui6 sai2 cyu2 li5 gi1 wo4 nui6 cyun4 dik1 haau6 lat6 dai1 haa6。jyu4 go2 syut3 si4 fan1 fuk1 jung6 gi6 sat6 si6 li6 jung6 cyu2 li5 gi1 dik1 hung1 hen4 si4 gen1 loi4 wan6 hang4 ki4 taa1
 > 
-> 会使处理机和内存的效率低下。如果说时分复用技术是利用处理机的空闲时间来运行其它
+> 的程序，使处理机的利用率得以提高，那么空分复用则是利用存储器的空闲空间来存放其
 > 
 > [tek⁵ tʃʰeŋ²¹ tʃy²²，ʃɐi³⁵ tʃʰy³⁵ li²⁴ ki⁵⁵ tek⁵ li²² jʊŋ²² lɐt² tɐk⁵ ji²⁴ tʰɐi²¹ ku⁵⁵，na²⁴ mɔ⁵⁵ hʊŋ⁵⁵ fɐn⁵⁵ fʊk⁵ jʊŋ²² tʃɐk⁵ ʃi²² li²² jʊŋ²² tʃʰyn²¹ tʃʰy²¹ hi³³ tek⁵ hʊŋ⁵⁵ hɛn²¹ hʊŋ⁵⁵ kɛn⁵⁵ lɔi²¹ tʃʰyn²¹ fɔŋ³³ kʰi²¹]
 > 
 > dik1 cing4 zyu6，sai2 cyu2 li5 gi1 dik1 li6 jung6 lat6 dak1 ji5 tai4 gu1，naa5 mo1 hung1 fan1 fuk1 jung6 zak1 si6 li6 jung6 cyun4 cyu4 hi3 dik1 hung1 hen4 hung1 gen1 loi4 cyun4 fong3 ki4
 > 
-> 的程序，使处理机的利用率得以提高，那么空分复用则是利用存储器的空闲空间来存放其
+> 它的程序，以提高内存的利用率。
 > 
 > [tʰa⁵⁵ tek⁵ tʃʰeŋ²¹ tʃy²²，ji²⁴ tʰɐi²¹ ku⁵⁵ nui²² tʃʰyn²¹ tek⁵ li²² jʊŋ²² lɐt²。]
 > 
 > taa1 dik1 cing4 zyu6，ji5 tai4 gu1 nui6 cyun4 dik1 li6 jung6 lat6。
 > 
-> 它的程序，以提高内存的利用率。
+> 但是，单纯的空分复用存储器只能提高内存的利用率，并不能实现在逻辑上扩大存储
 > 
 > [tan²² ʃi²²，tan⁵⁵ ʃɐn²¹ tek⁵ hʊŋ⁵⁵ fɐn⁵⁵ fʊk⁵ jʊŋ²² tʃʰyn²¹ tʃʰy²¹ hi³³ tʃi³⁵ nɐŋ²¹ tʰɐi²¹ ku⁵⁵ nui²² tʃʰyn²¹ tek⁵ li²² jʊŋ²² lɐt²，peŋ²² pɐt⁵ nɐŋ²¹ ʃɐt² jin²² tʃɔi²² lɔ²¹ tʃʰɐp⁵ ʃœŋ²² kʰɔŋ³³ tai²² tʃʰyn²¹ tʃʰy²¹]
 > 
 > daan6 si6，daan1 san4 dik1 hung1 fan1 fuk1 jung6 cyun4 cyu4 hi3 zi2 nang4 tai4 gu1 nui6 cyun4 dik1 li6 jung6 lat6，bing6 bat1 nang4 sat6 jin6 zoi6 lo4 cap1 soeng6 kong3 daai6 cyun4 cyu4
 > 
-> 但是，单纯的空分复用存储器只能提高内存的利用率，并不能实现在逻辑上扩大存储
+> 器容量的功能，必须引入虚拟存储技术才能达到此目地。而虚拟存储技术在本质上就是使
 > 
 > [hi³³ jʊŋ²¹ lœŋ²² tek⁵ kʊŋ⁵⁵ nɐŋ²¹，pit⁵ ɬy⁵⁵ jɐn²⁴ jɐp² hy⁵⁵ ni²⁴ tʃʰyn²¹ tʃʰy²¹ ki²² ʃɐt² tʃʰɔi²¹ nɐŋ²¹ tat² tu³³ tʃʰi³⁵ mʊk² ti²²。ji²¹ hy⁵⁵ ni²⁴ tʃʰyn²¹ tʃʰy²¹ ki²² ʃɐt² tʃɔi²² pun³⁵ tʃɐt⁵ ʃœŋ²² tʃɐu²² ʃi²² ʃɐi³⁵]
 > 
 > hi3 jung4 loeng6 dik1 gung1 nang4，bit1 slyu1 jan5 jap6 hyu1 ni5 cyun4 cyu4 gi6 sat6 coi4 nang4 daat6 du3 ci2 muk6 di6。ji4 hyu1 ni5 cyun4 cyu4 gi6 sat6 zoi6 bun2 zat1 soeng6 zau6 si6 sai2
 > 
-> 器容量的功能，必须引入虚拟存储技术才能达到此目地。而虚拟存储技术在本质上就是使
+> 内存分时复用。它可以使一道程序通过时分复用方式，在远小于它的内存空间中运行。
 > 
 > [nui²² tʃʰyn²¹ fɐn⁵⁵ ʃi²¹ fʊk⁵ jʊŋ²²。tʰa⁵⁵ hɔ³⁵ ji²⁴ ʃɐi³⁵ jɐt⁵ tu²² tʃʰeŋ²¹ tʃy²² tʰʊŋ⁵⁵ kɔ³³ ʃi²¹ fɐn⁵⁵ fʊk⁵ jʊŋ²² fɔŋ⁵⁵ ʃek⁵，tʃɔi²² jyn²⁴ ɬiu³⁵ jy⁵⁵ tʰa⁵⁵ tek⁵ nui²² tʃʰyn²¹ hʊŋ⁵⁵ kɛn⁵⁵ tʃʊŋ⁵⁵ wɐn²² hɐŋ²¹。]
 > 
 > nui6 cyun4 fan1 si4 fuk1 jung6。taa1 ho2 ji5 sai2 jat1 du6 cing4 zyu6 tung1 go3 si4 fan1 fuk1 jung6 fong1 sik1，zoi6 jyun5 sliu2 jyu1 taa1 dik1 nui6 cyun4 hung1 gen1 zung1 wan6 hang4。
-> 
-> 内存分时复用。它可以使一道程序通过时分复用方式，在远小于它的内存空间中运行。
 
 
 **参考资料：**

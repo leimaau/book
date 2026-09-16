@@ -259,65 +259,65 @@
 
 > [!EXAMPLE]
 > 
+> ** 模块化程序设计技术的基本概念 **
+> 
 > [mo⁵³ wai⁵⁵ wa⁵⁵ tʃeŋ²¹ tʃy²² tʃʰyt³ ki⁵⁵ ki²² ɬɐt² tek³ ki⁵³ pun³³ kʰai⁵⁵ nim²²]
 > 
 > mo1 waai3 waa3 zing4 zyu6 cyut2 gi3 gi6 slat6 dik2 gi1 bun2 kaai3 nim6
 > 
-> ** 模块化程序设计技术的基本概念 **
+> 模块化程序设计技术是 20 世纪 60 年代出现的一种结构化程序设计技术。该技术是基
 > 
 > [mo⁵³ wai⁵⁵ wa⁵⁵ tʃeŋ²¹ tʃy²² tʃʰyt³ ki⁵⁵ ki²² ɬɐt² ʃi²² 20 ʃi⁵⁵ ki³³ 60 nin²¹ tai²² tʃʰɐt³ jyn²² tek³ ∅ɐt³ tʃœŋ³³ kyt³ kʰɐu⁵⁵ wa⁵⁵ tʃeŋ²¹ tʃy²² tʃʰyt³ ki⁵⁵ ki²² ɬɐt²。kai⁵³ ki²² ɬɐt² ʃi²² ki⁵³]
 > 
 > mo1 waai3 waa3 zing4 zyu6 cyut2 gi3 gi6 slat6 si6 20 si3 gi2 60 nin4 daai6 cat2 jyun6 dik2 at2 zoeng2 gyut2 kau3 waa3 zing4 zyu6 cyut2 gi3 gi6 slat6。gaai1 gi6 slat6 si6 gi1
 > 
-> 模块化程序设计技术是 20 世纪 60 年代出现的一种结构化程序设计技术。该技术是基
+> 于「分解」和「模块化」原则来控制大型软件的复杂度。为使 OS 具有较清晰的结构，OS
 > 
-> [jy⁵³ “fɐn⁵³ kai³³” ho²¹ “mo⁵³ wai⁵⁵ wa⁵⁵” jyn²¹ tʃɐk³ lai²¹ hœŋ⁵⁵ tʃi⁵⁵ tai²² heŋ²¹ ȵyn²⁴ kyn²² tek³ fœk³ tʃap² tu²²。wɐi²² ʃɐi³³ OS ky²² jɐu²⁴ kau⁵⁵ tʃʰeŋ⁵³ ɬek³ tek³ kyt³ kʰɐu⁵⁵，OS]
+> [jy⁵³ 「fɐn⁵³ kai³³」 ho²¹ 「mo⁵³ wai⁵⁵ wa⁵⁵」 jyn²¹ tʃɐk³ lai²¹ hœŋ⁵⁵ tʃi⁵⁵ tai²² heŋ²¹ ȵyn²⁴ kyn²² tek³ fœk³ tʃap² tu²²。wɐi²² ʃɐi³³ OS ky²² jɐu²⁴ kau⁵⁵ tʃʰeŋ⁵³ ɬek³ tek³ kyt³ kʰɐu⁵⁵，OS]
 > 
-> jyu1 “fan1 gaai2” ho4 “mo1 waai3 waa3” jyun4 zak2 laai4 hoeng3 zi3 daai6 hing4 njyun5 gyun6 dik2 foek2 zaap6 du6。wai6 sai2 OS gyu6 jau5 gaau3 cing1 slik2 dik2 gyut2 kau3，OS
+> jyu1 「fan1 gaai2」 ho4 「mo1 waai3 waa3」 jyun4 zak2 laai4 hoeng3 zi3 daai6 hing4 njyun5 gyun6 dik2 foek2 zaap6 du6。wai6 sai2 OS gyu6 jau5 gaau3 cing1 slik2 dik2 gyut2 kau3，OS
 > 
-> 于“分解”和“模块化”原则来控制大型软件的复杂度。为使 OS 具有较清晰的结构，OS
+> 不再是由众多的过程直接构成，而是将 OS 按其功能精心地划分为若干个具有一定独立性和
 > 
 > [pɐt³ tʃai⁵⁵ ʃi²² jɐu²¹ tʃœŋ⁵⁵ to⁵³ tek³ ku⁵⁵ tʃeŋ²¹ tʃek² tʃip³ kʰɐu⁵⁵ ʃeŋ²¹，ji²¹ ʃi²² tʃiɐŋ⁵³ OS ∅an⁵⁵ ki²¹ kœŋ⁵³ nɐŋ²¹ tʃeŋ⁵³ ɬɐm⁵³ ti²² wak² fɐn⁵³ wɐi²¹ jiɐk²⁴ kan⁵³ ko⁵⁵ ky²² jɐu²⁴ ∅ɐt³ teŋ²² tœk² lɐp²⁴ ɬeŋ⁵⁵ ho²¹]
 > 
 > bat2 zaai3 si6 jau4 zoeng3 do1 dik2 gu3 zing4 zik6 zip2 kau3 sing4，ji4 si6 ziang1 OS aan3 gi4 goeng1 nang4 zing1 slam1 di6 waak6 fan1 wai4 jiak5 gaan1 go3 gyu6 jau5 at2 ding6 doek6 lap5 sling3 ho4
 > 
-> 不再是由众多的过程直接构成，而是将 OS 按其功能精心地划分为若干个具有一定独立性和
+> 大小的模块；每个模块具有某方面的管理功能，如进程管理模块、存储器管理模块、I/O 设
 > 
 > [tai²² ɬiu³³ tek³ mo⁵³ wai⁵⁵；mui²⁴ ko⁵⁵ mo⁵³ wai⁵⁵ ky²² jɐu²⁴ mɐu²⁴ foŋ⁵³ min²² tek³ kun³³ li²⁴ kœŋ⁵³ nɐŋ²¹，jy²¹ tʃɐn⁵⁵ tʃeŋ²¹ kun³³ li²⁴ mo⁵³ wai⁵⁵、tʃon²¹ tʃy²¹ hi⁵⁵ kun³³ li²⁴ mo⁵³ wai⁵⁵、I/O tʃʰyt³]
 > 
 > daai6 sliu2 dik2 mo1 waai3；mui5 go3 mo1 waai3 gyu6 jau5 mau5 fung1 min6 dik2 gun2 li5 goeng1 nang4，jyu4 zan3 zing4 gun2 li5 mo1 waai3、zon4 zyu4 hi3 gun2 li5 mo1 waai3、I/O cyut2
 > 
-> 大小的模块；每个模块具有某方面的管理功能，如进程管理模块、存储器管理模块、I/O 设
+> 备管理模块等，并仔细地规定好各模块间的接口，使各模块之间能通过该接口实现交互。
 > 
 > [pi²² kun³³ li²⁴ mo⁵³ wai⁵⁵ tɐŋ³³，peŋ²² tʃi³³ ɬɐi⁵⁵ ti²² kʷʰɐi⁵³ teŋ²² hau³³ kak³ mo⁵³ wai⁵⁵ kan⁵³ tek³ tʃip³ hɐu³³，ʃɐi³³ kak³ mo⁵³ wai⁵⁵ tʃi⁵³ kan⁵³ nɐŋ²¹ tʰœŋ⁵³ ku⁵⁵ kai⁵³ tʃip³ hɐu³³ ʃɐt² jyn²² kau⁵³ hu²²。]
 > 
 > bi6 gun2 li5 mo1 waai3 dang2，bing6 zi2 slai3 di6 kwai1 ding6 haau2 gaak2 mo1 waai3 gaan1 dik2 zip2 hau2，sai2 gaak2 mo1 waai3 zi1 gaan1 nang4 toeng1 gu3 gaai1 zip2 hau2 sat6 jyun6 gaau1 hu6。
 > 
-> 备管理模块等，并仔细地规定好各模块间的接口，使各模块之间能通过该接口实现交互。
+> 然后，再进一步将各模块细分为若干个具有一定功能的子模块，如把进程管理模块又分为
 > 
 > [jyn²¹ hɐu²²，tʃai⁵⁵ tʃɐn⁵⁵ ∅ɐt³ pu²² tʃiɐŋ⁵³ kak³ mo⁵³ wai⁵⁵ ɬɐi⁵⁵ fɐn⁵³ wɐi²¹ jiɐk²⁴ kan⁵³ ko⁵⁵ ky²² jɐu²⁴ ∅ɐt³ teŋ²² kœŋ⁵³ nɐŋ²¹ tek³ tʃi³³ mo⁵³ wai⁵⁵，jy²¹ pa³³ tʃɐn⁵⁵ tʃeŋ²¹ kun³³ li²⁴ mo⁵³ wai⁵⁵ jɐu²² fɐn⁵³ wɐi²¹]
 > 
 > jyun4 hau6，zaai3 zan3 at2 bu6 ziang1 gaak2 mo1 waai3 slai3 fan1 wai4 jiak5 gaan1 go3 gyu6 jau5 at2 ding6 goeng1 nang4 dik2 zi2 mo1 waai3，jyu4 baa2 zan3 zing4 gun2 li5 mo1 waai3 jau6 fan1 wai4
 > 
-> 然后，再进一步将各模块细分为若干个具有一定功能的子模块，如把进程管理模块又分为
+> 进程控制、进程同步等子模块，同样也要规定好各子模块之间的接口。若子模块较大时，
 > 
 > [tʃɐn⁵⁵ tʃeŋ²¹ hœŋ⁵⁵ tʃi⁵⁵、tʃɐn⁵⁵ tʃeŋ²¹ tœŋ²¹ pu²² tɐŋ³³ tʃi³³ mo⁵³ wai⁵⁵，tœŋ²¹ jiɐŋ²² je²⁴ jiu⁵⁵ kʷʰɐi⁵³ teŋ²² hau³³ kak³ tʃi³³ mo⁵³ wai⁵⁵ tʃi⁵³ kan⁵³ tek³ tʃip³ hɐu³³。jiɐk²⁴ tʃi³³ mo⁵³ wai⁵⁵ kau⁵⁵ tai²² ʃi²¹，]
 > 
 > zan3 zing4 hoeng3 zi3、zan3 zing4 doeng4 bu6 dang2 zi2 mo1 waai3，doeng4 jiang6 je5 jiu3 kwai1 ding6 haau2 gaak2 zi2 mo1 waai3 zi1 gaan1 dik2 zip2 hau2。jiak5 zi2 mo1 waai3 gaau3 daai6 si4，
 > 
-> 进程控制、进程同步等子模块，同样也要规定好各子模块之间的接口。若子模块较大时，
+> 可再进一步将它细分。我们把这种设计方法称为模块 ― 接口法，由此构成的操作系统就是
 > 
 > [kʰo³³ tʃai⁵⁵ tʃɐn⁵⁵ ∅ɐt³ pu²² tʃiɐŋ⁵³ tʰa⁵³ ɬɐi⁵⁵ fɐn⁵³。ŋo²⁴ mun²¹ pa³³ tʃe²⁴ tʃœŋ³³ tʃʰyt³ ki⁵⁵ foŋ⁵³ fat³ tʃʰeŋ⁵³ wɐi²¹ mo⁵³ wai⁵⁵ ― tʃip³ hɐu³³ fat³，jɐu²¹ tʃʰi³³ kʰɐu⁵⁵ ʃeŋ²¹ tek³ tʃʰau⁵³ tʃak³ hɐi²² tʰœŋ³³ tʃɐu²² ʃi²²]
 > 
 > ko2 zaai3 zan3 at2 bu6 ziang1 taa1 slai3 fan1。ngo5 mun4 baa2 ze5 zoeng2 cyut2 gi3 fung1 faat2 cing1 wai4 mo1 waai3 ― zip2 hau2 faat2，jau4 ci2 kau3 sing4 dik2 caau1 zaak2 hai6 toeng2 zau6 si6
 > 
-> 可再进一步将它细分。我们把这种设计方法称为模块 ― 接口法，由此构成的操作系统就是
+> 具有模块化结构的操作系统。
 > 
 > [ky²² jɐu²⁴ mo⁵³ wai⁵⁵ wa⁵⁵ kyt³ kʰɐu⁵⁵ tek³ tʃʰau⁵³ tʃak³ hɐi²² tʰœŋ³³。]
 > 
 > gyu6 jau5 mo1 waai3 waa3 gyut2 kau3 dik2 caau1 zaak2 hai6 toeng2。
-> 
-> 具有模块化结构的操作系统。
 
 
 **参考资料：**

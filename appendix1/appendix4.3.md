@@ -1687,7 +1687,8 @@
 /* 推導南寧白話
  *
  * https://github.com/leimaau/naamning_jyutping
- * version: 2022-05-09
+ *
+ * version: 2026-08-27
  *
  * 【符號說明】
  * 心母字讀 sl[ɬ]（清齒齦邊擦音），效咸山攝二等字讀 -eu[-ɛu]、-em[-ɛm]/-ep[-ɛp]、-en[-ɛn]/-et[-ɛt]，但演變不平衡，以下只推導文讀音，同理，梗三四的演變不平衡，以下也只推導文讀音
@@ -1877,9 +1878,13 @@ function 韻母規則() {
     if (is('牙喉音 或 精組 或 泥孃母')) return 'oi';
     return 'aai';
   }
-  if (is('泰韻 合口') && !is('幫組')) return is('疑母') ? 'oi' : 'ai';
+  if (is('泰韻 合口') && !is('幫組')) {
+    if (is('疑母')) return 'oi';
+    if (is('見母 或 溪母')) return 'ai';
+    return 'ui';
+  }
   if (is('佳皆夬韻')) return 'aai';
-  if (is('灰韻')) return is('疑母') ? 'ai' : 'ui';
+  if (is('灰韻')) return is('疑母 或 見母') ? 'ai' : 'ui';
   if (is('咍韻')) return is('幫組 或 以母') ? 'ui' : 'oi';
   if (is('廢韻')) return 'ai';
 
@@ -1982,8 +1987,8 @@ function 聲調規則() {
     if (is('上聲')) return '2'; // 陰上
     if (is('去聲')) return '3'; // 陰去
     if (is('入聲')) {
-      if (is('咸山江宕攝 或 梗攝 二等')){ // 清紐外轉字，影母特例
-        if (is('(咸攝 一等 或 江梗攝) 影母')) return '1';
+      if (is('咸山江宕攝 或 梗攝 二等')){ // 清紐外轉字，影母溪母特例
+        if (is('(咸攝 一等 或 江梗攝) (影母 或 溪母)')) return '1';
         return '3';
       }
       if (is('梗攝 三等 莊組')) return '3';
@@ -2003,6 +2008,7 @@ let 聲母 = 聲母規則();
 let 韻母 = 韻母規則();
 let 聲調 = 聲調規則();
 
+
 if (is('合口') && !['u', 'o', 'yu'].some((x) => 韻母.startsWith(x))) { // 合口字
   if (聲母 === 'g' && !韻母.startsWith('im')) 聲母 = 'gw';
   else if (聲母 === 'k' && !韻母.startsWith('ing') && !韻母.startsWith('im')) 聲母 = 'kw';
@@ -2010,6 +2016,7 @@ if (is('合口') && !['u', 'o', 'yu'].some((x) => 韻母.startsWith(x))) { // �
   else if (聲母 === 'w' && 韻母 === 'yu') 聲母 = 'j';
   else if (聲母 === 'h' && (韻母 === 'ui' || 韻母 === 'un')) 聲母 = 'f';
 }
+
 
 // 疑母拼細音時: i-類和oe-類 入聲n- 舒聲j-；yu類 舒入聲j-；u-類 ngung/k->jung/k，ngun/t->wun/t，ngu不變
 if (聲母 === 'ng') {
@@ -2028,8 +2035,10 @@ if (聲母 === 'w' && 韻母 === 'yu') 聲母 = 'j'; // 保險起見再寫一遍
 if (聲母 === 'h' && (韻母 === 'ui' || 韻母 === 'un')) 聲母 = 'f'; // 保險起見再寫一遍
 if (聲母 === 'hw' && 韻母.startsWith('a')) 聲母 = 'f';
 
+
 // 南寧的 詠泳咏 讀陽上
 if (is('云匣母 庚韻 合口 去聲')) 聲調 = '5';
+
 
 // m 韻尾在聲母為脣音時為 n
 if (is('幫組') && 韻母.endsWith('m')) 韻母 = 韻母.slice(0, -1) + 'n';
@@ -2049,7 +2058,8 @@ return 聲母 + 韻母 + 聲調;
 /* 推導南寧亭子平話
  *
  * https://github.com/leimaau/naamning_jyutping
- * version: 2022-05-09
+ *
+ * version: 2026-08-27
  *
  * 【符號說明】
  * 心母字讀 sl[ɬ]（清齒齦邊擦音），日母和疑母細音字讀 nj[ȵ]（齦齶音）
@@ -2098,10 +2108,12 @@ function 聲母規則() {
   if (is('精母')) return 'z';
   if (is('清母')) return 'c';
   if (is('從母')) return 'z';
+  
   if (is('心母')) {
     if (is('支脂之微韻 合口 上聲 或 支脂之微韻 開口 去聲 或 寒韻 開口 平聲')) return 's';  // 髓賽珊
     return 'sl';
   }
+  
   if (is('邪母 平聲')) {
     if (is('山臻攝 三等')) return 'sl';
     return 'z';
@@ -2122,6 +2134,7 @@ function 聲母規則() {
   if (is('日母')) return 'nj';
 
   if (is('見母')) return 'g';
+  
   if (is('溪母')) {
     if (is('模韻')) return 'h';
     if (is('開口')) {
@@ -2138,6 +2151,7 @@ function 聲母規則() {
     }
     return 'h';
   }
+  
   if (is('羣母')) return is('平聲') ? 'k' : 'g';
   if (is('疑母')) return 'ng';
 
@@ -2183,6 +2197,7 @@ function 聲母規則() {
     }
     return is('三四等') ? 'j' : '';
   }
+
   throw new Error('無聲母規則');
 }
 
@@ -2221,7 +2236,11 @@ function 韻母規則() {
   }
   if (is('泰韻 幫組')) return 'ui';
   if (is('泰韻 開口') && !is('幫組')) return 'aai';
-  if (is('泰韻 合口') && !is('幫組')) return is('疑母') ? 'waai' : 'ai';
+  if (is('泰韻 合口') && !is('幫組')) {
+    if (is('疑母')) return 'waai';
+    if (is('見母 或 溪母 或 匣母')) return 'ai';
+    return 'ui';
+  }
   if (is('佳皆夬韻')) return 'aai';
   if (is('灰韻')) return is('疑母') ? 'ai' : 'ui';
   if (is('咍韻')) return is('幫組 或 以母') ? 'ui' : 'aai';
@@ -2310,6 +2329,7 @@ let 聲母 = 聲母規則();
 let 韻母 = 韻母規則();
 let 聲調 = 聲調規則();
 
+
 if (is('合口') && !['u', 'o', 'yu'].some((x) => 韻母.startsWith(x))) { // 合口字
   if (聲母 === 'g' && !韻母.startsWith('im')) 聲母 = 'gw';
   else if (聲母 === 'k' && !韻母.startsWith('ing') && !韻母.startsWith('im')) 聲母 = 'kw';
@@ -2317,6 +2337,7 @@ if (is('合口') && !['u', 'o', 'yu'].some((x) => 韻母.startsWith(x))) { // �
   else if (聲母 === 'w' && 韻母 === 'yu') 聲母 = 'j';
   else if (聲母 === 'w' && 韻母 === 'ung') 聲母 = '';
 }
+
 
 // 疑母拼細音時: i-類和oe-類 nj-；yu類 j-；u-類 ngung/k->njung/k，ngun/t->wun/t，ngu不變
 if (聲母 === 'ng') {
@@ -2335,11 +2356,15 @@ if (聲母 === 'w' && 韻母 === 'ung') 聲母 = ''; // 保險起見再寫一遍
 if (聲母 === 'ng' && 韻母.startsWith('w')) 聲母 = '';  // 特殊字「外」
 if (聲母 === 'hw' && 韻母.startsWith('a')) 聲母 = 'w';
 if (聲母 === 'w' && 韻母.startsWith('ui')) 韻母 = 'ai';
+
+// 進一步
 if (聲母 === 'nj' && (韻母 === 'ing' || 韻母 === 'iang')) 聲母 = 'ng';
 if (聲母 === 'nj' && 韻母.startsWith('i') && is('入聲')) 聲母 = 'n';
 
+
 // 南寧的 詠泳咏 讀陽上
 if (is('云匣母 庚韻 合口 去聲')) 聲調 = '5';
+
 
 // m 韻尾在聲母為脣音時為 n
 if (is('幫組') && 韻母.endsWith('m')) 韻母 = 韻母.slice(0, -1) + 'n';
@@ -2349,6 +2374,8 @@ if (is('入聲')) {
   else if (韻母.endsWith('n')) 韻母 = 韻母.slice(0, -1) + 't';
   else if (韻母.endsWith('ng')) 韻母 = 韻母.slice(0, -2) + 'k';
 }
+
+if (聲母 === 'w' && 韻母.startsWith('ut')) 韻母 = 'at';
 
 return 聲母 + 韻母 + 聲調;
 ```

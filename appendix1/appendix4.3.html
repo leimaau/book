@@ -2384,7 +2384,8 @@
 <pre><code class="lang-js"><span class="hljs-comment">/* &#x63A8;&#x5C0E;&#x5357;&#x5BE7;&#x767D;&#x8A71;
  *
  * https://github.com/leimaau/naamning_jyutping
- * version: 2022-05-09
+ *
+ * version: 2026-08-27
  *
  * &#x3010;&#x7B26;&#x865F;&#x8AAA;&#x660E;&#x3011;
  * &#x5FC3;&#x6BCD;&#x5B57;&#x8B80; sl[&#x26C;]&#xFF08;&#x6E05;&#x9F52;&#x9F66;&#x908A;&#x64E6;&#x97F3;&#xFF09;&#xFF0C;&#x6548;&#x54B8;&#x5C71;&#x651D;&#x4E8C;&#x7B49;&#x5B57;&#x8B80; -eu[-&#x25B;u]&#x3001;-em[-&#x25B;m]/-ep[-&#x25B;p]&#x3001;-en[-&#x25B;n]/-et[-&#x25B;t]&#xFF0C;&#x4F46;&#x6F14;&#x8B8A;&#x4E0D;&#x5E73;&#x8861;&#xFF0C;&#x4EE5;&#x4E0B;&#x53EA;&#x63A8;&#x5C0E;&#x6587;&#x8B80;&#x97F3;&#xFF0C;&#x540C;&#x7406;&#xFF0C;&#x6897;&#x4E09;&#x56DB;&#x7684;&#x6F14;&#x8B8A;&#x4E0D;&#x5E73;&#x8861;&#xFF0C;&#x4EE5;&#x4E0B;&#x4E5F;&#x53EA;&#x63A8;&#x5C0E;&#x6587;&#x8B80;&#x97F3;
@@ -2574,9 +2575,13 @@
     <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x7259;&#x5589;&#x97F3; &#x6216; &#x7CBE;&#x7D44; &#x6216; &#x6CE5;&#x5B43;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;oi&apos;</span>;
     <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;aai&apos;</span>;
   }
-  <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6CF0;&#x97FB; &#x5408;&#x53E3;&apos;</span>) &amp;&amp; !is(<span class="hljs-string">&apos;&#x5E6B;&#x7D44;&apos;</span>)) <span class="hljs-keyword">return</span> is(<span class="hljs-string">&apos;&#x7591;&#x6BCD;&apos;</span>) ? <span class="hljs-string">&apos;oi&apos;</span> : <span class="hljs-string">&apos;ai&apos;</span>;
+  <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6CF0;&#x97FB; &#x5408;&#x53E3;&apos;</span>) &amp;&amp; !is(<span class="hljs-string">&apos;&#x5E6B;&#x7D44;&apos;</span>)) {
+    <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x7591;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;oi&apos;</span>;
+    <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x898B;&#x6BCD; &#x6216; &#x6EAA;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;ai&apos;</span>;
+    <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;ui&apos;</span>;
+  }
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x4F73;&#x7686;&#x592C;&#x97FB;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;aai&apos;</span>;
-  <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x7070;&#x97FB;&apos;</span>)) <span class="hljs-keyword">return</span> is(<span class="hljs-string">&apos;&#x7591;&#x6BCD;&apos;</span>) ? <span class="hljs-string">&apos;ai&apos;</span> : <span class="hljs-string">&apos;ui&apos;</span>;
+  <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x7070;&#x97FB;&apos;</span>)) <span class="hljs-keyword">return</span> is(<span class="hljs-string">&apos;&#x7591;&#x6BCD; &#x6216; &#x898B;&#x6BCD;&apos;</span>) ? <span class="hljs-string">&apos;ai&apos;</span> : <span class="hljs-string">&apos;ui&apos;</span>;
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x548D;&#x97FB;&apos;</span>)) <span class="hljs-keyword">return</span> is(<span class="hljs-string">&apos;&#x5E6B;&#x7D44; &#x6216; &#x4EE5;&#x6BCD;&apos;</span>) ? <span class="hljs-string">&apos;ui&apos;</span> : <span class="hljs-string">&apos;oi&apos;</span>;
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x5EE2;&#x97FB;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;ai&apos;</span>;
 
@@ -2679,8 +2684,8 @@
     <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x4E0A;&#x8072;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;2&apos;</span>; <span class="hljs-comment">// &#x9670;&#x4E0A;</span>
     <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x53BB;&#x8072;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;3&apos;</span>; <span class="hljs-comment">// &#x9670;&#x53BB;</span>
     <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x5165;&#x8072;&apos;</span>)) {
-      <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x54B8;&#x5C71;&#x6C5F;&#x5B95;&#x651D; &#x6216; &#x6897;&#x651D; &#x4E8C;&#x7B49;&apos;</span>)){ <span class="hljs-comment">// &#x6E05;&#x7D10;&#x5916;&#x8F49;&#x5B57;&#xFF0C;&#x5F71;&#x6BCD;&#x7279;&#x4F8B;</span>
-        <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;(&#x54B8;&#x651D; &#x4E00;&#x7B49; &#x6216; &#x6C5F;&#x6897;&#x651D;) &#x5F71;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;1&apos;</span>;
+      <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x54B8;&#x5C71;&#x6C5F;&#x5B95;&#x651D; &#x6216; &#x6897;&#x651D; &#x4E8C;&#x7B49;&apos;</span>)){ <span class="hljs-comment">// &#x6E05;&#x7D10;&#x5916;&#x8F49;&#x5B57;&#xFF0C;&#x5F71;&#x6BCD;&#x6EAA;&#x6BCD;&#x7279;&#x4F8B;</span>
+        <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;(&#x54B8;&#x651D; &#x4E00;&#x7B49; &#x6216; &#x6C5F;&#x6897;&#x651D;) (&#x5F71;&#x6BCD; &#x6216; &#x6EAA;&#x6BCD;)&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;1&apos;</span>;
         <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;3&apos;</span>;
       }
       <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6897;&#x651D; &#x4E09;&#x7B49; &#x838A;&#x7D44;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;3&apos;</span>;
@@ -2700,6 +2705,7 @@
 <span class="hljs-keyword">let</span> &#x97FB;&#x6BCD; = &#x97FB;&#x6BCD;&#x898F;&#x5247;();
 <span class="hljs-keyword">let</span> &#x8072;&#x8ABF; = &#x8072;&#x8ABF;&#x898F;&#x5247;();
 
+
 <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x5408;&#x53E3;&apos;</span>) &amp;&amp; ![<span class="hljs-string">&apos;u&apos;</span>, <span class="hljs-string">&apos;o&apos;</span>, <span class="hljs-string">&apos;yu&apos;</span>].some((x) =&gt; &#x97FB;&#x6BCD;.startsWith(x))) { <span class="hljs-comment">// &#x5408;&#x53E3;&#x5B57;</span>
   <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;g&apos;</span> &amp;&amp; !&#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;im&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;gw&apos;</span>;
   <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;k&apos;</span> &amp;&amp; !&#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;ing&apos;</span>) &amp;&amp; !&#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;im&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;kw&apos;</span>;
@@ -2707,6 +2713,7 @@
   <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;w&apos;</span> &amp;&amp; &#x97FB;&#x6BCD; === <span class="hljs-string">&apos;yu&apos;</span>) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;j&apos;</span>;
   <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;h&apos;</span> &amp;&amp; (&#x97FB;&#x6BCD; === <span class="hljs-string">&apos;ui&apos;</span> || &#x97FB;&#x6BCD; === <span class="hljs-string">&apos;un&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;f&apos;</span>;
 }
+
 
 <span class="hljs-comment">// &#x7591;&#x6BCD;&#x62FC;&#x7D30;&#x97F3;&#x6642;: i-&#x985E;&#x548C;oe-&#x985E; &#x5165;&#x8072;n- &#x8212;&#x8072;j-&#xFF1B;yu&#x985E; &#x8212;&#x5165;&#x8072;j-&#xFF1B;u-&#x985E; ngung/k-&gt;jung/k&#xFF0C;ngun/t-&gt;wun/t&#xFF0C;ngu&#x4E0D;&#x8B8A;</span>
 <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;ng&apos;</span>) {
@@ -2725,8 +2732,10 @@
 <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;h&apos;</span> &amp;&amp; (&#x97FB;&#x6BCD; === <span class="hljs-string">&apos;ui&apos;</span> || &#x97FB;&#x6BCD; === <span class="hljs-string">&apos;un&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;f&apos;</span>; <span class="hljs-comment">// &#x4FDD;&#x96AA;&#x8D77;&#x898B;&#x518D;&#x5BEB;&#x4E00;&#x904D;</span>
 <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;hw&apos;</span> &amp;&amp; &#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;a&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;f&apos;</span>;
 
+
 <span class="hljs-comment">// &#x5357;&#x5BE7;&#x7684; &#x8A60;&#x6CF3;&#x548F; &#x8B80;&#x967D;&#x4E0A;</span>
 <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x4E91;&#x5323;&#x6BCD; &#x5E9A;&#x97FB; &#x5408;&#x53E3; &#x53BB;&#x8072;&apos;</span>)) &#x8072;&#x8ABF; = <span class="hljs-string">&apos;5&apos;</span>;
+
 
 <span class="hljs-comment">// m &#x97FB;&#x5C3E;&#x5728;&#x8072;&#x6BCD;&#x70BA;&#x8123;&#x97F3;&#x6642;&#x70BA; n</span>
 <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x5E6B;&#x7D44;&apos;</span>) &amp;&amp; &#x97FB;&#x6BCD;.endsWith(<span class="hljs-string">&apos;m&apos;</span>)) &#x97FB;&#x6BCD; = &#x97FB;&#x6BCD;.slice(<span class="hljs-number">0</span>, <span class="hljs-number">-1</span>) + <span class="hljs-string">&apos;n&apos;</span>;
@@ -2743,7 +2752,8 @@
 <pre><code class="lang-js"><span class="hljs-comment">/* &#x63A8;&#x5C0E;&#x5357;&#x5BE7;&#x4EAD;&#x5B50;&#x5E73;&#x8A71;
  *
  * https://github.com/leimaau/naamning_jyutping
- * version: 2022-05-09
+ *
+ * version: 2026-08-27
  *
  * &#x3010;&#x7B26;&#x865F;&#x8AAA;&#x660E;&#x3011;
  * &#x5FC3;&#x6BCD;&#x5B57;&#x8B80; sl[&#x26C;]&#xFF08;&#x6E05;&#x9F52;&#x9F66;&#x908A;&#x64E6;&#x97F3;&#xFF09;&#xFF0C;&#x65E5;&#x6BCD;&#x548C;&#x7591;&#x6BCD;&#x7D30;&#x97F3;&#x5B57;&#x8B80; nj[&#x235;]&#xFF08;&#x9F66;&#x9F76;&#x97F3;&#xFF09;
@@ -2792,10 +2802,12 @@
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x7CBE;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;z&apos;</span>;
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6E05;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;c&apos;</span>;
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x5F9E;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;z&apos;</span>;
+
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x5FC3;&#x6BCD;&apos;</span>)) {
     <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x652F;&#x8102;&#x4E4B;&#x5FAE;&#x97FB; &#x5408;&#x53E3; &#x4E0A;&#x8072; &#x6216; &#x652F;&#x8102;&#x4E4B;&#x5FAE;&#x97FB; &#x958B;&#x53E3; &#x53BB;&#x8072; &#x6216; &#x5BD2;&#x97FB; &#x958B;&#x53E3; &#x5E73;&#x8072;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;s&apos;</span>;  <span class="hljs-comment">// &#x9AD3;&#x8CFD;&#x73CA;</span>
     <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;sl&apos;</span>;
   }
+
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x90AA;&#x6BCD; &#x5E73;&#x8072;&apos;</span>)) {
     <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x5C71;&#x81FB;&#x651D; &#x4E09;&#x7B49;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;sl&apos;</span>;
     <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;z&apos;</span>;
@@ -2816,6 +2828,7 @@
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x65E5;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;nj&apos;</span>;
 
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x898B;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;g&apos;</span>;
+
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6EAA;&#x6BCD;&apos;</span>)) {
     <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6A21;&#x97FB;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;h&apos;</span>;
     <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x958B;&#x53E3;&apos;</span>)) {
@@ -2832,6 +2845,7 @@
     }
     <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;h&apos;</span>;
   }
+
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x7FA3;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> is(<span class="hljs-string">&apos;&#x5E73;&#x8072;&apos;</span>) ? <span class="hljs-string">&apos;k&apos;</span> : <span class="hljs-string">&apos;g&apos;</span>;
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x7591;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;ng&apos;</span>;
 
@@ -2877,6 +2891,7 @@
     }
     <span class="hljs-keyword">return</span> is(<span class="hljs-string">&apos;&#x4E09;&#x56DB;&#x7B49;&apos;</span>) ? <span class="hljs-string">&apos;j&apos;</span> : <span class="hljs-string">&apos;&apos;</span>;
   }
+
   <span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> <span class="hljs-built_in">Error</span>(<span class="hljs-string">&apos;&#x7121;&#x8072;&#x6BCD;&#x898F;&#x5247;&apos;</span>);
 }
 
@@ -2915,7 +2930,11 @@
   }
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6CF0;&#x97FB; &#x5E6B;&#x7D44;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;ui&apos;</span>;
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6CF0;&#x97FB; &#x958B;&#x53E3;&apos;</span>) &amp;&amp; !is(<span class="hljs-string">&apos;&#x5E6B;&#x7D44;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;aai&apos;</span>;
-  <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6CF0;&#x97FB; &#x5408;&#x53E3;&apos;</span>) &amp;&amp; !is(<span class="hljs-string">&apos;&#x5E6B;&#x7D44;&apos;</span>)) <span class="hljs-keyword">return</span> is(<span class="hljs-string">&apos;&#x7591;&#x6BCD;&apos;</span>) ? <span class="hljs-string">&apos;waai&apos;</span> : <span class="hljs-string">&apos;ai&apos;</span>;
+  <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x6CF0;&#x97FB; &#x5408;&#x53E3;&apos;</span>) &amp;&amp; !is(<span class="hljs-string">&apos;&#x5E6B;&#x7D44;&apos;</span>)) {
+    <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x7591;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;waai&apos;</span>;
+    <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x898B;&#x6BCD; &#x6216; &#x6EAA;&#x6BCD; &#x6216; &#x5323;&#x6BCD;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;ai&apos;</span>;
+    <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;ui&apos;</span>;
+  }
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x4F73;&#x7686;&#x592C;&#x97FB;&apos;</span>)) <span class="hljs-keyword">return</span> <span class="hljs-string">&apos;aai&apos;</span>;
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x7070;&#x97FB;&apos;</span>)) <span class="hljs-keyword">return</span> is(<span class="hljs-string">&apos;&#x7591;&#x6BCD;&apos;</span>) ? <span class="hljs-string">&apos;ai&apos;</span> : <span class="hljs-string">&apos;ui&apos;</span>;
   <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x548D;&#x97FB;&apos;</span>)) <span class="hljs-keyword">return</span> is(<span class="hljs-string">&apos;&#x5E6B;&#x7D44; &#x6216; &#x4EE5;&#x6BCD;&apos;</span>) ? <span class="hljs-string">&apos;ui&apos;</span> : <span class="hljs-string">&apos;aai&apos;</span>;
@@ -3004,6 +3023,7 @@
 <span class="hljs-keyword">let</span> &#x97FB;&#x6BCD; = &#x97FB;&#x6BCD;&#x898F;&#x5247;();
 <span class="hljs-keyword">let</span> &#x8072;&#x8ABF; = &#x8072;&#x8ABF;&#x898F;&#x5247;();
 
+
 <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x5408;&#x53E3;&apos;</span>) &amp;&amp; ![<span class="hljs-string">&apos;u&apos;</span>, <span class="hljs-string">&apos;o&apos;</span>, <span class="hljs-string">&apos;yu&apos;</span>].some((x) =&gt; &#x97FB;&#x6BCD;.startsWith(x))) { <span class="hljs-comment">// &#x5408;&#x53E3;&#x5B57;</span>
   <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;g&apos;</span> &amp;&amp; !&#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;im&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;gw&apos;</span>;
   <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;k&apos;</span> &amp;&amp; !&#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;ing&apos;</span>) &amp;&amp; !&#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;im&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;kw&apos;</span>;
@@ -3011,6 +3031,7 @@
   <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;w&apos;</span> &amp;&amp; &#x97FB;&#x6BCD; === <span class="hljs-string">&apos;yu&apos;</span>) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;j&apos;</span>;
   <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;w&apos;</span> &amp;&amp; &#x97FB;&#x6BCD; === <span class="hljs-string">&apos;ung&apos;</span>) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;&apos;</span>;
 }
+
 
 <span class="hljs-comment">// &#x7591;&#x6BCD;&#x62FC;&#x7D30;&#x97F3;&#x6642;: i-&#x985E;&#x548C;oe-&#x985E; nj-&#xFF1B;yu&#x985E; j-&#xFF1B;u-&#x985E; ngung/k-&gt;njung/k&#xFF0C;ngun/t-&gt;wun/t&#xFF0C;ngu&#x4E0D;&#x8B8A;</span>
 <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;ng&apos;</span>) {
@@ -3029,11 +3050,15 @@
 <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;ng&apos;</span> &amp;&amp; &#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;w&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;&apos;</span>;  <span class="hljs-comment">// &#x7279;&#x6B8A;&#x5B57;&#x300C;&#x5916;&#x300D;</span>
 <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;hw&apos;</span> &amp;&amp; &#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;a&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;w&apos;</span>;
 <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;w&apos;</span> &amp;&amp; &#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;ui&apos;</span>)) &#x97FB;&#x6BCD; = <span class="hljs-string">&apos;ai&apos;</span>;
+
+<span class="hljs-comment">// &#x9032;&#x4E00;&#x6B65;</span>
 <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;nj&apos;</span> &amp;&amp; (&#x97FB;&#x6BCD; === <span class="hljs-string">&apos;ing&apos;</span> || &#x97FB;&#x6BCD; === <span class="hljs-string">&apos;iang&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;ng&apos;</span>;
 <span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;nj&apos;</span> &amp;&amp; &#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;i&apos;</span>) &amp;&amp; is(<span class="hljs-string">&apos;&#x5165;&#x8072;&apos;</span>)) &#x8072;&#x6BCD; = <span class="hljs-string">&apos;n&apos;</span>;
 
+
 <span class="hljs-comment">// &#x5357;&#x5BE7;&#x7684; &#x8A60;&#x6CF3;&#x548F; &#x8B80;&#x967D;&#x4E0A;</span>
 <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x4E91;&#x5323;&#x6BCD; &#x5E9A;&#x97FB; &#x5408;&#x53E3; &#x53BB;&#x8072;&apos;</span>)) &#x8072;&#x8ABF; = <span class="hljs-string">&apos;5&apos;</span>;
+
 
 <span class="hljs-comment">// m &#x97FB;&#x5C3E;&#x5728;&#x8072;&#x6BCD;&#x70BA;&#x8123;&#x97F3;&#x6642;&#x70BA; n</span>
 <span class="hljs-keyword">if</span> (is(<span class="hljs-string">&apos;&#x5E6B;&#x7D44;&apos;</span>) &amp;&amp; &#x97FB;&#x6BCD;.endsWith(<span class="hljs-string">&apos;m&apos;</span>)) &#x97FB;&#x6BCD; = &#x97FB;&#x6BCD;.slice(<span class="hljs-number">0</span>, <span class="hljs-number">-1</span>) + <span class="hljs-string">&apos;n&apos;</span>;
@@ -3044,9 +3069,11 @@
   <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (&#x97FB;&#x6BCD;.endsWith(<span class="hljs-string">&apos;ng&apos;</span>)) &#x97FB;&#x6BCD; = &#x97FB;&#x6BCD;.slice(<span class="hljs-number">0</span>, <span class="hljs-number">-2</span>) + <span class="hljs-string">&apos;k&apos;</span>;
 }
 
+<span class="hljs-keyword">if</span> (&#x8072;&#x6BCD; === <span class="hljs-string">&apos;w&apos;</span> &amp;&amp; &#x97FB;&#x6BCD;.startsWith(<span class="hljs-string">&apos;ut&apos;</span>)) &#x97FB;&#x6BCD; = <span class="hljs-string">&apos;at&apos;</span>;
+
 <span class="hljs-keyword">return</span> &#x8072;&#x6BCD; + &#x97FB;&#x6BCD; + &#x8072;&#x8ABF;;
 </code></pre>
-<footer class="page-footer-ex"> <span class="page-footer-ex-copyright"> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" alt="License: CC BY-NC-ND 4.0"></a> By <a href="https://github.com/leimaau" target="_blank">leimaau</a>&#xFF0C;&#x4F7F;&#x7528;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">&#x77E5;&#x8BC6;&#x5171;&#x4EAB; &#x7F72;&#x540D;-&#x975E;&#x5546;&#x4E1A;&#x6027;&#x4F7F;&#x7528;-&#x7981;&#x6B62;&#x6F14;&#x7ECE; 4.0&#x534F;&#x8BAE;</a>&#x53D1;&#x5E03; </span> &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; <span class="page-footer-ex-footer-update">  <i>2026-08-28</i> </span> </footer>
+<footer class="page-footer-ex"> <span class="page-footer-ex-copyright"> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" alt="License: CC BY-NC-ND 4.0"></a> By <a href="https://github.com/leimaau" target="_blank">leimaau</a>&#xFF0C;&#x4F7F;&#x7528;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">&#x77E5;&#x8BC6;&#x5171;&#x4EAB; &#x7F72;&#x540D;-&#x975E;&#x5546;&#x4E1A;&#x6027;&#x4F7F;&#x7528;-&#x7981;&#x6B62;&#x6F14;&#x7ECE; 4.0&#x534F;&#x8BAE;</a>&#x53D1;&#x5E03; </span> &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; <span class="page-footer-ex-footer-update">  <i>2026-09-16</i> </span> </footer>
                                 
                                 </section>
                             
@@ -3089,7 +3116,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"4.3 南宁话与中古音系比较表","level":"1.6.3","depth":2,"next":{"title":"4.4 南宁白话一些常用字表","level":"1.6.4","depth":2,"path":"appendix1/appendix4.4.md","ref":"appendix1/appendix4.4.md","articles":[]},"previous":{"title":"4.2 南宁白话输入方案","level":"1.6.2","depth":2,"path":"appendix1/appendix4.2.md","ref":"appendix1/appendix4.2.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","page-toc-button","back-to-top-button","-sharing","sharing-plus","flexible-alerts","splitter","expandable-chapters","github-buttons","page-footer-ex","theme-comscore","accordion","quiz","mermaid-full@>=0.5.1","donate"],"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"pluginsConfig":{"page-footer-ex":{"copyright":"[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) By [leimaau](https://github.com/leimaau)，使用[知识共享 署名-非商业性使用-禁止演绎 4.0协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)发布","markdown":true,"update_format":"<i>YYYY-MM-DD</i>","update_label":""},"splitter":{},"accordion":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"donate":{"alipay":"https://polite-cranachan-566a82.netlify.app/data-store/jpg/zhifubao.jpg","alipayText":"支付宝","button":"赞赏","title":"拿钱去买猫粮，楼下的流浪猫在等我('')ノ","wechat":"https://polite-cranachan-566a82.netlify.app/data-store/jpg/weixin.jpg","wechatText":"微信"},"fontsettings":{"theme":"white","family":"sans","size":2},"mermaid-full":{},"highlight":{},"theme-comscore":{},"page-toc-button":{"maxTocDepth":4,"minTocSize":2},"quiz":{"labels":{"check":"提交答案","showExplanation":"显示解释","showCorrect":"显示正确答案","explanationHeader":"释义"},"text":{"noChosen":"请选择至少一个答案","incomplete":"未选对所有正确答案，3分"},"buttons":{"showCorrect":true,"showExplanation":true}},"back-to-top-button":{},"github-buttons":{"buttons":[{"user":"leimaau","repo":"book","type":"star","size":"small","count":true}]},"flexible-alerts":{"danger":{"className":"danger","icon":"fa fa-ban","label":"Attention"},"note":{"className":"info","icon":"fa fa-info-circle","label":"Note"},"style":"flat","tip":{"className":"tip","icon":"fa fa-lightbulb-o","label":"Tip"},"warning":{"className":"warning","icon":"fa fa-exclamation-triangle","label":"Warning"},"example":{"label":"Example","icon":"fa fa-file-text","className":"info"}},"sharing":{"qq":true,"all":["facebook","twitter","google","hatenaBookmark"],"douban":true,"facebook":false,"weibo":true,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":false,"messenger":false,"line":false,"vk":false,"pocket":false,"google":false,"viber":false,"stumbleupon":false,"qzone":true,"linkedin":false},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false},"expandable-chapters":{},"search-plus":{}},"theme":"default","author":"leimaau","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"南宁白话小册子","language":"zh-hans","gitbook":"*","description":"介绍南宁白话的基础知识"},"file":{"path":"appendix1/appendix4.3.md","mtime":"2026-08-28T01:51:08.578Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2026-08-28T01:51:51.279Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"4.3 南宁话与中古音系比较表","level":"1.6.3","depth":2,"next":{"title":"4.4 南宁白话一些常用字表","level":"1.6.4","depth":2,"path":"appendix1/appendix4.4.md","ref":"appendix1/appendix4.4.md","articles":[]},"previous":{"title":"4.2 南宁白话输入方案","level":"1.6.2","depth":2,"path":"appendix1/appendix4.2.md","ref":"appendix1/appendix4.2.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","page-toc-button","back-to-top-button","-sharing","sharing-plus","flexible-alerts","splitter","expandable-chapters","github-buttons","page-footer-ex","theme-comscore","accordion","quiz","mermaid-full@>=0.5.1","donate"],"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"pluginsConfig":{"page-footer-ex":{"copyright":"[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) By [leimaau](https://github.com/leimaau)，使用[知识共享 署名-非商业性使用-禁止演绎 4.0协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)发布","markdown":true,"update_format":"<i>YYYY-MM-DD</i>","update_label":""},"splitter":{},"accordion":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"donate":{"alipay":"https://polite-cranachan-566a82.netlify.app/data-store/jpg/zhifubao.jpg","alipayText":"支付宝","button":"赞赏","title":"拿钱去买猫粮，楼下的流浪猫在等我('')ノ","wechat":"https://polite-cranachan-566a82.netlify.app/data-store/jpg/weixin.jpg","wechatText":"微信"},"fontsettings":{"theme":"white","family":"sans","size":2},"mermaid-full":{},"highlight":{},"theme-comscore":{},"page-toc-button":{"maxTocDepth":4,"minTocSize":2},"quiz":{"labels":{"check":"提交答案","showExplanation":"显示解释","showCorrect":"显示正确答案","explanationHeader":"释义"},"text":{"noChosen":"请选择至少一个答案","incomplete":"未选对所有正确答案，3分"},"buttons":{"showCorrect":true,"showExplanation":true}},"back-to-top-button":{},"github-buttons":{"buttons":[{"user":"leimaau","repo":"book","type":"star","size":"small","count":true}]},"flexible-alerts":{"danger":{"className":"danger","icon":"fa fa-ban","label":"Attention"},"note":{"className":"info","icon":"fa fa-info-circle","label":"Note"},"style":"flat","tip":{"className":"tip","icon":"fa fa-lightbulb-o","label":"Tip"},"warning":{"className":"warning","icon":"fa fa-exclamation-triangle","label":"Warning"},"example":{"label":"Example","icon":"fa fa-file-text","className":"info"}},"sharing":{"qq":true,"all":["facebook","twitter","google","hatenaBookmark"],"douban":true,"facebook":false,"weibo":true,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":false,"messenger":false,"line":false,"vk":false,"pocket":false,"google":false,"viber":false,"stumbleupon":false,"qzone":true,"linkedin":false},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false},"expandable-chapters":{},"search-plus":{}},"theme":"default","author":"leimaau","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"南宁白话小册子","language":"zh-hans","gitbook":"*","description":"介绍南宁白话的基础知识"},"file":{"path":"appendix1/appendix4.3.md","mtime":"2026-09-16T01:18:36.406Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2026-09-16T01:19:26.094Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
